@@ -29,10 +29,10 @@ id	icon	coinId	type	baseValue	activeTime	maxTimes
 8020	set:bird_icon.json image:g1041_coin_06	1083	3	100	20	10
 8030	@@@	1084	1	0.1	20	10
 16001	set:bird_icon.json image:g1041_coin_09	1085	3	1041001	0	0
-16002	set:bird_icon.json image:g1041_coin_010	1086	3	1041009	0	0
-16003	set:bird_icon.json image:g1041_coin_011	1087	3	1041006	0	0
-16004	set:bird_icon.json image:g1041_coin_012	1088	3	1041005	0	0
-16005	set:bird_icon.json image:g1041_coin_013	1089	3	1041010	0	0
-16006	set:bird_icon.json image:g1041_coin_014	1090	3	1041003	0	0
-16007	set:bird_icon.json image:g1041_coin_015	1091	3	1041004	0	0
-16008	set:bird_icon.json image:g1041_coin_016	1092	3	1041018	0	0
+16002	set:bird_icon.json image:g1041_coin_10	1086	3	1041009	0	0
+16003	set:bird_icon.json image:g1041_coin_11	1087	3	1041006	0	0
+16004	set:bird_icon.json image:g1041_coin_12	1088	3	1041005	0	0
+16005	set:bird_icon.json image:g1041_coin_13	1089	3	1041010	0	0
+16006	set:bird_icon.json image:g1041_coin_14	1090	3	1041003	0	0
+16007	set:bird_icon.json image:g1041_coin_15	1091	3	1041004	0	0
+16008	set:bird_icon.json image:g1041_coin_16	1092	3	1041018	0	0

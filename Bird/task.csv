@@ -1,45 +1,55 @@
-﻿索引	任务ID	接任务NPC	完成条件ID（多个条件#号分割）	前置任务ID	其他开启条件(多个条件#号分割）	奖励(多个用#隔开)	数量	按钮显示的内容	显示的标题(#为空)	对话内容(#分页)	对话内容（领取之后）
-id	taskId	receiveNpcId	requirement	lastTaskId	otherRequirement	rewards	num	sureContent	title	dialog	dialogAffter
-1	101001	20008	20008001	0	101	9000001#1041001	1000#20	gui_dialog_tip_btn_sure	tast_daguai_title_1	tast_daguai_content_1_1	tast_daguai_title_1
-2	102002	20008	20008002	101001	@@@	9000001#1041003	1001#1	gui_dialog_tip_btn_sure	tast_daguai_title_2	tast_daguai_content_2_1	tast_daguai_title_2
-3	102003	20008	20008003	102002	@@@	9000001#1041004	1002#1	gui_dialog_tip_btn_sure	tast_daguai_title_3	tast_daguai_content_3_1	tast_daguai_title_3
-4	102004	20008	20008004	102003	@@@	9000001#1041005	1003#1	gui_dialog_tip_btn_sure	tast_daguai_title_4	tast_daguai_content_4_1	tast_daguai_title_4
-5	102005	20008	20008005	102004	@@@	9000001#1041006	1004#1	gui_dialog_tip_btn_sure	tast_daguai_title_5	tast_daguai_content_5_1	tast_daguai_title_5
-6	102006	20008	20008006	102005	@@@	9000001#1041009	1005#1	gui_dialog_tip_btn_sure	tast_daguai_title_6	tast_daguai_content_6_1	tast_daguai_title_6
-7	102007	20008	20008007	102006	@@@	9000001#1041010	1006#1	gui_dialog_tip_btn_sure	tast_daguai_title_7	tast_daguai_content_7_1	tast_daguai_title_7
-8	105008	20008	20008008	102007	@@@	9000001#1041018	1007#1	gui_dialog_tip_btn_sure	tast_daguai_title_8	tast_daguai_content_8_1	tast_daguai_title_8
-9	105009	20008	20008009	105008	@@@	9000001#9000002	1008#20	gui_dialog_tip_btn_sure	tast_daguai_title_9	tast_daguai_content_9_1	tast_daguai_title_9
-10	105010	20008	20008010#20008011	105009	@@@	9000001	1009	gui_dialog_tip_btn_sure	tast_daguai_title_10	tast_daguai_content_10_1	tast_daguai_title_10
-11	101012	20009	20009012#20009013	0	@@@	9000001	1011	gui_dialog_tip_btn_sure	tast_yindao_title_11	tast_yindao_content_11_1	tast_yindao_title_11
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
-											
+﻿索引	任务ID	接任务NPC	完成条件ID（多个条件#号分割）	前置任务ID	其他开启条件(多个条件#号分割）	奖励(多个用#隔开)	数量	提示图片	按钮显示的内容	显示的标题(#为空)	对话内容(#分页)	领取任务之后对话
+id	taskId	receiveNpcId	requirement	lastTaskId	otherRequirement	rewards	num	icons	sureContent	title	dialog	dialogAffter
+1	101001	20002	20002001	0	@@@	9000001#1041001	410#20	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:g1041_coin_09	gui_dialog_tip_btn_sure	tast_yangcheng_title_1	tast_yangcheng_content_1_1	tast_yangcheng_after_1
+2	102002	20002	20002002#20002003	101001	@@@	9000001#1041003	730#20	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:g1041_coin_14	gui_dialog_tip_btn_sure	tast_yangcheng_title_2	tast_yangcheng_content_2_1	tast_yangcheng_after_2
+3	103004	20002	20002004	102002	@@@	9000001#1041004	1100#20	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:g1041_coin_15	gui_dialog_tip_btn_sure	tast_yangcheng_title_3	tast_yangcheng_content_3_1#tast_yangcheng_content_3_2#tast_yangcheng_content_3_3	tast_yangcheng_after_3
+4	103005	20002	20002005#20002006#20002007	103004	@@@	9000001#1041005	1100#20	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:g1041_coin_12	gui_dialog_tip_btn_sure	tast_yangcheng_title_4	tast_yangcheng_content_4_1	tast_yangcheng_after_4
+5	104008	20002	20002008#20002009	103005	@@@	9000001#1041006	11000#20	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:g1041_coin_11	gui_dialog_tip_btn_sure	tast_yangcheng_title_5	tast_yangcheng_content_5_1	tast_yangcheng_after_5
+6	105010	20002	20002010#20002011#20002013#20002012	104008	@@@	9000001#1041009	8700#20	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:g1041_coin_10	gui_dialog_tip_btn_sure	tast_yangcheng_title_6	tast_yangcheng_content_6_1#tast_yangcheng_content_6_2	tast_yangcheng_after_6
+7	101014	20003	20003014	0	@@@	9000001#1041010	410#20	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:g1041_coin_13	gui_dialog_tip_btn_sure	tast_caijitian_title_7	tast_caijitian_content_7_1#tast_caijitian_content_7_2	tast_caijitian_after_7
+8	101015	20003	20003015	101014	@@@	9000001#9000002	410#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_8	tast_caijitian_content_8_1#tast_caijitian_content_8_2#tast_caijitian_content_8_3	tast_caijitian_after_8
+9	102016	20003	20003016#20003017	101015	@@@	9000001#9000002	730#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_9	tast_caijitian_content_9_1	tast_caijitian_after_9
+10	102018	20003	20003018	102016	@@@	9000001#9000002	730#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_10	tast_caijitian_content_10_1	tast_caijitian_after_10
+11	102019	20003	20003019	102018	@@@	9000001#9000002	730#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_11	tast_caijitian_content_11_1	tast_caijitian_after_11
+12	103020	20003	20003020	102019	@@@	9000001#9000002	1100#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_12	tast_caijitian_content_12_1#tast_caijitian_content_12_2#tast_caijitian_content_12_3	tast_caijitian_after_12
+13	103021	20003	20003020#20003022#20003023	103020	@@@	9000001#9000002	1100#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_13	tast_caijitian_content_13_1	tast_caijitian_after_13
+14	103024	20003	20003024	103021	@@@	9000001#9000002	1100#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_14	tast_caijitian_content_14_1#tast_caijitian_content_14_2#tast_caijitian_content_14_3	tast_caijitian_after_14
+15	104025	20003	20003025#20003026#20003029#20003030#20003028#20003027	103024	@@@	9000001#9000002	11000#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_15	tast_caijitian_content_15_1	tast_caijitian_after_15
+16	105031	20003	20003031	104025	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_16	tast_caijitian_content_16_1#tast_caijitian_content_16_2#tast_caijitian_content_16_3	tast_caijitian_after_16
+17	105032	20003	20003032#20003033	105031	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_17	tast_caijitian_content_17_1	tast_caijitian_after_17
+18	105034	20003	20003034	105032	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_18	tast_caijitian_content_18_1	tast_caijitian_after_18
+19	105035	20003	20003035	105034	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_19	tast_caijitian_content_19_1	tast_caijitian_after_19
+20	105036	20003	20003036	105035	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijitian_title_20	tast_caijitian_content_20_1	tast_caijitian_after_20
+21	102037	20007	20007037#20007038	0	@@@	9000001#9000002	730#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijiyanse_title_21	tast_caijiyanse_content_21_1#tast_caijiyanse_content_21_2#tast_caijiyanse_content_21_3	tast_caijiyanse_after_21
+22	102039	20007	20007039#20007040	102037	@@@	9000001#9000002	730#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijiyanse_title_22	tast_caijiyanse_content_22_1	tast_caijiyanse_after_22
+23	103041	20007	20007041#20007042#20007044#20007043	102039	@@@	9000001#9000002	1100#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijiyanse_title_23	tast_caijiyanse_content_23_1#tast_caijiyanse_content_23_2#tast_caijiyanse_content_23_3	tast_caijiyanse_after_23
+24	104045	20007	20007045#20007046	103041	@@@	9000001#9000002	11000#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijiyanse_title_24	tast_caijiyanse_content_24_1	tast_caijiyanse_after_24
+25	104047	20007	20007047#20007048	104045	@@@	9000001#9000002	11000#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijiyanse_title_25	tast_caijiyanse_content_25_1	tast_caijiyanse_after_25
+26	105049	20007	20007049	104047	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijiyanse_title_26	tast_caijiyanse_content_26_1	tast_caijiyanse_after_26
+27	105050	20007	20007050	105049	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijiyanse_title_27	tast_caijiyanse_content_27_1	tast_caijiyanse_after_27
+28	105051	20007	20007051	105050	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijiyanse_title_28	tast_caijiyanse_content_28_1	tast_caijiyanse_after_28
+29	105052	20007	20007052#20007053#20007054	105051	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_caijiyanse_title_29	tast_caijiyanse_content_29_1	tast_caijiyanse_after_29
+30	105055	20008	20008055	0	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_daguai_title_30	tast_daguai_content_30_1	tast_daguai_after_30
+31	105056	20008	20008056	105055	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_daguai_title_31	tast_daguai_content_31_1	tast_daguai_after_31
+32	105057	20008	20008057	105056	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_daguai_title_32	tast_daguai_content_32_1	tast_daguai_after_32
+33	101058	20009	20009058#20009059	0	@@@	9000001#9000002	410#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_yindao_title_33	tast_yindao_content_33_1	tast_yindao_after_33
+34	101060	20009	20009060#20009061#20009062	101058	@@@	9000001#9000002	410#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_yindao_title_34	tast_yindao_content_34_1	tast_yindao_after_34
+35	103063	20009	20009063	101060	@@@	9000001#9000002	1100#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_yindao_title_35	tast_yindao_content_35_1	tast_yindao_after_35
+36	102064	20009	20009064#20009065	103063	@@@	9000001#9000002	730#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_yindao_title_36	tast_yindao_content_36_1	tast_yindao_after_36
+37	103066	20009	20009066#20009067	102064	@@@	9000001#9000002	1100#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_yindao_title_37	tast_yindao_content_37_1	tast_yindao_after_37
+38	104068	20009	20009068#20009067	103066	@@@	9000001#9000002	11000#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_yindao_title_38	tast_yindao_content_38_1	tast_yindao_after_38
+39	105070	20009	20009070#20009067#20009072	104068	@@@	9000001#9000002	8700#1	set:bird_icon.json image:storeitem_02#set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_yindao_title_39	tast_yindao_content_39_1	tast_yindao_after_39
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
