@@ -1,17 +1,23 @@
-﻿	物品id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，3.果币，4.抽蛋票)	物品类型（1采集器，2存储灌，3装饰）	物品描述	所属商店	装饰部件名字	装饰部件Id
-id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindStoreId	actorName	actorId
-1	2001	g1041_bagpack.actor	set:bird_icon.json image:bagpack_01	body	1	item.backpack.name_01	-612.5	13	-261.5	90	500	3	2	item.backpack.describe_01	101001	custom_bag	1
-2	2002	g1041_bagpack.actor	set:bird_icon.json image:bagpack_02	body	2	item.backpack.name_02	-612.5	13	-263.5	90	4000	3	2	item.backpack.describe_02	101001	custom_bag	2
-3	2003	g1041_bagpack.actor	set:bird_icon.json image:bagpack_03	body	3	item.backpack.name_03	-610.5	13	-273.5	0	12000	3	2	item.backpack.describe_03	101001	custom_bag	3
-4	2004	g1041_bagpack.actor	set:bird_icon.json image:bagpack_04	body	4	item.backpack.name_04	-608.5	13	-273.5	0	30000	3	2	item.backpack.describe_04	101001	custom_bag	4
-5	2005	g1041_bagpack.actor	set:bird_icon.json image:bagpack_05	body	5	item.backpack.name_05	-689.5	25	-267.5	180	290000	3	2	item.backpack.describe_05	101002	custom_bag	5
-6	2006	g1041_bagpack.actor	set:bird_icon.json image:bagpack_06	body	6	item.backpack.name_06	-693.5	25	-267.5	180	1000000	3	2	item.backpack.describe_06	101002	custom_bag	6
-7	2007	g1041_bagpack.actor	set:bird_icon.json image:bagpack_07	body	7	item.backpack.name_07	-700.5	25	-274.5	270	3000000	3	2	item.backpack.describe_07	101002	custom_bag	7
-8	2008	g1041_bagpack.actor	set:bird_icon.json image:bagpack_08	body	8	item.backpack.name_08	-700.5	25	-277.5	270	6800000	3	2	item.backpack.describe_08	101002	custom_bag	8
-9	1027	g1041_weapon_shovel.actor	set:bird_icon.json image:weapon1	body	1	item.toolGather_01.name	-606.5	13	-273.5	0	800	3	1	item.toolGather_01.describe	101001	gun	weapon_22.mesh
-10	1028	g1041_weapon_rake.actor	set:bird_icon.json image:weapon2	body	1	item.toolGather_02.name	-598.5	13	-267.5	270	6000	3	1	item.toolGather_02.describe	101001	gun	weapon_23.mesh
-11	1029	g1041_weapon_scissors.actor	set:bird_icon.json image:weapon3	body	1	item.toolGather_03.name	-598.5	13	-264.5	270	18000	3	1	item.toolGather_03.describe	101001	gun	weapon_24.mesh
-12	1030	g1041_weapon_magnet.actor	set:bird_icon.json image:weapon4	body	1	item.toolGather_04.name	-598.5	13	-261.5	270	50000	3	1	item.toolGather_04.describe	101001	gun	weapon_25.mesh
-13	1031	g1041_weapon_vacuumcleaner.actor	set:bird_icon.json image:weapon5	body	1	item.toolGather_05.name	-690.5	25	-281.5	0	400000	3	1	item.toolGather_05.describe	101002	gun	weapon_26.mesh
-14	1032	g1041_weapon_magnetshovel.actor	set:bird_icon.json image:weapon6	body	1	item.toolGather_06.name	-693.5	25	-281.5	0	1500000	3	1	item.toolGather_06.describe	101002	gun	weapon_27.mesh
-15	1033	g1041_weapon_atom.actor	set:bird_icon.json image:weapon7	body	1	item.toolGather_07.name	-696.5	25	-281.5	0	5000000	3	1	item.toolGather_07.describe	101002	gun	weapon_28.mesh
+﻿	物品id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，3.果币，4.抽蛋票)	物品类型（1采集器，2存储灌，3装饰）	物品描述	所属商店	装饰部件名字	装饰部件Id		注释
+id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindStoreId	actorName	actorId		ps
+1	2001	g1041_bagpack.actor	set:bird_icon.json image:bagpack_01	bagpack	1	item.backpack.name_01	-611.5	13	-261.5	270	0	3	2	item.backpack.describe_01	101001	custom_bag	1		登山包
+2	2002	g1041_bagpack.actor	set:bird_icon.json image:bagpack_10	bagpack	10	item.backpack.name_10	-611.5	13	-263.5	270	1000	3	2	item.backpack.describe_10	101001	custom_bag	10		草莓包
+3	2003	g1041_bagpack.actor	set:bird_icon.json image:bagpack_11	bagpack	11	item.backpack.name_11	-610.5	13	-272.5	0	4000	3	2	item.backpack.describe_11	101001	custom_bag	11		小熊背包
+4	2004	g1041_bagpack.actor	set:bird_icon.json image:bagpack_12	bagpack	12	item.backpack.name_12	-608.5	13	-272.5	0	12000	3	2	item.backpack.describe_12	101001	custom_bag	12		小书包
+5	2005	g1041_bagpack.actor	set:bird_icon.json image:bagpack_13	bagpack	13	item.backpack.name_13	-599.5	18	-266.5	90	130000	3	2	item.backpack.describe_13	101001	custom_bag	13		菠萝包
+6	2006	g1041_bagpack.actor	set:bird_icon.json image:bagpack_14	bagpack	14	item.backpack.name_14	-689.5	25	-268.5	180	490000	3	2	item.backpack.describe_14	101002	custom_bag	14		西瓜包
+7	2007	g1041_bagpack.actor	set:bird_icon.json image:bagpack_15	bagpack	15	item.backpack.name_15	-693.5	25	-268.5	180	1800000	3	2	item.backpack.describe_15	101002	custom_bag	15		瓢虫背包
+8	2008	g1041_bagpack.actor	set:bird_icon.json image:bagpack_16	bagpack	16	item.backpack.name_16	-700.5	25	-274.5	270	4700000	3	2	item.backpack.describe_16	101002	custom_bag	16		野战包
+9	1027	g1041_weapon_shovel.actor	set:bird_icon.json image:weapon1	body	1	item.toolGather_01.name	-606.5	13	-272.5	0	0	3	1	item.toolGather_01.describe	101001	gun	weapon_22.mesh		铲子
+10	1028	g1041_weapon_rake.actor	set:bird_icon.json image:weapon2	body	1	item.toolGather_02.name	-599.5	13	-267.5	270	1500	3	1	item.toolGather_02.describe	101001	gun	weapon_23.mesh		耙子
+11	1029	g1041_weapon_scissors.actor	set:bird_icon.json image:weapon3	body	1	item.toolGather_03.name	-599.5	13	-264.5	270	6000	3	1	item.toolGather_03.describe	101001	gun	weapon_24.mesh		剪刀
+12	1030	g1041_weapon_magnet.actor	set:bird_icon.json image:weapon4	body	1	item.toolGather_04.name	-599.5	13	-261.5	270	18000	3	1	item.toolGather_04.describe	101001	gun	weapon_25.mesh		磁铁
+13	1031	g1041_weapon_vacuumcleaner.actor	set:bird_icon.json image:weapon5	body	1	item.toolGather_05.name	-599.5	18	-262.5	90	200000	3	1	item.toolGather_05.describe	101001	gun	weapon_26.mesh		吸尘器
+14	2009	g1041_bagpack.actor	set:bird_icon.json image:bagpack_17	bagpack	17	item.backpack.name_17	-700.5	25	-277.5	270	9000000	3	2	item.backpack.describe_17	101002	custom_bag	17		工具包
+15	2010	g1041_bagpack.actor	set:bird_icon.json image:bagpack_18	bagpack	18	item.backpack.name_18	-696.5	25	-281.5	0	28000000	3	2	item.backpack.describe_18	101002	custom_bag	18		旅行包
+16	2011	g1041_bagpack.actor	set:bird_icon.json image:bagpack_09	bagpack	9	item.backpack.name_09	-667.5	25	-170.5	0	52000000	3	2	item.backpack.describe_09	101005	custom_bag	9		钢铁娃
+17	1032	g1041_weapon_magnetshovel.actor	set:bird_icon.json image:weapon6	body	1	item.toolGather_06.name	-690.5	25	-281.5	0	700000	3	1	item.toolGather_06.describe	101002	gun	weapon_27.mesh		磁力铲
+18	1033	g1041_weapon_atom.actor	set:bird_icon.json image:weapon7	body	1	item.toolGather_07.name	-693.5	25	-281.5	0	2700000	3	1	item.toolGather_07.describe	101002	gun	weapon_28.mesh		引力杖
+19	1034	g1041_weapon_twinmagnet.actor	set:bird_icon.json image:weapon8	body	1	item.toolGather_08.name	-663.5	25	-170.5	0	7000000	3	1	item.toolGather_08.describe	101005	gun	weapon_29.mesh		电磁铁
+20	1035	g1041_weapon_guns.actor	set:bird_icon.json image:weapon9	body	1	item.toolGather_09.name	-659.5	25	-170.5	0	21000000	3	1	item.toolGather_09.describe	101005	gun	weapon_30.mesh		光剑
+21	1036	g1041_weapon_guns.actor	set:bird_icon.json image:weapon10	body	2	item.toolGather_10.name	-663.5	25	-157.5	180	60000000	3	1	item.toolGather_10.describe	101005	gun	weapon_31.mesh		收割者

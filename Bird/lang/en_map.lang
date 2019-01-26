@@ -1,218 +1,515 @@
-tast_yangcheng_title_1=小鸟训练家：1
-tast_yangcheng_title_2=小鸟训练家：2
-tast_yangcheng_title_3=小鸟训练家：3
-tast_yangcheng_title_4=小鸟训练家：4
-tast_yangcheng_title_5=小鸟训练家：5
-tast_yangcheng_title_6=小鸟训练家：6
-tast_yangcheng_title_7=小鸟训练家：7
-tast_caijitian_title_8=你好！
-tast_caijitian_title_9=危险的采集活动
-tast_caijitian_title_10=多次采集
-tast_caijitian_title_11=好好干！
-tast_caijitian_title_12=干得好！
-tast_caijitian_title_13=柠檬与柠檬
-tast_caijitian_title_14=蓝莓和喜欢
-tast_caijitian_title_15=更难的采集
-tast_caijitian_title_16=多次采集
-tast_caijiyanse_title_17=你好！
-tast_caijiyanse_title_18=热带岛的区域
-tast_caijiyanse_title_19=热带岛的色彩
-tast_caijiyanse_title_20=芒果在哪里
-tast_caijiyanse_title_21=危险！
-tast_caijiyanse_title_22=聚会的准备1
-tast_caijiyanse_title_23=聚会的准备2
-tast_caijiyanse_title_24=聚会的准备3
-tast_caijiyanse_title_25=聚会的准备4
-tast_baoxiang_title_26=我是谁？
-tast_baoxiang_title_27=更多的宝箱
-tast_baoxiang_title_28=更多的宝箱
-tast_baoxiang_title_29=免费的宝箱
-tast_daguai_title_30=面对怪物！
-tast_daguai_title_31=死亡并不可怕！
-tast_daguai_title_32=攻击闪避
-tast_daguai_title_33=加强训练
-tast_daguai_title_34=重复的训练
-tast_daguai_title_35=重复的训练
-tast_daguai_title_36=一碗水端平
-tast_shouji_title_37=收集的乐趣
-tast_shouji_title_38=收集不是采集
-tast_shouji_title_39=数量更多的收集
-tast_yindao_title_40=出生
-tast_yindao_title_41=初识热带岛-第二只小鸟
-tast_yindao_title_42=初识热带岛-串门认人
-tast_yindao_title_43=初识热带岛-再去认人
-tast_yangcheng_content_1_1=[饼干]可以在采集过程中得到。
-tast_yangcheng_content_2_1=如果你运气好的话，你可能会在田野里发现稀有的食物。
-tast_yangcheng_content_3_1=而且，如果你幸运的话，有时会在你打败怪物的时候掉一个食物。
-tast_yangcheng_content_4_1=每种小鸟类型都有自己的特点、能力和个性。
-tast_yangcheng_content_5_1=如果你运气好的话，你可能会在田野里发现稀有的食物。
-tast_yangcheng_content_6_1=你的小鸟比怪物和怪物的水平低，它们的攻击可能会被闪避。
-tast_yangcheng_content_7_1=你知道的。
-tast_caijitian_content_8_1=我是绿猪比尔。
-tast_caijitian_content_9_1=也许，对你有些超纲了。
-tast_caijitian_content_10_1=多样性是生活的调味品。
-tast_caijitian_content_11_1=你已经证明自己是一个优秀的小鸟训练家！
-tast_caijitian_content_12_1=我很久之前就想吃第二个区域的水果了。
-tast_caijitian_content_13_1=虽然柠檬对我来说有些苦涩，可是你知道我不会削皮。
-tast_caijitian_content_14_1=小声的告诉你吧，佩奇是最喜欢吃蓝莓的。
-tast_caijitian_content_15_1=从现在开始，我会给你更难完成的任务。
-tast_caijitian_content_16_1=水果，还是刚采的好吃。
-tast_caijiyanse_content_17_1=我是佩奇，我今年十岁了。
-tast_caijiyanse_content_18_1=后面的区域你无法进去，一定令你困扰吧。
-tast_caijiyanse_content_19_1=虽然第一个区域只有两个颜色的水果，但是热带岛总共有四个颜色。
-tast_caijiyanse_content_20_1=我很喜欢吃[芒果]，并不喜欢吃蓝莓。
-tast_caijiyanse_content_21_1=蜘蛛恐惧症是一个单词，意思是害怕蜘蛛。
-tast_caijiyanse_content_22_1=来个悠闲的聚会怎么样？
-tast_caijiyanse_content_23_1=来个悠闲的聚会怎么样？
-tast_caijiyanse_content_24_1=来个悠闲的聚会怎么样？
-tast_caijiyanse_content_25_1=来个悠闲的聚会怎么样？
-tast_baoxiang_content_26_1=那边的宝箱会得到什么东西？
-tast_baoxiang_content_27_1=宝箱里面真的只有这一种东西吗，还有别的宝箱吗？
-tast_baoxiang_content_28_1=你看到那个高处的宝箱了吗，闪闪发光。
-tast_baoxiang_content_29_1=热带岛里面的宝箱已经满足不了我的好奇心了，这将是我给你最后一个宝箱任务。
-tast_daguai_content_30_1=那只是开始。
-tast_daguai_content_31_1=我猜你不是新手，但是我还是要告诉你，死亡将会带走你背包里的水果。
-tast_daguai_content_32_1=如果一只小鸟的等级低于它攻击的一只虫子，它可能会打不中。
-tast_daguai_content_33_1=我相信你一定能完成这次击杀。
-tast_daguai_content_34_1=哇，一个自动的怪物重生！
-tast_daguai_content_35_1=当你打败一个敌人时，它需要一段时间才能回来。
-tast_daguai_content_36_1=把你的小鸟调平否则它们就不能战斗了。
-tast_shouji_content_37_1=看着背包的物品变多，难道不是一种乐趣吗？
-tast_shouji_content_38_1=只有在水果田里能获得水果。
-tast_shouji_content_39_1=现在让我们把你的功课提高一个档次。
-tast_yindao_content_40_1=那只是开始，先去进行第一次采集吧。
-tast_yindao_content_41_1=走到蛋的面前吧！
-tast_yindao_content_42_1=我猜你不是新手，不过还是到处去看看吧！
-tast_yindao_content_43_1=无法进入第二个区域曾经困扰过你。
-
-tast_yangcheng_content_2_2=例如：[草莓]可以在草莓田里找到。
-
-
-tast_yangcheng_content_5_2=例如：[草莓]可以在草莓田里找到。
-
-tast_yangcheng_content_7_2=这里是安全的地方。
-tast_caijitian_content_8_2=虽然我长着反派的脸，可我不是个反派。
-tast_caijitian_content_9_2=但是我真的非常想吃。
-
-tast_caijitian_content_11_2=是的，优秀。
-tast_caijitian_content_12_2=我想，你已经有实力进入第二个区域了。
-
-
-
-tast_caijitian_content_16_2=哼哧。
-tast_caijiyanse_content_17_2=可以代替妈妈监督你采集水果。
-tast_caijiyanse_content_18_2=可是后面需要更高的等级，现在只是保护你们。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-tast_daguai_content_35_2=他们必须恢复体力。
-
-
-tast_shouji_content_38_2=草莓田里获得[草莓]。
-
-
-
-
-tast_yindao_content_43_2=但不再了，你可以去认识第二个区域的居民。
-
-
-
-
-tast_yangcheng_content_5_3=而且，如果你幸运的话，有时会在你打败怪物的时候掉一个食物。
-
-
-tast_caijitian_content_8_3=我是需要你帮助的热带岛居民，我每天都吃不饱。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-tast_daguai_content_35_3=所以这可能需要一段时间。
-
-
-tast_shouji_content_38_3=当然，柠檬田里是不可能获得[蓝莓]的。
-
-
-
-
-
-tast_yangcheng_after_1=当你准备好再上一堂关于照顾小鸟的课时，再来和我谈谈。
-tast_yangcheng_after_2=当你准备好再上一堂关于照顾小鸟的课时，再来和我谈谈。
-tast_yangcheng_after_3=当你准备好再上一堂关于照顾小鸟的课时，再来和我谈谈。
-tast_yangcheng_after_4=当你准备好再上一堂关于照顾小鸟的课时，再来和我谈谈。
-tast_yangcheng_after_5=如果你运气好的话，你可能会在田野里发现稀有的食物。例如：[草莓]可以在草莓田里找到。而且，如果你幸运的话，有时会在你打败怪物的时候掉一个食物。
-tast_yangcheng_after_6=当你准备好再上一堂关于照顾小鸟的课时，再来和我谈谈。
-tast_yangcheng_after_7=当你准备好再上一堂关于照顾小鸟的课时，再来和我谈谈。
-tast_caijitian_after_8=去田里面，挥动你的双手
-tast_caijitian_after_9=去田里面，挥动你的双手
-tast_caijitian_after_10=去田里面，挥动你的双手
-tast_caijitian_after_11=去田里面，挥动你的双手
-tast_caijitian_after_12=去田里面，挥动你的双手
-tast_caijitian_after_13=去田里面，挥动你的双手
-tast_caijitian_after_14=去田里面，挥动你的双手
-tast_caijitian_after_15=去田里面，挥动你的双手
-tast_caijitian_after_16=去田里面，挥动你的双手
-tast_caijiyanse_after_17=背包里的水果是需要到基地里面转化成果币的
-tast_caijiyanse_after_18=背包里的水果是需要到基地里面转化成果币的
-tast_caijiyanse_after_19=背包里的水果是需要到基地里面转化成果币的
-tast_caijiyanse_after_20=背包里的水果是需要到基地里面转化成果币的
-tast_caijiyanse_after_21=背包里的水果是需要到基地里面转化成果币的
-tast_caijiyanse_after_22=背包里的水果是需要到基地里面转化成果币的
-tast_caijiyanse_after_23=背包里的水果是需要到基地里面转化成果币的
-tast_caijiyanse_after_24=背包里的水果是需要到基地里面转化成果币的
-tast_caijiyanse_after_25=背包里的水果是需要到基地里面转化成果币的
-tast_baoxiang_after_26=似乎像在基地里面一样，站在特定的区域就能触发？
-tast_baoxiang_after_27=年轻人，总要有探险精神。
-tast_baoxiang_after_28=年轻人，总要有探险精神。
-tast_baoxiang_after_29=年轻人，总要有探险精神。
-tast_daguai_after_30=我将是最严格的教练。
-tast_daguai_after_31=我将是最严格的教练。
-tast_daguai_after_32=我将是最严格的教练。
-tast_daguai_after_33=我将是最严格的教练。
-tast_daguai_after_34=我将是最严格的教练。
-tast_daguai_after_35=我将是最严格的教练。
-tast_daguai_after_36=我将是最严格的教练。
-tast_shouji_after_37=热带岛有许多物品，我都非常喜欢。
-tast_shouji_after_38=热带岛有许多物品，我都非常喜欢。
-tast_shouji_after_39=热带岛有许多物品，我都非常喜欢。
-tast_yindao_after_40=去田里面，挥动你的双手！
-tast_yindao_after_41=你不是好奇那个蛋要怎么用吗？
-tast_yindao_after_42=去找其他居民对话吧。
-tast_yindao_after_43=热带岛确实是个好地方。
-tast_richang_title=日复一日
-tast_richang_content=我的奖励非常丰厚
-tast_richang_after=我需要等待4h才能领取下一个任务。而不是像其他居民一样完成一个，才能领下一个。
+tastlang_id_101=▢FFFFFFFFMango Field▢FF123456
+tastlang_id_102=▢FFFFFFFFBanana Field▢FF123456
+tastlang_id_103=▢FFFFFFFFWatermelon Field▢FF123456
+tastlang_id_104=▢FFFFFFFFGrape Field▢FF123456
+tastlang_id_105=▢FFFFFFFFKiwi Field▢FF123456
+tastlang_id_206=▢FFFFFFFFStrawberry Field▢FF123456
+tastlang_id_207=▢FFFFFFFFLemon Field▢FF123456
+tastlang_id_208=▢FFFFFFFFBlueberry Field▢FF123456
+tastlang_id_309=▢FFFFFFFFPeach Field▢FF123456
+tastlang_id_410=▢FFFFFFFFOrange Field▢FF123456
+tastlang_id_411=▢FFFFFFFFPapaya Field▢FF123456
+tastlang_id_412=▢FFFFFFFFMelonField▢FF123456
+tastlang_id_413=▢FFFFFFFFTomato Field▢FF123456
+tastlang_id_514=▢FFFFFFFFField 14 name▢FF123456
+tastlang_id_515=▢FFFFFFFFField 15 name▢FF123456
+tastlang_id_516=▢FFFFFFFFField 16 name▢FF123456
+tastlang_id_517=▢FFFFFFFFField 17 name▢FF123456
+tastlang_id_518=▢FFFFFFFFField 18 name▢FF123456
+tastlang_id_1041001=▢FFFFFFFF[Cookie]▢FF123456
+tastlang_id_1041002=▢FFFFFFFF[Mango]▢FF123456
+tastlang_id_1041003=▢FFFFFFFF[Banana]▢FF123456
+tastlang_id_1041004=▢FFFFFFFF[Watermelon]▢FF123456
+tastlang_id_1041005=▢FFFFFFFF[Grape]▢FF123456
+tastlang_id_1041006=▢FFFFFFFF[Kiwi]▢FF123456
+tastlang_id_1041007=▢FFFFFFFF[Strawberry]▢FF123456
+tastlang_id_1041008=▢FFFFFFFF[Lemon]▢FF123456
+tastlang_id_1041009=▢FFFFFFFF[Blueberry]▢FF123456
+tastlang_id_1041010=▢FFFFFFFF[Peach]▢FF123456
+tastlang_id_1041011=▢FFFFFFFF[Orange]▢FF123456
+tastlang_id_1041012=▢FFFFFFFF[Papaya]▢FF123456
+tastlang_id_1041013=▢FFFFFFFF[Melon]▢FF123456
+tastlang_id_1041014=▢FFFFFFFF[Tomato]▢FF123456
+tastlang_id_1041015=▢FFFFFFFF[Fruit 15 name]▢FF123456
+tastlang_id_1041016=▢FFFFFFFF[Fruit 16 name]▢FF123456
+tastlang_id_1041017=▢FFFFFFFF[Fruit 17 name]▢FF123456
+tastlang_id_1041018=▢FFFFFFFF[Apple]▢FF123456
+tastlang_id_9000001=▢FFFFFFFFFruit Coin ▢FF123456
+tastlang_id_9000002=▢FFFFFFFFTicket▢FF123456
+tastlang_id_1=▢FFFFFFFFRed▢FF123456
+tastlang_id_2=▢FFFFFFFFYellow▢FF123456
+tastlang_id_3=▢FFFFFFFFBlue▢FF123456
+tastlang_id_4=▢FFFFFFFFGreen▢FF123456
+tastlang_id_6=▢FFFFFFFFOrdinary▢FF123456
+tastlang_id_7=▢FFFFFFFFRare▢FF123456
+tastlang_id_8=▢FFFFFFFFEpic▢FF123456
+tastlang_id_9=▢FFFFFFFFLegend▢FF123456
+tastlang_id_20001=▢FFFFFFFFFlying Pig Peter▢FF123456
+tastlang_id_20002=▢FFFFFFFFBlue Pig Bab▢FF123456
+tastlang_id_20003=▢FFFFFFFFBill▢FF123456
+tastlang_id_20006=▢FFFFFFFFAngela▢FF123456
+tastlang_id_20007=▢FFFFFFFFPink Pig Penny▢FF123456
+tastlang_id_20008=▢FFFFFFFFFrade▢FF123456
+tastlang_id_20009=▢FFFFFFFFDoctor Beth▢FF123456
+tastlang_id_4001=▢FFFFFFFFRed Beetle▢FF123456
+tastlang_id_4002=▢FFFFFFFFYellow Beetle▢FF123456
+tastlang_id_4003=▢FFFFFFFFBlue Beetle▢FF123456
+tastlang_id_4004=▢FFFFFFFFGreen Beetle▢FF123456
+tastlang_id_4009=▢FFFFFFFFSpider▢FF123456
+tastlang_id_4010=▢FFFFFFFFMantis▢FF123456
+tasknpc_20009_1=Newcomers will come to me to first, but now everyone is more familiar with the tropical island, and no one come to me anymore.
+tasknpc_20009_2=You can convert fruits through birds and get fruit coins in your own base.
+tasknpc_20009_3=You will get fruits by using your shovel in the field.
+tasknpc_20009_4=Residents will assign tasks to you based on your abilities, and you will be paid to complete the tasks.
+tasknpc_20009_5=General rewards will be fruit coins and food, but the daily task will be rewarded with tickets.
+tasknpc_20009_6=Tickets and fruit coins can be exchanged for birds in the Egg machine.
+tasknpc_20009_7=Feed your birds to help them grow fast. How to feed them? Click the bird bag in the upper right corner.
+tasknpc_20009_8=You can't attack dangerous animals, but birds can.
+tastlang_type_1=▢FF123456Defeat %d %s▢FF123456
+tastlang_type_2=▢FF123456collect %d fruits in %s field▢FF123456
+tastlang_type_21=▢FF123456Collect %d %s fruits▢FF123456
+tastlang_type_22=▢FF123456Collect %d %s fruits▢FF123456
+tastlang_type_3=▢FF123456Have %d conversation with %s▢FF123456
+tastlang_type_4=▢FF123456Complete %d tasks from %s▢FF123456
+tastlang_type_5=▢FF123456Get %s %d birdhouses▢FF123456
+tastlang_type_6=▢FF123456Own %d level %s birds▢FF123456
+tastlang_type_7=▢FF123456Feed %s %d▢FF123456
+tastlang_type_8=▢FF123456Collect %s %d▢FF123456
+tastlang_type_9=▢FF123456Open %d %s chest▢FF123456
+tastlang_type_10=▢FF123456Get %d %s from chests▢FF123456
+item.toolGather_01.name=Shovel
+item.toolGather_02.name=Rake
+item.toolGather_03.name=Scissors
+item.toolGather_04.name=Magnet
+item.toolGather_05.name=Vacuum Cleaner
+item.toolGather_06.name=Magnetic Shovel
+item.toolGather_07.name=Gravity Stick
+item.toolGather_08.name=Electromagnet
+tasknpc_20001=I need to wait 4 hours to get the next task.
+tasknpc_20002=按照我的训练，一步步进行，就可以成为真正的小鸟训练家。
+tasknpc_20003=我是绿猪比尔，需要你帮我去田里采集水果。
+tasknpc_20006=我是研究小鸟融合的博士，但是我现在还不需要你的帮助。
+tasknpc_20007=I'm Penny, I'm an adult now, but I still need you to collect fruits for me.
+tasknpc_20008=来锻炼身体吧，先从这只瓢虫开始。
+taskcomplete_20001=It's really impressive. You completed all my tasks. I will give you a new task every 4 hours. When you are ready, come back to me.
+taskcomplete_20002=It’s great, your birds are healthy.
+taskcomplete_20003=Thank you very much, we finished the harvest before the fruit spoiled, this is the reward for you.
+taskcomplete_20007=Wow, you brought so many fruits, my friends will be very happy.
+taskcomplete_20008=You are a true warrior, this is the reward you deserve.
+taskcomplete_20009=Good, it seems that you get used to the life here.
+taskhello_20001=Hello, new bird trainer, do you want some challenges? Then you are askking for the right person now.
+taskhello_20002=Wow, your bird looks spirited!
+taskhello_20003=Hey, hello newcomer, I don't think you know how to collect fruits.
+taskhello_20007=Hi, I'm Penny, the cutest girl here.
+taskhello_20008=Fighting! Fighting! Oh, I'm sorry, did I scare you?
+taskhello_20009=Hey, newcomer, welcome to the tropical island, let me introduce my friends to you.
+taskhello_20002_2=I am Bab, a bird cultivator. If you can train the birds well, I will give you some rewards.
+taskhello_20003_2=It's very easy, go to the field and then wave your shovel!
+taskhello_20007_2=Will you come to our party? We need a lot of fruits, you can help me collecting.
+taskhello_20008_2=Enemies in this area are much stronger than those you have met before, are you ready to desteoy them?
+taskhello_20009_2=Look, the green guy over there is Bill, he seems to have something to do for you, go and visit him.
+taskold_20001=Hey, are you ready to accept my next challenge? This may take a little while, but the rewards will be very generous.
+taskold_20002=Hello, trainer, let me see how your bird going.
+taskold_20003=He buddy, you are right on time! It's the harvest season now, we need help, I know you will not refuse.
+taskold_20007=Hey, we are preparing for the next party, help us collect some fruits!
+taskold_20008=My brave adventurer, help us destorying those harmful worms, they are eating our fruits!
+taskold_20009=Hello, newcomer, let me introduce you the tropical island.
+taskaffter_20001=I will send a task every 4 hours.
+taskaffter_20002=Birds are the best partner. Feed them when you have food in your bag.
+taskaffter_20003=It is not an easy task to take care of this large garden. If you don't offer you hep, these fruits will be rotten in the ground.
+taskaffter_20007=Do you know that party is the most fun thing to do.
+taskaffter_20008=Remember, you can't beat dangerous monsters, but your birds can.
+taskaffter_20009=The new bird trainer will come to me first. And then they can go to the mountains for challenges after they are familiar with the island.
+item.backpack.name_01=Hiking Bag
+item.backpack.name_02=Delivery Package
+item.backpack.name_03=large Fries
+item.backpack.name_04=Beer Case
+item.backpack.name_05=Small Red Bag
+item.backpack.name_06=Tool Box
+item.backpack.name_07=Aged Wine
+item.backpack.name_08=Fuel Station
+item.backpack.name_09=Steel Baby
+skillcontent_1=More chance to get fruit coins
+skillcontent_2=+100% fruit, for 30 sec
+skillcontent_3=+10% blue fruit, for 15 sec
+skillcontent_4=+10% red fruit, for 15 sec
+skillcontent_5=+10% yellow fruit, for 15 sec
+skillcontent_6=+10% green fruit, for 15 sec
+skillcontent_7=+20% attack, for 20 sec
+skillcontent_8=+20% player speed, for 20 sec
+passivecontent_710101=No characteristic
+passivecontent_710102=+20% attack
+passivecontent_710103=+20% red fruit
+passivecontent_730101=No characteristic
+passivecontent_730102=+20% fruit coin conversion
+passivecontent_730103=+20% blue fruit
+passivecontent_740101=No characteristic
+passivecontent_740102=+20% collect
+passivecontent_740103=+20% green fruit
+passivecontent_720101=No characteristic
+passivecontent_720102=+20% flying speed
+passivecontent_720103=+20% yellow fruit
+passivecontent_710201=+20% fruit coin conversion, fruit coin conversion +20% flying speed
+passivecontent_710202=+20% attack, +10% attack speed
+passivecontent_710203=+20% collect, ，+30% red fruit
+passivecontent_730201=+20% attack speed, +20% flying speed
+passivecontent_730202=+20% collect, +20% fruit coin conversion
+passivecontent_730203=+20% collect speed, +30% blue fruit
+passivecontent_740201=-20% collect, +50% collect speed
+passivecontent_740202=+20% collect, +20% fruit coin conversion
+passivecontent_740203=+20% attack, +20 flying speed, +30% green fruit
+passivecontent_720201=+30% collect speed
+passivecontent_720202=+20% attack speed, +30% flying speed
+passivecontent_720203=+50% collect speed, +30% yellow fruit
+passivecontent_710301=+50% fruit coin conversion, +20% attack speed
+passivecontent_710302=+100% attack, -30% attack speed
+passivecontent_710303=+40% collect, -20% collect speed, +40% red fruit
+passivecontent_730301=+20% collect, +20% flying speed
+passivecontent_730302=+100% fruit coin conversion, +20% attack
+passivecontent_730303=+20% collect, +20% collect speed, +40% blue fruit
+passivecontent_740301=+20% conversion, +10% attack, +10% flying speed
+passivecontent_740302=+20% collect, +20% collect speed
+passivecontent_740303=+50% collect, -20% attack, +40% green fruit
+passivecontent_720301=+50% collect speed
+passivecontent_720302=+50 flying speed
+passivecontent_720303=+40% collect, +40% yellow fruit
+passivecontent_710401=+50%  fruit coin conversion, +50% attack speed
+passivecontent_710402=+100% attack, -20% attack speed, -20% flying speed
+passivecontent_710403=+50% collect, -20% flying speed, +50% red fruit
+passivecontent_730401=+10% all characteristics
+passivecontent_730402=+100% fruit coin conversion
+passivecontent_730403=+20% collect, +20% collect speed, +50% blue fruit
+passivecontent_740401=+10% all characteristics
+passivecontent_740402=+100% collect, -30% collect speed
+passivecontent_740403=+20 collect, fruit coin conversion, attack, +50% green fruit
+passivecontent_720401=+50% attack speed, +50% flying speed
+passivecontent_720402=+50% collect, +30% collect speed, -50% attack
+passivecontent_720403=+40% collect, +50% yellow fruit
+passivecontent_700401=+100% collet, +100% attack
+passivecontent_700402=+50% collect speed, +50% flying speed, +100% blue, green fruit
+passivecontent_700403=+50% collect speed, +50% fruit coin conversion
+passivecontent_700404=+100% attack, +50% attack speed, +20% flying speed
+passivecontent_700405=+50% collect, +50% attack, +100% red, yellow fruit
+passivecontent_700406=+50% collect speed, +50% conversion speed, +100% flying speed
+passivecontent_700407=All characteristic+50%
+birdname_910101=Rose
+birdname_910102=Noisy Rose
+birdname_910103=Enjoying Rose
+birdname_930101=Bruse
+birdname_930102=Doctor Bruse
+birdname_930103=Struggling Bruse
+birdname_940101=Grace
+birdname_940102=Simpering Grace
+birdname_940103=Penguin Grace
+birdname_920101=Yilia
+birdname_920102=Crying Yilia
+birdname_920103=Cat Eye Yilia
+birdname_910201=Eyeline Rose
+birdname_910202=Giggling Rose
+birdname_910203=Wordless Rose
+birdname_930201=Penguin Bruse
+birdname_930202=Tough Bruse
+birdname_930203=Shy Bruse
+birdname_940201=Dizzy Grace
+birdname_940202=Tired Grace
+birdname_940203=Brazilian Grace
+birdname_920201=Chirping Yilia
+birdname_920202=Fast Yilia
+birdname_920203=Sad Yilia
+birdname_910301=Hald Moon Rose
+birdname_910302=Big Eye Rose
+birdname_910303=Straight A Rose
+birdname_930301=Ice Bruse
+birdname_930302=Baby Bruse
+birdname_930303=Working Bruse
+birdname_940301=Old Grace
+birdname_940302=Beautiful Grace
+birdname_940303=Frog Grace
+birdname_920301=Tired Yilia
+birdname_920302=Eyelid Yilia
+birdname_920303=Apricot Yilia
+birdname_910401=Steel Rose
+birdname_910402=Super Rose
+birdname_910403=Spider Rose
+birdname_930401=Captain America Bruse
+birdname_930402=Artful Bruse
+birdname_930403=Eyelash Bruse
+birdname_940401=Sailor Grace
+birdname_940402=Humorous Grace
+birdname_940403=Three Eye Grace
+birdname_920401=Sponge Yilia
+birdname_920402=Lucky Yilia
+birdname_920403=Idol Yilia
+birdname_900401=New Year Pig
+birdname_900402=Blue Butterfly
+birdname_900403=Panda
+birdname_900404=Bull
+birdname_900405=Red Bat
+birdname_900406=Moltres
+birdname_900407=Flying Fish
+fruitcoin_1041001=Cookie
+fruitcoin_1041009=Blueberry
+fruitcoin_1041006=Kiwi
+fruitcoin_1041005=Grape
+fruitcoin_1041010=Peach
+fruitcoin_1041003=Banana
+fruitcoin_1041004=Watermelon
+fruitcoin_1041018=Apple
+fruitcoin_9000001=Fruit Coin
+fruitcoin_9000002=Ticket
+not_enough_money=Lack of money
+pay_failure=The payment is unsuccessful.
+something_error=Error occurred.
+bird_capacity_full=Bird carrying capacity is full.
+bird_carry_already_max_level=The portable capacity has reached the maximum level.
+bird_capacity_already_max_level=Bird bag capacity has reached the maximum level.
+update_maxCapacity_first=Please upgrade bird bag capacity.
+can_carry_num_max=The maximum portable limit has been reached.
+fuse_wrong_happen=Error occurred in bird fusion.
+fuse_has_not_bird=You don't have this bird.
+fuse_must_be_same_quality=Fusion birds need to be the same quality.
+food_not_enough=Lack of food
+fuse_need_detach_bird=You can't fuse the birds that have been carried.
+bird_max_level=The bird reaches the maximum level.
+monstername_4001=Red Beetle lv1
+monstername_4002=Yellow Beetle lv1
+monstername_4003=Blue Beetle lv1
+monstername_4004=Green Beetle lv1
+monstername_4005=Red Beetle lv3
+monstername_4006=Yellow Beetle lv3
+monstername_4007=Blue Beetle lv3
+monstername_4008=Green Beetle lv3
+monstername_4009=Spider lv5
+monstername_4010=Mantis lv6
+labelname_1=Privilege
+labelname_2=Headwear
+labelname_3=Glasses
+labelname_4=Tail Flame
+labelname_5=Food
+labelname_6=Money
+teamname_9999=Newcomer Package
+teamname_901=Diver
+teamname_902=Hold a Party
+teamname_903=Bronze
+teamname_904=Fence
+teamname_905=Dazzling
+teamname_906=Shortsightedness
+teamname_907=Scarf
+teamname_908=Belt
+teamname_909=Loving Heart
+teamname_910=Saliva Towel
+teamname_911=Bowknot
+teamname_912=Swim Ring
+teamname_801=Princess
+teamname_802=Rose
+teamname_803=Bruse
+teamname_804=Corner
+teamname_805=Crown
+teamname_806=Spring
+teamname_807=Prince
+teamname_808=Gentleman
+teamname_809=Peacock
+teamname_810=Striving
+teamname_811=Angel
+teamname_812=Machine
+teamname_813=Feather
+teamname_814=Cake
+teamname_815=Straw Hat
+teamname_816=Green Hair
+teamname_817=Dragon Horn
+teamname_701=Rocket
+teamname_702=Blue Flame
+teamname_703=Pixel Ejection
+teamname_704=Laser Ball
+teamname_705=Bubble
+teamname_706=Pink Clouds
+teamname_707=Blue Clouds
+teamname_708=Power of Money
+teamname_709=Magic Cube
+teamname_710=Wall Streeter
+teamname_711=Metal Rock
+teamname_712=Octopus Ball
+teamname_713=Glow
+teamname_714=Fantastic Note
+teamname_715=I'm Rich!
+teamname_716=Girl
+teamname_717=Boy
+teamname_718=Petal
+teamname_719=Leaves
+teamname_601=Cookie
+teamname_602=Banana
+teamname_603=Watermelon
+teamname_604=Grape
+teamname_605=Kiwi
+teamname_606=Blueberry
+teamname_607=Peach
+teamname_501=Fruit Coin Chest Permission
+teamname_502=Ticket Chest Permission
+teamname_503=Pass
+teamname_504=VIP Collect Privilege
+teamname_505=VIP conversion Privilege
+teamname_506=VIP Fight Privilege
+teamname_401=Ticket
+teamname_402=Ticket
+teamname_403=Ticket
+teamname_404=Ticket
+teamname_405=Fruit Coin
+teamname_406=Fruit Coin
+teamname_407=Fruit Coin
+teamname_408=Fruit Coin
+discribe_9999=Newcomer package with a limited birdy New Year pig inside.
+discribe_901=Let the bird become a happy diver.
+discribe_902=Party Time!
+discribe_903=Retro style makes me calm.
+discribe_904=You can't see me.
+discribe_905=I am the lightning!
+discribe_906=Bird wearing reading glasses.
+discribe_907=Always keep warm!
+discribe_908=This is suitable for formal occasions.
+discribe_909=Wearing loving heart glasses brings love blossoms!
+discribe_910=Actually, I am a saliva towel.
+discribe_911=The essential item for a lady.
+discribe_912=Would you like to have a pool party?
+discribe_801=I am a princess.
+discribe_802=I am the happy Little Red Riding Hood!
+discribe_803=Wearing a blue hat looks younger.
+discribe_804=Come and feel my power!
+discribe_805=Today, I am the king!
+discribe_806=TickTock
+discribe_807=The prince is here!
+discribe_808=Be a gentleman.
+discribe_809=Have you seen peacocks open?
+discribe_810=Come on! !
+discribe_811=I am an angel, do you need my help?
+discribe_812=The machine bird is here to serve you.
+discribe_813=I am an Indian.
+discribe_814=Do you want to have a birthday cake?
+discribe_815=My straw hat is not for sale.
+discribe_816=Don't dye green hair.
+discribe_817=I have horns on my head and tail behind me.
+discribe_701=Flying fast is not because the tail is on fire.
+discribe_702=The blue flame has a higher temperature.
+discribe_703=Pixel shooting!
+discribe_704=BiuBiuBiu
+discribe_705=GlugGlug
+discribe_706=Pink mood
+discribe_707=Blue mood
+discribe_708=My super power is rich.
+discribe_709=Magic creates the cube and the cube creates the world.
+discribe_710=Greed is a virtue.
+discribe_711=Let the light ball turn, RockandRoll!
+discribe_712=Octopus, spray!
+discribe_713=My tail will erupt fire?
+discribe_714=Flying with my BGM!
+discribe_715=Follow me behind to get surprise money.
+discribe_716=Girls only
+discribe_717=Boys only
+discribe_718=Petals are floating in the wind.
+discribe_719=Leaves are flying with the wind.
+discribe_601=Increase 1 experience for the bird after use
+discribe_602=Increase 5 experiences for the bird after use
+discribe_603=Increase 5 experiences for the bird after use
+discribe_604=Increase 5 experiences for the bird after use
+discribe_605=Increase 5 experiences for the bird after use
+discribe_606=Increase 10 experiences for the bird after use
+discribe_607=Increase 10 experiences for the bird after use
+discribe_501=Receive VIP fruit coin chest
+discribe_502=Receive VIP ticket chest
+discribe_503=Access to VIP area
+discribe_504=Increased 20% of player collection amount
+discribe_505=Increased 50% of bird fruit coin conversion amount
+discribe_506=Increased 100% of player basic health
+discribe_401=Increased 10 tickets
+discribe_402=Increased 100 tickets
+discribe_403=Get 500 tickets
+discribe_404=Get 3000 tickets
+discribe_405=Get 5000 fruit coins
+discribe_406=Get 50000 fruit coins
+discribe_407=Get 500000 fruit coins
+discribe_408=Get 5000000 fruit coins
+item.backpack.name_01=Hiking Bag
+item.backpack.name_02=Delivery Package
+item.backpack.name_03=large Fries
+item.backpack.name_04=Beer Case
+item.backpack.name_05=Small Red Bag
+item.backpack.name_06=Tool Box
+item.backpack.name_07=Aged Wine
+item.backpack.name_08=Fuel Station
+item.backpack.name_09=Steel Baby
+item.backpack.name_10=Strawberry Bag
+item.backpack.name_11=Bear Bag
+item.backpack.name_12=Schoolbag
+item.backpack.name_13=Pineapple Bag
+item.backpack.name_14=Watermelon Bag
+item.backpack.name_15=Ladybird Bag
+item.backpack.name_16=Field Battle Bag
+item.backpack.name_17=Tool Bag
+item.backpack.name_18=Travel Bag
+item.toolGather_01.name=Shovel
+item.toolGather_02.name=Rake
+item.toolGather_03.name=Scissors
+item.toolGather_04.name=Magnet
+item.toolGather_05.name=Vacuum Cleaner
+item.toolGather_06.name=Magnetic Shovel
+item.toolGather_07.name=Gravity Stick
+item.toolGather_08.name=Electromagnet
+item.backpack.describe_01=Strong hiking bag with compass. \\nBag capacity 100
+item.backpack.describe_02=You ordered two pizzas, a total of 10,000 bitcoins. \\nBag capacity 500
+item.backpack.describe_03=Extra large French fries, the same price. \\nBag capacity 900
+item.backpack.describe_04=It is not wine, it is juice. \\nBag capacity 4000
+item.backpack.describe_05=It looks small, but it can hold a lot of things inside. \\nBag capacity 23000
+item.backpack.describe_06=Professional trainers should use professional bags. \\nBag capacity 70000
+item.backpack.describe_07=Good juices make good wine. \\nBag capacity 190000
+item.backpack.describe_08=The car here is fueled with juice. \\nBag capacity 300000
+item.backpack.describe_09=This is produced by Stark. \\nBag capacity 1300000
+item.backpack.describe_10=This is a strawberry bag, not a turtle shell! \\n Bag Capacity 300
+item.backpack.describe_11=Oh My Gosh! So sweet! \\n Bag Capacity 900
+item.backpack.describe_12=The bird says: "Good morning, why do you carry a small bag?" \\n Bag Capacity 2500
+item.backpack.describe_13=Big Pineapple VI \\n Bag Capacity 14000
+item.backpack.describe_14=You asked why I cut watermelon like this? Well, not your bussiness!!!  \\nBag Capacity 60000
+item.backpack.describe_15=The red beetle will not hit me if I'm carrying this, right? \\n Bag Capacity 190000
+item.backpack.describe_16=Large capacity rucksack designed for the little bird warrior. \\n Bag Capacity 300000
+item.backpack.describe_17=The tool bag looks good and practical. Never regret for buying it. \\n Bag Capacity 500000
+item.backpack.describe_18=There is no doubt that the oversized travel bag is the best choice. \\n Bag Capacity 900000
+item.toolGather_01.describe=The most basic collecting tool. \\nCollect 1 fruit from 1 fruit field in 1 sec.
+item.toolGather_02.describe=It is slightly higher than the efficiency of the shovel. \\nCollect 2 fruits from 2 fruit fields in 2 sec.
+item.toolGather_03.describe=Cut it off when you see the fruit. \\nCollect 1 fruit from 5 fruit fields in 1 sec.
+item.toolGather_04.describe=Magnetically absorb the fruit. \\nCollect 1 fruit from 5 fruit fields in 0.5 sec.
+item.toolGather_05.describe=Increase absorb and increase efficiency. \\nCollect 1 fruit from 9 fruit fields in 1.2 sec.
+item.toolGather_06.describe=A magnetic shovel can absorb the surrounding fruits. \\nCollect 2 fruits from 9 fruit fields in 0.75 sec.
+item.toolGather_07.describe=A collector made according to the principle of universal gravitation. \\nCollect 4 fruits from 13 fruit fields in 1 sec.
+item.toolGather_08.describe=Let the magnetic force be stronger.\\nCollect 4 fruits from 13 fruit fields in 0.7 sec.
+tastlang_id_66001=Bronze Egg Machine
+tastlang_id_66002=Silver Egg Machine
+tastlang_id_66003=Crystal Egg Machine
+tastlang_id_66004=Gold Egg Machine
+tastlang_id_66005=Platinum Egg Machine
+tastlang_id_66006=Epic Egg Machine
+tastlang_id_66007=Diamond Egg Machine
+tastlang_id_66008=Legend Egg Machine
+tastlang_id_66009=Cube Egg Machine
+chesttips1=No tickets to open the fruit coin treasure chest, buy in store?
+chesttips2=No tickets to open the egg treasure chest, buy in store?
+can_not_delete_last_bird=You can't delete the last bird.
+gui_bird_tip_delete_bird=Delete bird 【%s】?
+gui_bird_tip_delete_bird_fail=Failed to delete the last bird.
+gui_bird_next_task_time=Next Task\\n%s
+item.toolGather_09.name=Light Sword
+item.toolGather_10.name=Reaper
+item.toolGather_09.describe=The real masters are practicing swords by cutting fruits. \\nCollects 4 fruit from 21 fruit fields in 0.6 sec
+item.toolGather_10.describe=This sickle is much useful than just cutting fruits. \\n collects 8 fruits from 21 fruit fields in 0.9 seconds
+vipArea=VIP area has no pass yet, buy in store now?
+
+tastlang_type_1▢FF123456Need to defeat  %d %s▢FF123456
+tastlang_type_2▢FF123456Collect %s fruits in %d▢FF123456
+tastlang_type_21▢FF123456Collect %d %s▢FF123456
+tastlang_type_22▢FF123456Collect %d %s fruits▢FF123456
+tastlang_type_3▢FF123456Talk with %s %d times▢FF123456
+tastlang_type_4▢FF123456Complete %d tasks from %s▢FF123456
+tastlang_type_5▢FF123456Carrying %d %s birds▢FF123456
+tastlang_type_6▢FF123456Has %d level %s birds▢FF123456
+tastlang_type_7▢FF123456Feed %d %s▢FF123456
+tastlang_type_8▢FF123456Collect %d %s▢FF123456
+tastlang_type_9▢FF123456Open %d %s chest▢FF123456
+tastlang_type_10▢FF123456Get %d %s from chest▢FF123456
+tastlang_type_23▢FF123456Draw %d in %s Egg machine▢FF123456

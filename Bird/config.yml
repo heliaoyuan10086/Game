@@ -4,7 +4,7 @@ initPos: [-602, 11, -225]
 hp: 50
 
 #初始移动速度
-moveSpeed: 0
+moveSpeed: 200
 
 #初始跳跃
 jump: 0
@@ -13,13 +13,13 @@ jump: 0
 withoutHurtSecond: 5
 
 #回血CD
-hpRecoverCD: 5
+hpRecoverCD: 3
 
 #回血量
 hpRecover: 5
 
 #离开战斗回血CD
-awayFromBattleCD: 10
+awayFromBattleCD: 5
 
 #转换率加成
 convertRate: 1
@@ -32,3 +32,27 @@ initMaxCapacityBirdNum: 10
 
 #小鸟飞行高度
 flyHigh: 2
+
+#箭头坐标
+arrowPointToNpcPos: [-610.5, 12, -224.5]
+
+#引导NPC ID
+arrowPointToNpc: 20009
+
+#未购买vip时进入区域弹出购买界面
+vipArea: [[-594, 10, -205], [-591, 13, -242]]
+
+#触发商店箭头的金钱数量
+money: 4000
+
+#显示商店箭头
+arrowPointToShopPos: [-605, 12, -260]
+
+#显示商店的区域坐标
+arrowShopArea: [[-612, 10, -258], [-598, 13, -270]]
+
+#抽蛋引导任务ID
+drawLuckyTaskId: 101352
+
+#抽蛋箭头坐标
+drawLuckyPoint: [-615.6, 12, -212.62]

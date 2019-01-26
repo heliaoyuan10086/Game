@@ -1,25 +1,201 @@
-﻿索引	任务ID	接任务NPC	完成条件ID（多个条件#号分割）	其他开启条件(多个条件#号分割）	鸟巢格子数量（最低携带位）	鸟巢格子数量（最高携带位）	权重	等待时间（s）	奖励(多个用#隔开)	数量	提示图片	按钮显示的内容	显示的标题(#为空)	对话内容(#分页)	领取任务之后对话
-id	taskId	receiveNpcId	requirement	otherRequirement	minBox	maxBox	weight	waitTime	rewards	num	icons	sureContent	title	dialog	dialogAffter
-1	201001	20001	20001073	@@@	1	1	10	60	9000002	2	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_richang_title	tast_richang_content	tast_richang_after
-2	202002	20001	20001074	@@@	2	2	10	60	9000002	2	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tast_richang_title	tast_richang_content	tast_richang_after
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
+﻿索引	任务ID	接任务NPC	完成条件ID（多个条件#号分割）	其他开启条件(多个条件#号分割）	鸟巢格子数量（最低携带位）	鸟巢格子数量（最高携带位）	权重	等待时间（s）	奖励(多个用#隔开)	数量	提示图片	按钮显示的内容	显示的标题(#为空)	对话内容(#分页)	领取任务之后对话	
+id	taskId	receiveNpcId	requirement	otherRequirement	minBox	maxBox	weight	waitTime	rewards	num	icons	sureContent	title	dialog	dialogAffter	dialogComplete
+1	202001	20001	20001360	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001360	taskaffter_20001	taskcomplete_20001#taskcomplete_202001
+2	202003	20001	20001362	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001362	taskaffter_20001	taskcomplete_20001#taskcomplete_202003
+3	202007	20001	20001366	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001366	taskaffter_20001	taskcomplete_20001#taskcomplete_202007
+4	202008	20001	20001367	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001367	taskaffter_20001	taskcomplete_20001#taskcomplete_202008
+5	202009	20001	20001368	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001368	taskaffter_20001	taskcomplete_20001#taskcomplete_202009
+6	202010	20001	20001369	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001369	taskaffter_20001	taskcomplete_20001#taskcomplete_202010
+7	202011	20001	20001370	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001370	taskaffter_20001	taskcomplete_20001#taskcomplete_202011
+8	202021	20001	20001380	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001380	taskaffter_20001	taskcomplete_20001#taskcomplete_202021
+9	202022	20001	20001381	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001381	taskaffter_20001	taskcomplete_20001#taskcomplete_202022
+10	202023	20001	20001382	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001382	taskaffter_20001	taskcomplete_20001#taskcomplete_202023
+11	202024	20001	20001383	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001383	taskaffter_20001	taskcomplete_20001#taskcomplete_202024
+12	202025	20001	20001384	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001384	taskaffter_20001	taskcomplete_20001#taskcomplete_202025
+13	202026	20001	20001385	@@@	2	2	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001385	taskaffter_20001	taskcomplete_20001#taskcomplete_202026
+14	203041	20001	20001360	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001360	taskaffter_20001	taskcomplete_20001#taskcomplete_203041
+15	203042	20001	20001401	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001401	taskaffter_20001	taskcomplete_20001#taskcomplete_203042
+16	203043	20001	20001362	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001362	taskaffter_20001	taskcomplete_20001#taskcomplete_203043
+17	203044	20001	20001403	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001403	taskaffter_20001	taskcomplete_20001#taskcomplete_203044
+18	203047	20001	20001406	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001406	taskaffter_20001	taskcomplete_20001#taskcomplete_203047
+19	203048	20001	20001407	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001407	taskaffter_20001	taskcomplete_20001#taskcomplete_203048
+20	203049	20001	20001408	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001408	taskaffter_20001	taskcomplete_20001#taskcomplete_203049
+21	203050	20001	20001409	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001409	taskaffter_20001	taskcomplete_20001#taskcomplete_203050
+22	203051	20001	20001410	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001410	taskaffter_20001	taskcomplete_20001#taskcomplete_203051
+23	203061	20001	20001420	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001420	taskaffter_20001	taskcomplete_20001#taskcomplete_203061
+24	203062	20001	20001421	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001421	taskaffter_20001	taskcomplete_20001#taskcomplete_203062
+25	203063	20001	20001422	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001422	taskaffter_20001	taskcomplete_20001#taskcomplete_203063
+26	203064	20001	20001423	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001423	taskaffter_20001	taskcomplete_20001#taskcomplete_203064
+27	203065	20001	20001424	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001424	taskaffter_20001	taskcomplete_20001#taskcomplete_203065
+28	203066	20001	20001385	@@@	3	3	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001385	taskaffter_20001	taskcomplete_20001#taskcomplete_203066
+29	204081	20001	20001360	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001360	taskaffter_20001	taskcomplete_20001#taskcomplete_204081
+30	204082	20001	20001441	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001441	taskaffter_20001	taskcomplete_20001#taskcomplete_204082
+31	204083	20001	20001362	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001362	taskaffter_20001	taskcomplete_20001#taskcomplete_204083
+32	204084	20001	20001443	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001443	taskaffter_20001	taskcomplete_20001#taskcomplete_204084
+33	204087	20001	20001446	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001446	taskaffter_20001	taskcomplete_20001#taskcomplete_204087
+34	204088	20001	20001447	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001447	taskaffter_20001	taskcomplete_20001#taskcomplete_204088
+35	204089	20001	20001448	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001448	taskaffter_20001	taskcomplete_20001#taskcomplete_204089
+36	204090	20001	20001449	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001449	taskaffter_20001	taskcomplete_20001#taskcomplete_204090
+37	204091	20001	20001450	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001450	taskaffter_20001	taskcomplete_20001#taskcomplete_204091
+38	204101	20001	20001460	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001460	taskaffter_20001	taskcomplete_20001#taskcomplete_204101
+39	204102	20001	20001461	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001461	taskaffter_20001	taskcomplete_20001#taskcomplete_204102
+40	204103	20001	20001462	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001462	taskaffter_20001	taskcomplete_20001#taskcomplete_204103
+41	204104	20001	20001463	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001463	taskaffter_20001	taskcomplete_20001#taskcomplete_204104
+42	204105	20001	20001464	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001464	taskaffter_20001	taskcomplete_20001#taskcomplete_204105
+43	204106	20001	20001385	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001385	taskaffter_20001	taskcomplete_20001#taskcomplete_204106
+44	204108	20001	20001387	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001387	taskaffter_20001	taskcomplete_20001#taskcomplete_204108
+45	204109	20001	20001388	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001388	taskaffter_20001	taskcomplete_20001#taskcomplete_204109
+46	204110	20001	20001389	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001389	taskaffter_20001	taskcomplete_20001#taskcomplete_204110
+47	204111	20001	20001390	@@@	4	4	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001390	taskaffter_20001	taskcomplete_20001#taskcomplete_204111
+48	205121	20001	20001480	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001480	taskaffter_20001	taskcomplete_20001#taskcomplete_205121
+49	205122	20001	20001481	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001481	taskaffter_20001	taskcomplete_20001#taskcomplete_205122
+50	205123	20001	20001482	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001482	taskaffter_20001	taskcomplete_20001#taskcomplete_205123
+51	205124	20001	20001483	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001483	taskaffter_20001	taskcomplete_20001#taskcomplete_205124
+52	205125	20001	20001484	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001484	taskaffter_20001	taskcomplete_20001#taskcomplete_205125
+53	205127	20001	20001486	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001486	taskaffter_20001	taskcomplete_20001#taskcomplete_205127
+54	205128	20001	20001487	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001487	taskaffter_20001	taskcomplete_20001#taskcomplete_205128
+55	205129	20001	20001488	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001488	taskaffter_20001	taskcomplete_20001#taskcomplete_205129
+56	205130	20001	20001489	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001489	taskaffter_20001	taskcomplete_20001#taskcomplete_205130
+57	205131	20001	20001490	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001490	taskaffter_20001	taskcomplete_20001#taskcomplete_205131
+58	205132	20001	20001491	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001491	taskaffter_20001	taskcomplete_20001#taskcomplete_205132
+59	205133	20001	20001492	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001492	taskaffter_20001	taskcomplete_20001#taskcomplete_205133
+60	205134	20001	20001493	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001493	taskaffter_20001	taskcomplete_20001#taskcomplete_205134
+61	205141	20001	20001500	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001500	taskaffter_20001	taskcomplete_20001#taskcomplete_205141
+62	205142	20001	20001501	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001501	taskaffter_20001	taskcomplete_20001#taskcomplete_205142
+63	205143	20001	20001502	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001502	taskaffter_20001	taskcomplete_20001#taskcomplete_205143
+64	205144	20001	20001503	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001503	taskaffter_20001	taskcomplete_20001#taskcomplete_205144
+65	205145	20001	20001504	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001504	taskaffter_20001	taskcomplete_20001#taskcomplete_205145
+66	205146	20001	20001505	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001505	taskaffter_20001	taskcomplete_20001#taskcomplete_205146
+67	205148	20001	20001507	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001507	taskaffter_20001	taskcomplete_20001#taskcomplete_205148
+68	205149	20001	20001508	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001508	taskaffter_20001	taskcomplete_20001#taskcomplete_205149
+69	205150	20001	20001509	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001509	taskaffter_20001	taskcomplete_20001#taskcomplete_205150
+70	205151	20001	20001510	@@@	5	5	9	30	9000002	18	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001510	taskaffter_20001	taskcomplete_20001#taskcomplete_205151
+71	206161	20001	20001520	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001520	taskaffter_20001	taskcomplete_20001#taskcomplete_206161
+72	206162	20001	20001521	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001521	taskaffter_20001	taskcomplete_20001#taskcomplete_206162
+73	206163	20001	20001522	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001522	taskaffter_20001	taskcomplete_20001#taskcomplete_206163
+74	206164	20001	20001523	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001523	taskaffter_20001	taskcomplete_20001#taskcomplete_206164
+75	206165	20001	20001484	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001484	taskaffter_20001	taskcomplete_20001#taskcomplete_206165
+76	206167	20001	20001526	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001526	taskaffter_20001	taskcomplete_20001#taskcomplete_206167
+77	206168	20001	20001527	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001527	taskaffter_20001	taskcomplete_20001#taskcomplete_206168
+78	206169	20001	20001528	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001528	taskaffter_20001	taskcomplete_20001#taskcomplete_206169
+79	206170	20001	20001529	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001529	taskaffter_20001	taskcomplete_20001#taskcomplete_206170
+80	206171	20001	20001530	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001530	taskaffter_20001	taskcomplete_20001#taskcomplete_206171
+81	206172	20001	20001531	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001531	taskaffter_20001	taskcomplete_20001#taskcomplete_206172
+82	206173	20001	20001532	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001532	taskaffter_20001	taskcomplete_20001#taskcomplete_206173
+83	206174	20001	20001533	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001533	taskaffter_20001	taskcomplete_20001#taskcomplete_206174
+84	206181	20001	20001540	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001540	taskaffter_20001	taskcomplete_20001#taskcomplete_206181
+85	206182	20001	20001541	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001541	taskaffter_20001	taskcomplete_20001#taskcomplete_206182
+86	206183	20001	20001542	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001542	taskaffter_20001	taskcomplete_20001#taskcomplete_206183
+87	206184	20001	20001543	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001543	taskaffter_20001	taskcomplete_20001#taskcomplete_206184
+88	206185	20001	20001544	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001544	taskaffter_20001	taskcomplete_20001#taskcomplete_206185
+89	206186	20001	20001545	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001545	taskaffter_20001	taskcomplete_20001#taskcomplete_206186
+90	206188	20001	20001547	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001547	taskaffter_20001	taskcomplete_20001#taskcomplete_206188
+91	206189	20001	20001548	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001548	taskaffter_20001	taskcomplete_20001#taskcomplete_206189
+92	206190	20001	20001549	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001549	taskaffter_20001	taskcomplete_20001#taskcomplete_206190
+93	206191	20001	20001550	@@@	6	6	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001550	taskaffter_20001	taskcomplete_20001#taskcomplete_206191
+94	207201	20001	20001560	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001560	taskaffter_20001	taskcomplete_20001#taskcomplete_207201
+95	207202	20001	20001561	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001561	taskaffter_20001	taskcomplete_20001#taskcomplete_207202
+96	207203	20001	20001562	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001562	taskaffter_20001	taskcomplete_20001#taskcomplete_207203
+97	207204	20001	20001563	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001563	taskaffter_20001	taskcomplete_20001#taskcomplete_207204
+98	207205	20001	20001484	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001484	taskaffter_20001	taskcomplete_20001#taskcomplete_207205
+99	207207	20001	20001566	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001566	taskaffter_20001	taskcomplete_20001#taskcomplete_207207
+100	207208	20001	20001567	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001567	taskaffter_20001	taskcomplete_20001#taskcomplete_207208
+101	207209	20001	20001568	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001568	taskaffter_20001	taskcomplete_20001#taskcomplete_207209
+102	207210	20001	20001569	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001569	taskaffter_20001	taskcomplete_20001#taskcomplete_207210
+103	207211	20001	20001570	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001570	taskaffter_20001	taskcomplete_20001#taskcomplete_207211
+104	207212	20001	20001571	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001571	taskaffter_20001	taskcomplete_20001#taskcomplete_207212
+105	207213	20001	20001572	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001572	taskaffter_20001	taskcomplete_20001#taskcomplete_207213
+106	207214	20001	20001573	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001573	taskaffter_20001	taskcomplete_20001#taskcomplete_207214
+107	207221	20001	20001580	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001580	taskaffter_20001	taskcomplete_20001#taskcomplete_207221
+108	207222	20001	20001581	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001581	taskaffter_20001	taskcomplete_20001#taskcomplete_207222
+109	207223	20001	20001582	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001582	taskaffter_20001	taskcomplete_20001#taskcomplete_207223
+110	207224	20001	20001583	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001583	taskaffter_20001	taskcomplete_20001#taskcomplete_207224
+111	207225	20001	20001584	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001584	taskaffter_20001	taskcomplete_20001#taskcomplete_207225
+112	207226	20001	20001585	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001585	taskaffter_20001	taskcomplete_20001#taskcomplete_207226
+113	207228	20001	20001587	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001587	taskaffter_20001	taskcomplete_20001#taskcomplete_207228
+114	207229	20001	20001588	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001588	taskaffter_20001	taskcomplete_20001#taskcomplete_207229
+115	207230	20001	20001589	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001589	taskaffter_20001	taskcomplete_20001#taskcomplete_207230
+116	207231	20001	20001590	@@@	7	7	9	30	9000002	24	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001590	taskaffter_20001	taskcomplete_20001#taskcomplete_207231
+117	208241	20001	20001560	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001560	taskaffter_20001	taskcomplete_20001#taskcomplete_208241
+118	208242	20001	20001561	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001561	taskaffter_20001	taskcomplete_20001#taskcomplete_208242
+119	208243	20001	20001562	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001562	taskaffter_20001	taskcomplete_20001#taskcomplete_208243
+120	208244	20001	20001563	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001563	taskaffter_20001	taskcomplete_20001#taskcomplete_208244
+121	208245	20001	20001484	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001484	taskaffter_20001	taskcomplete_20001#taskcomplete_208245
+122	208246	20001	20001605	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001605	taskaffter_20001	taskcomplete_20001#taskcomplete_208246
+123	208247	20001	20001606	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001606	taskaffter_20001	taskcomplete_20001#taskcomplete_208247
+124	208248	20001	20001607	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001607	taskaffter_20001	taskcomplete_20001#taskcomplete_208248
+125	208249	20001	20001608	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001608	taskaffter_20001	taskcomplete_20001#taskcomplete_208249
+126	208250	20001	20001609	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001609	taskaffter_20001	taskcomplete_20001#taskcomplete_208250
+127	208251	20001	20001610	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001610	taskaffter_20001	taskcomplete_20001#taskcomplete_208251
+128	208252	20001	20001611	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001611	taskaffter_20001	taskcomplete_20001#taskcomplete_208252
+129	208253	20001	20001612	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001612	taskaffter_20001	taskcomplete_20001#taskcomplete_208253
+130	208254	20001	20001613	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001613	taskaffter_20001	taskcomplete_20001#taskcomplete_208254
+131	208255	20001	20001614	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001614	taskaffter_20001	taskcomplete_20001#taskcomplete_208255
+132	208261	20001	20001620	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001620	taskaffter_20001	taskcomplete_20001#taskcomplete_208261
+133	208262	20001	20001621	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001621	taskaffter_20001	taskcomplete_20001#taskcomplete_208262
+134	208263	20001	20001622	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001622	taskaffter_20001	taskcomplete_20001#taskcomplete_208263
+135	208264	20001	20001623	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001623	taskaffter_20001	taskcomplete_20001#taskcomplete_208264
+136	208265	20001	20001624	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001624	taskaffter_20001	taskcomplete_20001#taskcomplete_208265
+137	208266	20001	20001585	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001585	taskaffter_20001	taskcomplete_20001#taskcomplete_208266
+138	208268	20001	20001587	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001587	taskaffter_20001	taskcomplete_20001#taskcomplete_208268
+139	208269	20001	20001588	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001588	taskaffter_20001	taskcomplete_20001#taskcomplete_208269
+140	208270	20001	20001589	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001589	taskaffter_20001	taskcomplete_20001#taskcomplete_208270
+141	208271	20001	20001590	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001590	taskaffter_20001	taskcomplete_20001#taskcomplete_208271
+142	208274	20001	20001593	@@@	8	8	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001593	taskaffter_20001	taskcomplete_20001#taskcomplete_208274
+143	209281	20001	20001640	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001640	taskaffter_20001	taskcomplete_20001#taskcomplete_209281
+144	209282	20001	20001641	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001641	taskaffter_20001	taskcomplete_20001#taskcomplete_209282
+145	209283	20001	20001642	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001642	taskaffter_20001	taskcomplete_20001#taskcomplete_209283
+146	209284	20001	20001643	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001643	taskaffter_20001	taskcomplete_20001#taskcomplete_209284
+147	209285	20001	20001644	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001644	taskaffter_20001	taskcomplete_20001#taskcomplete_209285
+148	209286	20001	20001645	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001645	taskaffter_20001	taskcomplete_20001#taskcomplete_209286
+149	209287	20001	20001646	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001646	taskaffter_20001	taskcomplete_20001#taskcomplete_209287
+150	209288	20001	20001647	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001647	taskaffter_20001	taskcomplete_20001#taskcomplete_209288
+151	209289	20001	20001648	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001648	taskaffter_20001	taskcomplete_20001#taskcomplete_209289
+152	209290	20001	20001649	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001649	taskaffter_20001	taskcomplete_20001#taskcomplete_209290
+153	209291	20001	20001650	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001650	taskaffter_20001	taskcomplete_20001#taskcomplete_209291
+154	209292	20001	20001651	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001651	taskaffter_20001	taskcomplete_20001#taskcomplete_209292
+155	209293	20001	20001652	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001652	taskaffter_20001	taskcomplete_20001#taskcomplete_209293
+156	209294	20001	20001653	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001653	taskaffter_20001	taskcomplete_20001#taskcomplete_209294
+157	209295	20001	20001654	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001654	taskaffter_20001	taskcomplete_20001#taskcomplete_209295
+158	209301	20001	20001660	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001660	taskaffter_20001	taskcomplete_20001#taskcomplete_209301
+159	209302	20001	20001661	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001661	taskaffter_20001	taskcomplete_20001#taskcomplete_209302
+160	209303	20001	20001662	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001662	taskaffter_20001	taskcomplete_20001#taskcomplete_209303
+161	209304	20001	20001663	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001663	taskaffter_20001	taskcomplete_20001#taskcomplete_209304
+162	209305	20001	20001664	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001664	taskaffter_20001	taskcomplete_20001#taskcomplete_209305
+163	209306	20001	20001585	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001585	taskaffter_20001	taskcomplete_20001#taskcomplete_209306
+164	209308	20001	20001587	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001587	taskaffter_20001	taskcomplete_20001#taskcomplete_209308
+165	209309	20001	20001588	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001588	taskaffter_20001	taskcomplete_20001#taskcomplete_209309
+166	209310	20001	20001589	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001589	taskaffter_20001	taskcomplete_20001#taskcomplete_209310
+167	209311	20001	20001590	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001590	taskaffter_20001	taskcomplete_20001#taskcomplete_209311
+168	209314	20001	20001593	@@@	9	9	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001593	taskaffter_20001	taskcomplete_20001#taskcomplete_209314
+169	210321	20001	20001640	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001640	taskaffter_20001	taskcomplete_20001#taskcomplete_210321
+170	210322	20001	20001641	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001641	taskaffter_20001	taskcomplete_20001#taskcomplete_210322
+171	210323	20001	20001642	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001642	taskaffter_20001	taskcomplete_20001#taskcomplete_210323
+172	210324	20001	20001643	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001643	taskaffter_20001	taskcomplete_20001#taskcomplete_210324
+173	210325	20001	20001644	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001644	taskaffter_20001	taskcomplete_20001#taskcomplete_210325
+174	210326	20001	20001645	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001645	taskaffter_20001	taskcomplete_20001#taskcomplete_210326
+175	210327	20001	20001686	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001686	taskaffter_20001	taskcomplete_20001#taskcomplete_210327
+176	210328	20001	20001687	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001687	taskaffter_20001	taskcomplete_20001#taskcomplete_210328
+177	210329	20001	20001688	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001688	taskaffter_20001	taskcomplete_20001#taskcomplete_210329
+178	210330	20001	20001689	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001689	taskaffter_20001	taskcomplete_20001#taskcomplete_210330
+179	210331	20001	20001690	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001690	taskaffter_20001	taskcomplete_20001#taskcomplete_210331
+180	210332	20001	20001691	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001691	taskaffter_20001	taskcomplete_20001#taskcomplete_210332
+181	210333	20001	20001692	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001692	taskaffter_20001	taskcomplete_20001#taskcomplete_210333
+182	210334	20001	20001693	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001693	taskaffter_20001	taskcomplete_20001#taskcomplete_210334
+183	210335	20001	20001694	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001694	taskaffter_20001	taskcomplete_20001#taskcomplete_210335
+184	210336	20001	20001695	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001695	taskaffter_20001	taskcomplete_20001#taskcomplete_210336
+185	210337	20001	20001696	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001696	taskaffter_20001	taskcomplete_20001#taskcomplete_210337
+186	210338	20001	20001697	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001697	taskaffter_20001	taskcomplete_20001#taskcomplete_210338
+187	210339	20001	20001698	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001698	taskaffter_20001	taskcomplete_20001#taskcomplete_210339
+188	210341	20001	20001700	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001700	taskaffter_20001	taskcomplete_20001#taskcomplete_210341
+189	210342	20001	20001701	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001701	taskaffter_20001	taskcomplete_20001#taskcomplete_210342
+190	210343	20001	20001702	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001702	taskaffter_20001	taskcomplete_20001#taskcomplete_210343
+191	210344	20001	20001703	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001703	taskaffter_20001	taskcomplete_20001#taskcomplete_210344
+192	210345	20001	20001704	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001704	taskaffter_20001	taskcomplete_20001#taskcomplete_210345
+193	210346	20001	20001585	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001585	taskaffter_20001	taskcomplete_20001#taskcomplete_210346
+194	210348	20001	20001587	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001587	taskaffter_20001	taskcomplete_20001#taskcomplete_210348
+195	210349	20001	20001588	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001588	taskaffter_20001	taskcomplete_20001#taskcomplete_210349
+196	210350	20001	20001589	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001589	taskaffter_20001	taskcomplete_20001#taskcomplete_210350
+197	210351	20001	20001590	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001590	taskaffter_20001	taskcomplete_20001#taskcomplete_210351
+198	210354	20001	20001593	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001593	taskaffter_20001	taskcomplete_20001#taskcomplete_210354
+199	210355	20001	20001594	@@@	10	10	9	30	9000002	32	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20001	taskold_20001#task_20001594	taskaffter_20001	taskcomplete_20001#taskcomplete_210355
