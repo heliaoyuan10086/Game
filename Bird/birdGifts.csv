@@ -1,11 +1,11 @@
 ﻿天赋id	天赋图标（UI上显示）	产生的buff币id（1057 ~  1106）（1057-1066果币占用）	"数值类型（1百分比，2值,  3itemID）"	基础值（百分比填小数）	天赋作用时间（单位秒）	叠加次数上限
 id	icon	coinId	type	baseValue	activeTime	maxTimes
 19000	set:bird_icon.json image:g1041_coin_08	1057	3	10	0	0
-19001	set:bird_icon.json image:g1041_coin_08	1058	3	50	0	0
-19002	set:bird_icon.json image:g1041_coin_08	1059	3	100	0	0
-19003	set:bird_icon.json image:g1041_coin_08	1060	3	150	0	0
-19004	set:bird_icon.json image:g1041_coin_08	1061	3	300	0	0
-18001	set:bird_icon.json image:g1041_coin_08	1062	3	50	0	0
+19001	set:bird_icon.json image:g1041_coin_08	1058	3	10	0	0
+19002	set:bird_icon.json image:g1041_coin_08	1059	3	20	0	0
+19003	set:bird_icon.json image:g1041_coin_08	1060	3	30	0	0
+19004	set:bird_icon.json image:g1041_coin_08	1061	3	50	0	0
+18001	set:bird_icon.json image:g1041_coin_08	1062	3	60	0	0
 18002	set:bird_icon.json image:g1041_coin_08	1063	3	100	0	0
 18003	set:bird_icon.json image:g1041_coin_08	1064	3	200	0	0
 18004	set:bird_icon.json image:g1041_coin_08	1065	3	500	0	0

@@ -43,7 +43,7 @@ arrowPointToNpc: 20009
 vipArea: [[-594, 10, -205], [-591, 13, -242]]
 
 #触发商店箭头的金钱数量
-money: 4000
+shopTaskId: 1020801
 
 #显示商店箭头
 arrowPointToShopPos: [-605, 12, -260]
@@ -52,7 +52,7 @@ arrowPointToShopPos: [-605, 12, -260]
 arrowShopArea: [[-612, 10, -258], [-598, 13, -270]]
 
 #抽蛋引导任务ID
-drawLuckyTaskId: 101352
+drawLuckyTaskId: 1022301
 
 #抽蛋箭头坐标
-drawLuckyPoint: [-615.6, 12, -212.62]
+drawLuckyPoint: [-623.5, 12, -214.5]
