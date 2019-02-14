@@ -48,3 +48,9 @@ id	teamId	itemId	num	meta	image	quality
 46	804	930403	1	0	set:bird_icon.json image:body_10403	4
 47	805	940403	1	0	set:bird_icon.json image:body_40403	4
 48	806	920403	1	0	set:bird_icon.json image:body_30403	4
+49	901	900402	1	0	set:bird_icon.json image:body_50402	4
+50	902	900403	1	0	set:bird_icon.json image:body_50403	4
+51	903	900404	1	0	set:bird_icon.json image:body_50404	4
+52	904	900405	1	0	set:bird_icon.json image:body_50405	4
+53	905	900406	1	0	set:bird_icon.json image:body_50406	4
+54	906	900407	1	0	set:bird_icon.json image:body_50407	4
