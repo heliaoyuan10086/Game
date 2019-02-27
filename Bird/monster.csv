@@ -1,12 +1,12 @@
-﻿id	名字多语言	生命值	攻击力	攻击cd	攻击距离	移动速度	死亡后刷新cd	actor名称	默认配置应该是body	bodyId	杀死获得的奖励(#分割)	杀死获得的奖励数量(#分割)	杀死获得的经验
-id	name	hp	attack	attackCD	attackDistance	moveSpeed	refreshCD	actorName	actorBody	actorBodyId	reward	num	exp
-4001	monstername_4001	30	12	3	2	50	180	g1041_beetlered.actor	body	1	9000001	300	1
-4002	monstername_4002	30	12	3	2	50	180	g1041_beetleyellow.actor	body	1	9000001	300	1
-4003	monstername_4003	30	12	3	2	50	180	g1041_beetleblue.actor	body	1	9000001	300	1
-4004	monstername_4004	30	12	3	2	50	180	g1041_beetlegreen.actor	body	1	9000001	300	1
-4005	monstername_4005	150	16.8	3	2	150	480	g1041_beetlered.actor	body	1	9000001	1500	3
-4006	monstername_4006	150	16.8	3	2	150	480	g1041_beetleyellow.actor	body	1	9000001	1500	3
-4007	monstername_4007	150	16.8	3	2	150	480	g1041_beetleblue.actor	body	1	9000001	1500	3
-4008	monstername_4008	150	16.8	3	2	150	480	g1041_beetlegreen.actor	body	1	9000001	1500	3
-4009	monstername_4009	370	21.6	3	3	250	1020	g1041_spider.actor	body	1	9000001	3700	7
-4010	monstername_4010	810	24	3	3	300	1440	g1041_mantis.actor	body	1	9000001	8100	10
+id	名字多语言	生命值	攻击力	攻击cd	攻击距离	移动速度	死亡后刷新cd	actor名称	默认配置应该是body	bodyId	杀死获得的奖励(#分割)	杀死获得的奖励数量(#分割)	杀死获得的经验	杀死后获得的战斗点数
+id	name	hp	attack	attackCD	attackDistance	moveSpeed	refreshCD	actorName	actorBody	actorBodyId	reward	num	exp	fightPoint
+4001	monstername_4001	30	12	3	2	50	180	g1041_beetlered.actor	body	1	9000001	300	1	1
+4002	monstername_4002	30	12	3	2	50	180	g1041_beetleyellow.actor	body	1	9000001	300	1	1
+4003	monstername_4003	30	12	3	2	50	180	g1041_beetleblue.actor	body	1	9000001	300	1	1
+4004	monstername_4004	30	12	3	2	50	180	g1041_beetlegreen.actor	body	1	9000001	300	1	1
+4005	monstername_4005	150	16.8	3	2	150	480	g1041_beetlered.actor	body	1	9000001	1500	3	1
+4006	monstername_4006	150	16.8	3	2	150	480	g1041_beetleyellow.actor	body	1	9000001	1500	3	1
+4007	monstername_4007	150	16.8	3	2	150	480	g1041_beetleblue.actor	body	1	9000001	1500	3	1
+4008	monstername_4008	150	16.8	3	2	150	480	g1041_beetlegreen.actor	body	1	9000001	1500	3	1
+4009	monstername_4009	370	21.6	3	3	250	1020	g1041_spider.actor	body	1	9000001	3700	7	1
+4010	monstername_4010	810	24	3	3	300	1440	g1041_mantis.actor	body	1	9000001	8100	10	1
