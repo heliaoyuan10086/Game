@@ -1073,10 +1073,10 @@ item.backpack.name_09=钢铁娃
 
 skillcontent_1=有几率获得果币
 skillcontent_2=+100%水果，持续30秒
-skillcontent_3=+10%蓝色水果，持续15秒
-skillcontent_4=+10%红色水果，持续15秒
-skillcontent_5=+10%黄色水果，持续15秒
-skillcontent_6=+10%绿色水果，持续15秒
+skillcontent_3=+1蓝色水果，持续15秒
+skillcontent_4=+1红色水果，持续15秒
+skillcontent_5=+1黄色水果，持续15秒
+skillcontent_6=+1绿色水果，持续15秒
 skillcontent_7=+20%攻击，持续20秒
 skillcontent_8=+20%玩家速度，持续20秒
 skillcontent_9=+100%攻击，持续30秒
