@@ -1189,6 +1189,7 @@ birdname_900404=▢FFFFDD00Bull▢FFFFFFFF
 birdname_900405=▢FFFFDD00Red Bat▢FFFFFFFF
 birdname_900406=▢FFFFDD00Fire Bird▢FFFFFFFF
 birdname_900407=▢FFFFDD00Flying Fish▢FFFFFFFF
+<<<<<<< HEAD
 
 
 
@@ -1472,6 +1473,291 @@ can_not_delete_last_bird=마지막 새를 삭제할 수 없습니다.
 gui_bird_tip_delete_bird=새 [%s]을 (를) 삭제 하시겠습니까?
 gui_bird_tip_delete_bird_fail=마지막 새를 삭제할 수 없습니다.
 gui_bird_next_task_time=다음 작업 \\n %s
+=======
+	
+	
+	
+fruitcoin_1041001=쿠키	
+fruitcoin_1041009=블루 베리	
+fruitcoin_1041006=키위	
+fruitcoin_1041005=포도	
+fruitcoin_1041010=복숭아	
+fruitcoin_1041003=바나나	
+fruitcoin_1041004=수박	
+fruitcoin_1041018=사과	
+fruitcoin_9000001=과일 동전	
+fruitcoin_9000002=티켓	
+	
+	
+	
+	
+	
+	
+	
+not_enough_money=불충분 한 동전	
+pay_failure=결제 거부 됨	
+something_error=오류가 발생했습니다.	
+bird_capacity_full=새 둥지	
+bird_carry_already_max_level=최대 네스트 용량	
+bird_capacity_already_max_level=최대 가방 용량	
+update_maxCapacity_first=가방 용량을 확장하십시오	
+can_carry_num_max=새 둥지	
+fuse_wrong_happen=융합 오류	
+fuse_has_not_bird=당신은이 새가 없습니다.	
+fuse_must_be_same_quality=퓨전은 동일한 품질이 필요합니다.	
+food_not_enough=불충분 한 음식	
+fuse_need_detach_bird=새를 운반 할 수 없다.	
+bird_max_level=새가 최대 수준에 도달했습니다.	
+	
+	
+	
+monstername_4001=붉은 비틀 lv1	
+monstername_4002=노란 딱정벌레 lv1	
+monstername_4003=푸른 비틀 lv1	
+monstername_4004=녹색 비틀 lv1	
+monstername_4005=붉은 비틀 lv3	
+monstername_4006=노란 딱정벌레 lv3	
+monstername_4007=푸른 비틀 lv3	
+monstername_4008=녹색 비틀 lv3	
+monstername_4009=거미 lv5	
+monstername_4010=Mantis lv6	
+	
+labelname_1=요일	
+labelname_2=머리 장식품	
+labelname_3=안경	
+labelname_4=꼬리	
+labelname_5=식품	
+labelname_6=돈	
+	
+teamname_9999=신규 사용자 패키지	
+teamname_901=잠수부	
+teamname_902=파티를 열어 라.	
+teamname_903=청동	
+teamname_904=울타리	
+teamname_905=눈부신	
+teamname_906=선견지명이없는	
+teamname_907=스카프	
+teamname_908=벨트	
+teamname_909=사랑하는 마음	
+teamname_910=침 타월	
+teamname_911=바둑콩	
+teamname_912=수영 반지	
+teamname_801=공주님	
+teamname_802=장미	
+teamname_803=Bruse	
+teamname_804=모서리	
+teamname_805=왕관	
+teamname_806=봄	
+teamname_807=왕자	
+teamname_808=신사	
+teamname_809=공작	
+teamname_810=노력 중	
+teamname_811=천사	
+teamname_812=기계	
+teamname_813=깃	
+teamname_814=케이크	
+teamname_815=밀짚 모자	
+teamname_816=녹색 머리카락	
+teamname_817=용 경적	
+teamname_701=로켓	
+teamname_702=푸른 불꽃	
+teamname_703=픽셀 방출	
+teamname_704=레이저 볼	
+teamname_705=거품	
+teamname_706=핑크 구름	
+teamname_707=푸른 구름	
+teamname_708=돈의 힘	
+teamname_709=매직 큐브	
+teamname_710=월스트리트	
+teamname_711=메탈 록	
+teamname_712=낙지 공	
+teamname_713=불타는 듯한 빛깔	
+teamname_714=환상적인 참고	
+teamname_715=나는 부자 야!	
+teamname_716=소녀	
+teamname_717=소년	
+teamname_718=꽃잎	
+teamname_719=이파리	
+teamname_601=쿠키 * 100	
+teamname_602=바나나 * 100	
+teamname_603=수박 * 100	
+teamname_604=포도 * 100	
+teamname_605=키위 * 100	
+teamname_606=블루 베리 * 100	
+teamname_607=복숭아 * 100	
+teamname_501=동전 가슴	
+teamname_502=티켓 가슴	
+teamname_503=패스	
+teamname_504=+수집	
+teamname_505=변환 +	
+teamname_506=전투 +	
+teamname_401=티켓	
+teamname_402=티켓	
+teamname_403=티켓	
+teamname_404=티켓	
+teamname_405=과일 동전	
+teamname_406=과일 동전	
+teamname_407=과일 동전	
+teamname_408=과일 동전	
+	
+	
+	
+	
+discribe_9999=제한된 birdy 새 해 돼지 내부와 신참 패키지입니다.	
+discribe_901=새가 행복한 잠수부가되게하십시오.	
+discribe_902=파티 타임!	
+discribe_903=복고풍 스타일이 나를 평온하게 만듭니다.	
+discribe_904=너 나를 볼 수 없어.	
+discribe_905=나는 번개이다!	
+discribe_906=조류 독서 안경을 착용.	
+discribe_907=항상 따뜻하게 지내십시오!	
+discribe_908=이것은 공식적인 행사에 적합합니다.	
+discribe_909=사랑의 하트 안경을 착용하면 사랑의 꽃을 가져옵니다!	
+discribe_910=사실, 나는 타액이야.	
+discribe_911=여성을위한 필수 아이템.	
+discribe_912=수영장 파티를하고 싶니?	
+discribe_801=나는 공주이다.	
+discribe_802=나는 행복한 작은 빨간 승마 두건이다!	
+discribe_803=파란색 모자를 쓰는 것은 더 젊어 보인다.	
+discribe_804=와서 내 힘을 느껴봐!	
+discribe_805=오늘, 나는 왕이다!	
+discribe_806=진드기	
+discribe_807=왕자가 왔어!	
+discribe_808=신사가 되십시오.	
+discribe_809=공작새가 열린 걸 본 적이 있니?	
+discribe_810=어서! !	
+discribe_811=나는 천사 야, 너 내 도움이 필요해?	
+discribe_812=기계 새가 여기 있습니다.	
+discribe_813=나는 인도 사람입니다.	
+discribe_814=생일 케이크 갖고 싶니?	
+discribe_815=내 밀짚 모자는 판매용이 아닙니다.	
+discribe_816=녹색 머리를 염색하지 마십시오.	
+discribe_817=나는 뒤에 내 머리와 꼬리에 뿔이있다.	
+discribe_701=꼬리에 불이 붙어서 빠른 날아가는 것은 아닙니다.	
+discribe_702=파란 불꽃은 더 높은 온도를 가지고 있습니다.	
+discribe_703=픽셀 촬영!	
+discribe_704=비우 비우 비우	
+discribe_705=GlugGlug	
+discribe_706=분홍색 분위기	
+discribe_707=푸른 분위기	
+discribe_708=나의 초능력은 풍부합니다.	
+discribe_709=Magic은 큐브를 만들고 큐브는 세계를 만듭니다.	
+discribe_710=탐욕은 미덕입니다.	
+discribe_711=가벼운 공을 돌려 보자, RockandRoll!	
+discribe_712=문어, 스프레이!	
+discribe_713=내 꼬리가 불을 뿜을거야?	
+discribe_714=내 BGM으로 비행!	
+discribe_715=놀람 돈을 얻기 위해 나를 뒤쫓아 가라.	
+discribe_716=소녀 만	
+discribe_717=소년 전용	
+discribe_718=꽃잎은 바람에 떠있다.	
+discribe_719=잎은 바람과 함께 날고있다.	
+discribe_601=새에게 1 Exp 추가	
+discribe_602=새에 5 Exp	
+discribe_603=새에 5 Exp	
+discribe_604=새에 5 Exp	
+discribe_605=새에 5 Exp	
+discribe_606=새가 10 Exp	
+discribe_607=새가 10 Exp	
+discribe_501=VIP 과일 동전 가슴에 접근	
+discribe_502=VIP 티켓 발매	
+discribe_503=VIP 섹션 액세스	
+discribe_504=플레이어 수집 금액의 20 %	
+discribe_505=새 과일 열매의 50 %+ 전환율	
+discribe_506=+ 플레이어 기본 건강의 100 %	
+discribe_401=10 장 구입	
+discribe_402=100 티켓 구매	
+discribe_403=500 티켓 구매	
+discribe_404=3000 티켓 구매	
+discribe_405=5000 과일 동전 구입	
+discribe_406=50000 개의 과일 주화 구매	
+discribe_407=500000 개의 과일 주화 구매	
+discribe_408=5000000 과일 주머니 구입	
+	
+	
+	
+item.backpack.name_01=Hiking Bag	
+item.backpack.name_02=Delivery Package	
+item.backpack.name_03=large Fries	
+item.backpack.name_04=Beer Case	
+item.backpack.name_05=Small Red Bag	
+item.backpack.name_06=Tool Box	
+item.backpack.name_07=Aged Wine	
+item.backpack.name_08=Fuel Station	
+item.backpack.name_09=Iron boy	
+item.backpack.name_10=Strawberry Bag	
+item.backpack.name_11=Bear Bag	
+item.backpack.name_12=Schoolbag	
+item.backpack.name_13=Pineapple Bag	
+item.backpack.name_14=Watermelon Bag	
+item.backpack.name_15=Ladybird Bag	
+item.backpack.name_16=Field Battle Bag	
+item.backpack.name_17=Tool Bag	
+item.backpack.name_18=Travel Bag	
+item.toolGather_01.name=Shovel	
+item.toolGather_02.name=Rake	
+item.toolGather_03.name=Scissors	
+item.toolGather_04.name=Magnet	
+item.toolGather_05.name=Vacuum Cleaner	
+item.toolGather_06.name=Magnetic Shovel	
+item.toolGather_07.name=Gravity Stick	
+item.toolGather_08.name=Electromagnet	
+item.toolGather_09.name=Light Sword	
+item.toolGather_10.name=Reaper	
+	
+	
+item.backpack.describe_01=강력한 나침반과 하이킹 가방. \\ n 가방 용량 100	
+item.backpack.describe_02=총 10,000 개의 비트 코인 두 피자를 주문하셨습니다. \\ n 가방 용량 500	
+item.backpack.describe_03=초대형 프렌치 프라이, 같은 가격. \\ n 가방 용량 900	
+item.backpack.describe_04=그것은 와인이 아니며 주스입니다. \\ n 가방 용량 4000	
+item.backpack.describe_05=작아 보이지만 내부에 많은 것을 저장할 수 있습니다. \\ n 가방 용량 23000	
+item.backpack.describe_06=전문 트레이너는 전문 가방을 사용해야합니다. \\ n 가방 용량 70000	
+item.backpack.describe_07=좋은 주스는 좋은 와인을 만듭니다. \\ n 가방 용량 190000	
+item.backpack.describe_08=여기의 차는 주스로 연료를 공급받습니다. \\ n 가방 용량 300000	
+item.backpack.describe_09=이것은 스탁이 제작 한 것입니다. \\ n 가방 용량 260000	
+item.backpack.describe_10=이것은 딸기 주머니가 아니라 거북이 껍질입니다! \\ n 가방 용량 300	
+item.backpack.describe_11=이런! 너무 달다! \\ n 가방 용량 1000	
+item.backpack.describe_12=새가 말한다 : "좋은 아침, 왜 작은 가방을 가지고 다니니?" \\ n 가방 용량 2500	
+item.backpack.describe_13=빅 파인애플 VI \\ n 가방 용량 8000	
+item.backpack.describe_14=너 내가 왜 이렇게 수박을 자른 지 물었다. 글쎄, 당신 bussiness 아니에요! \\ n 가방 용량 14000	
+item.backpack.describe_15=내가 이걸 나르고 있다면 붉은 딱정벌레가 맞지 않을거야, 그렇지? \\ n 가방 용량 27000	
+item.backpack.describe_16=작은 새 전사 용으로 설계된 대용량 배낭. \\ n 가방 용량 60000	
+item.backpack.describe_17=공구 가방이 좋고 실용적입니다. 그것을 사지 않고 후회하십시오. \\ n 가방 용량 100000	
+item.backpack.describe_18=특대 여행 가방이 최고의 선택이라는 것은 의심의 여지가 없습니다. \\ n 가방 용량 190000	
+	
+item.toolGather_01.describe=가장 기본적인 수집 도구. \\ n 1 초에 과일 블록 2 개에서 과일 1 개를 수집하십시오.	
+item.toolGather_02.describe=삽보다 약간 더 효율적입니다. \\ n 1 초 동안 5 개의 과일 블록에서 과일 1 개를 수집하십시오.	
+item.toolGather_03.describe=너가 과일을 볼 때 그것을 떨어져 자르 십시요. \\ n0.6 초에 1 개의 과일 블록에서 8 개의 과일을 수집하십시오.	
+item.toolGather_04.describe=열매를 자기 흡착합니다. \\ n 1.5 초 안에 4 개의 과일 블록에서 6 개의 과일을 수집하십시오.	
+item.toolGather_05.describe=흡착을 증가시키고 효율을 증가시킵니다. \\ n 1 초 안에 9 개의 과일 블록에서 3 개의 과일을 수집하십시오.	
+item.toolGather_06.describe=자기 삽은 주위의 과일을 흡착 할 수 있습니다. \\ n 0.3 초 안에 4 개의 과일 블록에서 5 개의 과일을 수집합니다.	
+item.toolGather_07.describe=만유 인력 원리에 입각 한 수집가. \\ n 1.2 초 안에 14 개의 과일 블록에서 10 개의 과일을 수집합니다.	
+item.toolGather_08.describe=자력을 강하게하십시오. \\ n 0.7 초 내에 22 개의 과일 블록에서 5 개의 과일을 수집하십시오.	
+item.toolGather_09.describe=실제 주인은 과일을 절단하여 칼을 연습했다고합니다. \\ n 1.6 초 동안 20 과일 열매에서 과일 16 개를 수집합니다.	
+item.toolGather_10.describe=이 낫은 단순히 과일을 자르는 것 이상입니다. \\ n 0.8 초 안에 25 개의 과일 블록에서 9 개의 과일을 수집합니다.	
+	
+	
+	
+tastlang_id_66001=청동 계란 기계	
+tastlang_id_66002=실버 달걀 기계	
+tastlang_id_66003=크리스탈 달걀 기계	
+tastlang_id_66004=금 달걀 기계	
+tastlang_id_66005=백금 계란 기계	
+tastlang_id_66006=에픽 달걀 기계	
+tastlang_id_66007=다이아몬드 에그 기계	
+tastlang_id_66008=전설 달걀 기계	
+tastlang_id_66009=큐브 에그 머신	
+	
+	
+chesttips1=티켓 가슴을 열어 상점에서 구매할 권한이 없습니까?	
+chesttips2=과일 코인 가슴을 열 수있는 권한이 없으며 가게에서 구매할 수 있습니까?	
+vipArea=Vip 패스가 없으며 매장에서 구매할 수 있습니까?	
+	
+can_not_delete_last_bird=마지막 새를 삭제할 수 없습니다.	
+gui_bird_tip_delete_bird=새 [%s]을 (를) 삭제 하시겠습니까?	
+gui_bird_tip_delete_bird_fail=마지막 새를 삭제할 수 없습니다.	
+gui_bird_next_task_time=다음 작업 \\ n %s	
+>>>>>>> e0c1ae274de6a83ab30cd5c23111c0f91e9a5499
 gui_bird_pack_btn_delete=지우다
 gui_bird_pack_btn_equip=나르다
 gui_bird_pack_btn_unequip=휴가
