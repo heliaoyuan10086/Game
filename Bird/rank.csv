@@ -1,3 +1,5 @@
-id	x坐标	y坐标	z坐标	朝向(0,90,180,270)	名字多语言	公告板id
+id	x坐标	y坐标	z坐标	朝向(0,90,180,270)	名字多语言	公告板id（1是采集总榜，2是采集日榜，3是战斗榜）
 id	x	y	z	yaw	name	bulletinId
-1	-609	11	-233	270	name	1
+1	-647	11	-204.5	270	TotalCollect	1
+2	-647	11	-196.5	270	DailyCollect	2
+3	-660.5	14	-254	0	FightPoint	3

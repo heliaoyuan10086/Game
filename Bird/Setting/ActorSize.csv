@@ -8,6 +8,7 @@ g1041_gate8.actor	5	5	3	8级门
 g1041_gate10.actor	5	5	3	10级门
 g1041_gate15.actor	5	5	3	15级men
 g1041_gatevip.actor	8.7	1	7	VIP门
+g1041_gateblue.actor	5	5	3	蓝色商店门
 g1041_mantis.actor	1	1	4.5	螳螂
 g1041_bagpack.actor	1	1	2.3	登山包
 g1041_bagpack.actor	1	1	2.3	草莓包
