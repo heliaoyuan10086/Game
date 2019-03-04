@@ -1,6 +1,6 @@
-品质	模型	body	基础分值	刷新几率（0-100百分比）	每波奖励掉落数量	每波奖励间隔	奖励组	额外奖励数量
-quantity	actor	body	basicPoint	possibility	waveAmount	waveInterval	rewardTeam	extraAmount
-1	@@@	@@@	5000	50	4	1	1#2#3#4#5	10
-2	@@@	@@@	10000	35	5	1	6#7#8#9#10	15
-3	@@@	@@@	50000	10	6	1	11#12#13#14#15	20
-4	@@@	@@@	200000	5	7	1	16#17#18#19#20	25
+id	品质	模型	body	基础分值	刷新几率（0-100百分比）	每波奖励掉落数量	每波奖励间隔	奖励组	额外奖励数量
+id	quantity	actor	body	basicPoint	possibility	waveAmount	waveInterval	rewardTeam	extraAmount
+1	1	@@@	@@@	5000	50	4	1	1#2#3#4#5	10
+2	2	@@@	@@@	10000	35	5	1	6#7#8#9#10	15
+3	3	@@@	@@@	50000	10	6	1	11#12#13#14#15	20
+4	4	@@@	@@@	200000	5	7	1	16#17#18#19#20	25
