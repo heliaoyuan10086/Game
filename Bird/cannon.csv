@@ -1,6 +1,6 @@
 模型Id	模型名称	body	bodyId	初始位置x	初始位置y	初始位置z	落地点位置x	落地点位置y	落地点位置z	等级限制	提示(GameTip/g1041.csv的id)
 id	actor	body	bodyId	x	y	z	x1	y1	z1	level	tipId
-1	g1041_cannon.actor	body	1	-598.5	13	-199.5	-657.5	17	-267.5	15	1041008
-2	g1041_cannon.actor	body	2	-661.5	32	-292.5	-609.5	11	-218.5	10	1041008
-3	g1041_cannon.actor	body	3	-638.5	15	-259.5	-681.5	23	-276.5	11	1041008
-4	g1041_cannon.actor	body	4	-609.5	16	-190.5	-671.5	27	-188.5	10	1041008
+1	g1041_cannon.actor	body	1	-598.5	13	-199.5	-657.5	17	-267.5	4	1041009
+2	g1041_cannon.actor	body	2	-661.5	32	-292.5	-609.5	11	-218.5	8	1041010
+3	g1041_cannon.actor	body	3	-638.5	15	-259.5	-681.5	23	-276.5	8	1041010
+4	g1041_cannon.actor	body	4	-609.5	16	-190.5	-671.5	27	-188.5	10	1041011
