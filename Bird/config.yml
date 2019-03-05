@@ -56,3 +56,9 @@ drawLuckyTaskId: 1022301
 
 #抽蛋箭头坐标
 drawLuckyPoint: [-623.5, 12, -214.5]
+
+#生成大树的间隔时间(秒)
+treeGenerateCD: 1800
+
+#大树没人采集时的持续时间(秒)
+treeRemainTime: 300
