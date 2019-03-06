@@ -62,3 +62,6 @@ treeGenerateCD: 1800
 
 #大树没人采集时的持续时间(秒)
 treeRemainTime: 300
+
+#大树从高等级向低等级重生的时间间隔(秒)
+treeRespawnCD: 60
