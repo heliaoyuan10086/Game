@@ -1,4 +1,4 @@
-﻿id	名字	x坐标	y坐标	z坐标	朝向	actor名称	默认配置应该是body	bodyId
+id	名字	x坐标	y坐标	z坐标	朝向	actor名称	默认配置应该是body	bodyId
 id	name	x	y	z	yaw	actorName	actorBody	actorBodyId
 1	@@@	-617.5	11	-204.5	0	g1041_fruit.actor	body	4
 2	@@@	-631.5	11	-194.5	0	g1041_fruit.actor	body	5
@@ -25,7 +25,7 @@ id	name	x	y	z	yaw	actorName	actorBody	actorBodyId
 23	@@@	-666.5	14	-281.5	0	g1041_fruit.actor	body	7
 24	@@@	-670.5	14	-257.5	0	g1041_fruit.actor	body	6
 25	@@@	-661.5	16	-276.5	0	g1041_fruit.actor	body	7
-26	@@@	-688.5	23	-286.5	0	g1041_fruit.actor	body	26
+26	@@@	-690.5	23	-288.5	0	g1041_fruit.actor	body	26
 27	@@@	-699.5	23	-303.5	0	g1041_fruit.actor	body	27
 28	@@@	-693.5	23	-304.5	0	g1041_fruit.actor	body	28
 29	@@@	-647.5	14	-172.5	0	g1041_fruit.actor	body	32
