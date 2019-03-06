@@ -6,4 +6,3 @@ id	npcType	name	actorName	actorBody	actorBodyId	x	y	z	yaw	canReceiveAction	defau
 20007	2	tastlang_id_20007	g1041_npc2.actor	body	1	-604	12	-188	180	wave	idle	g1041_stand.actor	body#body	1#2	-604	12	-190	-607	11	-193	-601	17	-187	tastlang_id_20007	tasknpc_20007	粉猪佩妮
 20008	2	tastlang_id_20008	g1041_npc1.actor	body	5	-654	14	-257	0	wave	idle	g1041_stand.actor	body#body	1#2	-654	14	-255	-657	13	-258	-651	16	-252	tastlang_id_20008	tasknpc_20008	弗雷德
 20009	2	tastlang_id_20009	g1041_npc1.actor	body	3	-612	11	-225	270	wave	idle	g1041_stand.actor	body#body	1#2	-610	11	-225	-613	10	-228	-607	16	-222	tastlang_id_20009	tasknpc_20009_1	博士贝斯
-20004	2	tastlang_id_20006	g1041_npc1.actor	body	4	-649	11	-250	270	wave	wave	g1041_stand.actor	body#body	1#2	-647	11	-250	-650	10	-253	-644	16	-247	tastlang_id_20006	tasknpc_20009_2#tasknpc_20009_3#tasknpc_20009_4#tasknpc_20009_5#tasknpc_20009_6#tasknpc_20009_7#tasknpc_20009_8	安吉拉
