@@ -65,3 +65,6 @@ treeRemainTime: 300
 
 #大树从高等级向低等级重生的时间间隔(秒)
 treeRespawnCD: 60
+
+#增加可携带小鸟数引导任务ID
+addCarryTaskId: 1030501
