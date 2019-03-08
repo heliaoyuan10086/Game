@@ -11,3 +11,4 @@ id	type	requirement	x1	y1	z1	x2	y2	z2	x	y	z	yaw	actorName	bodyName	bodyId1	bodyI
 9	1	0	-587	11	-243	-558	22	-205	-587.5	11	-228.5	90	g1041_gatevip.actor	body	1	2		VIP
 10	1	0	-587	11	-243	-558	22	-205	-587.5	11	-219.5	90	g1041_gatevip.actor	body	1	2		VIP
 11	1	0	-587	11	-243	-558	22	-205	-587.5	11	-210.5	90	g1041_gatevip.actor	body	1	2		VIP
+12	0	20	-573	16	-260	-570	21	-255	-572.5	17	-257.5	90	g1041_gatered.actor	body	3	4		蚂蚁门
