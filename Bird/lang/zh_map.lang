@@ -1479,6 +1479,5 @@ can_not_delete_last_bird=不能删除最后一只鸟
 gui_bird_tip_delete_bird=是否删除小鸟【%s】？
 gui_bird_tip_delete_bird_fail=删除失败，必须余留一只鸟。
 gui_bird_next_task_time=下一个任务刷新时间\\n%s
-
-gui_bird_add_message=获得 ▢FFFFCC66%s▢FFFFFFFFx%s
+gui_bird_add_message=获得 ▢FFFFCC66%s▢FFFFFFFF x%s
 

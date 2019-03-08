@@ -1534,7 +1534,5 @@ gui_bird_carry_full=Expandir 1 lugar
 gui_bird_capacity_full_expenditure=La capacidad de la bolsa ha alcanzado la cantidad máxima.
 gui_bird_capacity_full=Ampliar la capacidad de 5
 
-
-
 gui_bird_pack_info_gather1=Recoger:%1.f in %.1f sec
 gui_bird_pack_info_convert1=Convertir:%1.f in %.1f sec
