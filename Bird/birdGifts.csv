@@ -1,4 +1,4 @@
-天赋id	天赋图标（UI上显示）	产生的buff币id（1057 ~  1106）（1057-1066果币占用）	数值类型（1百分比，2值,  3itemID）	基础值（百分比填小数）	天赋作用时间（单位秒）	叠加次数上限	名字多语言
+天赋id	天赋图标（UI上显示）	产生的buff币id（1057 ~  1106）（1057-1066果币占用）（1093-1096抽蛋票占用）	数值类型（1百分比，2值,  3itemID）	基础值（百分比填小数）	天赋作用时间（单位秒）	叠加次数上限	名字多语言
 id	icon	coinId	type	baseValue	activeTime	maxTimes	name
 19000	set:bird_icon.json image:g1041_coin_08	1057	3	10	0	0	fruitcoin_9000001
 19001	set:bird_icon.json image:g1041_coin_08	1058	3	20	0	0	fruitcoin_9000001
@@ -15,8 +15,8 @@ id	icon	coinId	type	baseValue	activeTime	maxTimes	name
 9012	set:bird_icon.json image:g1041_coin_01	1069	2	1	15	5	@@@
 9013	set:bird_icon.json image:g1041_coin_02	1070	2	1	15	5	@@@
 9014	set:bird_icon.json image:g1041_coin_04	1071	2	1	15	5	@@@
-9020	@@@	1072	1	-0.25	30	1	@@@
-9021	@@@	1073	1	-0.1	10	5	@@@
+9020	set:bird_icon.json image:g1041_coin_05	1072	1	1	30	1	@@@
+9021	set:bird_icon.json image:g1041_coin_06	1073	2	250	30	1	@@@
 9022	@@@	1074	1	-0.1	10	5	@@@
 9023	@@@	1075	1	-0.1	10	5	@@@
 9024	@@@	1076	1	-0.1	10	5	@@@
@@ -36,3 +36,7 @@ id	icon	coinId	type	baseValue	activeTime	maxTimes	name
 16006	set:bird_icon.json image:g1041_coin_14	1090	3	1041003	0	0	fruitcoin_1041003
 16007	set:bird_icon.json image:g1041_coin_15	1091	3	1041004	0	0	fruitcoin_1041004
 16008	set:bird_icon.json image:g1041_coin_16	1092	3	1041018	0	0	fruitcoin_1041018
+16009	set:bird_icon.json image:storeitem_01	1093	3	1	0	0	@@@
+16010	set:bird_icon.json image:storeitem_01	1094	3	3	0	0	@@@
+16011	set:bird_icon.json image:storeitem_01	1095	3	5	0	0	@@@
+16012	set:bird_icon.json image:storeitem_01	1096	3	10	0	0	@@@
