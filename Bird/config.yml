@@ -67,4 +67,5 @@ treeRemainTime: 300
 treeRespawnCD: 60
 
 #增加可携带小鸟数引导任务ID
-addCarryTaskId: 1030501
+addCarryTo3TaskId: 1030501
+addCarryTo4TaskId: 1040501
