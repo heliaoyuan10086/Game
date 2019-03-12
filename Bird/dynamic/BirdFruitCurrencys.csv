@@ -1,4 +1,4 @@
-﻿	ItemId	Icon	Name	MeshName
+	ItemId	Icon	Name	MeshName
 中文备注	ItemId(1057 – 1106)	图标	多语言名称	多语言名称
 	1057			g1041_coin_08.mesh
 	1058			g1041_coin_08.mesh
@@ -25,3 +25,9 @@
 	1090			g1041_coin_14.mesh
 	1091			g1041_coin_15.mesh
 	1092			g1041_coin_16.mesh
+	1072			g1041_coin_05.mesh
+	1073			g1041_coin_06.mesh
+	1093			g1041_coin_16.mesh
+	1094			g1041_coin_16.mesh
+	1095			g1041_coin_16.mesh
+	1096			g1041_coin_16.mesh
