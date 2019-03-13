@@ -21,6 +21,6 @@ id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice
 19	1035	g1041_weapon_guns.actor	set:bird_icon.json image:weapon9	body	1	item.toolGather_09.name	-663.5	25	-170.5	0	15000000	3	1	item.toolGather_09.describe	101005	gun	weapon_30.mesh
 20	2011	g1041_bagpack.actor	set:bird_icon.json image:bagpack_09	bagpack	9	item.backpack.name_09	-659.5	25	-170.5	0	52000000	3	2	item.backpack.describe_09	101005	custom_bag	9
 21	1036	g1041_weapon_guns.actor	set:bird_icon.json image:weapon10	body	2	item.toolGather_10.name	-663.5	25	-157.5	90	60000000	3	1	item.toolGather_10.describe	101005	gun	weapon_31.mesh
-22	4001	g1041_bagpack.actor	set:bird_icon.json image:bagpack_01	bagpack	1	item.backpack.name_01	-650.5	13	-298.5	270	10000	3	4	@@@	101003	custom_wing	13
-23	4002	g1041_bagpack.actor	set:bird_icon.json image:bagpack_01	bagpack	1	item.backpack.name_01	-698.5	29	-269.5	225	3000000	3	4	@@@	101002	custom_wing	1
-24	4003	g1041_bagpack.actor	set:bird_icon.json image:bagpack_01	bagpack	1	item.backpack.name_01	-626.5	16	-181	270	50000000	3	4	@@@	101004	custom_wing	1
+22	4001	g1041_wings.actor	set:bird_icon.json image:bagpack_01	body	1	item.backpack.name_01	-650.5	14	-298.5	270	10000	3	4	@@@	101003	custom_wing	17
+23	4002	g1041_wings.actor	set:bird_icon.json image:bagpack_01	body	1	item.backpack.name_01	-701.5	30	-276.5	270	3000000	3	4	@@@	101002	custom_wing	17
+24	4003	g1041_wings.actor	set:bird_icon.json image:bagpack_01	body	1	item.backpack.name_01	-626.5	17	-181	270	50000000	3	4	@@@	101004	custom_wing	17
