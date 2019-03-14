@@ -1472,3 +1472,23 @@ can_not_delete_last_bird=Can't delete the last bird
 gui_bird_tip_delete_bird=Delete bird 【%s】?
 gui_bird_tip_delete_bird_fail=Can't delete the last bird
 gui_bird_next_task_time=Next Task\\n%s
+
+gui_bird_add_message=received ▢FFFFCC66%s▢FFFFFFFF x%s
+
+item.wings_01.name=Sky wings
+item.wings.describe_01=With this pair of wings, you can hover in the sky.\\nDrop deceleration: 20%
+item.wings_02.name=Golden wings
+item.wings.describe_02=The symbol of nobility, shining and elegant.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
+item.wings_03.name=Magic wings
+item.wings.describe_03=There is magic power hidden in this pair of wings.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
+item.wings_04.name=Future wings
+item.wings.describe_04=Mechanical wings from the future, full of the power of technology.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
+
+help.text_01=When you are in the fruit fields, you can collect fruits with collector, while your birds will help you as well.
+help.text_02=If your backpack is full, go to the nest to convert the fruits into coins.
+help.text_03=Remember to feed your bird. When your bird levels up, its properties will be significantly promoted.
+help.text_04=You should rely on your birds to defeat monsters, while you yourself cannot deal any damage.
+help.text_05=When you are equipped with wings, you can use them in the air to fly.
+help.text_06=You have to carry a certain number of birds to pass the red doors.
+help.text_07=Cannons can help you shuttle between different zones, but you must carry enough birds to use them.
+

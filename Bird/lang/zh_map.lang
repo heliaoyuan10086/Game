@@ -1479,5 +1479,22 @@ can_not_delete_last_bird=不能删除最后一只鸟
 gui_bird_tip_delete_bird=是否删除小鸟【%s】？
 gui_bird_tip_delete_bird_fail=删除失败，必须余留一只鸟。
 gui_bird_next_task_time=下一个任务刷新时间\\n%s
+
 gui_bird_add_message=获得 ▢FFFFCC66%s▢FFFFFFFF x%s
 
+item.wings_01.name=蓝天之翼
+item.wings.describe_01=有了这对翅膀，就可以在蓝天之中翱翔了。\\n下落减速：20%
+item.wings_02.name=黄金之翼
+item.wings.describe_02=贵族的象征，闪亮且高贵。\\n下落减速：25%\\n飞行加速: +10%
+item.wings_03.name=魔法之翼
+item.wings.describe_03=这对翅膀中蕴藏着魔法的力量。\\n下落减速：25%\\n飞行加速: +10%
+item.wings_04.name=未来之翼
+item.wings.describe_04=来自未来的机械翅膀，充满了科技的力量。\\n下落减速: 30%\\n飞行加速: +30%
+
+help.text_01=当你在水果田里的时候，你可以用采集器收集水果，你的小鸟也会帮你采集。
+help.text_02=如果你的背包满了，就去鸟巢转换成果币。
+help.text_03=记得喂食你的小鸟，当你的小鸟等级变高之后，它的属性会大幅提高。
+help.text_04=你需要依靠你的小鸟攻击怪物，但是你自己无法对怪物造成伤害。
+help.text_05=当你装备翅膀之后，你可以在空中打开翅膀飞行。
+help.text_06=你必须携带一定数量的小鸟才能通过红色的门。
+help.text_07=大炮可以帮助你在不同区域间快速穿梭，但是你必须拥有足够数量的小鸟才可以使用。
