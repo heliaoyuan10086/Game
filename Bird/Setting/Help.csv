@@ -1,5 +1,9 @@
 	Id	Icon	Name	Content
 中文备注	Id	图标	标题	内容
-	1	set:bird_icon.json image:xinshoulibao_01	我是测试1	我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试
-	2	set:bird_icon.json image:xinshoulibao_02	我是测试2	我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试
-	3	set:bird_icon.json image:xinshoulibao_03	我是测试3	我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试我是测试
+采集	1	set:bird_icon.json image:xinshoulibao_01	helptitle.text_01	help.text_01
+转换	2	set:bird_icon.json image:xinshoulibao_02	helptitle.text_02	help.text_02
+喂食	3	set:bird_icon.json image:xinshoulibao_03	helptitle.text_03	help.text_03
+战斗	4	set:bird_icon.json image:xinshoulibao_01	helptitle.text_04	help.text_04
+翅膀	5	set:bird_icon.json image:xinshoulibao_02	helptitle.text_05	help.text_05
+区域门	6	set:bird_icon.json image:xinshoulibao_03	helptitle.text_06	help.text_06
+大炮	7	set:bird_icon.json image:xinshoulibao_01	helptitle.text_07	help.text_07

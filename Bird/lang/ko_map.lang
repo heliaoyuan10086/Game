@@ -1843,3 +1843,11 @@ help.text_04=괴물을 물리 치기 위해 새들을 의지해야하지만 자�
 help.text_05=날개가 장착되면 공중에서 날기 위해 날개를 사용할 수 있습니다.
 help.text_06=빨간 문을 통과시키기 위해서는 일정 수의 새들을 태우셔야합니다.
 help.text_07=대포는 서로 다른 지역을 왕복하는 데 도움을 줄 수 있지만 충분한 새를 가지고 있어야만 사용할 수 있습니다.
+
+helptitle.text_01=Collect
+helptitle.text_02=Convert
+helptitle.text_03=Feed
+helptitle.text_04=Fight
+helptitle.text_05=Wings
+helptitle.text_06=Zone doors
+helptitle.text_07=Cannons

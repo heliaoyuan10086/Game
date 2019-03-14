@@ -1558,3 +1558,11 @@ help.text_04=Anda harus mengandalkan burung Anda untuk mengalahkan monster, seme
 help.text_05=Ketika Anda dilengkapi dengan sayap, Anda dapat menggunakannya di udara untuk terbang.
 help.text_06=Anda harus membawa sejumlah burung untuk melewati pintu merah.
 help.text_07=Meriam dapat membantu Anda antar-jemput antara zona yang berbeda, tetapi Anda harus membawa cukup burung untuk menggunakannya.
+
+helptitle.text_01=Collect
+helptitle.text_02=Convert
+helptitle.text_03=Feed
+helptitle.text_04=Fight
+helptitle.text_05=Wings
+helptitle.text_06=Zone doors
+helptitle.text_07=Cannons

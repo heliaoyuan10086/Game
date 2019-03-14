@@ -1492,3 +1492,10 @@ help.text_05=When you are equipped with wings, you can use them in the air to fl
 help.text_06=You have to carry a certain number of birds to pass the red doors.
 help.text_07=Cannons can help you shuttle between different zones, but you must carry enough birds to use them.
 
+helptitle.text_01=Collect
+helptitle.text_02=Convert
+helptitle.text_03=Feed
+helptitle.text_04=Fight
+helptitle.text_05=Wings
+helptitle.text_06=Zone doors
+helptitle.text_07=Cannons

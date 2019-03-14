@@ -1558,3 +1558,11 @@ help.text_04=Canavarları yenmek için kuşlarına güvenmelisin, ayrıca sen de
 help.text_05=Kanatlarla donatıldığında, onları havada uçmak için kullanabilirsin.
 help.text_06=Kırmızı kapıları geçebilmek için belirli sayıda kuş taşımalısınız.
 help.text_07=Toplar, farklı bölgeler arasında mekiğinize yardımcı olabilir, ancak bunları kullanmak için yeterli sayıda kuş taşımalısınız.
+
+helptitle.text_01=Collect
+helptitle.text_02=Convert
+helptitle.text_03=Feed
+helptitle.text_04=Fight
+helptitle.text_05=Wings
+helptitle.text_06=Zone doors
+helptitle.text_07=Cannons

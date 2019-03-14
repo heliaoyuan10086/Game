@@ -1569,3 +1569,11 @@ help.text_04=Вы должны положиться на своих птиц, ч
 help.text_05=Когда у вас есть крылья, вы можете использовать их в воздухе, чтобы летать.
 help.text_06=Вы должны нести определенное количество птиц, чтобы пройти красные двери.
 help.text_07=Пушки могут помочь вам перемещаться между различными зонами, но вы должны нести достаточно птиц, чтобы использовать их.
+
+helptitle.text_01=Collect
+helptitle.text_02=Convert
+helptitle.text_03=Feed
+helptitle.text_04=Fight
+helptitle.text_05=Wings
+helptitle.text_06=Zone doors
+helptitle.text_07=Cannons

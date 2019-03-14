@@ -1498,3 +1498,11 @@ help.text_04=你需要依靠你的小鸟攻击怪物，但是你自己无法对�
 help.text_05=当你装备翅膀之后，你可以在空中打开翅膀飞行。
 help.text_06=你必须携带一定数量的小鸟才能通过红色的门。
 help.text_07=大炮可以帮助你在不同区域间快速穿梭，但是你必须拥有足够数量的小鸟才可以使用。
+
+helptitle.text_01=采集
+helptitle.text_02=转换
+helptitle.text_03=喂食
+helptitle.text_04=战斗
+helptitle.text_05=翅膀
+helptitle.text_06=区域门
+helptitle.text_07=大炮

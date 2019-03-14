@@ -1559,3 +1559,10 @@ help.text_05=Wenn Sie mit Flügeln ausgestattet sind, können Sie diese in der L
 help.text_06=Sie müssen eine bestimmte Anzahl Vögel tragen, um die roten Türen zu passieren.
 help.text_07=Kanonen können Ihnen dabei helfen, zwischen verschiedenen Zonen zu wechseln, aber Sie müssen genügend Vögel mitbringen, um sie benutzen zu können.
 
+helptitle.text_01=Collect
+helptitle.text_02=Convert
+helptitle.text_03=Feed
+helptitle.text_04=Fight
+helptitle.text_05=Wings
+helptitle.text_06=Zone doors
+helptitle.text_07=Cannons
