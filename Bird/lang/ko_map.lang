@@ -1825,22 +1825,21 @@ gui_bird_capacity_full=용량 5 확장
 gui_bird_pack_info_gather1=수집 :%1.f in %.1f sec
 gui_bird_pack_info_convert1=변환 :%1.f in %.1f sec
 
-gui_bird_add_message=received ▢FFFFCC66%s▢FFFFFFFF x%s
-
-item.wings_01.name=Sky wings
-item.wings.describe_01=With this pair of wings, you can hover in the sky.\\nDrop deceleration: 20%
-item.wings_02.name=Golden wings
-item.wings.describe_02=The symbol of nobility, shining and elegant.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
-item.wings_03.name=Magic wings
-item.wings.describe_03=There is magic power hidden in this pair of wings.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
-item.wings_04.name=Future wings
-item.wings.describe_04=Mechanical wings from the future, full of the power of technology.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
-
-help.text_01=When you are in the fruit fields, you can collect fruits with collector, while your birds will help you as well.
-help.text_02=If your backpack is full, go to the nest to convert the fruits into coins.
-help.text_03=Remember to feed your bird. When your bird levels up, its properties will be significantly promoted.
-help.text_04=You should rely on your birds to defeat monsters, while you yourself cannot deal any damage.
-help.text_05=When you are equipped with wings, you can use them in the air to fly.
-help.text_06=You have to carry a certain number of birds to pass the red doors.
-help.text_07=Cannons can help you shuttle between different zones, but you must carry enough birds to use them.
-
+gui_bird_add_message=받은 ▢FFFFCC66%s▢FFFFFFFF x%s
+	
+item.wings_01.name=하늘 날개
+item.wings.describe_01=이 한 쌍의 날개를 사용하면 하늘에 마우스를 올릴 수 있습니다.\\n감속도 감소: 20%
+item.wings_02.name=황금빛 날개
+item.wings.describe_02=고귀함, 빛나는 우아함의 상징.\\n감속도 감소: 25%\\n플레이어 비행 속도：+10%
+item.wings_03.name=매직 날개
+item.wings.describe_03=이 한 쌍의 날개에는 마법의 힘이 숨겨져 있습니다.\\n감속도 감소: 25%\\n플레이어 비행 속도：+10%
+item.wings_04.name=미래의 날개
+item.wings.describe_04=미래의 기계적 날개는 기술력으로 가득합니다.\\n감속도 감소: 25%\\n플레이어 비행 속도：+10%
+	
+help.text_01=너가 과일 분야에있을 때, 너는 새가 너를 또한 도울 것이는 그러나, 수집가에 과일을 모을 수 있는다.
+help.text_02=배낭이 가득차면 둥지로 가서 과일을 동전으로 바꾸십시오.
+help.text_03=새를 먹이는 것을 잊지 마십시오. 당신의 새가 올라갈 때, 그것의 속성은 상당히 승진 될 것입니다.
+help.text_04=괴물을 물리 치기 위해 새들을 의지해야하지만 자신이 피해를 입힐 수는 없습니다.
+help.text_05=날개가 장착되면 공중에서 날기 위해 날개를 사용할 수 있습니다.
+help.text_06=빨간 문을 통과시키기 위해서는 일정 수의 새들을 태우셔야합니다.
+help.text_07=대포는 서로 다른 지역을 왕복하는 데 도움을 줄 수 있지만 충분한 새를 가지고 있어야만 사용할 수 있습니다.

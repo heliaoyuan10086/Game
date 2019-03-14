@@ -1540,22 +1540,21 @@ gui_bird_capacity_full=Mở rộng 5 công suất
 gui_bird_pack_info_gather1=Thu thập:%1.f trong %.1f giây		
 gui_bird_pack_info_convert1=Chuyển đổi:%1.f trong %.1f giây		
 
-gui_bird_add_message=received ▢FFFFCC66%s▢FFFFFFFF x%s
-
-item.wings_01.name=Sky wings
-item.wings.describe_01=With this pair of wings, you can hover in the sky.\\nDrop deceleration: 20%
-item.wings_02.name=Golden wings
-item.wings.describe_02=The symbol of nobility, shining and elegant.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
-item.wings_03.name=Magic wings
-item.wings.describe_03=There is magic power hidden in this pair of wings.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
-item.wings_04.name=Future wings
-item.wings.describe_04=Mechanical wings from the future, full of the power of technology.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
-
-help.text_01=When you are in the fruit fields, you can collect fruits with collector, while your birds will help you as well.
-help.text_02=If your backpack is full, go to the nest to convert the fruits into coins.
-help.text_03=Remember to feed your bird. When your bird levels up, its properties will be significantly promoted.
-help.text_04=You should rely on your birds to defeat monsters, while you yourself cannot deal any damage.
-help.text_05=When you are equipped with wings, you can use them in the air to fly.
-help.text_06=You have to carry a certain number of birds to pass the red doors.
-help.text_07=Cannons can help you shuttle between different zones, but you must carry enough birds to use them.
-
+gui_bird_add_message=đã nhận được ▢FFFFCC66%s▢FFFFFFFF x%s
+	
+item.wings_01.name=Cánh trời
+item.wings.describe_01=Với cặp cánh này, bạn có thể bay lơ lửng trên bầu trời.\\nDrop giảm tốc: 20%
+item.wings_02.name=Đôi cánh vàng
+item.wings.describe_02=Biểu tượng của sự quý phái, tỏa sáng và thanh lịch.\\nDrop giảm tốc: 25%\\nPlayer tốc độ bay bay：+10%
+item.wings_03.name=Đôi cánh ma thuật
+item.wings.describe_03=Có một sức mạnh ma thuật ẩn giấu trong đôi cánh này.\\nDrop giảm tốc: 25%\\nPlayer tốc độ bay bay：+10%
+item.wings_04.name=Đôi cánh tương lai
+item.wings.describe_04=Đôi cánh cơ học từ tương lai, tràn đầy sức mạnh của công nghệ.\\nDrop giảm tốc: 25%\\nPlayer tốc độ bay bay：+10%
+	
+help.text_01=Khi bạn ở trong các cánh đồng trái cây, bạn có thể thu thập trái cây với người sưu tầm, trong khi những con chim của bạn cũng sẽ giúp bạn.
+help.text_02=Nếu ba lô của bạn đã đầy, hãy đến tổ để chuyển đổi các loại trái cây thành tiền.
+help.text_03=Nhớ cho chim ăn. Khi chim của bạn lên cấp, tính chất của nó sẽ được thúc đẩy đáng kể.
+help.text_04=Bạn nên dựa vào chim của bạn để đánh bại quái vật, trong khi bản thân bạn không thể gây ra bất kỳ thiệt hại nào.
+help.text_05=Khi bạn được trang bị cánh, bạn có thể sử dụng chúng trên không để bay.
+help.text_06=Bạn phải mang theo một số lượng chim nhất định để vượt qua các cánh cửa màu đỏ.
+help.text_07=Đại bác có thể giúp bạn đưa đón giữa các khu vực khác nhau, nhưng bạn phải mang đủ chim để sử dụng chúng.
