@@ -1851,3 +1851,13 @@ helptitle.text_04=Fight
 helptitle.text_05=Wings
 helptitle.text_06=Zone doors
 helptitle.text_07=Cannons
+
+gui_bird_tip_open_cannon=대포 사용
+gui_bird_tip_open_egg_chest=매일 선물 열기
+gui_bird_tip_not_egg_chest=매일 선물은 아직 준비되지 않았습니다.
+gui_bird_tip_my_rank=내 점수:%s\\n내 순위：%d
+gui_bird_checkin_title=7 일 체크인
+gui_bird_checkin_time_left=남은 시간：%s
+gui_bird_checkin_receive=체크인
+gui_bird_checkin_received=받은
+gui_bird_checkin_day=일 %d

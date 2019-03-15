@@ -1566,3 +1566,13 @@ helptitle.text_04=Fight
 helptitle.text_05=Wings
 helptitle.text_06=Zone doors
 helptitle.text_07=Cannons
+
+gui_bird_tip_open_cannon=Sử dụng pháo
+gui_bird_tip_open_egg_chest=Mở quà hàng ngày
+gui_bird_tip_not_egg_chest=Quà tặng hàng ngày chưa sẵn sàng.
+gui_bird_tip_my_rank=Điểm của tôi:%s\\nXếp hạng của tôi：%d
+gui_bird_checkin_title=Nhận phòng 7 ngày
+gui_bird_checkin_time_left=Thời gian còn lại：%s
+gui_bird_checkin_receive=Đăng ký vào
+gui_bird_checkin_received=Nhận
+gui_bird_checkin_day=Ngày %d

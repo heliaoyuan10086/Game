@@ -1566,3 +1566,13 @@ helptitle.text_04=Fight
 helptitle.text_05=Wings
 helptitle.text_06=Zone doors
 helptitle.text_07=Cannons
+
+gui_bird_tip_open_cannon=Cannon kullan
+gui_bird_tip_open_egg_chest=Günlük Hediye Aç
+gui_bird_tip_not_egg_chest=Günlük Hediye henüz hazır değil.
+gui_bird_tip_my_rank=Puanım:%s\\nMy Rank：%d
+gui_bird_checkin_title=7 Günlük Check-In
+gui_bird_checkin_time_left=Kalan Süre：%s
+gui_bird_checkin_receive=Giriş
+gui_bird_checkin_received=Alınan
+gui_bird_checkin_day=gün %d

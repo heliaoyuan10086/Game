@@ -1563,3 +1563,13 @@ helptitle.text_04=Fight
 helptitle.text_05=Wings
 helptitle.text_06=Zone doors
 helptitle.text_07=Cannons
+
+gui_bird_tip_open_cannon=Usar canon
+gui_bird_tip_open_egg_chest=Abierto diario de regalo
+gui_bird_tip_not_egg_chest=El regalo diario aún no está listo.
+gui_bird_tip_my_rank=Mi puntaje:%s\\nMi rango：%d
+gui_bird_checkin_title=Check-in en 7 días
+gui_bird_checkin_time_left=Tiempo restante：%s
+gui_bird_checkin_receive=Registrarse
+gui_bird_checkin_received=Recibido
+gui_bird_checkin_day=Dia %d

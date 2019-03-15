@@ -1565,3 +1565,13 @@ helptitle.text_04=Fight
 helptitle.text_05=Wings
 helptitle.text_06=Zone doors
 helptitle.text_07=Cannons
+
+gui_bird_tip_open_cannon=Use canhão
+gui_bird_tip_open_egg_chest=Abra o presente diário
+gui_bird_tip_not_egg_chest=O presente diário ainda não está pronto.
+gui_bird_tip_my_rank=Minha pontuação:%s\\nMinha classificação：%d
+gui_bird_checkin_title=Check-in de 7 dias
+gui_bird_checkin_time_left=Tempo restante：%s
+gui_bird_checkin_receive=Check-in
+gui_bird_checkin_received=Recebido
+gui_bird_checkin_day=Dia %d

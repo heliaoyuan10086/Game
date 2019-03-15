@@ -1506,3 +1506,13 @@ helptitle.text_04=战斗
 helptitle.text_05=翅膀
 helptitle.text_06=区域门
 helptitle.text_07=大炮
+
+gui_bird_tip_open_cannon=使用大炮
+gui_bird_tip_open_egg_chest=打开礼包
+gui_bird_tip_not_egg_chest=礼包还没准备好。
+gui_bird_tip_my_rank=我的积分:%s\\n我的排名：%d
+gui_bird_checkin_title=七日累计登录
+gui_bird_checkin_time_left=签到剩余时间：%s
+gui_bird_checkin_receive=领取
+gui_bird_checkin_received=已领取
+gui_bird_checkin_day=第%d天

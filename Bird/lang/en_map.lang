@@ -1499,3 +1499,13 @@ helptitle.text_04=Fight
 helptitle.text_05=Wings
 helptitle.text_06=Zone doors
 helptitle.text_07=Cannons
+
+gui_bird_tip_open_cannon=Use Cannon
+gui_bird_tip_open_egg_chest=Open Daily Gift
+gui_bird_tip_not_egg_chest=Daily Gift is not ready yet.
+gui_bird_tip_my_rank=My Score:%s\\nMy Rank：%d
+gui_bird_checkin_title=7-Day Check In
+gui_bird_checkin_time_left=Time Remain：%s
+gui_bird_checkin_receive=Check In
+gui_bird_checkin_received=Received
+gui_bird_checkin_day=Day %d
