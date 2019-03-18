@@ -4,5 +4,5 @@ id	npcType	name	actorName	actorBody	actorBodyId	x	y	z	yaw	canReceiveAction	defau
 20002	2	tastlang_id_20002	g1041_npc1.actor	body	2	-671	17	-217	270	wave	idle	g1041_stand.actor	body#body	1#2	-669	17	-217	-672	16	-220	-666	22	-214	tastlang_id_20002	tasknpc_20002	巴布
 20003	2	tastlang_id_20003	g1041_npc1.actor	body	1	-612	11	-207	270	wave	idle	g1041_stand.actor	body#body	1#2	-610	11	-207	-613	10	-210	-607	16	-204	tastlang_id_20003	tasknpc_20003	比尔
 20007	2	tastlang_id_20007	g1041_npc2.actor	body	1	-604	12	-188	180	wave	idle	g1041_stand.actor	body#body	1#2	-604	12	-190	-607	11	-193	-601	17	-187	tastlang_id_20007	tasknpc_20007	粉猪佩妮
-20008	2	tastlang_id_20008	g1041_npc1.actor	body	5	-654	14	-257	0	wave	idle	g1041_stand.actor	body#body	1#2	-654	14	-255	-657	13	-258	-651	16	-252	tastlang_id_20008	tasknpc_20008	弗雷德
+20008	2	tastlang_id_20008	g1041_npc1.actor	body	5	-654	14	-257	0	wave	idle	g1041_stand.actor	body#body	1#2	-654	14	-255	-657	14	-258	-651	16	-253	tastlang_id_20008	tasknpc_20008	弗雷德
 20009	2	tastlang_id_20009	g1041_npc1.actor	body	3	-612	11	-225	270	wave	idle	g1041_stand.actor	body#body	1#2	-610	11	-225	-613	10	-228	-607	16	-222	tastlang_id_20009	tasknpc_20009_1	博士贝斯
