@@ -1441,15 +1441,15 @@ item.backpack.describe_17=A maleta de ferramentas parece boa e prática. Nunca s
 item.backpack.describe_18=Não há dúvida de que a mala de viagem de grandes dimensões é a melhor escolha. \\n Capacidade do saco 190000
 
 item.toolGather_01.describe=A ferramenta de coleta mais básica. \\nColete 1 fruto do bloco de 2 frutos em 1 seg.
-item.toolGather_02.describe=Um pouco mais eficiente que a pá. Recolha 1 fruto de 5 blocos de fruta em 1 seg.
-item.toolGather_03.describe=Corte quando você ver a fruta. Colher 8 frutos de 1 blocos de fruta em 0,6 seg.
-item.toolGather_04.describe=Magneticamente adsorve a fruta. Recolha 6 frutos de 4 blocos de fruta em 1,5 seg.
+item.toolGather_02.describe=Um pouco mais eficiente que a pá. Recolha 1 fruto de 4 blocos de fruta em 1 seg.
+item.toolGather_03.describe=Corte quando você ver a fruta. Colher 8 frutos de 1 blocos de fruta em 1 seg.
+item.toolGather_04.describe=Magneticamente adsorve a fruta. Recolha 4 frutos de 4 blocos de fruta em 1,5 seg.
 item.toolGather_05.describe=Aumente a adsorção e aumente a eficiência. Colher 3 frutos de 9 blocos de fruta em 1 seg.
-item.toolGather_06.describe=Uma pá magnética pode absorver frutas nos arredores. Recolha 5 frutos de 4 blocos de fruta em 0,3 seg.
-item.toolGather_07.describe=Um colecionador baseado no princípio da gravitação universal. Coletar 10 frutos de 14 blocos de frutas em 1,2 seg.
-item.toolGather_08.describe=Deixe a força magnética ser mais forte. \\nColete 5 frutos de 22 blocos de frutas em 0,7 segundos.
-item.toolGather_09.describe=Dizem que verdadeiros mestres praticam a espada cortando frutas. \\nColeta 16 frutas de 20 blocos de frutas em 1,6 s
-item.toolGather_10.describe=Esta foice é mais do que apenas cortar frutas. \\n recolhe 9 frutos de 25 blocos de fruta em 0,8 segundos
+item.toolGather_06.describe=Uma pá magnética pode absorver frutas nos arredores. Recolha 6 frutos de 16 blocos de fruta em 1,8 seg.
+item.toolGather_07.describe=Um colecionador baseado no princípio da gravitação universal. Coletar 8 frutos de 16 blocos de frutas em 1,5 seg.
+item.toolGather_08.describe=Deixe a força magnética ser mais forte. \\nColete 4 frutos de 25 blocos de frutas em 0,8 segundos.
+item.toolGather_09.describe=Dizem que verdadeiros mestres praticam a espada cortando frutas. \\nColeta 6 frutas de 36 blocos de frutas em 1,2 s
+item.toolGather_10.describe=Esta foice é mais do que apenas cortar frutas. \\n recolhe 8 frutos de 49 blocos de fruta em 1 segundos
 
 
 
@@ -1546,9 +1546,9 @@ item.wings.describe_01=Com este par de asas, você pode pairar no céu.\\nAdesac
 item.wings_02.name=Asas douradas
 item.wings.describe_02=O símbolo da nobreza, brilhante e elegante.\\nDesaceleração da queda: 25%\\nVelocidade de voo do jogador：+10%
 item.wings_03.name=Asas mágicas
-item.wings.describe_03=Existe um poder mágico escondido neste par de asas.\\nDesaceleração por queda de velocidade: 25%\\nVelocidade de voo do jogador：+10%
+item.wings.describe_03=Existe um poder mágico escondido neste par de asas.\\nDesaceleração por queda de velocidade: 25%
 item.wings_04.name=Asas do futuro
-item.wings.describe_04=Asas mecânicas do futuro, cheias do poder da tecnologia.\\nAdesaceleração da queda: 25%\\nVelocidade de voo do jogador：+10%
+item.wings.describe_04=Asas mecânicas do futuro, cheias do poder da tecnologia.\\nAdesaceleração da queda: 30%\\nVelocidade de voo do jogador：+30%
 	
 help.text_01=Quando você está nos campos de frutas, você pode coletar frutas com colecionador, enquanto seus pássaros irão ajudá-lo também.
 help.text_02=Se a sua mochila estiver cheia, vá ao ninho para converter as frutas em moedas.

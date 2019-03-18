@@ -1441,15 +1441,15 @@ item.backpack.describe_17=The tool bag looks good and practical. Never regret fo
 item.backpack.describe_18=There is no doubt that the oversized travel bag is the best choice. \\n Bag Capacity 190000
 
 item.toolGather_01.describe=The most basic collecting tool. \\nCollect 1 fruit from 2 fruit block in 1 sec.	
-item.toolGather_02.describe=A bit more efficient than the shovel. \\nCollect 1 fruits from 5 fruit blocks in 1 sec.	
-item.toolGather_03.describe=Cut it off when you see the fruit. \\nCollect 8 fruit from 1 fruit blocks in 0.6 sec.	
-item.toolGather_04.describe=Magnetically adsorb the fruit. \\nCollect 6 fruit from 4 fruit blocks in 1.5 sec.	
+item.toolGather_02.describe=A bit more efficient than the shovel. \\nCollect 1 fruits from 4 fruit blocks in 1 sec.	
+item.toolGather_03.describe=Cut it off when you see the fruit. \\nCollect 8 fruit from 1 fruit blocks in 1 sec.	
+item.toolGather_04.describe=Magnetically adsorb the fruit. \\nCollect 4 fruit from 4 fruit blocks in 1.5 sec.	
 item.toolGather_05.describe=Increase adsorption and increase efficiency. \\nCollect 3 fruit from 9 fruit blocks in 1 sec.	
-item.toolGather_06.describe=A magnetic shovel can adsorb fruits in the surrounding. \\nCollect 5 fruits from 4 fruit blocks in 0.3 sec.	
-item.toolGather_07.describe=A collector based on the principle of universal gravitation. \\nCollect 10 fruits from 14 fruit blocks in 1.2 sec.	
-item.toolGather_08.describe=Let the magnetic force be stronger.\\nCollect 5 fruits from 22 fruit blocks in 0.7 sec.	
-item.toolGather_09.describe=It is said real masters practise sword by cutting fruits. \\nCollects 16 fruit from 20 fruit blocks in 1.6 sec	
-item.toolGather_10.describe=This sickle is more than just cutting fruits. \\n collects 9 fruits from 25 fruit blocks in 0.8 seconds	
+item.toolGather_06.describe=A magnetic shovel can adsorb fruits in the surrounding. \\nCollect 6 fruits from 16 fruit blocks in 1.8 sec.	
+item.toolGather_07.describe=A collector based on the principle of universal gravitation. \\nCollect 8 fruits from 16 fruit blocks in 1.5 sec.	
+item.toolGather_08.describe=Let the magnetic force be stronger.\\nCollect 4 fruits from 25 fruit blocks in 0.8 sec.	
+item.toolGather_09.describe=It is said real masters practise sword by cutting fruits. \\nCollects 6 fruit from 36 fruit blocks in 1.2 sec	
+item.toolGather_10.describe=This sickle is more than just cutting fruits. \\n collects 8 fruits from 49 fruit blocks in 1 seconds	
 
 
 
@@ -1480,9 +1480,9 @@ item.wings.describe_01=With this pair of wings, you can hover in the sky.\\nDrop
 item.wings_02.name=Golden wings
 item.wings.describe_02=The symbol of nobility, shining and elegant.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
 item.wings_03.name=Magic wings
-item.wings.describe_03=There is magic power hidden in this pair of wings.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
+item.wings.describe_03=There is magic power hidden in this pair of wings.\\nDrop deceleration: 25%
 item.wings_04.name=Future wings
-item.wings.describe_04=Mechanical wings from the future, full of the power of technology.\\nDrop deceleration: 25%\\nPlayer flying speed：+10%
+item.wings.describe_04=Mechanical wings from the future, full of the power of technology.\\nDrop deceleration: 30%\\nPlayer flying speed：+30%
 
 help.text_01=When you are in the fruit fields, you can collect fruits with collector, while your birds will help you as well.
 help.text_02=If your backpack is full, go to the nest to convert the fruits into coins.

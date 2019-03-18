@@ -1441,15 +1441,15 @@ item.backpack.describe_17=La bolsa de herramientas se ve bien y práctica. Nunca
 item.backpack.describe_18=No hay duda de que la bolsa de viaje de gran tamaño es la mejor opción. \\n Capacidad de la bolsa 190000
 
 item.toolGather_01.describe=La herramienta de recogida más básica. \\nRecoge 1 fruta de 2 bloques de fruta en 1 seg.
-item.toolGather_02.describe=Un poco más eficiente que la pala. \\nRecoge 1 frutas de 5 bloques de frutas en 1 seg.
-item.toolGather_03.describe=Córtalo cuando veas la fruta. \\nColecciona 8 frutas de 1 bloques de fruta en 0.6 seg.
-item.toolGather_04.describe=Absorbe magnéticamente la fruta. \\nColecciona 6 frutas de 4 bloques de frutas en 1.5 seg.
+item.toolGather_02.describe=Un poco más eficiente que la pala. \\nRecoge 1 frutas de 4 bloques de frutas en 1 seg.
+item.toolGather_03.describe=Córtalo cuando veas la fruta. \\nColecciona 8 frutas de 1 bloques de fruta en 1 seg.
+item.toolGather_04.describe=Absorbe magnéticamente la fruta. \\nColecciona 4 frutas de 4 bloques de frutas en 1.5 seg.
 item.toolGather_05.describe=Aumentar la adsorción y aumentar la eficiencia. \\nRecoge 3 frutas de 9 bloques de frutas en 1 seg.
-item.toolGather_06.describe=Una pala magnética puede adsorber frutas en los alrededores. \\nColecciona 5 frutas de 4 bloques de fruta en 0.3 seg.
-item.toolGather_07.describe=Un coleccionista basado en el principio de gravitación universal. \\nColecciona 10 frutas de 14 bloques de frutas en 1.2 seg.
-item.toolGather_08.describe=Deja que la fuerza magnética sea más fuerte. \\nRecoge 5 frutas de 22 bloques de frutas en 0.7 segundos.
-item.toolGather_09.describe=Se dice que los verdaderos maestros practican la espada cortando frutas. \\nColecciona 16 frutas de 20 bloques de frutas en 1.6 segundos
-item.toolGather_10.describe=Esta hoz es más que solo cortar frutas. \\n recolecta 9 frutas de 25 bloques de fruta en 0.8 segundos
+item.toolGather_06.describe=Una pala magnética puede adsorber frutas en los alrededores. \\nColecciona 6 frutas de 16 bloques de fruta en 1.8 seg.
+item.toolGather_07.describe=Un coleccionista basado en el principio de gravitación universal. \\nColecciona 8 frutas de 16 bloques de frutas en 1.5 seg.
+item.toolGather_08.describe=Deja que la fuerza magnética sea más fuerte. \\nRecoge 4 frutas de 25 bloques de frutas en 0.8 segundos.
+item.toolGather_09.describe=Se dice que los verdaderos maestros practican la espada cortando frutas. \\nColecciona 6 frutas de 36 bloques de frutas en 1.2 segundos
+item.toolGather_10.describe=Esta hoz es más que solo cortar frutas. \\n recolecta 8 frutas de 49 bloques de fruta en 1 segundos
 
 
 
@@ -1544,9 +1544,9 @@ item.wings.describe_01=Con este par de alas, puedes flotar en el cielo.\\nDesple
 item.wings_02.name=Alas doradas
 item.wings.describe_02=El símbolo de la nobleza, brillante y elegante.\\nDesaceleración: 25%\\n Velocidad de vuelo del jugador：+10%
 item.wings_03.name=Alas magicas
-item.wings.describe_03=Hay un poder mágico oculto en este par de alas.\\nDesaceleración de caída: 25%\\nVelocidad de vuelo del jugador：+10%
+item.wings.describe_03=Hay un poder mágico oculto en este par de alas.\\nDesaceleración de caída: 25%
 item.wings_04.name=Alas del futuro
-item.wings.describe_04=Alas mecánicas del futuro, llenas del poder de la tecnología.\\nDeberación de caída: 25%\\n Velocidad de vuelo del jugador：+10%
+item.wings.describe_04=Alas mecánicas del futuro, llenas del poder de la tecnología.\\nDeberación de caída: 30%\\n Velocidad de vuelo del jugador：+30%
 	
 help.text_01=Cuando estés en los campos de frutas, puedes recolectar frutas con el recolector, mientras que tus pájaros también te ayudarán.
 help.text_02=Si tu mochila está llena, ve al nido para convertir las frutas en monedas.

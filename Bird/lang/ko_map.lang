@@ -1726,15 +1726,15 @@ item.backpack.describe_17=공구 가방이 좋고 실용적입니다. 그것을 
 item.backpack.describe_18=특대 여행 가방이 최고의 선택이라는 것은 의심의 여지가 없습니다. \\ n 가방 용량 190000	
 	
 item.toolGather_01.describe=가장 기본적인 수집 도구. \\ n 1 초에 과일 블록 2 개에서 과일 1 개를 수집하십시오.	
-item.toolGather_02.describe=삽보다 약간 더 효율적입니다. \\ n 1 초 동안 5 개의 과일 블록에서 과일 1 개를 수집하십시오.	
-item.toolGather_03.describe=너가 과일을 볼 때 그것을 떨어져 자르 십시요. \\ n0.6 초에 1 개의 과일 블록에서 8 개의 과일을 수집하십시오.	
-item.toolGather_04.describe=열매를 자기 흡착합니다. \\ n 1.5 초 안에 4 개의 과일 블록에서 6 개의 과일을 수집하십시오.	
+item.toolGather_02.describe=삽보다 약간 더 효율적입니다. \\ n 1 초 동안 4 개의 과일 블록에서 과일 1 개를 수집하십시오.	
+item.toolGather_03.describe=너가 과일을 볼 때 그것을 떨어져 자르 십시요. \\ n1 초에 1 개의 과일 블록에서 8 개의 과일을 수집하십시오.	
+item.toolGather_04.describe=열매를 자기 흡착합니다. \\ n 1.5 초 안에 4 개의 과일 블록에서 4 개의 과일을 수집하십시오.	
 item.toolGather_05.describe=흡착을 증가시키고 효율을 증가시킵니다. \\ n 1 초 안에 9 개의 과일 블록에서 3 개의 과일을 수집하십시오.	
-item.toolGather_06.describe=자기 삽은 주위의 과일을 흡착 할 수 있습니다. \\ n 0.3 초 안에 4 개의 과일 블록에서 5 개의 과일을 수집합니다.	
-item.toolGather_07.describe=만유 인력 원리에 입각 한 수집가. \\ n 1.2 초 안에 14 개의 과일 블록에서 10 개의 과일을 수집합니다.	
-item.toolGather_08.describe=자력을 강하게하십시오. \\ n 0.7 초 내에 22 개의 과일 블록에서 5 개의 과일을 수집하십시오.	
-item.toolGather_09.describe=실제 주인은 과일을 절단하여 칼을 연습했다고합니다. \\ n 1.6 초 동안 20 과일 열매에서 과일 16 개를 수집합니다.	
-item.toolGather_10.describe=이 낫은 단순히 과일을 자르는 것 이상입니다. \\ n 0.8 초 안에 25 개의 과일 블록에서 9 개의 과일을 수집합니다.	
+item.toolGather_06.describe=자기 삽은 주위의 과일을 흡착 할 수 있습니다. \\ n 1.8 초 안에 16 개의 과일 블록에서 6 개의 과일을 수집합니다.	
+item.toolGather_07.describe=만유 인력 원리에 입각 한 수집가. \\ n 1.5 초 안에 16 개의 과일 블록에서 8 개의 과일을 수집합니다.	
+item.toolGather_08.describe=자력을 강하게하십시오. \\ n 0.8 초 내에 25 개의 과일 블록에서 4 개의 과일을 수집하십시오.	
+item.toolGather_09.describe=실제 주인은 과일을 절단하여 칼을 연습했다고합니다. \\ n 1.2 초 동안 36 과일 열매에서 과일 6 개를 수집합니다.	
+item.toolGather_10.describe=이 낫은 단순히 과일을 자르는 것 이상입니다. \\ n 1 초 안에 49 개의 과일 블록에서 8 개의 과일을 수집합니다.	
 	
 	
 	
@@ -1832,9 +1832,9 @@ item.wings.describe_01=이 한 쌍의 날개를 사용하면 하늘에 마우스
 item.wings_02.name=황금빛 날개
 item.wings.describe_02=고귀함, 빛나는 우아함의 상징.\\n감속도 감소: 25%\\n플레이어 비행 속도：+10%
 item.wings_03.name=매직 날개
-item.wings.describe_03=이 한 쌍의 날개에는 마법의 힘이 숨겨져 있습니다.\\n감속도 감소: 25%\\n플레이어 비행 속도：+10%
+item.wings.describe_03=이 한 쌍의 날개에는 마법의 힘이 숨겨져 있습니다.\\n감속도 감소: 25%
 item.wings_04.name=미래의 날개
-item.wings.describe_04=미래의 기계적 날개는 기술력으로 가득합니다.\\n감속도 감소: 25%\\n플레이어 비행 속도：+10%
+item.wings.describe_04=미래의 기계적 날개는 기술력으로 가득합니다.\\n감속도 감소: 30%\\n플레이어 비행 속도：+30%
 	
 help.text_01=너가 과일 분야에있을 때, 너는 새가 너를 또한 도울 것이는 그러나, 수집가에 과일을 모을 수 있는다.
 help.text_02=배낭이 가득차면 둥지로 가서 과일을 동전으로 바꾸십시오.

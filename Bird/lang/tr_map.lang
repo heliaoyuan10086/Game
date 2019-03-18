@@ -1441,15 +1441,15 @@ item.backpack.describe_17=Alet çantası iyi ve pratik görünüyor. Asla aldı�
 item.backpack.describe_18=Büyük boy seyahat çantasının en iyi seçenek olduğuna hiç şüphe yok. \\nÇanta Kapasitesi 79000	
 			
 item.toolGather_01.describe=En temel toplama aracı. \\nBir meyve tablasını 1 saniye içinde 1 meyve topla.	
-item.toolGather_02.describe=Kürekten biraz daha verimli. \\nSanat 5 meyve bloğundan 1 meyve topla.	
-item.toolGather_03.describe=Meyveyi görünce kesin. \\n1 meyve bloğundan 8 meyveyi 0.6 saniyede topla.	
-item.toolGather_04.describe=Meyveyi manyetik olarak emer. \\n4 meyve bloğundan 6 meyveyi 1.5 saniyede topla.	
+item.toolGather_02.describe=Kürekten biraz daha verimli. \\nSanat 4 meyve bloğundan 1 meyve topla.	
+item.toolGather_03.describe=Meyveyi görünce kesin. \\n1 meyve bloğundan 8 meyveyi 1 saniyede topla.	
+item.toolGather_04.describe=Meyveyi manyetik olarak emer. \\n4 meyve bloğundan 4 meyveyi 1.5 saniyede topla.	
 item.toolGather_05.describe=Adsorpsiyonu ve verimliliği arttırın. \\nSanat 9 meyve bloğundan 3 meyve topla.	
-item.toolGather_06.describe=Manyetik bir kürek çevredeki meyveleri emebilir. \\n 4 meyve bloğundan 5 meyveyi 0,3 saniyede topla.	
-item.toolGather_07.describe=Evrensel çekim prensibine dayanan bir koleksiyoncu. \\n1,2 n'de 14 meyve bloğundan 10 meyve topla.	
-item.toolGather_08.describe=Manyetik kuvvetin daha güçlü olmasına izin verin. \\n 22 meyve bloğundan 5 meyveyi 0.7 sn'de toplayın.	
-item.toolGather_09.describe=Gerçek ustaların kılıç keserek kılıç kullandıkları söylenir. \\nSanat meyve suyunu 20 saniyede 1,6 saniyede toplar	
-item.toolGather_10.describe=Bu orak meyve kesmekten ibaret değil. \\n, 0,8 saniyede 25 meyve bloğundan 9 meyve toplar.	
+item.toolGather_06.describe=Manyetik bir kürek çevredeki meyveleri emebilir. \\n 16 meyve bloğundan 6 meyveyi 1.8 saniyede topla.	
+item.toolGather_07.describe=Evrensel çekim prensibine dayanan bir koleksiyoncu. \\n1,5 n'de 16 meyve bloğundan 8 meyve topla.	
+item.toolGather_08.describe=Manyetik kuvvetin daha güçlü olmasına izin verin. \\n 25 meyve bloğundan 4 meyveyi 0.8 sn'de toplayın.	
+item.toolGather_09.describe=Gerçek ustaların kılıç keserek kılıç kullandıkları söylenir. \\n36 meyve bloğundan 6 meyveyi 1.2 sn'de toplayın.		
+item.toolGather_10.describe=Bu orak meyve kesmekten ibaret değil. \\n 1 saniyede 49 meyve bloğundan 8 meyve toplar.	
 			
 			
 			
@@ -1547,9 +1547,9 @@ item.wings.describe_01=Bu çift kanatla gökyüzünde asılı kalabilirsin.\\nS�
 item.wings_02.name=Altın kanatlar
 item.wings.describe_02=Asalet, parlayan ve zarif sembolü.\\nDrop yavaşlaması: 25% \\nPlayer uçuş hızı：+10%
 item.wings_03.name=Sihirli kanatlar
-item.wings.describe_03=Bu kanat çiftinde gizlenmiş sihirli güç var.\\nDrop yavaşlaması: 25%\\nPlayer uçuş hızı：+10%
+item.wings.describe_03=Bu kanat çiftinde gizlenmiş sihirli güç var.\\nDrop yavaşlaması: 25%
 item.wings_04.name=Gelecek kanatlar
-item.wings.describe_04=Gelecekten gelen mekanik kanatlar, teknolojinin gücüyle dolu.\\nDrop yavaşlaması: 25%\\nPlayer uçuş hızı：+10%
+item.wings.describe_04=Gelecekten gelen mekanik kanatlar, teknolojinin gücüyle dolu.\\nDrop yavaşlaması: 30%\\nPlayer uçuş hızı：+30%
 	
 help.text_01=Meyve tarlalarında olduğunuzda, toplayıcı ile meyve toplayabilir, kuşlarınız da size yardımcı olacaktır.
 help.text_02=Sırt çantanız doluysa, meyveleri bozuk paraya dönüştürmek için yuvaya gidin.

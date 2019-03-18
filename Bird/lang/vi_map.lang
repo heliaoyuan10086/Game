@@ -1441,15 +1441,15 @@ item.backpack.describe_17=Các túi công cụ có vẻ tốt và thiết thực
 item.backpack.describe_18=Không có nghi ngờ rằng túi du lịch quá khổ là sự lựa chọn tốt nhất. \\n Công suất túi 79000	
 			
 item.toolGather_01.describe=Các công cụ thu thập cơ bản nhất. \\nCollect 1 quả từ 2 khối trái cây trong 1 giây.	
-item.toolGather_02.describe=Hiệu quả hơn một chút so với xẻng. \\nCollect 1 quả từ 5 khối quả trong 1 giây.	
-item.toolGather_03.describe=Cắt nó khi bạn nhìn thấy trái cây. \\nCollect 8 quả từ 1 khối trái cây trong 0,6 giây.	
-item.toolGather_04.describe=Hấp thụ từ tính trái cây. \\nCollect 6 quả từ 4 khối trái cây trong 1,5 giây.	
+item.toolGather_02.describe=Hiệu quả hơn một chút so với xẻng. \\nCollect 1 quả từ 4 khối quả trong 1 giây.	
+item.toolGather_03.describe=Cắt nó khi bạn nhìn thấy trái cây. \\nCollect 8 quả từ 1 khối trái cây trong 1 giây.	
+item.toolGather_04.describe=Hấp thụ từ tính trái cây. \\nCollect 4 quả từ 4 khối trái cây trong 1,5 giây.	
 item.toolGather_05.describe=Tăng khả năng hấp phụ và tăng hiệu quả. \\nCollect 3 quả từ 9 khối quả trong 1 giây.	
-item.toolGather_06.describe=Một cái xẻng từ tính có thể hấp thụ trái cây ở xung quanh. \\nCollect 5 quả từ 4 khối trái cây trong 0,3 giây.	
-item.toolGather_07.describe=Một nhà sưu tập dựa trên nguyên tắc hấp dẫn phổ quát. \\nCollect 10 quả từ 14 khối quả trong 1,2 giây.	
-item.toolGather_08.describe=Để lực từ mạnh hơn. \\n Thu thập 5 quả từ 22 khối quả trong 0,7 giây.	
-item.toolGather_09.describe=Người ta nói các bậc thầy thực sự thực hành kiếm bằng cách cắt trái cây. \\nCollects 16 quả từ 20 khối trái cây trong 1,6 giây	
-item.toolGather_10.describe=Liềm này không chỉ là cắt trái cây. \\n thu 9 quả từ 25 khối quả trong 0,8 giây	
+item.toolGather_06.describe=Một cái xẻng từ tính có thể hấp thụ trái cây ở xung quanh. \\nCollect 6 quả từ 16 khối trái cây trong 1,8 giây.	
+item.toolGather_07.describe=Một nhà sưu tập dựa trên nguyên tắc hấp dẫn phổ quát. \\nCollect 8 quả từ 16 khối quả trong 1,5 giây.	
+item.toolGather_08.describe=Để lực từ mạnh hơn. \\n Thu thập 4 quả từ 25 khối quả trong 0,8 giây.	
+item.toolGather_09.describe=Người ta nói các bậc thầy thực sự thực hành kiếm bằng cách cắt trái cây. \\nCollects 6 quả từ 36 khối trái cây trong 1,2 giây	
+item.toolGather_10.describe=Liềm này không chỉ là cắt trái cây. \\n thu 8 quả từ 49 khối quả trong 1 giây	
 			
 			
 			
@@ -1547,9 +1547,9 @@ item.wings.describe_01=Với cặp cánh này, bạn có thể bay lơ lửng tr
 item.wings_02.name=Đôi cánh vàng
 item.wings.describe_02=Biểu tượng của sự quý phái, tỏa sáng và thanh lịch.\\nDrop giảm tốc: 25%\\nPlayer tốc độ bay bay：+10%
 item.wings_03.name=Đôi cánh ma thuật
-item.wings.describe_03=Có một sức mạnh ma thuật ẩn giấu trong đôi cánh này.\\nDrop giảm tốc: 25%\\nPlayer tốc độ bay bay：+10%
+item.wings.describe_03=Có một sức mạnh ma thuật ẩn giấu trong đôi cánh này.\\nDrop giảm tốc: 25%
 item.wings_04.name=Đôi cánh tương lai
-item.wings.describe_04=Đôi cánh cơ học từ tương lai, tràn đầy sức mạnh của công nghệ.\\nDrop giảm tốc: 25%\\nPlayer tốc độ bay bay：+10%
+item.wings.describe_04=Đôi cánh cơ học từ tương lai, tràn đầy sức mạnh của công nghệ.\\nDrop giảm tốc: 30%\\nPlayer tốc độ bay bay：+30%
 	
 help.text_01=Khi bạn ở trong các cánh đồng trái cây, bạn có thể thu thập trái cây với người sưu tầm, trong khi những con chim của bạn cũng sẽ giúp bạn.
 help.text_02=Nếu ba lô của bạn đã đầy, hãy đến tổ để chuyển đổi các loại trái cây thành tiền.

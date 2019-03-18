@@ -1441,15 +1441,15 @@ item.backpack.describe_17=Die Werkzeugtasche sieht gut und praktisch aus. Bereue
 item.backpack.describe_18=Zweifellos ist die übergroße Reisetasche die beste Wahl. \\n Kapazität der Tasche 79000	
 			
 item.toolGather_01.describe=Das grundlegendste Werkzeug zum Sammeln. \\nSammeln Sie 1 Frucht aus 2 Fruchtblöcken in 1 Sek.	
-item.toolGather_02.describe=Etwas effizienter als die Schaufel. \\nSammlung von 1 Früchten aus 5 Fruchtblöcken in 1 Sek.	
-item.toolGather_03.describe=Schneiden Sie es ab, wenn Sie die Frucht sehen. \\nSammeln Sie 8 Früchte aus 1 Fruchtblöcken in 0,6 Sek.	
-item.toolGather_04.describe=Obst magnetisch adsorbieren. \\nSammeln Sie 6 Früchte aus 4 Fruchtblöcken in 1,5 Sekunden.	
+item.toolGather_02.describe=Etwas effizienter als die Schaufel. \\nSammlung von 1 Früchten aus 4 Fruchtblöcken in 1 Sek.	
+item.toolGather_03.describe=Schneiden Sie es ab, wenn Sie die Frucht sehen. \\nSammeln Sie 8 Früchte aus 1 Fruchtblöcken in 1 Sek.	
+item.toolGather_04.describe=Obst magnetisch adsorbieren. \\nSammeln Sie 4 Früchte aus 4 Fruchtblöcken in 1,5 Sekunden.	
 item.toolGather_05.describe=Erhöhen Sie die Adsorption und erhöhen Sie die Effizienz. \\nSammeln Sie 3 Früchte aus 9 Fruchtblöcken in 1 Sek.	
-item.toolGather_06.describe=Eine magnetische Schaufel kann Früchte in der Umgebung adsorbieren. \\nSammeln Sie 5 Früchte aus 4 Fruchtblöcken in 0,3 Sekunden.	
-item.toolGather_07.describe=Ein Sammler, der auf dem Prinzip der universellen Gravitation basiert. \\nSammeln Sie 10 Früchte aus 14 Fruchtblöcken in 1,2 Sekunden.	
-item.toolGather_08.describe=Die Magnetkraft sollte stärker sein. \\nSammeln Sie 5 Früchte aus 22 Fruchtblöcken in 0,7 Sekunden.	
-item.toolGather_09.describe=Es heißt, echte Meister üben Schwert, indem sie Früchte schneiden. \\nSammelt 16 Früchte aus 20 Fruchtblöcken in 1,6 Sekunden	
-item.toolGather_10.describe=Diese Sichel ist mehr als nur das Schneiden von Früchten. \\n sammelt 9 Früchte aus 25 Fruchtblöcken in 0,8 Sekunden	
+item.toolGather_06.describe=Eine magnetische Schaufel kann Früchte in der Umgebung adsorbieren. \\nSammeln Sie 6 Früchte aus 16 Fruchtblöcken in 1,8 Sekunden.	
+item.toolGather_07.describe=Ein Sammler, der auf dem Prinzip der universellen Gravitation basiert. \\nSammeln Sie 8 Früchte aus 16 Fruchtblöcken in 1,5 Sekunden.	
+item.toolGather_08.describe=Die Magnetkraft sollte stärker sein. \\nSammeln Sie 4 Früchte aus 25 Fruchtblöcken in 0,8 Sekunden.	
+item.toolGather_09.describe=Es heißt, echte Meister üben Schwert, indem sie Früchte schneiden. \\nSammelt 6 Früchte aus 36 Fruchtblöcken in 1,2 Sekunden	
+item.toolGather_10.describe=Diese Sichel ist mehr als nur das Schneiden von Früchten. \\n sammelt 8Früchte aus 49 Fruchtblöcken in 1 Sekunden	
 			
 			
 			
@@ -1547,9 +1547,9 @@ item.wings.describe_01=Mit diesem Flügelpaar können Sie im Himmel schweben.\\n
 item.wings_02.name=Goldene Flügel
 item.wings.describe_02=Das Symbol des Adels, glänzend und elegant.\\nDrop-Verzögerung: 25%\\nPlayer-Fluggeschwindigkeit：+10%
 item.wings_03.name=Magische Flügel
-item.wings.describe_03=In diesem Flügelpaar verbirgt sich magische Kraft.\\nDrop-Verzögerung: 25%\\nPlayer-Fluggeschwindigkeit：+10%
+item.wings.describe_03=In diesem Flügelpaar verbirgt sich magische Kraft.\\nDrop-Verzögerung: 25%
 item.wings_04.name=Zukünftige Flügel
-item.wings.describe_04=Mechanische Flügel aus der Zukunft, voll von der Kraft der Technologie.\\nDrop-Verzögerung: 25%\\nPlayer-Fluggeschwindigkeit：+10%
+item.wings.describe_04=Mechanische Flügel aus der Zukunft, voll von der Kraft der Technologie.\\nDrop-Verzögerung: 30%\\nPlayer-Fluggeschwindigkeit：+30%
 	
 help.text_01=Wenn Sie auf den Obstfeldern sind, können Sie mit dem Sammler Früchte sammeln, während Ihre Vögel Ihnen ebenfalls helfen.
 help.text_02=Wenn Ihr Rucksack voll ist, gehen Sie zum Nest, um die Früchte in Münzen umzuwandeln.

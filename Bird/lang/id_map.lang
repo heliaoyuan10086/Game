@@ -1441,15 +1441,15 @@ item.backpack.describe_17=Tas alat terlihat bagus dan praktis. Jangan pernah men
 item.backpack.describe_18=Tidak ada keraguan bahwa tas travel berukuran besar adalah pilihan terbaik. \\n Kapasitas Tas 79000								
 										
 item.toolGather_01describe=Alat pengumpulan paling dasar. \\nKumpulkan 1 buah dari 2 blok buah dalam 1 detik.								
-item.toolGather_02describe=Sedikit lebih efisien daripada sekop. \\nKumpulkan 1 buah dari 5 blok buah dalam 1 detik.								
-item.toolGather_03.describe=Potong ketika Anda melihat buahnya. \\nKumpulkan 8 buah dari 1 blok buah dalam 0,6 detik.								
-item.toolGather_04.describe=Mengadsorpsi buah secara magnetis. \\nKumpulkan 6 buah dari 4 blok buah dalam 1,5 detik.								
+item.toolGather_02describe=Sedikit lebih efisien daripada sekop. \\nKumpulkan 1 buah dari 4 blok buah dalam 1 detik.								
+item.toolGather_03.describe=Potong ketika Anda melihat buahnya. \\nKumpulkan 8 buah dari 1 blok buah dalam 1 detik.								
+item.toolGather_04.describe=Mengadsorpsi buah secara magnetis. \\nKumpulkan 4 buah dari 4 blok buah dalam 1,5 detik.								
 item.toolGather_05.describe=Meningkatkan adsorpsi dan meningkatkan efisiensi. \\nKumpulkan 3 buah dari 9 blok buah dalam 1 detik.								
-item.toolGather_06.describe=Sekop magnetik dapat menyerap buah di sekitarnya. \\nKumpulkan 5 buah dari 4 blok buah dalam 0,3 detik.								
-item.toolGather_07.describe=Seorang kolektor berdasarkan prinsip gravitasi universal. \\nKumpulkan 10 buah dari 14 blok buah dalam 1,2 detik.								
-item.toolGather_08.describe=Biarkan gaya magnet menjadi lebih kuat. \\nKumpulkan 5 buah dari 22 blok buah dalam 0,7 detik.								
-item.toolGather_09.describe=Dikatakan tuan nyata berlatih pedang dengan memotong buah. \\nMengumpulkan 16 buah dari 20 blok buah dalam 1,6 detik								
-item.toolGather_10.describe=Sabit ini lebih dari sekedar memotong buah. \\n mengumpulkan 9 buah dari 25 blok buah dalam 0,8 detik								
+item.toolGather_06.describe=Sekop magnetik dapat menyerap buah di sekitarnya. \\nKumpulkan 6 buah dari 16 blok buah dalam 1,8 detik.								
+item.toolGather_07.describe=Seorang kolektor berdasarkan prinsip gravitasi universal. \\nKumpulkan 8 buah dari 16 blok buah dalam 1,5 detik.								
+item.toolGather_08.describe=Biarkan gaya magnet menjadi lebih kuat. \\nKumpulkan 4 buah dari 25 blok buah dalam 0,8 detik.								
+item.toolGather_09.describe=Dikatakan tuan nyata berlatih pedang dengan memotong buah. \\nMengumpulkan 6 buah dari 36 blok buah dalam 1,2 detik								
+item.toolGather_10.describe=Sabit ini lebih dari sekedar memotong buah. \\n mengumpulkan 8 buah dari 49 blok buah dalam 1 detik								
 										
 										
 										
@@ -1547,9 +1547,9 @@ item.wings.describe_01=Dengan sepasang sayap ini, Anda dapat melayang di langit.
 item.wings_02.name=Sayap emas
 item.wings.describe_02=Simbol kebangsawanan, bersinar dan elegan.\\nPerlambatan penurunan: 25%\\nKecepatan terbang pemain：+10%
 item.wings_03.name=Sayap ajaib
-item.wings.describe_03=Ada kekuatan sihir yang disembunyikan dalam sepasang sayap ini.\\nPerpanjangan desakan: 25%\\nKecepatan terbang pemain：+10%
+item.wings.describe_03=Ada kekuatan sihir yang disembunyikan dalam sepasang sayap ini.\\nPerpanjangan desakan: 25%
 item.wings_04.name=Sayap masa depan
-item.wings.describe_04=Sayap mekanis dari masa depan, penuh dengan kekuatan teknologi.\\nPerlambatan penurunan: 25%\\nKecepatan terbang pemain：+10%
+item.wings.describe_04=Sayap mekanis dari masa depan, penuh dengan kekuatan teknologi.\\nPerlambatan penurunan: 30%\\nKecepatan terbang pemain：+30%
 	
 help.text_01=Ketika Anda berada di ladang buah-buahan, Anda dapat mengumpulkan buah-buahan dengan pengumpul, sementara burung Anda akan membantu Anda juga.
 help.text_02=Jika ransel Anda penuh, pergi ke sarang untuk mengubah buah menjadi koin.
