@@ -1511,3 +1511,7 @@ gui_bird_checkin_received=Received
 gui_bird_checkin_day=Day %d
 
 gui_bird_nest=nest
+
+totalCollect=Total Collect Rank
+dailyCollect=Daily Collect Rank
+fightPoint=Fight Point Rank

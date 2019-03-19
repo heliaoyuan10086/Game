@@ -1518,3 +1518,7 @@ gui_bird_checkin_received=已领取
 gui_bird_checkin_day=第%d天
 
 gui_bird_nest=鸟巢
+
+totalCollect=采集总榜
+dailyCollect=每日采集榜
+fightPoint=战斗点数榜

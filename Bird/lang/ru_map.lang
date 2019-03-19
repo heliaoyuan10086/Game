@@ -1589,3 +1589,7 @@ gui_bird_checkin_received=Получено
 gui_bird_checkin_day=День %d
 
 gui_bird_nest=гнездо
+
+totalCollect=Total Collect Rank
+dailyCollect=Daily Collect Rank
+fightPoint=Fight Point Rank

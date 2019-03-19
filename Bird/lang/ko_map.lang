@@ -1863,3 +1863,7 @@ gui_bird_checkin_received=받은
 gui_bird_checkin_day=일 %d
 
 gui_bird_nest=둥지
+
+totalCollect=Total Collect Rank
+dailyCollect=Daily Collect Rank
+fightPoint=Fight Point Rank
