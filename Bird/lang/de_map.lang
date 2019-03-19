@@ -1383,11 +1383,11 @@ discribe_506=+ 100% der Basisgesundheit des Spielers
 discribe_401=Kaufe 10 Tickets	
 discribe_402=Kaufe 100 Tickets	
 discribe_403=Kaufe 500 Tickets	
-discribe_404=Erwerben Sie 3000 Tickets	
-discribe_405=Kaufe 5000 Obstmünzen	
-discribe_406=Kaufe 50000 Fruchtmünzen	
-discribe_407=Kaufe 500000 Fruchtmünzen	
-discribe_408=Kaufe 5000000 Fruchtmünzen	
+discribe_404=Erwerben Sie 3,000 Tickets	
+discribe_405=Kaufe 5,000 Obstmünzen	
+discribe_406=Kaufe 50,000 Fruchtmünzen	
+discribe_407=Kaufe 500,000 Fruchtmünzen	
+discribe_408=Kaufe 5,000,000 Fruchtmünzen	
 			
 			
 			
@@ -1431,14 +1431,14 @@ item.backpack.describe_07=Gute Säfte machen guten Wein. \\nBag Kapazität 19000
 item.backpack.describe_08=Das Auto wird hier mit Saft betankt. \\nBag Kapazität 300000	
 item.backpack.describe_09=Dies wird von Stark produziert. \\nBag Kapazität 140000	
 item.backpack.describe_10=Dies ist eine Erdbeertasche, keine Schildkrötenpanzer! \\n Sackkapazität 300	
-item.backpack.describe_11=Oh mein Gott! So süß! \\n Sackkapazität 900	
-item.backpack.describe_12=Der Vogel sagt: "Guten Morgen, warum tragen Sie eine kleine Tasche?" \\n Beutelkapazität 1800	
-item.backpack.describe_13=Große Ananas VI \\n Sackkapazität 3600	
-item.backpack.describe_14=Sie fragten, warum ich Wassermelone so schneide? Nun, nicht deine Geschäftigkeit !!! \\nBag Kapazität 7200	
-item.backpack.describe_15=Der rote Käfer wird mich nicht treffen, wenn ich das trage, richtig? \\n Beutelkapazität 14400	
-item.backpack.describe_16=Rucksack mit großer Kapazität für den kleinen Vogelkrieger. \\n Beutelkapazität 22000	
-item.backpack.describe_17=Die Werkzeugtasche sieht gut und praktisch aus. Bereue niemals den Kauf. \\n Kapazität der Tasche 41000	
-item.backpack.describe_18=Zweifellos ist die übergroße Reisetasche die beste Wahl. \\n Kapazität der Tasche 79000	
+item.backpack.describe_11=Oh mein Gott! So süß! \\n Sackkapazität 1,000	
+item.backpack.describe_12=Der Vogel sagt: "Guten Morgen, warum tragen Sie eine kleine Tasche?" \\n Beutelkapazität 2,500	
+item.backpack.describe_13=Große Ananas VI \\n Sackkapazität 8,000	
+item.backpack.describe_14=Sie fragten, warum ich Wassermelone so schneide? Nun, nicht deine Geschäftigkeit !!! \\nBag Kapazität 14,000	
+item.backpack.describe_15=Der rote Käfer wird mich nicht treffen, wenn ich das trage, richtig? \\n Beutelkapazität 27,000	
+item.backpack.describe_16=Rucksack mit großer Kapazität für den kleinen Vogelkrieger. \\n Beutelkapazität 60,000	
+item.backpack.describe_17=Die Werkzeugtasche sieht gut und praktisch aus. Bereue niemals den Kauf. \\n Kapazität der Tasche 100,000	
+item.backpack.describe_18=Zweifellos ist die übergroße Reisetasche die beste Wahl. \\n Kapazität der Tasche 190,000	
 			
 item.toolGather_01.describe=Das grundlegendste Werkzeug zum Sammeln. \\nSammeln Sie 1 Frucht aus 2 Fruchtblöcken in 1 Sek.	
 item.toolGather_02.describe=Etwas effizienter als die Schaufel. \\nSammlung von 1 Früchten aus 4 Fruchtblöcken in 1 Sek.	

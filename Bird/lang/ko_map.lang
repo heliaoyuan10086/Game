@@ -1668,11 +1668,11 @@ discribe_506=+ 플레이어 기본 건강의 100 %
 discribe_401=10 장 구입	
 discribe_402=100 티켓 구매	
 discribe_403=500 티켓 구매	
-discribe_404=3000 티켓 구매	
-discribe_405=5000 과일 동전 구입	
-discribe_406=50000 개의 과일 주화 구매	
-discribe_407=500000 개의 과일 주화 구매	
-discribe_408=5000000 과일 주머니 구입	
+discribe_404=3,000 티켓 구매	
+discribe_405=5,000 과일 동전 구입	
+discribe_406=50,000 개의 과일 주화 구매	
+discribe_407=500,000 개의 과일 주화 구매	
+discribe_408=5,000,000 과일 주머니 구입	
 	
 	
 	
@@ -1716,14 +1716,14 @@ item.backpack.describe_07=좋은 주스는 좋은 와인을 만듭니다. \\ n �
 item.backpack.describe_08=여기의 차는 주스로 연료를 공급받습니다. \\ n 가방 용량 300000	
 item.backpack.describe_09=이것은 스탁이 제작 한 것입니다. \\ n 가방 용량 260000	
 item.backpack.describe_10=이것은 딸기 주머니가 아니라 거북이 껍질입니다! \\ n 가방 용량 300	
-item.backpack.describe_11=이런! 너무 달다! \\ n 가방 용량 1000	
-item.backpack.describe_12=새가 말한다 : "좋은 아침, 왜 작은 가방을 가지고 다니니?" \\ n 가방 용량 2500	
-item.backpack.describe_13=빅 파인애플 VI \\ n 가방 용량 8000	
-item.backpack.describe_14=너 내가 왜 이렇게 수박을 자른 지 물었다. 글쎄, 당신 bussiness 아니에요! \\ n 가방 용량 14000	
-item.backpack.describe_15=내가 이걸 나르고 있다면 붉은 딱정벌레가 맞지 않을거야, 그렇지? \\ n 가방 용량 27000	
-item.backpack.describe_16=작은 새 전사 용으로 설계된 대용량 배낭. \\ n 가방 용량 60000	
-item.backpack.describe_17=공구 가방이 좋고 실용적입니다. 그것을 사지 않고 후회하십시오. \\ n 가방 용량 100000	
-item.backpack.describe_18=특대 여행 가방이 최고의 선택이라는 것은 의심의 여지가 없습니다. \\ n 가방 용량 190000	
+item.backpack.describe_11=이런! 너무 달다! \\ n 가방 용량 1,000	
+item.backpack.describe_12=새가 말한다 : "좋은 아침, 왜 작은 가방을 가지고 다니니?" \\ n 가방 용량 2,500	
+item.backpack.describe_13=빅 파인애플 VI \\ n 가방 용량 8,000	
+item.backpack.describe_14=너 내가 왜 이렇게 수박을 자른 지 물었다. 글쎄, 당신 bussiness 아니에요! \\ n 가방 용량 14,000	
+item.backpack.describe_15=내가 이걸 나르고 있다면 붉은 딱정벌레가 맞지 않을거야, 그렇지? \\ n 가방 용량 27,000	
+item.backpack.describe_16=작은 새 전사 용으로 설계된 대용량 배낭. \\ n 가방 용량 60,000	
+item.backpack.describe_17=공구 가방이 좋고 실용적입니다. 그것을 사지 않고 후회하십시오. \\ n 가방 용량 100,000	
+item.backpack.describe_18=특대 여행 가방이 최고의 선택이라는 것은 의심의 여지가 없습니다. \\ n 가방 용량 190,000	
 	
 item.toolGather_01.describe=가장 기본적인 수집 도구. \\ n 1 초에 과일 블록 2 개에서 과일 1 개를 수집하십시오.	
 item.toolGather_02.describe=삽보다 약간 더 효율적입니다. \\ n 1 초 동안 4 개의 과일 블록에서 과일 1 개를 수집하십시오.	

@@ -1383,11 +1383,11 @@ discribe_506=+ 100% sức khỏe cơ bản của người chơi
 discribe_401=Mua 10 vé	
 discribe_402=Mua 100 vé	
 discribe_403=Mua 500 vé	
-discribe_404=Mua 3000 vé	
-discribe_405=Mua 5000 xu trái cây	
-discribe_406=Mua 50000 đồng trái cây	
-discribe_407=Mua 500000 đồng trái cây	
-discribe_408=Mua 5000000 xu trái cây	
+discribe_404=Mua 3,000 vé	
+discribe_405=Mua 5,000 xu trái cây	
+discribe_406=Mua 50,000 đồng trái cây	
+discribe_407=Mua 500,000 đồng trái cây	
+discribe_408=Mua 5,000,000 xu trái cây	
 			
 			
 			
@@ -1426,19 +1426,19 @@ item.backpack.describe_02=Bạn đã đặt mua hai chiếc pizza, tổng cộng
 item.backpack.describe_03=Khoai tây chiên cực lớn, cùng giá. \\nBag dung lượng 900	
 item.backpack.describe_04=Nó không phải là rượu, nó là nước trái cây. \\nBag dung lượng 4000	
 item.backpack.describe_05=Nó trông nhỏ, nhưng nó có thể chứa rất nhiều thứ bên trong. \\nBag dung lượng 23000	
-item.backpack.describe_06=Huấn luyện viên chuyên nghiệp nên sử dụng túi chuyên nghiệp. \\nBag dung lượng 70000	
-item.backpack.describe_07=Nước ép tốt làm cho rượu vang tốt. \\nBag dung lượng 190000	
+item.backpack.describe_06=Huấn luyện viên chuyên nghiệp nên sử dụng túi chuyên nghiệp. \\nBag dung lượng 60,000	
+item.backpack.describe_07=Nước ép tốt làm cho rượu vang tốt. \\nBag dung lượng 260,000	
 item.backpack.describe_08=Chiếc xe ở đây được cung cấp nhiên liệu với nước trái cây. \\nBag dung lượng 300000	
 item.backpack.describe_09=Điều này được sản xuất bởi Stark. \\nBag dung lượng 140000	
 item.backpack.describe_10=Đây là một túi dâu tây, không phải là một cái mai rùa! \\n Công suất túi 300	
-item.backpack.describe_11=Ôi trơi ơi! Thật ngọt ngào! \\n Công suất túi 900	
-item.backpack.describe_12=Con chim nói: "Chào buổi sáng, tại sao bạn lại mang theo một chiếc túi nhỏ?" \\n Công suất túi 1800	
-item.backpack.describe_13=Túi dứa lớn VI \\n Dung lượng 3600	
-item.backpack.describe_14=Bạn hỏi tại sao tôi cắt dưa hấu như thế này? Vâng, không phải kinh doanh của bạn !!! \\nBag Dung lượng 7200	
-item.backpack.describe_15=Con bọ cánh cứng đỏ sẽ không đánh tôi nếu tôi mang thứ này, phải không? \\n Công suất túi 14400	
-item.backpack.describe_16=Ba lô công suất lớn được thiết kế cho các chiến binh chim nhỏ. \\n Công suất túi 22000	
-item.backpack.describe_17=Các túi công cụ có vẻ tốt và thiết thực. Không bao giờ hối tiếc vì đã mua nó. \\n Công suất túi 41000	
-item.backpack.describe_18=Không có nghi ngờ rằng túi du lịch quá khổ là sự lựa chọn tốt nhất. \\n Công suất túi 79000	
+item.backpack.describe_11=Ôi trơi ơi! Thật ngọt ngào! \\n Công suất túi 1,000	
+item.backpack.describe_12=Con chim nói: "Chào buổi sáng, tại sao bạn lại mang theo một chiếc túi nhỏ?" \\n Công suất túi 2,500	
+item.backpack.describe_13=Túi dứa lớn VI \\n Dung lượng 8,000	
+item.backpack.describe_14=Bạn hỏi tại sao tôi cắt dưa hấu như thế này? Vâng, không phải kinh doanh của bạn !!! \\nBag Dung lượng 14,000	
+item.backpack.describe_15=Con bọ cánh cứng đỏ sẽ không đánh tôi nếu tôi mang thứ này, phải không? \\n Công suất túi 27,000	
+item.backpack.describe_16=Ba lô công suất lớn được thiết kế cho các chiến binh chim nhỏ. \\n Công suất túi 60,000	
+item.backpack.describe_17=Các túi công cụ có vẻ tốt và thiết thực. Không bao giờ hối tiếc vì đã mua nó. \\n Công suất túi 100,000	
+item.backpack.describe_18=Không có nghi ngờ rằng túi du lịch quá khổ là sự lựa chọn tốt nhất. \\n Công suất túi 190,000	
 			
 item.toolGather_01.describe=Các công cụ thu thập cơ bản nhất. \\nCollect 1 quả từ 2 khối trái cây trong 1 giây.	
 item.toolGather_02.describe=Hiệu quả hơn một chút so với xẻng. \\nCollect 1 quả từ 4 khối quả trong 1 giây.	

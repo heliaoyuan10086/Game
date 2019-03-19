@@ -1383,11 +1383,11 @@ discribe_506=+ 100% dari kesehatan dasar pemain
 discribe_401=Beli 10 tiket								
 discribe_402=Beli 100 tiket								
 discribe_403=Beli 500 tiket								
-discribe_404=Beli 3000 tiket								
-discribe_405=Beli 5000 koin buah								
-discribe_406=Beli 50000 koin buah								
-discribe_407=Beli 500000 koin buah								
-discribe_408=Beli koin buah 50000								
+discribe_404=Beli 3,000 tiket								
+discribe_405=Beli 5,000 koin buah								
+discribe_406=Beli 50,000 koin buah								
+discribe_407=Beli 500,000 koin buah								
+discribe_408=Beli koin buah 5,000,000								
 										
 										
 										
@@ -1429,16 +1429,16 @@ item.backpack.describe_05=Ini terlihat kecil, tetapi dapat menampung banyak hal 
 item.backpack.describe_06=Pelatih profesional harus menggunakan tas profesional. \\nKapasitas 70000								
 item.backpack.describe_07=Jus yang baik menghasilkan anggur yang enak. \\nKapasitas 190000								
 item.backpack.describe_08=Mobil di sini dipenuhi dengan jus. \\nKapasitas 300000								
-item.backpack.describe_09=Ini diproduksi oleh Stark. \\nKapasitas 140000								
+item.backpack.describe_09=Ini diproduksi oleh Stark. \\nKapasitas 260,000								
 item.backpack.describe_10=Ini adalah tas stroberi, bukan cangkang kura-kura! \\n Kapasitas Tas 300								
-item.backpack.describe_11=Ya ampun! Sangat romantis! \\n Kapasitas Tas 900								
-item.backpack.describe_12=Burung itu berkata, "Selamat pagi, mengapa kamu membawa tas kecil?" \\n Kapasitas Tas 1800								
-item.backpack.describe_13=Big Pineapple VI \\n Kapasitas Tas 3600								
-item.backpack.describe_14=Anda bertanya mengapa saya memotong semangka seperti ini? Ya, bukan bisnismu !!! \\nKapasitas 7200								
-item.backpack.describe_15=Kumbang merah tidak akan memukul saya jika saya membawa ini, kan? \\n Kapasitas Tas 14400								
-item.backpack.describe_16=Ransel kapasitas besar yang dirancang untuk prajurit burung kecil. \\n Kapasitas Tas 22000								
-item.backpack.describe_17=Tas alat terlihat bagus dan praktis. Jangan pernah menyesal telah membelinya. \\n Kapasitas Tas 41000								
-item.backpack.describe_18=Tidak ada keraguan bahwa tas travel berukuran besar adalah pilihan terbaik. \\n Kapasitas Tas 79000								
+item.backpack.describe_11=Ya ampun! Sangat romantis! \\n Kapasitas Tas 1,000								
+item.backpack.describe_12=Burung itu berkata, "Selamat pagi, mengapa kamu membawa tas kecil?" \\n Kapasitas Tas 2,500								
+item.backpack.describe_13=Big Pineapple VI \\n Kapasitas Tas 8,000								
+item.backpack.describe_14=Anda bertanya mengapa saya memotong semangka seperti ini? Ya, bukan bisnismu !!! \\nKapasitas 14,000								
+item.backpack.describe_15=Kumbang merah tidak akan memukul saya jika saya membawa ini, kan? \\n Kapasitas Tas 27,000								
+item.backpack.describe_16=Ransel kapasitas besar yang dirancang untuk prajurit burung kecil. \\n Kapasitas Tas 60,000								
+item.backpack.describe_17=Tas alat terlihat bagus dan praktis. Jangan pernah menyesal telah membelinya. \\n Kapasitas Tas 100,000								
+item.backpack.describe_18=Tidak ada keraguan bahwa tas travel berukuran besar adalah pilihan terbaik. \\n Kapasitas Tas 190,000								
 										
 item.toolGather_01describe=Alat pengumpulan paling dasar. \\nKumpulkan 1 buah dari 2 blok buah dalam 1 detik.								
 item.toolGather_02describe=Sedikit lebih efisien daripada sekop. \\nKumpulkan 1 buah dari 4 blok buah dalam 1 detik.								

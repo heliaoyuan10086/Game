@@ -1383,11 +1383,11 @@ discribe_506=+ 100% de salud básica del jugador.
 discribe_401=Compra de 10 entradas
 discribe_402=Compra de 100 entradas
 discribe_403=Compra de 500 entradas
-discribe_404=Compra 3000 entradas
-discribe_405=Compra 5000 monedas de fruta
-discribe_406=Compra 50000 monedas de fruta
-discribe_407=Compra 500000 monedas de fruta
-discribe_408=Compra 5000000 monedas de fruta
+discribe_404=Compra 3,000 entradas
+discribe_405=Compra 5,000 monedas de fruta
+discribe_406=Compra 50,000 monedas de fruta
+discribe_407=Compra 500,000 monedas de fruta
+discribe_408=Compra 5,000,000 monedas de fruta
 
 
 
@@ -1429,16 +1429,16 @@ item.backpack.describe_05=Parece pequeño, pero puede contener muchas cosas dent
 item.backpack.describe_06=Los entrenadores profesionales deben usar bolsas profesionales. \\nBolsa capacidad 70000
 item.backpack.describe_07=Los buenos jugos hacen buen vino. \\nBolsa capacidad 190000
 item.backpack.describe_08=El coche aquí está alimentado con jugo. \\nBolsa capacidad 300000
-item.backpack.describe_09=Esto es producido por Stark. \\nbolsa capacidad 260000
+item.backpack.describe_09=Esto es producido por Stark. \\nbolsa capacidad 260,000
 item.backpack.describe_10=Esta es una bolsa de fresa, no una concha de tortuga! \\n Capacidad de la bolsa 300
-item.backpack.describe_11=¡Oh Dios mío! ¡Tan dulce! \\n Capacidad de la bolsa 1000
-item.backpack.describe_12=El pájaro dice: "Buenos días, ¿por qué llevas una pequeña bolsa?" \\n Capacidad de la bolsa 2500
-item.backpack.describe_13=Big Piña VI \\n Capacidad de la bolsa 8000
-item.backpack.describe_14=Me preguntaste por qué corté sandía así? Bueno, no es tu negocio! \\nBolsa de capacidad 14000
-item.backpack.describe_15=El escarabajo rojo no me golpeará si llevo esto, ¿verdad? \\n Capacidad de la bolsa 27000
-item.backpack.describe_16=Mochila de gran capacidad diseñada para el pequeño pájaro guerrero. \\n Capacidad de la bolsa 60000
-item.backpack.describe_17=La bolsa de herramientas se ve bien y práctica. Nunca te arrepientas de haberlo comprado. \\n Capacidad de la bolsa 100000
-item.backpack.describe_18=No hay duda de que la bolsa de viaje de gran tamaño es la mejor opción. \\n Capacidad de la bolsa 190000
+item.backpack.describe_11=¡Oh Dios mío! ¡Tan dulce! \\n Capacidad de la bolsa 1,000
+item.backpack.describe_12=El pájaro dice: "Buenos días, ¿por qué llevas una pequeña bolsa?" \\n Capacidad de la bolsa 2,500
+item.backpack.describe_13=Big Piña VI \\n Capacidad de la bolsa 8,000
+item.backpack.describe_14=Me preguntaste por qué corté sandía así? Bueno, no es tu negocio! \\nBolsa de capacidad 14,000
+item.backpack.describe_15=El escarabajo rojo no me golpeará si llevo esto, ¿verdad? \\n Capacidad de la bolsa 27,000
+item.backpack.describe_16=Mochila de gran capacidad diseñada para el pequeño pájaro guerrero. \\n Capacidad de la bolsa 60,000
+item.backpack.describe_17=La bolsa de herramientas se ve bien y práctica. Nunca te arrepientas de haberlo comprado. \\n Capacidad de la bolsa 100,000
+item.backpack.describe_18=No hay duda de que la bolsa de viaje de gran tamaño es la mejor opción. \\n Capacidad de la bolsa 190,000
 
 item.toolGather_01.describe=La herramienta de recogida más básica. \\nRecoge 1 fruta de 2 bloques de fruta en 1 seg.
 item.toolGather_02.describe=Un poco más eficiente que la pala. \\nRecoge 1 frutas de 4 bloques de frutas en 1 seg.

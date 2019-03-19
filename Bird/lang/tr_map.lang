@@ -1383,11 +1383,11 @@ discribe_506=Oyuncu temel sağlığının% + 100'ü
 discribe_401=10 bilet satın alın	
 discribe_402=100 bilet satın alın	
 discribe_403=500 bilet satın alın	
-discribe_404=3000 bilet satın alın	
-discribe_405=5000 meyve parası satın alın	
-discribe_406=50000 meyve parası satın alın	
-discribe_407=500000 meyve parası satın alın	
-discribe_408=5000000 meyve parası satın alın	
+discribe_404=3,000 bilet satın alın	
+discribe_405=5,000 meyve parası satın alın	
+discribe_406=50,000 meyve parası satın alın	
+discribe_407=500,000 meyve parası satın alın	
+discribe_408=5,000,000 meyve parası satın alın	
 			
 			
 			
@@ -1429,16 +1429,16 @@ item.backpack.describe_05=Küçük görünüyor, ama içinde birçok şey tutabi
 item.backpack.describe_06=Profesyonel eğitmenler profesyonel çanta kullanmalıdır. \\nBag kapasitesi 70000	
 item.backpack.describe_07=İyi meyve suları iyi şarap yapar. \\nBag kapasitesi 190000	
 item.backpack.describe_08=Buradaki arabaya meyve suyu geliyor. \\nBag kapasitesi 300000	
-item.backpack.describe_09=Bu Stark tarafından üretilir. \\nBag kapasitesi 140000	
+item.backpack.describe_09=Bu Stark tarafından üretilir. \\nBag kapasitesi 260,000	
 item.backpack.describe_10=Bu çilek torbası, kaplumbağa kabuğu değil! Çanta Kapasitesi 300	
-item.backpack.describe_11=Aman Tanrım! Çok tatlı! \\nTorba Kapasitesi 900	
-item.backpack.describe_12=Kuş şöyle der: "Günaydın, neden küçük bir çanta taşıyorsunuz?" \\nÇanta Kapasitesi 1800	
-item.backpack.describe_13=Büyük Ananas VI \\n Torba Kapasitesi 3600	
-item.backpack.describe_14=Neden böyle karpuz kestiğimi mi sordun? Eh, senin işin değil !!! \\nBag Kapasite 7200	
-item.backpack.describe_15=Bunu taşıyorsam kırmızı böcek bana çarpmaz, değil mi? \\nÇanta Kapasitesi 14400	
-item.backpack.describe_16=Küçük kuş savaşçısı için tasarlanmış büyük kapasiteli sırt çantası. \\nÇanta Kapasitesi 22000	
-item.backpack.describe_17=Alet çantası iyi ve pratik görünüyor. Asla aldığın için pişman değilim. \\nÇanta Kapasitesi 41000	
-item.backpack.describe_18=Büyük boy seyahat çantasının en iyi seçenek olduğuna hiç şüphe yok. \\nÇanta Kapasitesi 79000	
+item.backpack.describe_11=Aman Tanrım! Çok tatlı! \\nTorba Kapasitesi 1,000	
+item.backpack.describe_12=Kuş şöyle der: "Günaydın, neden küçük bir çanta taşıyorsunuz?" \\nÇanta Kapasitesi 2,500	
+item.backpack.describe_13=Büyük Ananas VI \\n Torba Kapasitesi 8,000	
+item.backpack.describe_14=Neden böyle karpuz kestiğimi mi sordun? Eh, senin işin değil !!! \\nBag Kapasite 14,000	
+item.backpack.describe_15=Bunu taşıyorsam kırmızı böcek bana çarpmaz, değil mi? \\nÇanta Kapasitesi 27,000	
+item.backpack.describe_16=Küçük kuş savaşçısı için tasarlanmış büyük kapasiteli sırt çantası. \\nÇanta Kapasitesi 60,000	
+item.backpack.describe_17=Alet çantası iyi ve pratik görünüyor. Asla aldığın için pişman değilim. \\nÇanta Kapasitesi 100,000	
+item.backpack.describe_18=Büyük boy seyahat çantasının en iyi seçenek olduğuna hiç şüphe yok. \\nÇanta Kapasitesi 190,000	
 			
 item.toolGather_01.describe=En temel toplama aracı. \\nBir meyve tablasını 1 saniye içinde 1 meyve topla.	
 item.toolGather_02.describe=Kürekten biraz daha verimli. \\nSanat 4 meyve bloğundan 1 meyve topla.	

@@ -1390,11 +1390,11 @@ discribe_506=玩家基础生命值增加100%
 discribe_401=增加10张抽蛋票
 discribe_402=增加100张抽蛋票
 discribe_403=增加500张抽蛋票
-discribe_404=增加3000张抽蛋票
-discribe_405=增加5000果币
-discribe_406=增加50000果币
-discribe_407=增加500000果币
-discribe_408=增加5000000果币
+discribe_404=增加3,000张抽蛋票
+discribe_405=增加5,000果币
+discribe_406=增加50,000果币
+discribe_407=增加500,000果币
+discribe_408=增加5,000,000果币
 
 
 
@@ -1430,22 +1430,22 @@ item.toolGather_10.name=收割者
 
 item.backpack.describe_01=结实的登山包，上面还有指南针。\\n背包容量100
 item.backpack.describe_02=您点的两个披萨，只要一万比特币。\\n背包容量300
-item.backpack.describe_03=超大份薯条，加量不加价。\\n背包容量1000
-item.backpack.describe_04=这里面装的不是酒，是果汁。\\n背包容量2500
-item.backpack.describe_05=虽然看起来很小，但是可以装不少东西。\\n背包容量8000
-item.backpack.describe_06=专业的训练师应该用专业的背包。\\n背包容量14000
-item.backpack.describe_07=上好的果汁酿上好的酒。\\n背包容量27000
-item.backpack.describe_08=这里的车是用果汁当燃料的。\\n背包容量60000
-item.backpack.describe_09=史塔克公司出品。\\n背包容量260000
+item.backpack.describe_03=超大份薯条，加量不加价。\\n背包容量1,000
+item.backpack.describe_04=这里面装的不是酒，是果汁。\\n背包容量2,500
+item.backpack.describe_05=虽然看起来很小，但是可以装不少东西。\\n背包容量8,000
+item.backpack.describe_06=专业的训练师应该用专业的背包。\\n背包容量14,000
+item.backpack.describe_07=上好的果汁酿上好的酒。\\n背包容量27,000
+item.backpack.describe_08=这里的车是用果汁当燃料的。\\n背包容量60,000
+item.backpack.describe_09=史塔克公司出品。\\n背包容量260,000
 item.backpack.describe_10=这是草莓包，不是乌龟壳！\\n背包容量300
-item.backpack.describe_11=啊！老夫的少女心。\\n背包容量1000
-item.backpack.describe_12=小鸟说：“早早早，你为什么背上小书包？”\\n背包容量2500
-item.backpack.describe_13=大菠萝VI代。\\n背包容量8000
-item.backpack.describe_14=你问我为什么这么切西瓜？你管得着吗。\\n背包容量14000
-item.backpack.describe_15=背上这个，红甲虫就不会打我了吧。\\n背包容量27000
-item.backpack.describe_16=大容量帆布背包，专为小鸟战士设计。\\n背包容量60000
-item.backpack.describe_17=工具包好看又实用，买了肯定不后悔。\\n背包容量100000
-item.backpack.describe_18=超大个头的旅行包无疑最好的选择。\\n背包容量190000
+item.backpack.describe_11=啊！老夫的少女心。\\n背包容量1,000
+item.backpack.describe_12=小鸟说：“早早早，你为什么背上小书包？”\\n背包容量2,500
+item.backpack.describe_13=大菠萝VI代。\\n背包容量8,000
+item.backpack.describe_14=你问我为什么这么切西瓜？你管得着吗。\\n背包容量14,000
+item.backpack.describe_15=背上这个，红甲虫就不会打我了吧。\\n背包容量27,000
+item.backpack.describe_16=大容量帆布背包，专为小鸟战士设计。\\n背包容量60,000
+item.backpack.describe_17=工具包好看又实用，买了肯定不后悔。\\n背包容量100,000
+item.backpack.describe_18=超大个头的旅行包无疑最好的选择。\\n背包容量190,000
 
 item.toolGather_01.describe=最基础的采集工具。\\n在1秒内从2块果田采集1点水果
 item.toolGather_02.describe=比铲子效率稍微高一点。\\n在1秒内从4块果田采集1点水果
