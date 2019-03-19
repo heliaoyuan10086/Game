@@ -69,3 +69,6 @@ treeRespawnCD: 60
 #增加可携带小鸟数引导任务ID
 addCarryTo3TaskId: 1030501
 addCarryTo4TaskId: 1040501
+
+#喂食引导任务ID
+feedTaskId: 2040701
