@@ -1523,3 +1523,5 @@ totalCollect=采集总榜
 dailyCollect=每日采集榜
 fightPoint=战斗点数榜
 gui_bird_pack_use_tool=使用
+
+gui_bird_capacity_full_expenditure=背包容量达到上限
