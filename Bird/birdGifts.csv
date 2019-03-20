@@ -36,7 +36,7 @@ id	icon	coinId	type	baseValue	activeTime	maxTimes	name
 16006	set:bird_icon.json image:g1041_coin_14	1090	3	1041003	0	0	fruitcoin_1041003
 16007	set:bird_icon.json image:g1041_coin_15	1091	3	1041004	0	0	fruitcoin_1041004
 16008	set:bird_icon.json image:g1041_coin_16	1092	3	1041018	0	0	fruitcoin_1041018
-16009	set:bird_icon.json image:storeitem_01	1093	3	1	0	0	@@@
-16010	set:bird_icon.json image:storeitem_01	1094	3	3	0	0	@@@
-16011	set:bird_icon.json image:storeitem_01	1095	3	5	0	0	@@@
-16012	set:bird_icon.json image:storeitem_01	1096	3	10	0	0	@@@
+16009	set:bird_icon.json image:storeitem_01	1093	3	1	0	0	fruitcoin_9000002
+16010	set:bird_icon.json image:storeitem_01	1094	3	3	0	0	fruitcoin_9000002
+16011	set:bird_icon.json image:storeitem_01	1095	3	5	0	0	fruitcoin_9000002
+16012	set:bird_icon.json image:storeitem_01	1096	3	10	0	0	fruitcoin_9000002
