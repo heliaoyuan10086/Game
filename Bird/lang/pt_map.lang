@@ -1531,7 +1531,7 @@ gui_bird_tip_delete_bird_fail=Falha ao excluir o último pássaro.
 gui_bird_next_task_time=Próxima tarefa \\n %s
 gui_bird_carry_full_expenditure=Quantidade máxima de valor contábil atingida
 gui_bird_carry_full=+ um só lugar
-gui_bird_capacity_full_expenditure=A capacidade da sua bolsa atingiu o seu valor máximo.
+gui_bird_capacity_full_expenditure=Max capacity.
 gui_bird_capacity_full=+ Capacidade 5
 
 
@@ -1569,7 +1569,7 @@ helptitle.text_07=Cannons
 gui_bird_tip_open_cannon=Use canhão
 gui_bird_tip_open_egg_chest=Abra o presente diário
 gui_bird_tip_not_egg_chest=O presente diário ainda não está pronto.
-gui_bird_tip_my_rank=Minha pontuação:%s\\nMinha classificação：%d
+gui_bird_tip_my_rank=Minha pontuação: %s\\nMinha classificação：%d
 gui_bird_checkin_title=Check-in de 7 dias
 gui_bird_checkin_time_left=Tempo restante：%s
 gui_bird_checkin_receive=Check-in
@@ -1578,6 +1578,7 @@ gui_bird_checkin_day=Dia %d
 
 gui_bird_nest=ninho
 
-totalCollect=Total Collect Rank
-dailyCollect=Daily Collect Rank
-fightPoint=Fight Point Rank
+totalCollect=Total Collect
+dailyCollect=Daily Collect
+fightPoint=Fight Point
+gui_bird_pack_use_tool=Use

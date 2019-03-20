@@ -1532,7 +1532,7 @@ gui_bird_tip_delete_bird_fail=Son kuş silinemedi.
 gui_bird_next_task_time=Sonraki Görev \\n%s	
 gui_bird_carry_full_expenditure=Maksimum taşıma miktarına ulaştı	
 gui_bird_carry_full=1 yeri genişlet	
-gui_bird_capacity_full_expenditure=Torba kapasitesi maksimum miktara ulaştı.	
+gui_bird_capacity_full_expenditure=Max capacity.
 gui_bird_capacity_full=5 kapasiteyi genişlet	
 			
 			
@@ -1570,7 +1570,7 @@ helptitle.text_07=Cannons
 gui_bird_tip_open_cannon=Cannon kullan
 gui_bird_tip_open_egg_chest=Günlük Hediye Aç
 gui_bird_tip_not_egg_chest=Günlük Hediye henüz hazır değil.
-gui_bird_tip_my_rank=Puanım:%s\\nMy Rank：%d
+gui_bird_tip_my_rank=Puanım: %s\\nMy Rank：%d
 gui_bird_checkin_title=7 Günlük Check-In
 gui_bird_checkin_time_left=Kalan Süre：%s
 gui_bird_checkin_receive=Giriş
@@ -1579,6 +1579,7 @@ gui_bird_checkin_day=gün %d
 
 gui_bird_nest=yuva
 
-totalCollect=Total Collect Rank
-dailyCollect=Daily Collect Rank
-fightPoint=Fight Point Rank
+totalCollect=Total Collect
+dailyCollect=Daily Collect
+fightPoint=Fight Point
+gui_bird_pack_use_tool=Use

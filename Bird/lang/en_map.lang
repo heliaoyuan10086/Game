@@ -1503,7 +1503,7 @@ helptitle.text_07=Cannons
 gui_bird_tip_open_cannon=Use Cannon
 gui_bird_tip_open_egg_chest=Open Daily Gift
 gui_bird_tip_not_egg_chest=Daily Gift is not ready yet.
-gui_bird_tip_my_rank=My Score:%s\\nMy Rank：%d
+gui_bird_tip_my_rank=My Score: %s\\nMy Rank：%d
 gui_bird_checkin_title=7-Day Check In
 gui_bird_checkin_time_left=Time Remain：%s
 gui_bird_checkin_receive=Check In
@@ -1512,7 +1512,9 @@ gui_bird_checkin_day=Day %d
 
 gui_bird_nest=nest
 
-totalCollect=Total Collect Rank
-dailyCollect=Daily Collect Rank
-fightPoint=Fight Point Rank
+totalCollect=Total Collect
+dailyCollect=Daily Collect
+fightPoint=Fight Point
 gui_bird_pack_use_tool=Use
+
+gui_bird_capacity_full_expenditure=Max capacity.

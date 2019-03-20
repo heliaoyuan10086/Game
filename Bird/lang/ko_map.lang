@@ -1817,7 +1817,7 @@ gui_bird_tip_delete_bird_fail=마지막 새를 삭제하지 못했습니다.
 gui_bird_next_task_time=다음 작업 \\n %s
 gui_bird_carry_full_expenditure=장부 금액의 최대 한도 도달
 gui_bird_carry_full=장소 1 개 확장
-gui_bird_capacity_full_expenditure=가방 용량이 최대 금액에 도달했습니다.
+gui_bird_capacity_full_expenditure=Max capacity.
 gui_bird_capacity_full=용량 5 확장
 
 
@@ -1855,7 +1855,7 @@ helptitle.text_07=Cannons
 gui_bird_tip_open_cannon=대포 사용
 gui_bird_tip_open_egg_chest=매일 선물 열기
 gui_bird_tip_not_egg_chest=매일 선물은 아직 준비되지 않았습니다.
-gui_bird_tip_my_rank=내 점수:%s\\n내 순위：%d
+gui_bird_tip_my_rank=내 점수: %s\\n내 순위：%d
 gui_bird_checkin_title=7 일 체크인
 gui_bird_checkin_time_left=남은 시간：%s
 gui_bird_checkin_receive=체크인
@@ -1864,6 +1864,7 @@ gui_bird_checkin_day=일 %d
 
 gui_bird_nest=둥지
 
-totalCollect=Total Collect Rank
-dailyCollect=Daily Collect Rank
-fightPoint=Fight Point Rank
+totalCollect=Total Collect
+dailyCollect=Daily Collect
+fightPoint=Fight Point
+gui_bird_pack_use_tool=Use

@@ -1543,7 +1543,7 @@ gui_bird_tip_delete_bird_fail=Не удалось удалить последн�
 gui_bird_next_task_time=Следующая задача\\n%s
 gui_bird_carry_full_expenditure=Достигнута максимальная балансовая стоимость
 gui_bird_carry_full=Развернуть 1 место
-gui_bird_capacity_full_expenditure=Вместимость сумки достигла максимального количества.
+gui_bird_capacity_full_expenditure=Max capacity.
 gui_bird_capacity_full=Расширить 5 емкости
 
 
@@ -1581,7 +1581,7 @@ helptitle.text_07=Cannons
 gui_bird_tip_open_cannon=Используйте Пушку
 gui_bird_tip_open_egg_chest=Открытый ежедневный подарок
 gui_bird_tip_not_egg_chest=Ежедневный подарок еще не готов.
-gui_bird_tip_my_rank=Моя оценка:%s\\nМой ранг：%d
+gui_bird_tip_my_rank=Моя оценка: %s\\nМой ранг：%d
 gui_bird_checkin_title=7-дневная регистрация
 gui_bird_checkin_time_left=Оставшееся время：%s
 gui_bird_checkin_receive=Регистрироваться
@@ -1590,6 +1590,7 @@ gui_bird_checkin_day=День %d
 
 gui_bird_nest=гнездо
 
-totalCollect=Total Collect Rank
-dailyCollect=Daily Collect Rank
-fightPoint=Fight Point Rank
+totalCollect=Total Collect
+dailyCollect=Daily Collect
+fightPoint=Fight Point
+gui_bird_pack_use_tool=Use

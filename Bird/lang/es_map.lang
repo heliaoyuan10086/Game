@@ -1531,7 +1531,7 @@ gui_bird_tip_delete_bird_fail=Error al eliminar el último pájaro.
 gui_bird_next_task_time=Siguiente tarea \\n%s
 gui_bird_carry_full_expenditure=Alcanzó el máximo del importe en libros.
 gui_bird_carry_full=Expandir 1 lugar
-gui_bird_capacity_full_expenditure=La capacidad de la bolsa ha alcanzado la cantidad máxima.
+gui_bird_capacity_full_expenditure=Max capacity.
 gui_bird_capacity_full=Ampliar la capacidad de 5
 
 gui_bird_pack_info_gather1=Recoger:%1.f in %.1f sec
@@ -1567,7 +1567,7 @@ helptitle.text_07=Cannons
 gui_bird_tip_open_cannon=Usar canon
 gui_bird_tip_open_egg_chest=Abierto diario de regalo
 gui_bird_tip_not_egg_chest=El regalo diario aún no está listo.
-gui_bird_tip_my_rank=Mi puntaje:%s\\nMi rango：%d
+gui_bird_tip_my_rank=Mi puntaje: %s\\nMi rango：%d
 gui_bird_checkin_title=Check-in en 7 días
 gui_bird_checkin_time_left=Tiempo restante：%s
 gui_bird_checkin_receive=Registrarse
@@ -1576,6 +1576,7 @@ gui_bird_checkin_day=Dia %d
 
 gui_bird_nest=nido
 
-totalCollect=Total Collect Rank
-dailyCollect=Daily Collect Rank
-fightPoint=Fight Point Rank
+totalCollect=Total Collect
+dailyCollect=Daily Collect
+fightPoint=Fight Point
+gui_bird_pack_use_tool=Use

@@ -1532,7 +1532,7 @@ gui_bird_tip_delete_bird_fail=Gagal menghapus burung terakhir.
 gui_bird_next_task_time=Tugas Selanjutnya\\n%s
 gui_bird_carry_full_expenditure=Mencapai jumlah maksimum yang tercatat
 gui_bird_carry_full=Perluas 1 tempat
-gui_bird_capacity_full_expenditure=Kapasitas tas telah mencapai jumlah maksimal.
+gui_bird_capacity_full_expenditure=Max capacity.
 gui_bird_capacity_full=Perluas 5 kapasitas
 	
 	
@@ -1570,7 +1570,7 @@ helptitle.text_07=Cannons
 gui_bird_tip_open_cannon=Gunakan Cannon
 gui_bird_tip_open_egg_chest=Buka Hadiah Harian
 gui_bird_tip_not_egg_chest=Hadiah Harian belum siap.
-gui_bird_tip_my_rank=Nilai Saya:%s\\nPeringkat Saya：%d
+gui_bird_tip_my_rank=Nilai Saya: %s\\nPeringkat Saya：%d
 gui_bird_checkin_title=Check-in 7-Hari
 gui_bird_checkin_time_left=Sisa Waktu：%s
 gui_bird_checkin_receive=Mendaftar
@@ -1579,6 +1579,7 @@ gui_bird_checkin_day=Hari %d
 
 gui_bird_nest=sarang
 
-totalCollect=Total Collect Rank
-dailyCollect=Daily Collect Rank
-fightPoint=Fight Point Rank
+totalCollect=Total Collect
+dailyCollect=Daily Collect
+fightPoint=Fight Point
+gui_bird_pack_use_tool=Use
