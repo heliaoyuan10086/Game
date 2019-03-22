@@ -1,8 +1,8 @@
 id	商品类型（1食物，果币，抽蛋票，2特权，3小鸟装饰）	商品id	子id	数量	所属商品组ID	是否自动装上(0不装上，1自动装上)	提示图片	商品名称多语言	注释
 id	type	itemId	meta	num	teamId	autoEquip	icon	name	ps
-1	1	9000001	0	10000	9999	0	set:bird_icon.json image:xinshoulibao_01	teamname_9999	新手礼包
-2	1	9000002	0	100	9999	0	set:bird_icon.json image:xinshoulibao_02	teamname_9999	新手礼包抽蛋票
-3	1	900401	0	1	9999	0	set:bird_icon.json image:xinshoulibao_03	teamname_9999	新手礼包飞猪
+1	1	9000001	0	10000	9999	0	set:bird_icon.json image:xinshoulibao_01	teamname_9990	新手礼包
+2	1	9000002	0	100	9999	0	set:bird_icon.json image:xinshoulibao_02	teamname_9991	新手礼包抽蛋票
+3	1	900401	0	1	9999	0	set:bird_icon.json image:xinshoulibao_03	teamname_9992	新手礼包飞猪
 4	3	810013	0	1	901	0	set:bird_icon.json image:glasses_13	teamname_901	潜水员
 5	3	810017	0	1	902	0	set:bird_icon.json image:glasses_17	teamname_902	开派对
 6	3	810018	0	1	903	0	set:bird_icon.json image:glasses_18	teamname_903	古铜
