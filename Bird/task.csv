@@ -1,6 +1,6 @@
 索引	任务ID	前置任务ID	其他开启条件(多个条件#号分割）	接任务NPC	完成条件ID（多个条件#号分割）	奖励(多个用#隔开)	数量	提示图片	按钮显示的内容	显示的标题(#为空)	对话内容(#分页)	领取任务之后对话	完成任务对话	奖励名称多语言(多个用#隔开)		
 id	taskId	lastTaskId	otherRequirement	receiveNpcId	requirement	rewards	num	icons	sureContent	title	dialog	dialogAffter	dialogComplete	names		
-1	1010301	0	@@@	20009	10103011	9000002	6	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20009	taskhello_20009	taskaffter_20009	taskcomplete_20009	Fruitcoin_9000002		taskaffter_20009
+1	1010301	0	@@@	20009	10103011	9000002	6	set:bird_icon.json image:storeitem_01	gui_dialog_tip_btn_sure	tastlang_id_20009	taskhello_20009	taskaffter_20009	taskcomplete_20009	fruitcoin_9000002		taskaffter_20009
 2	1022301	1010301	@@@	20009	10223011	9000001	960	set:bird_icon.json image:storeitem_02	gui_dialog_tip_btn_sure	tastlang_id_20009	taskold_20009	taskaffter_20009	taskcomplete_20009	fruitcoin_9000001		taskaffter_20009
 3	2022101	0	@@@	20003	20221011	9000001	120	set:bird_icon.json image:storeitem_02	gui_dialog_tip_btn_sure	tastlang_id_20003	taskhello_20003	taskaffter_20003	taskcomplete_20003	fruitcoin_9000001		taskaffter_20003
 4	1020801	1022301	@@@	20009	10208011	9000001	480	set:bird_icon.json image:storeitem_02	gui_dialog_tip_btn_sure	tastlang_id_20009	taskold_20009	taskaffter_20009	taskcomplete_20009	fruitcoin_9000001		taskaffter_20009
