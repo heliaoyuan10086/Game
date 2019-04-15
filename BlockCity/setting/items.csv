@@ -1,0 +1,4 @@
+Id	ItemId	Name	Desc	Icon	Type	CubePrice	Score	
+物品id	手持道具id	多语言名称	多语言描述	对应Item图标	类型（物品分类）	魔方价格	积分	中文备注
+Id	ItemId	Name	Desc	Icon	Type	CubePrice	Score	
+100001	0	100001_ranch_item_name_wheat	100001_content	100001_wheat	1	1	1	小麦
