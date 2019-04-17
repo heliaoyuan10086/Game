@@ -1,38 +1,38 @@
-序号	名称	图片	物品Id	所属组	权重	备注
-number	name	image	itemId	pool	weights	remark
-1	dmm_actor_box_half_open	set:hidden.json image:box_half_open	@@@	1	10	打开的箱子
-2	dmm_actor_box_close	set:hidden.json image:box_close	@@@	1	10	半开的箱子
-3	dmm_actor_box_open	set:hidden.json image:box_open	@@@	1	10	箱子
-4	dmm_actor_stick	set:hidden.json image:stick	@@@	1	10	圣诞棍
-5	dmm_actor_stick	set:hidden.json image:stick	@@@	1	10	圣诞棍
-6	dmm_actor_desk	set:hidden.json image:desk	@@@	1	10	工作台
-7	dmm_actor_table	set:hidden.json image:table	@@@	2	30	床头柜
-8	dmm_actor_gift	set:hidden.json image:gift	@@@	2	30	圣诞礼物
-9	dmm_actor_sack	set:hidden.json image:sack	@@@	2	20	礼物袋
-10	dmm_actor_sofa	set:hidden.json image:sofa	@@@	2	1	沙发
-11	dmm_actor_tv	set:hidden.json image:tv	@@@	2	1	电视
-12	dmm_actor_barrel01	set:hidden.json image:barrel01	@@@	2	10	木桶
-13	dmm_actor_bonfire01	set:hidden.json image:bonfire01	@@@	3	10	火堆
-14	dmm_actor_carton01	set:hidden.json image:carton01	@@@	3	10	小箱子
-15	dmm_actor_cask02	set:hidden.json image:cask02	@@@	3	10	酒桶
-16	dmm_actor_kennel01	set:hidden.json image:kennel01	@@@	3	10	狗屋
-17	dmm_actor_snowmanbattle_blue	set:hidden.json image:snowmanbattle_blue	@@@	3	30	蓝色雪人
-18	dmm_actor_snowmanbattle_red	set:hidden.json image:snowmanbattle_red	@@@	3	30	红色雪人
-19	dmm_actor_streetlight01	set:hidden.json image:streetlight01	@@@	4	20	路边街灯
-20	dmm_actor_tree01	set:hidden.json image:tree01	@@@	4	20	大树
-21	dmm_actor_coke	set:hidden.json image:coke	@@@	4	10	可乐
-22	dmm_actor_pc	set:hidden.json image:pc	@@@	4	10	手提电脑
-23	dmm_actor_cup	set:hidden.json image:cup	@@@	4	10	杯子
-24	dmm_actor_phone	set:hidden.json image:phone	@@@	4	10	座式电话
-25	dmm_actor_sock_01	set:hidden.json image:sock_01	@@@	5	8	白袜子
-26	dmm_actor_sock_03	set:hidden.json image:sock_03	@@@	5	8	灰袜子
-27	dmm_actor_sock_02	set:hidden.json image:sock_02	@@@	5	8	绿袜子
-28	dmm_actor_tree	set:hidden.json image:tree	@@@	5	9	圣诞树
-29	dmm_actor_cup01	set:hidden.json image:cup01	@@@	5	10	木杯子
-30	dmm_actor_ad_lamp_case01	set:hidden.json image:ad_lamp_case01	@@@	5	10	广告牌
-31	dmm_actor_coin_machine01	set:hidden.json image:coin_machine01	@@@	6	4	黄色贩卖机
-32	dmm_actor_coin_machine02	set:hidden.json image:coin_machine02	@@@	6	14	蓝色贩卖机
-33	dmm_actor_dustbin01	set:hidden.json image:dustbin01	@@@	6	5	垃圾箱
-34	dmm_actor_metal_trash_can01_01	set:hidden.json image:metal_trash_can01_01	@@@	6	2	垃圾桶关
-35	dmm_actor_metal_trash_can01_02	set:hidden.json image:metal_trash_can01_02	@@@	6	10	垃圾桶半开
-36	dmm_actor_metal_trash_can01_03	set:hidden.json image:metal_trash_can01_03	@@@	6	13	垃圾桶开
+序号	名称	图片	物品Id	物品子Id	所属组	权重	备注
+number	name	image	itemId	itemId2	pool	weights	remark
+1	dmm_actor_box_half_open	set:hidden.json image:box_half_open	@@@	0	1	10	打开的箱子
+2	dmm_actor_box_close	set:hidden.json image:box_close	@@@	0	1	10	半开的箱子
+3	dmm_actor_box_open	set:hidden.json image:box_open	@@@	0	1	10	箱子
+4	dmm_actor_stick	set:hidden.json image:stick	@@@	0	1	10	圣诞棍
+5	dmm_actor_stick	set:hidden.json image:stick	@@@	0	1	10	圣诞棍
+6	dmm_actor_desk	set:hidden.json image:desk	@@@	0	1	10	工作台
+7	dmm_actor_table	set:hidden.json image:table	@@@	0	2	30	床头柜
+8	dmm_actor_gift	set:hidden.json image:gift	@@@	0	2	30	圣诞礼物
+9	dmm_actor_sack	set:hidden.json image:sack	@@@	0	2	20	礼物袋
+10	dmm_actor_sofa	set:hidden.json image:sofa	@@@	0	2	1	沙发
+11	dmm_actor_tv	set:hidden.json image:tv	@@@	0	2	1	电视
+12	dmm_actor_barrel01	set:hidden.json image:barrel01	@@@	0	2	10	木桶
+13	dmm_actor_bonfire01	set:hidden.json image:bonfire01	@@@	0	3	10	火堆
+14	dmm_actor_carton01	set:hidden.json image:carton01	@@@	0	3	10	小箱子
+15	dmm_actor_cask02	set:hidden.json image:cask02	@@@	0	3	10	酒桶
+16	dmm_actor_kennel01	set:hidden.json image:kennel01	@@@	0	3	10	狗屋
+17	dmm_actor_snowmanbattle_blue	set:hidden.json image:snowmanbattle_blue	@@@	0	3	30	蓝色雪人
+18	dmm_actor_snowmanbattle_red	set:hidden.json image:snowmanbattle_red	@@@	0	3	30	红色雪人
+19	dmm_actor_streetlight01	set:hidden.json image:streetlight01	@@@	0	4	20	路边街灯
+20	dmm_actor_tree01	set:hidden.json image:tree01	@@@	0	4	20	大树
+21	dmm_actor_coke	set:hidden.json image:coke	@@@	0	4	10	可乐
+22	dmm_actor_pc	set:hidden.json image:pc	@@@	0	4	10	手提电脑
+23	dmm_actor_cup	set:hidden.json image:cup	@@@	0	4	10	杯子
+24	dmm_actor_phone	set:hidden.json image:phone	@@@	0	4	10	座式电话
+25	dmm_actor_sock_01	set:hidden.json image:sock_01	@@@	0	5	8	白袜子
+26	dmm_actor_sock_03	set:hidden.json image:sock_03	@@@	0	5	8	灰袜子
+27	dmm_actor_sock_02	set:hidden.json image:sock_02	@@@	0	5	8	绿袜子
+28	dmm_actor_tree	set:hidden.json image:tree	@@@	0	5	9	圣诞树
+29	dmm_actor_cup01	set:hidden.json image:cup01	@@@	0	5	10	木杯子
+30	dmm_actor_ad_lamp_case01	set:hidden.json image:ad_lamp_case01	@@@	0	5	10	广告牌
+31	dmm_actor_coin_machine01	set:hidden.json image:coin_machine01	@@@	0	6	4	黄色贩卖机
+32	dmm_actor_coin_machine02	set:hidden.json image:coin_machine02	@@@	0	6	14	蓝色贩卖机
+33	dmm_actor_dustbin01	set:hidden.json image:dustbin01	@@@	0	6	5	垃圾箱
+34	dmm_actor_metal_trash_can01_01	set:hidden.json image:metal_trash_can01_01	@@@	0	6	2	垃圾桶关
+35	dmm_actor_metal_trash_can01_02	set:hidden.json image:metal_trash_can01_02	@@@	0	6	10	垃圾桶半开
+36	dmm_actor_metal_trash_can01_03	set:hidden.json image:metal_trash_can01_03	@@@	0	6	13	垃圾桶开
