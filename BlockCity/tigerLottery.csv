@@ -1,4 +1,4 @@
 id	actor名称	默认是body	正整数	领取之后的模型	领取之后的body	领取之后的bodyId	坐标x	坐标y	坐标z	朝向	区域起点X坐标	区域起点Y坐标	区域起点Z坐标	区域终点X坐标	区域终点Y坐标	区域终点Z坐标	刷新时间（s）	弹窗提示	抽奖组（多个用#隔开）
 id	actorName	actorBody	actorBodyId	modleName	modleBody	modleBodyId	x	y	z	yaw	x1	y1	z1	x2	y2	z2	refreshCD	tips	pools
-1	g1041_chest_egg.actor	body	2	g1041_chest_sign.actor	body	1	-646	34	-314	270	-649	30	-317	-643	38	-311	720	@@@	1#2#3
-2	g1041_chest_egg.actor	body	1	g1041_chest_sign.actor	body	3	-644	34	-292	270	-647	30	-295	-641	38	-289	2520	@@@	4#5#6
+1	g1041_chest_egg.actor	body	2	g1041_chest_sign.actor	body	1	-702	34	-266	180	-705	33	-269	-699	38	-263	720	@@@	1#2#3
+2	g1041_chest_egg.actor	body	1	g1041_chest_sign.actor	body	3	-717	34	-266	180	-720	33	-269	-714	38	-263	2520	@@@	4#5#6
