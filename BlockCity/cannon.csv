@@ -1,3 +1,6 @@
 模型Id	模型名称	body	bodyId	初始位置x	初始位置y	初始位置z	落地点位置x	落地点位置y	落地点位置z	(y1-y的高度) + 增量的高度
 id	actor	body	bodyId	x	y	z	x1	y1	z1	addHeight
-1	g1041_cannon.actor	body	1	123.95	59	162.81	150	70	180	10
+1	g1041_cannon.actor	body	4	-657.5	34	-300.5	-702.5	34	-265.5	30
+2	g1041_cannon.actor	body	2	-761.5	34	-300.5	-716.5	34	-265.5	30
+3	g1041_cannon.actor	body	1	-761.5	34	-196.5	-766.5	34	-305.5	30
+4	g1041_cannon.actor	body	3	-657.5	34	-196.5	-652.5	34	-305.5	30
