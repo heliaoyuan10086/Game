@@ -1,5 +1,5 @@
 唯一id	id1	id2	分数	等级	价格	魔方价格	一组价格	一组魔方价格	类型	备注
-id	id1	id2	score	level	price	cube	price64	cube64	type	remark
+id	blockId	meta	score	level	price	cube	price64	cube64	type	remark
 10010	1	0	10	1	10	0.1	500	5	1	石头
 10020	2	0	10	1	10	0.1	500	5	1	草方块
 10030	3	0	10	1	10	0.1	500	5	1	泥土
