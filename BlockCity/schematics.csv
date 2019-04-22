@@ -1,2 +1,3 @@
-切片id	切片名称	方块	地下层数
-id	name	blocks	underground
+切片id	切片名称	长	宽	高	方块	地下层数
+id	name				blocks	underground
+1	@@@	11	11	11	251:0:86#251:14:168	1
