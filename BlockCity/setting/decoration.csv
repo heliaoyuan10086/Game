@@ -1,0 +1,5 @@
+Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	
+Id	手持道具Id(907~921)	对应Item图标	多语言名称	类别	挂点	Actor文件名	默认配置应该是body	部件Id	待机动画	完成使用	长	宽	高	中文备注
+Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	
+1047001	908	600001_building_02	building_02.name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	4	idle		1	1	0.001	凳子
+1047002	908	600001_building_02	building_02.name	1	s_chair	g1047_chairs.actor	body	3	idle		1	1	0.001	凳子
