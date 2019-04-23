@@ -1,0 +1,4 @@
+ID	对应的模板Id	方块ID	方块子ID	数量
+id	schematicId	blockId	meta	num
+1	1	251	0	86
+2	1	251	14	168
