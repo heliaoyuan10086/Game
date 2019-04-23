@@ -1,5 +1,5 @@
-id	分数	备注	标签	分类	等级	交互类型（0是无交互，1是坐）	价格	魔方价格	长	高	宽
-id	score	remark	tag	type	level	interact	price	cube	x	y	z
+id	分数	备注	标签	分类	等级	交互类型（0是无交互，1是坐）	价格	魔方价格	长	宽	高
+id	score	remark	tag	type	level	interact	price	cube	length	width	height
 1101	200	书桌1	1	1	1	0	200	2	@@@	@@@	@@@
 1102	200	书桌2	1	1	1	0	200	2	@@@	@@@	@@@
 1103	200	书桌3	1	1	1	0	200	2	@@@	@@@	@@@
