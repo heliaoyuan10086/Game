@@ -1,7 +1,7 @@
 切片id	解锁等级	切片名称	长	宽	高	地下层数
 id	level	fileName	length	width	height	underground
-1	1	Town101.schematic	20	13	12	1
-2	3	Town201.schematic	19	21	18	0
-3	3	Town202.schematic	21	16	14	1
-4	3	Town301.schematic	20	18	21	0
-5	3	Town302.schematic	15	17	23	1
+1	3	Town101.schematic	16	16	11	1
+2	3	Town201.schematic	19	19	18	0
+3	3	Town202.schematic	21	21	14	1
+4	3	Town301.schematic	21	21	18	0
+5	3	Town302.schematic	17	17	23	1
