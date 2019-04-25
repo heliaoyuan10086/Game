@@ -55,9 +55,9 @@ id	score	remark	tag	type	level	price	cube	actor	bodyId	interact
 3204	100	画3	3	2	1	100	1	furnish.actor	33	0
 3205	100	晾衣架1	3	2	1	100	1	furnish.actor	49	0
 3206	100	晾衣架2	3	2	1	100	1	furnish.actor	50	0
-3207	500	洗手池	3	2	3	500	5	g1047_chairs.actor	10	
-3208	500	燃气灶	3	2	3	500	5	g1047_chairs.actor	11	
-3209	500	垃圾桶	3	2	3	500	5	g1047_chairs.actor	7	
-3210	950	气球	3	2	4	1000	9	g1047_chairs.actor	9	
-3211	100	礼物	3	2	1	100	1	gift.actor	1	
-1212	950	沙发3	1	2	4	1000	9	sofa.actor	1	
+3207	500	洗手池	3	2	3	500	5	g1047_chairs.actor	10	0
+3208	500	燃气灶	3	2	3	500	5	g1047_chairs.actor	11	0
+3209	500	垃圾桶	3	2	3	500	5	g1047_chairs.actor	7	0
+3210	950	气球	3	2	4	1000	9	g1047_chairs.actor	9	0
+3211	100	礼物	3	2	1	100	1	gift.actor	1	0
+1212	950	沙发3	1	2	4	1000	9	sofa.actor	1	1
