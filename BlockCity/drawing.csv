@@ -5,3 +5,14 @@ id	itemId	level	fileName	length	width	height
 3	2103	3	Town202.schematic	21	21	14
 4	2104	3	Town301.schematic	21	21	18
 5	2105	3	Town302.schematic	17	17	23
+6	2106	2	build_01_9x9x10-0.schematic	9	9	10
+7	2107	1	build_02_11x11x23-0.schematic	11	11	23
+8	2108	1	build_03_11x11x13-1.schematic	11	11	13
+9	2109	1	build_04_11x11x12-1.schematic	11	11	12
+10	2110	1	build_05_11x11x20-1.schematic	11	11	20
+11	2111	2	build_06_11x11x14-1.schematic	11	11	14
+12	2112	1	build_07_11x11x8-1.schematic	11	11	8
+13	2113	2	build_08_11x11x13-1.schematic	11	11	13
+14	2114	3	build_09_21x21x16-1.schematic	21	21	16
+15	2115	3	build_10_21x21x10-1.schematic	21	21	10
+16	2116	3	build_11_16x16x14-0.schematic	16	16	14
