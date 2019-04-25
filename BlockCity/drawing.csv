@@ -16,3 +16,5 @@ id	itemId	level	fileName	length	width	height
 14	2114	3	build_09_21x21x16-1.schematic	21	21	16
 15	2115	3	build_10_21x21x10-1.schematic	21	21	10
 16	2116	3	build_11_16x16x14-0.schematic	16	16	14
+17	2117	1	build_12_11x11x10-1.schematic	11	11	10
+18	2118	1	build_13_11x11x8-0.schematic	11	11	8
