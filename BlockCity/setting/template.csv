@@ -1,5 +1,5 @@
 	ItemId	Name	Desc	Icon	Length	Width	Height	Template	MeshName
-中文备注	手持道具Id(2101~2115)	多语言名称	多语言描述	对应Item图标	长	宽	高	房子模板	模型名称
+中文备注	手持道具Id(2101~2130)	多语言名称	多语言描述	对应Item图标	长	宽	高	房子模板	模型名称
 1	2101	template_01	template_desc_01	template	16	16	11	Town101.schematic	blueprint.mesh
 	2102	template_02	template_desc_02	template	19	19	18	Town201.schematic	blueprint.mesh
 	2103	template_03	template_desc_03	template	21	21	14	Town202.schematic	blueprint.mesh

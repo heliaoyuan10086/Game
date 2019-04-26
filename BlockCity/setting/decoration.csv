@@ -1,5 +1,5 @@
 	Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	MeshName	ActionId	CanCollided
-中文备注	Id	手持道具Id(2201~2255)	对应Item图标	多语言名称	类别	挂点	Actor文件名	默认配置应该是body	部件Id	待机动画	完成使用	长	宽	高	模型	玩家动作id（12是凳子坐下，13是沙发坐下）	是否可以碰撞:true/false
+中文备注	Id	手持道具Id(2201~2280)	对应Item图标	多语言名称	类别	挂点	Actor文件名	默认配置应该是body	部件Id	待机动画	完成使用	长	宽	高	模型	玩家动作id（12是凳子坐下，13是沙发坐下）	是否可以碰撞:true/false
 书桌1	11001	2201	decorate	decorate_01.name	1		furnish.actor	body	25	idle		3	1	1	magazine.mesh	0	TRUE
 书桌2	11002	2202	decorate	decorate_02.name	1		furnish.actor	body	26	idle		1	1	1	magazine.mesh	0	FALSE
 书桌3	11003	2203	decorate	decorate_01.name	1		furnish.actor	body	27	idle		1	1	1	magazine.mesh	0	FALSE
