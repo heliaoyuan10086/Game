@@ -1,231 +1,251 @@
 序号	名称	分类（1是方块，2是装饰，3是图纸）	图片	物品Id	物品子Id	所属组	权重	备注	数量
 number	name	type	image	itemId	itemId2	pool	weights	remark	sum
-1	石头	1	set:hidden.json image:box_half_open	1	0	1	1	石头	10
-2	草方块	1	set:hidden.json image:box_close	2	0	1	1	草方块	10
-3	泥土	1	set:hidden.json image:box_open	3	0	1	1	泥土	10
-4	橡树木	1	set:hidden.json image:stick	5	0	1	1	橡树木	10
-5	沙子	1	set:hidden.json image:stick	12	0	1	1	沙子	10
-6	红沙	1	set:hidden.json image:desk	12	1	1	1	红沙	10
-7	花岗岩	1	set:hidden.json image:table	1	1	1	1	花岗岩	9
-8	闪长岩	1	set:hidden.json image:gift	1	3	1	1	闪长岩	9
-9	安山岩	1	set:hidden.json image:sack	1	5	1	1	安山岩	9
-10	橡木板	1	set:hidden.json image:sofa	5	0	1	1	橡木板	9
-11	云杉木板	1	set:hidden.json image:tv	5	1	1	1	云杉木板	9
-12	桦树木板	1	set:hidden.json image:barrel01	5	2	1	1	桦树木板	9
-13	丛林木板	1	set:hidden.json image:bonfire01	5	3	1	1	丛林木板	9
-14	金合欢木板	1	set:hidden.json image:carton01	5	4	1	1	金合欢木板	9
-15	暗橡木板	1	set:hidden.json image:cask02	5	5	1	1	暗橡木板	9
-16	玻璃	1	set:hidden.json image:kennel01	20	0	1	1	玻璃	9
-17	玻璃	1	set:hidden.json image:snowmanbattle_blue	20	0	1	1	玻璃	9
-18	砂石	1	set:hidden.json image:snowmanbattle_red	24	0	1	1	砂石	9
-19	打磨花岗岩	1	set:hidden.json image:streetlight01	1	2	1	1	打磨花岗岩	8
-20	打磨闪长岩	1	set:hidden.json image:tree01	1	4	1	1	打磨闪长岩	8
-21	打磨安山岩	1	set:hidden.json image:coke	1	6	1	1	打磨安山岩	8
-22	橡树叶	1	set:hidden.json image:pc	18	0	1	1	橡树叶	8
-23	云杉树叶	1	set:hidden.json image:cup	18	1	1	1	云杉树叶	8
-24	桦树叶	1	set:hidden.json image:phone	18	2	1	1	桦树叶	8
-25	丛林树叶	1	set:hidden.json image:sock_01	18	3	1	1	丛林树叶	8
-26	雕刻砂石	1	set:hidden.json image:sock_03	24	1	1	1	雕刻砂石	8
-27	光滑砂石	1	set:hidden.json image:sock_02	24	2	1	1	光滑砂石	8
-28	云杉木	1	set:hidden.json image:box_half_open	17	1	2	1	云杉木	10
-29	桦树木	1	set:hidden.json image:box_half_open	17	2	2	1	桦树木	10
-30	丛林木	1	set:hidden.json image:box_half_open	17	3	2	1	丛林木	10
-31	金合欢树	1	set:hidden.json image:box_half_open	17	4	2	1	金合欢树	10
-32	暗橡树木	1	set:hidden.json image:box_half_open	17	5	2	1	暗橡树木	10
-33	雪	1	set:hidden.json image:box_half_open	78	0	2	1	雪	10
-34	白色羊毛	1	set:hidden.json image:box_half_open	35	0	2	1	白色羊毛	9
-35	橙色羊毛	1	set:hidden.json image:box_half_open	35	1	2	1	橙色羊毛	9
-36	品红色羊毛	1	set:hidden.json image:box_half_open	35	2	2	1	品红色羊毛	9
-37	浅蓝色羊毛	1	set:hidden.json image:box_half_open	35	3	2	1	浅蓝色羊毛	9
-38	黄色羊毛	1	set:hidden.json image:box_half_open	35	4	2	1	黄色羊毛	9
-39	浅绿色羊毛	1	set:hidden.json image:box_half_open	35	5	2	1	浅绿色羊毛	9
-40	粉色羊毛	1	set:hidden.json image:box_half_open	35	6	2	1	粉色羊毛	9
-41	灰色羊毛	1	set:hidden.json image:box_half_open	35	7	2	1	灰色羊毛	9
-42	浅灰色羊毛	1	set:hidden.json image:box_half_open	35	8	2	1	浅灰色羊毛	9
-43	青色羊毛	1	set:hidden.json image:box_half_open	35	9	2	1	青色羊毛	9
-44	紫色羊毛	1	set:hidden.json image:box_half_open	35	10	2	1	紫色羊毛	9
-45	蓝色羊毛	1	set:hidden.json image:box_half_open	35	11	2	1	蓝色羊毛	9
-46	棕色羊毛	1	set:hidden.json image:box_half_open	35	12	2	1	棕色羊毛	9
-47	绿色羊毛	1	set:hidden.json image:box_half_open	35	13	2	1	绿色羊毛	9
-48	红色羊毛	1	set:hidden.json image:box_half_open	35	14	2	1	红色羊毛	9
-49	黑色羊毛	1	set:hidden.json image:box_half_open	35	15	2	1	黑色羊毛	9
-50	铁块	1	set:hidden.json image:box_half_open	42	0	2	1	铁块	8
-51	石板	1	set:hidden.json image:box_half_open	44	0	2	1	石板	8
-52	砂石板	1	set:hidden.json image:box_half_open	44	1	2	1	砂石板	8
-53	木板	1	set:hidden.json image:box_half_open	44	2	2	1	木板	8
-54	鹅卵石板	1	set:hidden.json image:box_half_open	44	3	2	1	鹅卵石板	8
-55	砖板	1	set:hidden.json image:box_half_open	44	4	2	1	砖板	8
-56	石砖板	1	set:hidden.json image:box_half_open	44	5	2	1	石砖板	8
-57	暗砖板	1	set:hidden.json image:box_half_open	44	6	2	1	暗砖板	8
-58	橡木楼梯	1	set:hidden.json image:box_half_open	53	0	2	1	橡木楼梯	8
-59	鹅卵石楼梯	1	set:hidden.json image:box_half_open	67	0	2	1	鹅卵石楼梯	8
-60	橡木栅栏	1	set:hidden.json image:box_half_open	85	0	2	1	橡木栅栏	8
-61	白色地毯	1	set:hidden.json image:box_half_open	171	0	3	1	白色地毯	9
-62	橙色地毯	1	set:hidden.json image:box_half_open	171	1	3	1	橙色地毯	9
-63	品红色地毯	1	set:hidden.json image:box_half_open	171	2	3	1	品红色地毯	9
-64	浅蓝色地毯	1	set:hidden.json image:box_half_open	171	3	3	1	浅蓝色地毯	9
-65	黄色地毯	1	set:hidden.json image:box_half_open	171	4	3	1	黄色地毯	9
-66	浅绿色地毯	1	set:hidden.json image:box_half_open	171	5	3	1	浅绿色地毯	9
-67	粉色地毯	1	set:hidden.json image:box_half_open	171	6	3	1	粉色地毯	9
-68	灰色地毯	1	set:hidden.json image:box_half_open	171	7	3	1	灰色地毯	9
-69	浅灰色地毯	1	set:hidden.json image:box_half_open	171	8	3	1	浅灰色地毯	9
-70	青色地毯	1	set:hidden.json image:box_half_open	171	9	3	1	青色地毯	9
-71	紫色地毯	1	set:hidden.json image:box_half_open	171	10	3	1	紫色地毯	9
-72	蓝色地毯	1	set:hidden.json image:box_half_open	171	11	3	1	蓝色地毯	9
-73	棕色地毯	1	set:hidden.json image:box_half_open	171	12	3	1	棕色地毯	9
-74	绿色地毯	1	set:hidden.json image:box_half_open	171	13	3	1	绿色地毯	9
-75	红色地毯	1	set:hidden.json image:box_half_open	171	14	3	1	红色地毯	9
-76	黑色地毯	1	set:hidden.json image:box_half_open	171	15	3	1	黑色地毯	9
-77	白色钢化玻璃	1	set:hidden.json image:box_half_open	95	0	3	1	白色钢化玻璃	8
-78	橙色钢化玻璃	1	set:hidden.json image:box_half_open	95	1	3	1	橙色钢化玻璃	8
-79	品红色钢化玻璃	1	set:hidden.json image:box_half_open	95	2	3	1	品红色钢化玻璃	8
-80	浅蓝色钢化玻璃	1	set:hidden.json image:box_half_open	95	3	3	1	浅蓝色钢化玻璃	8
-81	黄色钢化玻璃	1	set:hidden.json image:box_half_open	95	4	3	1	黄色钢化玻璃	8
-82	浅绿色钢化玻璃	1	set:hidden.json image:box_half_open	95	5	3	1	浅绿色钢化玻璃	8
-83	粉色钢化玻璃	1	set:hidden.json image:box_half_open	95	6	3	1	粉色钢化玻璃	8
-84	灰色钢化玻璃	1	set:hidden.json image:box_half_open	95	7	3	1	灰色钢化玻璃	8
-85	浅灰色钢化玻璃	1	set:hidden.json image:box_half_open	95	8	3	1	浅灰色钢化玻璃	8
-86	青色钢化玻璃	1	set:hidden.json image:box_half_open	95	9	3	1	青色钢化玻璃	8
-87	紫色钢化玻璃	1	set:hidden.json image:box_half_open	95	10	3	1	紫色钢化玻璃	8
-88	蓝色钢化玻璃	1	set:hidden.json image:box_half_open	95	11	3	1	蓝色钢化玻璃	8
-89	棕色钢化玻璃	1	set:hidden.json image:box_half_open	95	12	3	1	棕色钢化玻璃	8
-90	绿色钢化玻璃	1	set:hidden.json image:box_half_open	95	13	3	1	绿色钢化玻璃	8
-91	红色钢化玻璃	1	set:hidden.json image:box_half_open	95	14	3	1	红色钢化玻璃	8
-92	黑色钢化玻璃	1	set:hidden.json image:box_half_open	95	15	3	1	黑色钢化玻璃	8
-93	双层石板	1	set:hidden.json image:box_half_open	43	0	4	1	双层石板	9
-94	双层砂石板	1	set:hidden.json image:box_half_open	43	1	4	1	双层砂石板	9
-95	双层木板	1	set:hidden.json image:box_half_open	43	2	4	1	双层木板	9
-96	双层鹅卵石板	1	set:hidden.json image:box_half_open	43	3	4	1	双层鹅卵石板	9
-97	双层砖板	1	set:hidden.json image:box_half_open	43	4	4	1	双层砖板	9
-98	双层石砖板	1	set:hidden.json image:box_half_open	43	5	4	1	双层石砖板	9
-99	双层暗砖板	1	set:hidden.json image:box_half_open	43	6	4	1	双层暗砖板	9
-100	冰	1	set:hidden.json image:box_half_open	79	0	4	1	冰	9
-101	玻璃窗格	1	set:hidden.json image:box_half_open	102	0	4	1	玻璃窗格	8
-102	砖块楼梯	1	set:hidden.json image:box_half_open	108	0	4	1	砖块楼梯	8
-103	石砖楼梯	1	set:hidden.json image:box_half_open	109	0	4	1	石砖楼梯	8
-104	暗砖栅栏	1	set:hidden.json image:box_half_open	113	0	4	1	暗砖栅栏	8
-105	暗砖楼梯	1	set:hidden.json image:box_half_open	114	0	4	1	暗砖楼梯	8
-106	砂石楼梯	1	set:hidden.json image:box_half_open	128	0	4	1	砂石楼梯	8
-107	云杉木楼梯	1	set:hidden.json image:box_half_open	134	0	4	1	云杉木楼梯	8
-108	桦树木楼梯	1	set:hidden.json image:box_half_open	135	0	4	1	桦树木楼梯	8
-109	丛林木楼梯	1	set:hidden.json image:box_half_open	136	0	4	1	丛林木楼梯	8
-110	合欢木楼梯	1	set:hidden.json image:box_half_open	163	0	4	1	合欢木楼梯	8
-111	暗橡木楼梯	1	set:hidden.json image:box_half_open	164	0	4	1	暗橡木楼梯	8
-112	金块	1	set:hidden.json image:box_half_open	41	0	4	1	金块	7
-113	双层石英板	1	set:hidden.json image:box_half_open	43	7	4	1	双层石英板	7
-114	双层光滑石板	1	set:hidden.json image:box_half_open	43	8	4	1	双层光滑石板	7
-115	双层光滑砂石板	1	set:hidden.json image:box_half_open	43	9	4	1	双层光滑砂石板	7
-116	石英板	1	set:hidden.json image:box_half_open	44	7	4	1	石英板	7
-117	书架	1	set:hidden.json image:box_half_open	47	0	4	1	书架	7
-118	火把	1	set:hidden.json image:box_half_open	50	1	4	1	火把	7
-119	梯子	1	set:hidden.json image:box_half_open	65	0	4	1	梯子	7
-120	铁栅栏	1	set:hidden.json image:box_half_open	101	0	4	1	铁栅栏	7
-121	石英楼梯	1	set:hidden.json image:box_half_open	156	0	4	1	石英楼梯	7
-122	云杉木栅栏	1	set:hidden.json image:box_half_open	188	0	5	1	云杉木栅栏	8
-123	桦木栅栏	1	set:hidden.json image:box_half_open	189	0	5	1	桦木栅栏	8
-124	丛林木栅栏	1	set:hidden.json image:box_half_open	190	0	5	1	丛林木栅栏	8
-125	暗橡木栅栏	1	set:hidden.json image:box_half_open	191	0	5	1	暗橡木栅栏	8
-126	合欢木栅栏	1	set:hidden.json image:box_half_open	192	0	5	1	合欢木栅栏	8
-127	白色混凝土	1	set:hidden.json image:box_half_open	251	0	5	1	白色混凝土	8
-128	橙色混凝土	1	set:hidden.json image:box_half_open	251	1	5	1	橙色混凝土	8
-129	品红色混凝土	1	set:hidden.json image:box_half_open	251	2	5	1	品红色混凝土	8
-130	浅蓝色混凝土	1	set:hidden.json image:box_half_open	251	3	5	1	浅蓝色混凝土	8
-131	黄色混凝土	1	set:hidden.json image:box_half_open	251	4	5	1	黄色混凝土	8
-132	浅绿色混凝土	1	set:hidden.json image:box_half_open	251	5	5	1	浅绿色混凝土	8
-133	粉色混凝土	1	set:hidden.json image:box_half_open	251	6	5	1	粉色混凝土	8
-134	灰色混凝土	1	set:hidden.json image:box_half_open	251	7	5	1	灰色混凝土	8
-135	浅灰色混凝土	1	set:hidden.json image:box_half_open	251	8	5	1	浅灰色混凝土	8
-136	青色混凝土	1	set:hidden.json image:box_half_open	251	9	5	1	青色混凝土	8
-137	紫色混凝土	1	set:hidden.json image:box_half_open	251	10	5	1	紫色混凝土	8
-138	蓝色混凝土	1	set:hidden.json image:box_half_open	251	11	5	1	蓝色混凝土	8
-139	棕色混凝土	1	set:hidden.json image:box_half_open	251	12	5	1	棕色混凝土	8
-140	绿色混凝土	1	set:hidden.json image:box_half_open	251	13	5	1	绿色混凝土	8
-141	红色混凝土	1	set:hidden.json image:box_half_open	251	14	5	1	红色混凝土	8
-142	黑色混凝土	1	set:hidden.json image:box_half_open	251	15	5	1	黑色混凝土	8
-143	红砂石楼梯	1	set:hidden.json image:box_half_open	180	0	5	1	红砂石楼梯	7
-144	天青石块	1	set:hidden.json image:box_half_open	22	0	5	1	天青石块	6
-145	钻石块	1	set:hidden.json image:box_half_open	57	0	5	1	钻石块	6
-146	萤石	1	set:hidden.json image:box_half_open	89	0	5	1	萤石	6
-147	白色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	0	6	1	白色钢化玻璃窗格	7
-148	橙色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	1	6	1	橙色钢化玻璃窗格	7
-149	品红色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	2	6	1	品红色钢化玻璃窗格	7
-150	浅蓝色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	3	6	1	浅蓝色钢化玻璃窗格	7
-151	黄色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	4	6	1	黄色钢化玻璃窗格	7
-152	浅绿色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	5	6	1	浅绿色钢化玻璃窗格	7
-153	粉色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	6	6	1	粉色钢化玻璃窗格	7
-154	灰色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	7	6	1	灰色钢化玻璃窗格	7
-155	浅灰色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	8	6	1	浅灰色钢化玻璃窗格	7
-156	青色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	9	6	1	青色钢化玻璃窗格	7
-157	紫色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	10	6	1	紫色钢化玻璃窗格	7
-158	蓝色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	11	6	1	蓝色钢化玻璃窗格	7
-159	棕色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	12	6	1	棕色钢化玻璃窗格	7
-160	绿色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	13	6	1	绿色钢化玻璃窗格	7
-161	红色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	14	6	1	红色钢化玻璃窗格	7
-162	黑色钢化玻璃窗格	1	set:hidden.json image:box_half_open	160	15	6	1	黑色钢化玻璃窗格	7
-163	绿宝石块	1	set:hidden.json image:box_half_open	133	0	6	1	绿宝石块	6
-164	红石块	1	set:hidden.json image:box_half_open	152	0	6	1	红石块	6
-165	海晶石	1	set:hidden.json image:box_half_open	168	0	6	1	海晶石	6
-166	红石灯	1	set:hidden.json image:box_half_open	123	0	6	1	红石灯	5
-167	信标	1	set:hidden.json image:box_half_open	138	0	6	1	信标	5
-168	海晶灯	1	set:hidden.json image:box_half_open	169	0	6	1	海晶灯	5
-169	书桌1	2	set:hidden.json image:box_half_open	1101	0	1	1	书桌1	1
-170	书桌2	2	set:hidden.json image:box_half_open	1102	0	1	1	书桌2	1
-171	书桌3	2	set:hidden.json image:box_half_open	1103	0	1	1	书桌3	1
-172	书桌4	2	set:hidden.json image:box_half_open	1104	0	1	1	书桌4	1
-173	书桌5	2	set:hidden.json image:box_half_open	1105	0	1	1	书桌5	1
-174	书桌6	2	set:hidden.json image:box_half_open	1106	0	1	1	书桌6	1
-175	桌子1	2	set:hidden.json image:box_half_open	1107	0	1	1	桌子1	1
-176	桌子2	2	set:hidden.json image:box_half_open	1108	0	1	1	桌子2	1
-177	桌子3	2	set:hidden.json image:box_half_open	1109	0	1	1	桌子3	1
-178	书桌7	2	set:hidden.json image:box_half_open	1110	0	1	1	书桌7	1
-179	椅子1	2	@@@	1201	0	2	1	椅子1	1
-180	椅子2	2	@@@	1202	0	2	1	椅子2	1
-181	椅子3	2	@@@	1203	0	2	1	椅子3	1
-182	沙发1	2	@@@	1204	0	2	1	沙发1	1
-183	沙发2	2	@@@	1205	0	2	1	沙发2	1
-184	长椅	2	@@@	1206	0	2	1	长椅	1
-185	沙发3	2	@@@	1207	0	2	1	沙发3	1
-186	床1	2	@@@	2101	0	3	1	床1	1
-187	床2	2	@@@	2102	0	3	1	床2	1
-188	床3	2	@@@	2103	0	3	1	床3	1
-189	床4	2	@@@	2104	0	3	1	床4	1
-190	床5	2	@@@	2105	0	3	1	床5	1
-191	柜子1	2	@@@	2201	0	3	1	柜子1	1
-192	柜子2	2	@@@	2202	0	3	1	柜子2	1
-193	柜子3	2	@@@	2203	0	3	1	柜子3	1
-194	立柜1	2204	@@@	2204	0	4	1	立柜1	1
-195	立柜2	2205	@@@	2205	0	4	1	立柜2	1
-196	立柜3	2206	@@@	2206	0	4	1	立柜3	1
-197	立柜4	2207	@@@	2207	0	4	1	立柜4	1
-198	立柜5	2208	@@@	2208	0	4	1	立柜5	1
-199	立柜6	2209	@@@	2209	0	4	1	立柜6	1
-200	衣柜1	2210	@@@	2210	0	4	1	衣柜1	1
-201	衣柜2	2211	@@@	2211	0	4	1	衣柜2	1
-202	衣柜4	2212	@@@	2212	0	4	1	衣柜4	1
-203	衣柜5	2213	@@@	2213	0	4	1	衣柜5	1
-204	衣柜3	2214	@@@	2214	0	4	1	衣柜3	1
-205	衣柜6	2215	@@@	2215	0	4	1	衣柜6	1
-206	衣柜7	2216	@@@	2216	0	4	1	衣柜7	1
-207	衣柜8	2217	@@@	2217	0	4	1	衣柜8	1
-208	衣柜9	2218	@@@	2218	0	4	1	衣柜9	1
-209	灯1	2301	@@@	2301	0	5	1	灯1	1
-210	灯2	2302	@@@	2302	0	5	1	灯2	1
-211	灯3	2303	@@@	2303	0	5	1	灯3	1
-212	微波炉	3101	@@@	3101	0	5	1	微波炉	1
-213	洗衣机	3102	@@@	3102	0	5	1	洗衣机	1
-214	音响	3103	@@@	3103	0	5	1	音响	1
-215	冰箱	3104	@@@	3104	0	5	1	冰箱	1
-216	空调	3105	@@@	3105	0	5	1	空调	1
-217	电扇	3106	@@@	3106	0	5	1	电扇	1
-218	电视	3107	@@@	3107	0	5	1	电视	1
-219	画1	3201	@@@	3201	0	6	1	画1	1
-220	画2	3202	@@@	3202	0	6	1	画2	1
-221	画3	3203	@@@	3203	0	6	1	画3	1
-222	礼物	3204	@@@	3204	0	6	1	礼物	1
-223	晾衣架1	3205	@@@	3205	0	6	1	晾衣架1	1
-224	晾衣架2	3206	@@@	3206	0	6	1	晾衣架2	1
-225	保险柜	3207	@@@	3207	0	6	1	保险柜	1
-226	垃圾桶	3208	@@@	3208	0	6	1	垃圾桶	1
-227	燃气灶	3209	@@@	3209	0	6	1	燃气灶	1
-228	洗手池	3210	@@@	3210	0	6	1	洗手池	1
-229	气球	3211	@@@	3211	0	6	1	气球	1
+1	石头	1	@@@	1	0	1	1	石头	10
+2	草方块	1	@@@	2	0	1	1	草方块	10
+3	泥土	1	@@@	3	0	1	1	泥土	10
+4	鹅卵石	1	@@@	4	0	1	1	鹅卵石	10
+5	橡木板	1	@@@	5	0	1	1	橡木板	9
+6	云杉木板	1	@@@	5	1	1	1	云杉木板	9
+7	桦树木板	1	@@@	5	2	1	1	桦树木板	9
+8	丛林木板	1	@@@	5	3	1	1	丛林木板	9
+9	金合欢木板	1	@@@	5	4	1	1	金合欢木板	9
+10	暗橡木板	1	@@@	5	5	1	1	暗橡木板	9
+11	沙子	1	@@@	12	0	1	1	沙子	10
+12	橡树木	1	@@@	17	0	1	1	橡树木	10
+13	云杉木	1	@@@	17	1	1	1	云杉木	10
+14	桦树木	1	@@@	17	2	1	1	桦树木	10
+15	丛林木	1	@@@	17	3	1	1	丛林木	10
+16	橡树叶	1	@@@	18	0	1	1	橡树叶	8
+17	云杉树叶	1	@@@	18	1	1	1	云杉树叶	8
+18	桦树叶	1	@@@	18	2	1	1	桦树叶	8
+19	丛林树叶	1	@@@	18	3	1	1	丛林树叶	8
+20	玻璃	1	@@@	20	0	1	1	玻璃	9
+21	天青石块	1	@@@	22	0	1	1	天青石块	6
+22	砂石	1	@@@	24	0	1	1	砂石	9
+23	雕刻砂石	1	@@@	24	1	1	1	雕刻砂石	8
+24	光滑砂石	1	@@@	24	2	1	1	光滑砂石	8
+25	音乐盒	1	@@@	25	0	1	1	音乐盒	5
+26	蜘蛛网	1	@@@	30	0	1	1	蜘蛛网	8
+27	白色羊毛	1	@@@	35	0	2	1	白色羊毛	9
+28	橙色羊毛	1	@@@	35	1	2	1	橙色羊毛	9
+29	品红色羊毛	1	@@@	35	2	2	1	品红色羊毛	9
+30	浅蓝色羊毛	1	@@@	35	3	2	1	浅蓝色羊毛	9
+31	黄色羊毛	1	@@@	35	4	2	1	黄色羊毛	9
+32	浅绿色羊毛	1	@@@	35	5	2	1	浅绿色羊毛	9
+33	粉色羊毛	1	@@@	35	6	2	1	粉色羊毛	9
+34	灰色羊毛	1	@@@	35	7	2	1	灰色羊毛	9
+35	浅灰色羊毛	1	@@@	35	8	2	1	浅灰色羊毛	9
+36	青色羊毛	1	@@@	35	9	2	1	青色羊毛	9
+37	紫色羊毛	1	@@@	35	10	2	1	紫色羊毛	9
+38	蓝色羊毛	1	@@@	35	11	2	1	蓝色羊毛	9
+39	棕色羊毛	1	@@@	35	12	2	1	棕色羊毛	9
+40	绿色羊毛	1	@@@	35	13	2	1	绿色羊毛	9
+41	红色羊毛	1	@@@	35	14	2	1	红色羊毛	9
+42	黑色羊毛	1	@@@	35	15	2	1	黑色羊毛	9
+43	红花	1	@@@	38	0	2	1	红花	7
+44	金块	1	@@@	41	0	2	1	金块	7
+45	铁块	1	@@@	42	0	2	1	铁块	8
+46	石板	1	@@@	44	0	2	1	石板	8
+47	砂石板	1	@@@	44	1	2	1	砂石板	8
+48	木板	1	@@@	44	2	2	1	木板	8
+49	鹅卵石板	1	@@@	44	3	2	1	鹅卵石板	8
+50	砖板	1	@@@	44	4	2	1	砖板	8
+51	石砖板	1	@@@	44	5	2	1	石砖板	8
+52	暗砖板	1	@@@	44	6	2	1	暗砖板	8
+53	石英板	1	@@@	44	7	2	1	石英板	7
+54	砖头	1	@@@	45	0	2	1	砖头	9
+55	书架	1	@@@	47	0	2	1	书架	7
+56	火把	1	@@@	50	1	2	1	火把	7
+57	橡木楼梯	1	@@@	53	0	2	1	橡木楼梯	8
+58	钻石块	1	@@@	57	0	3	1	钻石块	6
+59	木门	1	@@@	64	0	3	1	木门	7
+60	橡木门	1	@@@	64	8	3	1	橡木门	7
+61	梯子	1	@@@	65	0	3	1	梯子	7
+62	鹅卵石楼梯	1	@@@	67	0	3	1	鹅卵石楼梯	8
+63	木质压力板	1	@@@	72	0	3	1	木质压力板	8
+64	红石火把	1	@@@	76	5	3	1	红石火把	7
+65	雪	1	@@@	78	0	3	1	雪	10
+66	冰	1	@@@	79	0	3	1	冰	9
+67	橡木栅栏	1	@@@	85	0	3	1	橡木栅栏	8
+68	萤石	1	@@@	89	0	3	1	萤石	6
+69	白色钢化玻璃	1	@@@	95	0	3	1	白色钢化玻璃	8
+70	橙色钢化玻璃	1	@@@	95	1	3	1	橙色钢化玻璃	8
+71	品红色钢化玻璃	1	@@@	95	2	3	1	品红色钢化玻璃	8
+72	浅蓝色钢化玻璃	1	@@@	95	3	3	1	浅蓝色钢化玻璃	8
+73	黄色钢化玻璃	1	@@@	95	4	3	1	黄色钢化玻璃	8
+74	浅绿色钢化玻璃	1	@@@	95	5	3	1	浅绿色钢化玻璃	8
+75	粉色钢化玻璃	1	@@@	95	6	3	1	粉色钢化玻璃	8
+76	灰色钢化玻璃	1	@@@	95	7	3	1	灰色钢化玻璃	8
+77	浅灰色钢化玻璃	1	@@@	95	8	3	1	浅灰色钢化玻璃	8
+78	青色钢化玻璃	1	@@@	95	9	3	1	青色钢化玻璃	8
+79	紫色钢化玻璃	1	@@@	95	10	3	1	紫色钢化玻璃	8
+80	蓝色钢化玻璃	1	@@@	95	11	3	1	蓝色钢化玻璃	8
+81	棕色钢化玻璃	1	@@@	95	12	3	1	棕色钢化玻璃	8
+82	绿色钢化玻璃	1	@@@	95	13	3	1	绿色钢化玻璃	8
+83	红色钢化玻璃	1	@@@	95	14	3	1	红色钢化玻璃	8
+84	黑色钢化玻璃	1	@@@	95	15	3	1	黑色钢化玻璃	8
+85	木质活板门	1	@@@	96	0	3	1	木质活板门	8
+86	石砖	1	@@@	98	0	3	1	石砖	9
+87	草石砖	1	@@@	98	1	3	1	草石砖	9
+88	破损石砖	1	@@@	98	2	3	1	破损石砖	9
+89	凿刻石砖	1	@@@	98	3	3	1	凿刻石砖	9
+90	铁栅栏	1	@@@	101	0	4	1	铁栅栏	7
+91	玻璃窗格	1	@@@	102	0	4	1	玻璃窗格	8
+92	藤蔓	1	@@@	106	0	4	1	藤蔓	8
+93	砖块楼梯	1	@@@	108	0	4	1	砖块楼梯	8
+94	石砖楼梯	1	@@@	109	0	4	1	石砖楼梯	8
+95	暗砖栅栏	1	@@@	113	0	4	1	暗砖栅栏	8
+96	暗砖楼梯	1	@@@	114	0	4	1	暗砖楼梯	8
+97	红石灯	1	@@@	123	0	4	1	红石灯	5
+98	单层橡木板	1	@@@	126	0	4	1	单层橡木板	8
+99	单层云杉木板	1	@@@	126	1	4	1	单层云杉木板	8
+100	单层桦树木板	1	@@@	126	2	4	1	单层桦树木板	8
+101	单层丛林木板	1	@@@	126	3	4	1	单层丛林木板	8
+102	单层金合欢木板	1	@@@	126	4	4	1	单层金合欢木板	8
+103	单层暗橡木板	1	@@@	126	5	4	1	单层暗橡木板	8
+104	砂石楼梯	1	@@@	128	0	4	1	砂石楼梯	8
+105	绿宝石块	1	@@@	133	0	4	1	绿宝石块	6
+106	云杉木楼梯	1	@@@	134	0	4	1	云杉木楼梯	8
+107	桦树木楼梯	1	@@@	135	0	4	1	桦树木楼梯	8
+108	丛林木楼梯	1	@@@	136	0	4	1	丛林木楼梯	8
+109	信标	1	@@@	138	0	4	1	信标	5
+110	鹅卵石墙	1	@@@	139	0	4	1	鹅卵石墙	8
+111	红石块	1	@@@	152	0	4	1	红石块	6
+112	石英	1	@@@	155	0	4	1	石英	8
+113	石英楼梯	1	@@@	156	0	4	1	石英楼梯	7
+114	白色陶瓦	1	@@@	159	0	5	1	白色陶瓦	8
+115	橙色陶瓦	1	@@@	159	1	5	1	橙色陶瓦	8
+116	洋红色陶瓦	1	@@@	159	2	5	1	洋红色陶瓦	8
+117	浅蓝色陶瓦	1	@@@	159	3	5	1	浅蓝色陶瓦	8
+118	黄色陶瓦	1	@@@	159	4	5	1	黄色陶瓦	8
+119	石灰色陶瓦	1	@@@	159	5	5	1	石灰色陶瓦	8
+120	粉色陶瓦	1	@@@	159	6	5	1	粉色陶瓦	8
+121	灰色陶瓦	1	@@@	159	7	5	1	灰色陶瓦	8
+122	浅灰色陶瓦	1	@@@	159	8	5	1	浅灰色陶瓦	8
+123	青色陶瓦	1	@@@	159	9	5	1	青色陶瓦	8
+124	紫色陶瓦	1	@@@	159	10	5	1	紫色陶瓦	8
+125	蓝色陶瓦	1	@@@	159	11	5	1	蓝色陶瓦	8
+126	棕色陶瓦	1	@@@	159	12	5	1	棕色陶瓦	8
+127	绿色陶瓦	1	@@@	159	13	5	1	绿色陶瓦	8
+128	红色陶瓦	1	@@@	159	14	5	1	红色陶瓦	8
+129	黑色陶瓦	1	@@@	159	15	5	1	黑色陶瓦	8
+130	白色钢化玻璃窗格	1	@@@	160	0	5	1	白色钢化玻璃窗格	7
+131	橙色钢化玻璃窗格	1	@@@	160	1	5	1	橙色钢化玻璃窗格	7
+132	品红色钢化玻璃窗格	1	@@@	160	2	5	1	品红色钢化玻璃窗格	7
+133	浅蓝色钢化玻璃窗格	1	@@@	160	3	5	1	浅蓝色钢化玻璃窗格	7
+134	黄色钢化玻璃窗格	1	@@@	160	4	5	1	黄色钢化玻璃窗格	7
+135	浅绿色钢化玻璃窗格	1	@@@	160	5	5	1	浅绿色钢化玻璃窗格	7
+136	粉色钢化玻璃窗格	1	@@@	160	6	5	1	粉色钢化玻璃窗格	7
+137	灰色钢化玻璃窗格	1	@@@	160	7	5	1	灰色钢化玻璃窗格	7
+138	浅灰色钢化玻璃窗格	1	@@@	160	8	5	1	浅灰色钢化玻璃窗格	7
+139	青色钢化玻璃窗格	1	@@@	160	9	5	1	青色钢化玻璃窗格	7
+140	紫色钢化玻璃窗格	1	@@@	160	10	5	1	紫色钢化玻璃窗格	7
+141	蓝色钢化玻璃窗格	1	@@@	160	11	5	1	蓝色钢化玻璃窗格	7
+142	棕色钢化玻璃窗格	1	@@@	160	12	5	1	棕色钢化玻璃窗格	7
+143	绿色钢化玻璃窗格	1	@@@	160	13	5	1	绿色钢化玻璃窗格	7
+144	红色钢化玻璃窗格	1	@@@	160	14	5	1	红色钢化玻璃窗格	7
+145	黑色钢化玻璃窗格	1	@@@	160	15	5	1	黑色钢化玻璃窗格	7
+146	金合欢树	1	@@@	162	0	6	1	金合欢树	10
+147	暗橡树木	1	@@@	162	1	6	1	暗橡树木	10
+148	暗橡木楼梯	1	@@@	164	0	6	1	暗橡木楼梯	8
+149	海晶石	1	@@@	168	0	6	1	海晶石	6
+150	白色地毯	1	@@@	171	0	6	1	白色地毯	9
+151	橙色地毯	1	@@@	171	1	6	1	橙色地毯	9
+152	品红色地毯	1	@@@	171	2	6	1	品红色地毯	9
+153	浅蓝色地毯	1	@@@	171	3	6	1	浅蓝色地毯	9
+154	黄色地毯	1	@@@	171	4	6	1	黄色地毯	9
+155	浅绿色地毯	1	@@@	171	5	6	1	浅绿色地毯	9
+156	粉色地毯	1	@@@	171	6	6	1	粉色地毯	9
+157	灰色地毯	1	@@@	171	7	6	1	灰色地毯	9
+158	浅灰色地毯	1	@@@	171	8	6	1	浅灰色地毯	9
+159	青色地毯	1	@@@	171	9	6	1	青色地毯	9
+160	紫色地毯	1	@@@	171	10	6	1	紫色地毯	9
+161	蓝色地毯	1	@@@	171	11	6	1	蓝色地毯	9
+162	棕色地毯	1	@@@	171	12	6	1	棕色地毯	9
+163	绿色地毯	1	@@@	171	13	6	1	绿色地毯	9
+164	红色地毯	1	@@@	171	14	6	1	红色地毯	9
+165	黑色地毯	1	@@@	171	15	6	1	黑色地毯	9
+166	白色混凝土	1	@@@	251	0	6	1	白色混凝土	8
+167	橙色混凝土	1	@@@	251	1	6	1	橙色混凝土	8
+168	品红色混凝土	1	@@@	251	2	6	1	品红色混凝土	8
+169	浅蓝色混凝土	1	@@@	251	3	6	1	浅蓝色混凝土	8
+170	黄色混凝土	1	@@@	251	4	6	1	黄色混凝土	8
+171	浅绿色混凝土	1	@@@	251	5	6	1	浅绿色混凝土	8
+172	粉色混凝土	1	@@@	251	6	6	1	粉色混凝土	8
+173	灰色混凝土	1	@@@	251	7	6	1	灰色混凝土	8
+174	浅灰色混凝土	1	@@@	251	8	6	1	浅灰色混凝土	8
+175	青色混凝土	1	@@@	251	9	6	1	青色混凝土	8
+176	紫色混凝土	1	@@@	251	10	6	1	紫色混凝土	8
+177	蓝色混凝土	1	@@@	251	11	6	1	蓝色混凝土	8
+178	棕色混凝土	1	@@@	251	12	6	1	棕色混凝土	8
+179	绿色混凝土	1	@@@	251	13	6	1	绿色混凝土	8
+180	红色混凝土	1	@@@	251	14	6	1	红色混凝土	8
+181	黑色混凝土	1	@@@	251	15	6	1	黑色混凝土	8
+208	书桌1	2	set:furnish_icon.json image:furniture.actor25	11001	0	1	1	书桌1	1
+209	书桌2	2	set:furnish_icon.json image:furniture.actor26	11002	0	1	1	书桌2	1
+210	书桌3	2	set:furnish_icon.json image:furniture.actor27	11003	0	1	1	书桌3	1
+211	书桌4	2	set:furnish_icon.json image:furniture.actor28	11004	0	1	1	书桌4	1
+212	书桌5	2	set:furnish_icon.json image:furniture.actor29	11005	0	1	1	书桌5	1
+213	书桌6	2	set:furnish_icon.json image:furniture.actor30	11006	0	1	1	书桌6	1
+214	书桌7	2	set:furnish_icon.json image:furniture.actor44	11007	0	1	1	书桌7	1
+215	桌子1	2	set:furnish_icon.json image:furniture.actor38	11008	0	1	1	桌子1	1
+216	桌子2	2	set:furnish_icon.json image:furniture.actor39	11009	0	1	1	桌子2	1
+217	桌子3	2	set:furnish_icon.json image:furniture.actor40	11010	0	1	1	桌子3	1
+218	沙发1	2	set:furnish_icon.json image:g1047_chairs.actor4	12001	0	2	1	沙发1	1
+219	沙发2	2	set:furnish_icon.json image:furniture.actor43	12002	0	2	1	沙发2	1
+220	沙发3	2	@@@	12003	0	2	1	沙发3	1
+221	沙发4	2	@@@	12004	0	2	1	沙发4	1
+222	沙发5	2	@@@	12005	0	2	1	沙发5	1
+223	沙发6	2	@@@	12006	0	2	1	沙发6	1
+224	椅子1	2	@@@	12007	0	2	1	椅子1	1
+225	椅子2	2	set:furnish_icon.json image:furniture.actor36	12008	0	2	1	椅子2	1
+226	椅子3	2	set:furnish_icon.json image:furniture.actor37	12009	0	2	1	椅子3	1
+227	椅子4	2	@@@	12010	0	2	1	椅子4	1
+228	长椅1	2	@@@	12011	0	3	1	长椅1	1
+229	长椅2	2	@@@	12012	0	3	1	长椅2	1
+230	长椅3	2	@@@	12013	0	3	1	长椅3	1
+231	床1	2	set:furnish_icon.json image:furniture.actor51	21001	0	3	1	床1	1
+232	床2	2	set:furnish_icon.json image:furniture.actor52	21002	0	3	1	床2	1
+233	床3	2	set:furnish_icon.json image:furniture.actor53	21003	0	3	1	床3	1
+234	床4	2	set:furnish_icon.json image:furniture.actor54	21004	0	3	1	床4	1
+235	床5	2	set:furnish_icon.json image:furniture.actor55	21005	0	3	1	床5	1
+236	柜子1	2	set:furnish_icon.json image:furniture.actor01	22001	0	3	1	柜子1	1
+237	柜子2	2	set:furnish_icon.json image:furniture.actor02	22002	0	3	1	柜子2	1
+238	柜子3	2	set:furnish_icon.json image:furniture.actor03	22003	0	3	1	柜子3	1
+239	立柜1	2	set:furnish_icon.json image:furniture.actor06	22004	0	4	1	立柜1	1
+240	立柜2	2	set:furnish_icon.json image:furniture.actor07	22005	0	4	1	立柜2	1
+241	立柜3	2	set:furnish_icon.json image:furniture.actor08	22006	0	4	1	立柜3	1
+242	立柜4	2	set:furnish_icon.json image:furniture.actor09	22007	0	4	1	立柜4	1
+243	立柜5	2	set:furnish_icon.json image:furniture.actor10	22008	0	4	1	立柜5	1
+244	立柜6	2	set:furnish_icon.json image:furniture.actor11	22009	0	4	1	立柜6	1
+245	衣柜1	2	set:furnish_icon.json image:furniture.actor13	22010	0	4	1	衣柜1	1
+246	衣柜2	2	set:furnish_icon.json image:furniture.actor14	22011	0	4	1	衣柜2	1
+247	衣柜3	2	set:furnish_icon.json image:furniture.actor15	22012	0	4	1	衣柜3	1
+248	衣柜4	2	set:furnish_icon.json image:furniture.actor16	22013	0	4	1	衣柜4	1
+249	衣柜5	2	set:furnish_icon.json image:furniture.actor17	22014	0	4	1	衣柜5	1
+250	衣柜6	2	set:furnish_icon.json image:furniture.actor18	22015	0	4	1	衣柜6	1
+251	衣柜7	2	set:furnish_icon.json image:furniture.actor19	22016	0	4	1	衣柜7	1
+252	衣柜8	2	set:furnish_icon.json image:furniture.actor20	22017	0	4	1	衣柜8	1
+253	衣柜9	2	set:furnish_icon.json image:furniture.actor21	22018	0	4	1	衣柜9	1
+254	灯1	2	set:furnish_icon.json image:furniture.actor45	23001	0	5	1	灯1	1
+255	灯2	2	set:furnish_icon.json image:furniture.actor46	23002	0	5	1	灯2	1
+256	灯3	2	set:furnish_icon.json image:furniture.actor47	23003	0	5	1	灯3	1
+257	冰箱	2	set:furnish_icon.json image:furniture.actor12	31001	0	5	1	冰箱	1
+258	电扇	2	set:furnish_icon.json image:furniture.actor48	31002	0	5	1	电扇	1
+259	电视	2	set:furnish_icon.json image:furniture.actor34	31003	0	5	1	电视	1
+260	空调	2	set:furnish_icon.json image:furniture.actor23	31004	0	5	1	空调	1
+261	微波炉	2	set:furnish_icon.json image:furniture.actor05	31005	0	5	1	微波炉	1
+262	洗衣机	2	set:furnish_icon.json image:furniture.actor24	31006	0	5	1	洗衣机	1
+263	音响	2	set:furnish_icon.json image:furniture.actor22	31007	0	5	1	音响	1
+264	保险柜	2	set:furnish_icon.json image:furniture.actor04	32001	0	5	1	保险柜	1
+265	画1	2	set:furnish_icon.json image:furniture.actor31	32002	0	6	1	画1	1
+266	画2	2	set:furnish_icon.json image:furniture.actor32	32003	0	6	1	画2	1
+267	画3	2	set:furnish_icon.json image:furniture.actor33	32004	0	6	1	画3	1
+268	垃圾桶	2	@@@	32005	0	6	1	垃圾桶	1
+269	礼物	2	@@@	32006	0	6	1	礼物	1
+270	晾衣架1	2	set:furnish_icon.json image:furniture.actor49	32007	0	6	1	晾衣架1	1
+271	晾衣架2	2	set:furnish_icon.json image:furniture.actor50	32008	0	6	1	晾衣架2	1
+272	马桶	2	@@@	32009	0	6	1	马桶	1
+273	气球	2	@@@	32010	0	6	1	气球	1
+274	燃气灶	2	@@@	32011	0	6	1	燃气灶	1
+275	洗手池	2	@@@	32012	0	6	1	洗手池	1
