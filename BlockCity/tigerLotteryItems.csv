@@ -181,71 +181,77 @@ number	name	type	image	itemId	itemId2	pool	weights	remark	sum
 179	绿色混凝土	1	@@@	251	13	6	1	绿色混凝土	8
 180	红色混凝土	1	@@@	251	14	6	1	红色混凝土	8
 181	黑色混凝土	1	@@@	251	15	6	1	黑色混凝土	8
-208	书桌1	2	set:furnish_icon.json image:furniture.actor25	11001	0	1	1	书桌1	1
-209	书桌2	2	set:furnish_icon.json image:furniture.actor26	11002	0	1	1	书桌2	1
-210	书桌3	2	set:furnish_icon.json image:furniture.actor27	11003	0	1	1	书桌3	1
-211	书桌4	2	set:furnish_icon.json image:furniture.actor28	11004	0	1	1	书桌4	1
-212	书桌5	2	set:furnish_icon.json image:furniture.actor29	11005	0	1	1	书桌5	1
-213	书桌6	2	set:furnish_icon.json image:furniture.actor30	11006	0	1	1	书桌6	1
-214	书桌7	2	set:furnish_icon.json image:furniture.actor44	11007	0	1	1	书桌7	1
-215	桌子1	2	set:furnish_icon.json image:furniture.actor38	11008	0	1	1	桌子1	1
-216	桌子2	2	set:furnish_icon.json image:furniture.actor39	11009	0	1	1	桌子2	1
-217	桌子3	2	set:furnish_icon.json image:furniture.actor40	11010	0	1	1	桌子3	1
-218	沙发1	2	set:furnish_icon.json image:g1047_chairs.actor4	12001	0	2	1	沙发1	1
-219	沙发2	2	set:furnish_icon.json image:furniture.actor43	12002	0	2	1	沙发2	1
-220	沙发3	2	@@@	12003	0	2	1	沙发3	1
-221	沙发4	2	@@@	12004	0	2	1	沙发4	1
-222	沙发5	2	@@@	12005	0	2	1	沙发5	1
-223	沙发6	2	@@@	12006	0	2	1	沙发6	1
-224	椅子1	2	@@@	12007	0	2	1	椅子1	1
-225	椅子2	2	set:furnish_icon.json image:furniture.actor36	12008	0	2	1	椅子2	1
-226	椅子3	2	set:furnish_icon.json image:furniture.actor37	12009	0	2	1	椅子3	1
-227	椅子4	2	@@@	12010	0	2	1	椅子4	1
-228	长椅1	2	@@@	12011	0	3	1	长椅1	1
-229	长椅2	2	@@@	12012	0	3	1	长椅2	1
-230	长椅3	2	@@@	12013	0	3	1	长椅3	1
-231	床1	2	set:furnish_icon.json image:furniture.actor51	21001	0	3	1	床1	1
-232	床2	2	set:furnish_icon.json image:furniture.actor52	21002	0	3	1	床2	1
-233	床3	2	set:furnish_icon.json image:furniture.actor53	21003	0	3	1	床3	1
-234	床4	2	set:furnish_icon.json image:furniture.actor54	21004	0	3	1	床4	1
-235	床5	2	set:furnish_icon.json image:furniture.actor55	21005	0	3	1	床5	1
-236	柜子1	2	set:furnish_icon.json image:furniture.actor01	22001	0	3	1	柜子1	1
-237	柜子2	2	set:furnish_icon.json image:furniture.actor02	22002	0	3	1	柜子2	1
-238	柜子3	2	set:furnish_icon.json image:furniture.actor03	22003	0	3	1	柜子3	1
-239	立柜1	2	set:furnish_icon.json image:furniture.actor06	22004	0	4	1	立柜1	1
-240	立柜2	2	set:furnish_icon.json image:furniture.actor07	22005	0	4	1	立柜2	1
-241	立柜3	2	set:furnish_icon.json image:furniture.actor08	22006	0	4	1	立柜3	1
-242	立柜4	2	set:furnish_icon.json image:furniture.actor09	22007	0	4	1	立柜4	1
-243	立柜5	2	set:furnish_icon.json image:furniture.actor10	22008	0	4	1	立柜5	1
-244	立柜6	2	set:furnish_icon.json image:furniture.actor11	22009	0	4	1	立柜6	1
-245	衣柜1	2	set:furnish_icon.json image:furniture.actor13	22010	0	4	1	衣柜1	1
-246	衣柜2	2	set:furnish_icon.json image:furniture.actor14	22011	0	4	1	衣柜2	1
-247	衣柜3	2	set:furnish_icon.json image:furniture.actor15	22012	0	4	1	衣柜3	1
-248	衣柜4	2	set:furnish_icon.json image:furniture.actor16	22013	0	4	1	衣柜4	1
-249	衣柜5	2	set:furnish_icon.json image:furniture.actor17	22014	0	4	1	衣柜5	1
-250	衣柜6	2	set:furnish_icon.json image:furniture.actor18	22015	0	4	1	衣柜6	1
-251	衣柜7	2	set:furnish_icon.json image:furniture.actor19	22016	0	4	1	衣柜7	1
-252	衣柜8	2	set:furnish_icon.json image:furniture.actor20	22017	0	4	1	衣柜8	1
-253	衣柜9	2	set:furnish_icon.json image:furniture.actor21	22018	0	4	1	衣柜9	1
-254	灯1	2	set:furnish_icon.json image:furniture.actor45	23001	0	5	1	灯1	1
-255	灯2	2	set:furnish_icon.json image:furniture.actor46	23002	0	5	1	灯2	1
-256	灯3	2	set:furnish_icon.json image:furniture.actor47	23003	0	5	1	灯3	1
-257	冰箱	2	set:furnish_icon.json image:furniture.actor12	31001	0	5	1	冰箱	1
-258	电扇	2	set:furnish_icon.json image:furniture.actor48	31002	0	5	1	电扇	1
-259	电视	2	set:furnish_icon.json image:furniture.actor34	31003	0	5	1	电视	1
-260	空调	2	set:furnish_icon.json image:furniture.actor23	31004	0	5	1	空调	1
-261	微波炉	2	set:furnish_icon.json image:furniture.actor05	31005	0	5	1	微波炉	1
-262	洗衣机	2	set:furnish_icon.json image:furniture.actor24	31006	0	5	1	洗衣机	1
-263	音响	2	set:furnish_icon.json image:furniture.actor22	31007	0	5	1	音响	1
-264	保险柜	2	set:furnish_icon.json image:furniture.actor04	32001	0	5	1	保险柜	1
-265	画1	2	set:furnish_icon.json image:furniture.actor31	32002	0	6	1	画1	1
-266	画2	2	set:furnish_icon.json image:furniture.actor32	32003	0	6	1	画2	1
-267	画3	2	set:furnish_icon.json image:furniture.actor33	32004	0	6	1	画3	1
-268	垃圾桶	2	@@@	32005	0	6	1	垃圾桶	1
-269	礼物	2	@@@	32006	0	6	1	礼物	1
-270	晾衣架1	2	set:furnish_icon.json image:furniture.actor49	32007	0	6	1	晾衣架1	1
-271	晾衣架2	2	set:furnish_icon.json image:furniture.actor50	32008	0	6	1	晾衣架2	1
-272	马桶	2	@@@	32009	0	6	1	马桶	1
-273	气球	2	@@@	32010	0	6	1	气球	1
-274	燃气灶	2	@@@	32011	0	6	1	燃气灶	1
-275	洗手池	2	@@@	32012	0	6	1	洗手池	1
+208	书桌	2	set:furnish_icon.json image:furniture.actor25	11001	0	1	1	书桌	1
+209	塑料书桌	3	set:furnish_icon.json image:furniture.actor26	11002	0	1	1	塑料书桌	2
+210	白色书桌	4	set:furnish_icon.json image:furniture.actor27	11003	0	1	1	白色书桌	3
+211	木质书桌	5	set:furnish_icon.json image:furniture.actor28	11004	0	1	1	木质书桌	4
+212	长书桌	6	set:furnish_icon.json image:furniture.actor29	11005	0	1	1	长书桌	5
+213	商务书桌	7	set:furnish_icon.json image:furniture.actor30	11006	0	1	1	商务书桌	6
+214	电脑桌	8	set:furnish_icon.json image:furniture.actor44	11007	0	1	1	电脑桌	7
+215	桌子	9	set:furnish_icon.json image:furniture.actor38	11008	0	1	1	桌子	8
+216	小圆桌	10	set:furnish_icon.json image:furniture.actor39	11009	0	1	1	小圆桌	9
+217	复合桌	11	set:furnish_icon.json image:furniture.actor40	11010	0	1	1	复合桌	10
+218	棕色沙发	12	set:furnish_icon.json image:g1047_chairs.actor4	12001	0	1	2	棕色沙发	11
+219	黑色沙发	13	set:furnish_icon.json image:furniture.actor43	12002	0	1	2	黑色沙发	12
+220	曲线沙发	14	@@@	12003	0	1	2	曲线沙发	13
+221	小型沙发	15	@@@	12004	0	1	2	小型沙发	14
+222	单人曲线沙发	16	@@@	12005	0	1	2	单人曲线沙发	15
+223	单人白色沙发	17	@@@	12006	0	1	2	单人白色沙发	16
+224	爱心沙发	18	@@@	12007	0	1	2	爱心沙发	17
+225	木质椅子	19	@@@	12008	0	1	2	木质椅子	18
+226	棕色椅子	20	@@@	12009	0	1	2	棕色椅子	19
+227	黑色椅子	21	@@@	12010	0	1	2	黑色椅子	20
+228	藤椅	22	set:furnish_icon.json image:furniture.actor36	12011	0	1	2	藤椅	21
+229	红色椅子	23	set:furnish_icon.json image:furniture.actor37	12012	0	1	2	红色椅子	22
+230	塑料椅子	24	@@@	12013	0	1	2	塑料椅子	23
+231	长椅	25	@@@	12014	0	1	3	长椅	24
+232	木质长椅	26	@@@	12015	0	1	3	木质长椅	25
+233	长扶手椅	27	@@@	12016	0	1	3	长扶手椅	26
+234	绿色长凳	28	@@@	12017	0	1	3	绿色长凳	27
+235	黄色长凳	29	@@@	12018	0	1	3	黄色长凳	28
+236	棕色长凳	30	@@@	12019	0	1	3	棕色长凳	29
+237	床	31	set:furnish_icon.json image:furniture.actor51	21001	0	1	3	床	30
+238	蓝黑床	32	set:furnish_icon.json image:furniture.actor52	21002	0	1	3	蓝黑床	31
+239	红灰床	33	set:furnish_icon.json image:furniture.actor53	21003	0	1	3	红灰床	32
+240	红色单人床	34	set:furnish_icon.json image:furniture.actor54	21004	0	1	3	红色单人床	33
+241	红色双层床	35	set:furnish_icon.json image:furniture.actor55	21005	0	1	3	红色双层床	34
+242	床头柜	36	set:furnish_icon.json image:furniture.actor01	22001	0	1	4	床头柜	35
+243	双门床头柜	37	set:furnish_icon.json image:furniture.actor02	22002	0	1	4	双门床头柜	36
+244	三层床头柜	38	set:furnish_icon.json image:furniture.actor03	22003	0	1	4	三层床头柜	37
+245	书柜	39	set:furnish_icon.json image:furniture.actor06	22004	0	1	4	书柜	38
+246	双列书柜	40	set:furnish_icon.json image:furniture.actor07	22005	0	1	4	双列书柜	39
+247	三层书柜	41	set:furnish_icon.json image:furniture.actor08	22006	0	1	4	三层书柜	40
+248	木质书柜	42	set:furnish_icon.json image:furniture.actor09	22007	0	1	4	木质书柜	41
+249	玻璃门书柜	43	set:furnish_icon.json image:furniture.actor10	22008	0	1	4	玻璃门书柜	42
+250	多层书柜	44	set:furnish_icon.json image:furniture.actor11	22009	0	1	4	多层书柜	43
+251	衣柜	45	set:furnish_icon.json image:furniture.actor13	22010	0	1	4	衣柜	44
+252	木质衣柜	46	set:furnish_icon.json image:furniture.actor14	22011	0	1	4	木质衣柜	45
+253	黑色大衣柜	47	set:furnish_icon.json image:furniture.actor15	22012	0	1	4	黑色大衣柜	46
+254	红木衣柜	48	set:furnish_icon.json image:furniture.actor16	22013	0	1	4	红木衣柜	47
+255	暗橡木衣柜	49	set:furnish_icon.json image:furniture.actor17	22014	0	1	4	暗橡木衣柜	48
+256	白色衣柜	50	set:furnish_icon.json image:furniture.actor18	22015	0	1	4	白色衣柜	49
+257	现代衣柜	51	set:furnish_icon.json image:furniture.actor19	22016	0	1	4	现代衣柜	50
+258	蓝色大衣柜	52	set:furnish_icon.json image:furniture.actor20	22017	0	1	5	蓝色大衣柜	51
+259	黄色大衣柜	53	set:furnish_icon.json image:furniture.actor21	22018	0	1	5	黄色大衣柜	52
+260	灯	54	set:furnish_icon.json image:furniture.actor45	23001	0	1	5	灯	53
+261	蓝色灯	55	set:furnish_icon.json image:furniture.actor46	23002	0	1	5	蓝色灯	54
+262	小灯	56	set:furnish_icon.json image:furniture.actor47	23003	0	1	5	小灯	55
+263	冰箱	57	set:furnish_icon.json image:furniture.actor12	31001	0	1	5	冰箱	56
+264	电扇	58	set:furnish_icon.json image:furniture.actor48	31002	0	1	5	电扇	57
+265	电视	59	set:furnish_icon.json image:furniture.actor34	31003	0	1	5	电视	58
+266	空调	60	set:furnish_icon.json image:furniture.actor23	31004	0	1	5	空调	59
+267	微波炉	61	set:furnish_icon.json image:furniture.actor05	31005	0	1	5	微波炉	60
+268	洗衣机	62	set:furnish_icon.json image:furniture.actor24	31006	0	1	5	洗衣机	61
+269	音响	63	set:furnish_icon.json image:furniture.actor22	31007	0	1	5	音响	62
+270	保险柜	64	set:furnish_icon.json image:furniture.actor04	32001	0	1	5	保险柜	63
+271	画1	65	set:furnish_icon.json image:furniture.actor31	32002	0	1	6	画1	64
+272	画2	66	set:furnish_icon.json image:furniture.actor32	32003	0	1	6	画2	65
+273	画3	67	set:furnish_icon.json image:furniture.actor33	32004	0	1	6	画3	66
+274	垃圾桶	68	@@@	32005	0	1	6	垃圾桶	67
+275	礼物	69	@@@	32006	0	1	6	礼物	68
+276	金属晾衣架	70	set:furnish_icon.json image:furniture.actor49	32007	0	1	6	金属晾衣架	69
+277	木质晾衣架	71	set:furnish_icon.json image:furniture.actor50	32008	0	1	6	木质晾衣架	70
+278	马桶	72	@@@	32009	0	1	6	马桶	71
+279	气球	73	@@@	32010	0	1	6	气球	72
+280	燃气灶	74	@@@	32011	0	1	6	燃气灶	73
+281	洗手池	75	@@@	32012	0	1	6	洗手池	74

@@ -1,10 +1,10 @@
 切片唯一id	手持道具Id	解锁等级	切片名称	长	宽	高
 id	itemId	level	fileName	length	width	height
-1	2101	3	Town101.schematic	16	16	11
-2	2102	3	Town201.schematic	19	19	18
-3	2103	3	Town202.schematic	21	21	14
-4	2104	3	Town301.schematic	21	21	18
-5	2105	3	Town302.schematic	17	17	23
+1	2101	3	Town_01_16x16x11-1.schematic	16	16	11
+2	2102	3	Town_02_19x19x17-1.schematic	19	19	18
+3	2103	3	Town_03_21x21x14-1.schematic	21	21	14
+4	2104	3	Town_04_20x20x22-0.schematic	21	21	18
+5	2105	3	Town_05_17x17x24-1.schematic	17	17	23
 6	2106	2	build_01_9x9x10-0.schematic	9	9	10
 7	2107	1	build_02_11x11x23-0.schematic	11	11	23
 8	2108	1	build_03_11x11x13-1.schematic	11	11	13
