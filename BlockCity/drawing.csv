@@ -18,3 +18,13 @@ id	itemId	level	fileName	length	width	height	isFake
 16	2116	3	build_11_16x16x14-0.schematic	16	16	14	1
 17	2117	1	build_12_11x11x10-1.schematic	11	11	10	1
 18	2118	1	build_13_11x11x8-0.schematic	11	11	8	1
+19	2119	3	Landscape_01_9x9x15-0.schematic	9	9	15	1
+20	2120	1	Landscape_02_3x3x5-0.schematic	3	3	5	1
+21	2121	1	Landscape_03_1x1x5-0.schematic	1	1	5	1
+22	2122	2	Landscape_04_5x5x2-1.schematic	5	5	2	1
+23	2123	2	Landscape_05_5x5x4-0.schematic	5	5	4	1
+24	2124	1	Landscape_06_3x3x4-0.schematic	3	3	4	1
+25	2125	1	Landscape_07_2x2x8-0.schematic	2	2	8	1
+26	2126	3	Landscape_08_7x7x11-1.schematic	7	7	11	1
+27	2127	2	Landscape_09_5x5x6-0.schematic	5	5	6	1
+28	2128	2	Landscape_10_5x5x7-0.schematic	5	5	7	1
