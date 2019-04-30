@@ -1,18 +1,18 @@
 领地Id	x坐标	y坐标	z坐标	朝向	x起始坐标	y起始坐标	z起始坐标	x终点坐标	y终点坐标	z终点坐标	actor名称	默认配置应该是body	bodyId	UI显示的信息
 id	x	y	z	yaw	x1	y1	z1	x2	y2	z2	actorName	actorBody	actorBodyId	tip
-1	-670.5	34	-308.5	0	-672	33	-310	-669	37	-307	postbox01.actor	body	1	check mail!
-2	-695.5	34	-308.5	0	-697	33	-310	-694	37	-307	postbox01.actor	body	1	check mail!
-3	-727.5	34	-308.5	0	-729	33	-310	-726	37	-307	postbox01.actor	body	1	check mail!
-4	-752.5	34	-308.5	0	-754	33	-310	-751	37	-307	postbox01.actor	body	1	check mail!
-5	-649.5	34	-266.5	0	-651	33	-268	-648	37	-265	postbox01.actor	body	1	check mail!
-6	-649.5	34	-291.5	0	-651	33	-293	-648	37	-290	postbox01.actor	body	1	check mail!
-7	-769.5	34	-262.5	0	-771	33	-264	-768	37	-261	postbox01.actor	body	1	check mail!
-8	-769.5	34	-287.5	0	-771	33	-289	-768	37	-286	postbox01.actor	body	1	check mail!
-9	-647.5	34	-321.5	0	-649	33	-323	-646	37	-320	postbox01.actor	body	1	check mail!
-10	-647.5	34	-346.5	0	-649	33	-348	-646	37	-345	postbox01.actor	body	1	check mail!
-11	-769.5	34	-319.5	0	-771	33	-321	-768	37	-318	postbox01.actor	body	1	check mail!
-12	-769.5	34	-344.5	0	-771	33	-346	-768	37	-343	postbox01.actor	body	1	check mail!
-13	-657.5	34	-346.5	0	-659	33	-348	-656	37	-345	postbox01.actor	body	1	check mail!
-14	-704.5	34	-346.5	0	-706	33	-348	-703	37	-345	postbox01.actor	body	1	check mail!
-15	-712.5	34	-344.5	0	-714	33	-346	-711	37	-343	postbox01.actor	body	1	check mail!
-16	-763.5	34	-348.5	0	-765	33	-350	-762	37	-347	postbox01.actor	body	1	check mail!
+1	-670.5	34	-308.5	0	-672	33	-310	-669	37	-307	g1047_chairs.actor	body	22	check mail!
+2	-695.5	34	-308.5	0	-697	33	-310	-694	37	-307	g1047_chairs.actor	body	22	check mail!
+3	-727.5	34	-308.5	0	-729	33	-310	-726	37	-307	g1047_chairs.actor	body	22	check mail!
+4	-752.5	34	-308.5	0	-754	33	-310	-751	37	-307	g1047_chairs.actor	body	22	check mail!
+5	-649.5	34	-266.5	0	-651	33	-268	-648	37	-265	g1047_chairs.actor	body	22	check mail!
+6	-649.5	34	-291.5	0	-651	33	-293	-648	37	-290	g1047_chairs.actor	body	22	check mail!
+7	-769.5	34	-262.5	0	-771	33	-264	-768	37	-261	g1047_chairs.actor	body	22	check mail!
+8	-769.5	34	-287.5	0	-771	33	-289	-768	37	-286	g1047_chairs.actor	body	22	check mail!
+9	-647.5	34	-321.5	0	-649	33	-323	-646	37	-320	g1047_chairs.actor	body	22	check mail!
+10	-647.5	34	-346.5	0	-649	33	-348	-646	37	-345	g1047_chairs.actor	body	22	check mail!
+11	-769.5	34	-319.5	0	-771	33	-321	-768	37	-318	g1047_chairs.actor	body	22	check mail!
+12	-769.5	34	-344.5	0	-771	33	-346	-768	37	-343	g1047_chairs.actor	body	22	check mail!
+13	-657.5	34	-346.5	0	-659	33	-348	-656	37	-345	g1047_chairs.actor	body	22	check mail!
+14	-704.5	34	-346.5	0	-706	33	-348	-703	37	-345	g1047_chairs.actor	body	22	check mail!
+15	-712.5	34	-344.5	0	-714	33	-346	-711	37	-343	g1047_chairs.actor	body	22	check mail!
+16	-763.5	34	-348.5	0	-765	33	-350	-762	37	-347	g1047_chairs.actor	body	22	check mail!
