@@ -2,4 +2,4 @@
 level	offsetStartX	offsetStartY	offsetStartZ	offsetEndX	offsetEndY	offsetEndZ	score	moneyType	price	moneyTypeToDelete	priceToDelete	repairBlockId	repairBlockMeta
 1	7	0	12	17	50	22	10	2	10	2	10	5	0
 2	2	0	12	22	50	22	20	2	20	2	20	5	0
-3	1	0	1	24	50	24	30	2	0	2	30	5	0
+3	2	0	2	22	50	22	30	2	0	2	30	5	0
