@@ -1,76 +1,29 @@
-	Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	MeshName	ActionId	CanCollided
-中文备注	Id	手持道具Id(2201~2280)	对应Item图标	多语言名称	类别	挂点	Actor文件名	默认配置应该是body	部件Id	待机动画	完成使用	长	宽	高	模型	玩家动作id（12是凳子坐下，13是沙发坐下）	是否可以碰撞:1/0
-书桌	11001	2201	decorate	decorate_01.name	1		furnish.actor	body	25	idle		1	1	1	magazine.mesh	0	1
-塑料书桌	11002	2202	decorate	decorate_02.name	1		furnish.actor	body	26	idle		1	1	1	magazine.mesh	0	0
-白色书桌	11003	2203	decorate	decorate_01.name	1		furnish.actor	body	27	idle		1	1	1	magazine.mesh	0	0
-木质书桌	11004	2204	decorate	decorate_02.name	1		g1047_chairs.actor	body	2	idle		1	1	1	magazine.mesh	0	0
-长书桌	11005	2205	decorate	decorate_01.name	1		furnish.actor	body	29	idle		1	1	1	magazine.mesh	0	0
-商务书桌	11006	2206	decorate	decorate_02.name	1		furnish.actor	body	30	idle		1	1	1	magazine.mesh	0	0
-电脑桌	11007	2207	decorate	decorate_01.name	1		g1047_chairs.actor	body	5	idle		1	1	1	magazine.mesh	0	0
-桌子	11008	2208	decorate	decorate_02.name	1		furnish.actor	body	38	idle		1	1	1	magazine.mesh	0	0
-小圆桌	11009	2209	decorate	decorate_01.name	1		furnish.actor	body	39	idle		1	1	1	magazine.mesh	0	0
-复合桌	11010	2210	decorate	decorate_02.name	1		furnish.actor	body	40	idle		1	1	1	magazine.mesh	0	0
-棕色沙发	12001	2211	decorate	decorate_01.name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	4	idle		3	1	1	magazine.mesh	13	1
-黑色沙发	12002	2212	decorate	decorate_02.name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	23	idle		3	1	1	magazine.mesh	13	1
-曲线沙发	12003	2213	decorate	decorate_01.name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	14	idle		3	1	1	magazine.mesh	13	1
-小型沙发	12004	2214	decorate	decorate_02.name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	15	idle		3	1	1	magazine.mesh	13	1
-单人曲线沙发	12005	2215	decorate	decorate_01.name	1	s_chair	g1047_chairs.actor	body	16	idle		1	1	1	magazine.mesh	13	1
-单人白色沙发	12006	2216	decorate	decorate_02.name	1	s_chair	g1047_chairs.actor	body	17	idle		1	1	1	magazine.mesh	13	1
-爱心沙发	12007	2217	decorate	decorate_01.name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	26	idle		3	1	1	magazine.mesh	13	1
-木质椅子	12008	2218	decorate	decorate_02.name	1	s_chair	g1047_chairs.actor	body	3	idle		1	1	1	magazine.mesh	12	1
-棕色椅子	12009	2219	decorate	decorate_01.name	1	s_chair	g1047_chairs.actor	body	24	idle		1	1	1	magazine.mesh	12	1
-黑色椅子	12010	2220	decorate	decorate_02.name	1	s_chair	g1047_chairs.actor	body	25	idle		1	1	1	magazine.mesh	12	1
-藤椅	12011	2221	decorate	decorate_01.name	1	s_chair	g1047_chairs.actor	body	20	idle		1	1	1	magazine.mesh	12	1
-红色椅子	12012	2222	decorate	decorate_02.name	1	s_chair	g1047_chairs.actor	body	21	idle		1	1	1	magazine.mesh	12	1
-塑料椅子	12013	2223	decorate	decorate_01.name	1	s_chair	g1047_chairs.actor	body	18	idle		1	1	1	magazine.mesh	12	1
-长椅	12014	2224	decorate	decorate_02.name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	8	idle		3	1	1	magazine.mesh	13	1
-木质长椅	12015	2225	decorate	decorate_01.name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	12	idle		3	1	1	magazine.mesh	13	1
-长扶手椅	12016	2226	decorate	decorate_02.name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	13	idle		3	1	1	magazine.mesh	13	1
-绿色长凳	12017	2227	decorate	decorate_01.name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	27	idle		3	1	1	magazine.mesh	13	1
-黄色长凳	12018	2228	decorate	decorate_02.name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	28	idle		3	1	1	magazine.mesh	13	1
-棕色长凳	12019	2229	decorate	decorate_01.name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	29	idle		3	1	1	magazine.mesh	13	1
-床	21001	2230	decorate	decorate_02.name	2		furnish.actor	body	51	idle		1	1	1	magazine.mesh	0	0
-蓝黑床	21002	2231	decorate	decorate_01.name	2		furnish.actor	body	52	idle		1	1	1	magazine.mesh	0	0
-红灰床	21003	2232	decorate	decorate_02.name	2		furnish.actor	body	53	idle		1	1	1	magazine.mesh	0	0
-红色单人床	21004	2233	decorate	decorate_01.name	2		furnish.actor	body	54	idle		1	1	1	magazine.mesh	0	0
-红色双层床	21005	2234	decorate	decorate_02.name	2		furnish.actor	body	55	idle		1	1	1	magazine.mesh	0	0
-床头柜	22001	2235	decorate	decorate_01.name	2		furnish.actor	body	1	idle		1	1	1	magazine.mesh	0	0
-双门床头柜	22002	2236	decorate	decorate_02.name	2		furnish.actor	body	2	idle		1	1	1	magazine.mesh	0	0
-三层床头柜	22003	2237	decorate	decorate_01.name	2		furnish.actor	body	3	idle		1	1	1	magazine.mesh	0	0
-书柜	22004	2238	decorate	decorate_02.name	2		furnish.actor	body	6	idle		1	1	1	magazine.mesh	0	0
-双列书柜	22005	2239	decorate	decorate_01.name	2		furnish.actor	body	7	idle		1	1	1	magazine.mesh	0	0
-三层书柜	22006	2240	decorate	decorate_02.name	2		furnish.actor	body	8	idle		1	1	1	magazine.mesh	0	0
-木质书柜	22007	2241	decorate	decorate_01.name	2		furnish.actor	body	9	idle		1	1	1	magazine.mesh	0	0
-玻璃门书柜	22008	2242	decorate	decorate_02.name	2		furnish.actor	body	10	idle		1	1	1	magazine.mesh	0	0
-多层书柜	22009	2243	decorate	decorate_01.name	2		furnish.actor	body	11	idle		1	1	1	magazine.mesh	0	0
-衣柜	22010	2244	decorate	decorate_02.name	2		furnish.actor	body	13	idle		1	1	1	magazine.mesh	0	0
-木质衣柜	22011	2245	decorate	decorate_01.name	2		furnish.actor	body	14	idle		1	1	1	magazine.mesh	0	0
-黑色大衣柜	22012	2246	decorate	decorate_02.name	2		furnish.actor	body	15	idle		1	1	1	magazine.mesh	0	0
-红木衣柜	22013	2247	decorate	decorate_01.name	2		furnish.actor	body	16	idle		1	1	1	magazine.mesh	0	0
-暗橡木衣柜	22014	2248	decorate	decorate_02.name	2		furnish.actor	body	17	idle		1	1	1	magazine.mesh	0	0
-白色衣柜	22015	2249	decorate	decorate_01.name	2		furnish.actor	body	18	idle		1	1	1	magazine.mesh	0	0
-现代衣柜	22016	2250	decorate	decorate_02.name	2		furnish.actor	body	19	idle		1	1	1	magazine.mesh	0	0
-蓝色大衣柜	22017	2251	decorate	decorate_01.name	2		furnish.actor	body	20	idle		1	1	1	magazine.mesh	0	0
-黄色大衣柜	22018	2252	decorate	decorate_02.name	2		furnish.actor	body	21	idle		1	1	1	magazine.mesh	0	0
-灯	23001	2253	decorate	decorate_01.name	2		furnish.actor	body	45	idle		1	1	1	magazine.mesh	0	0
-蓝色灯	23002	2254	decorate	decorate_02.name	2		furnish.actor	body	46	idle		1	1	1	magazine.mesh	0	0
-小灯	23003	2255	decorate	decorate_01.name	2		furnish.actor	body	47	idle		1	1	1	magazine.mesh	0	0
-冰箱	31001	2256	decorate	decorate_02.name	3		furnish.actor	body	12	idle		1	1	1	magazine.mesh	0	0
-电扇	31002	2257	decorate	decorate_01.name	3		furnish.actor	body	48	idle		1	1	1	magazine.mesh	0	0
-电视	31003	2258	decorate	decorate_02.name	3		furnish.actor	body	34	idle		1	1	1	magazine.mesh	0	0
-空调	31004	2259	decorate	decorate_01.name	3		furnish.actor	body	23	idle		1	1	1	magazine.mesh	0	0
-微波炉	31005	2260	decorate	decorate_02.name	3		furnish.actor	body	5	idle		1	1	1	magazine.mesh	0	0
-洗衣机	31006	2261	decorate	decorate_01.name	3		g1047_chairs.actor	body	1	idle		1	1	1	magazine.mesh	0	0
-音响	31007	2262	decorate	decorate_02.name	3		furnish.actor	body	22	idle		1	1	1	magazine.mesh	0	0
-保险柜	32001	2263	decorate	decorate_01.name	3		furnish.actor	body	4	idle		1	1	1	magazine.mesh	0	0
-画1	32002	2264	decorate	decorate_02.name	3		furnish.actor	body	31	idle		1	1	1	magazine.mesh	0	0
-画2	32003	2265	decorate	decorate_01.name	3		furnish.actor	body	32	idle		1	1	1	magazine.mesh	0	0
-画3	32004	2266	decorate	decorate_02.name	3		furnish.actor	body	33	idle		1	1	1	magazine.mesh	0	0
-垃圾桶	32005	2267	decorate	decorate_01.name	3		g1047_chairs.actor	body	7	idle		1	1	1	magazine.mesh	0	0
-礼物	32006	2268	decorate	decorate_02.name	3		gift.actor	body	1	idle		1	1	1	magazine.mesh	0	0
-金属晾衣架	32007	2269	decorate	decorate_01.name	3		furnish.actor	body	49	idle		1	1	1	magazine.mesh	0	0
-木质晾衣架	32008	2270	decorate	decorate_02.name	3		furnish.actor	body	50	idle		1	1	1	magazine.mesh	0	0
-马桶	32009	2271	decorate	decorate_01.name	3		g1047_chairs.actor	body	19	idle		1	1	1	magazine.mesh	0	0
-气球	32010	2272	decorate	decorate_02.name	3		g1047_chairs.actor	body	9	idle		1	1	1	magazine.mesh	0	0
-燃气灶	32011	2273	decorate	decorate_01.name	3		g1047_chairs.actor	body	11	idle		1	1	1	magazine.mesh	0	0
-洗手池	32012	2274	decorate	decorate_02.name	3		g1047_chairs.actor	body	10	idle		1	1	1	magazine.mesh	0	0
+﻿	Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	MeshName	ActionId	CanCollided
+中文备注	Id	手持道具Id(2201~2255)	对应Item图标	多语言名称	类别	挂点	Actor文件名	默认配置应该是body	部件Id	待机动画	完成使用	长	宽	高	模型	玩家动作id（12是凳子坐下，13是沙发坐下）	是否可以碰撞:1/0
+洗衣机	3100001	2201	decorate	洗衣机	3		g1047_chairs.actor	body	1	idle		1	1	1	magazine.mesh	0	0
+电脑桌	1100002	2202	decorate	电脑桌	1		g1047_chairs.actor	body	2	idle		1	1	1	magazine.mesh	0	0
+木椅	1212003	2203	decorate	木椅	1	s_chair	g1047_chairs.actor	body	3	idle		1	1	1	magazine.mesh	12	0
+褐色沙发	1213004	2204	decorate	褐色沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	4	idle		3	1	1	magazine.mesh	13	0
+化妆桌	1100005	2205	decorate	化妆桌	1		g1047_chairs.actor	body	5	idle		1	1	1	magazine.mesh	0	0
+垃圾桶	3200006	2206	decorate	垃圾桶	3		g1047_chairs.actor	body	7	idle		1	1	1	magazine.mesh	0	0
+长木椅	1212007	2207	decorate	长木椅	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	8	idle		3	1	1	magazine.mesh	12	0
+气球	3200008	2208	decorate	气球	3	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	9	idle		3	1	1	magazine.mesh	0	0
+洗手台	3200009	2209	decorate	洗手台	3	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	10	idle		3	1	1	magazine.mesh	0	0
+烤箱	3200010	2210	decorate	烤箱	3	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	11	idle		3	1	1	magazine.mesh	0	0
+长木椅	1213011	2211	decorate	长木椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	12	idle		3	1	1	magazine.mesh	13	0
+长木椅	1213012	2212	decorate	长木椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	13	idle		3	1	1	magazine.mesh	13	0
+蓝白长沙发	1213013	2213	decorate	蓝白长沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	14	idle		3	1	1	magazine.mesh	13	0
+白长沙发	1213014	2214	decorate	白长沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	15	idle		3	1	1	magazine.mesh	13	0
+蓝白沙发	1213015	2215	decorate	蓝白沙发	1	s_chair	g1047_chairs.actor	body	16	idle		1	1	1	magazine.mesh	13	0
+白沙发	1213016	2216	decorate	白沙发	1	s_chair	g1047_chairs.actor	body	17	idle		1	1	1	magazine.mesh	13	0
+绿色椅	1212017	2217	decorate	绿色椅	1	s_chair	g1047_chairs.actor	body	18	idle		1	1	1	magazine.mesh	12	0
+绿马桶	3212018	2218	decorate	绿马桶	3	s_chair	g1047_chairs.actor	body	19	idle		1	1	1	magazine.mesh	12	0
+格子椅	1212019	2219	decorate	格子椅	1	s_chair	g1047_chairs.actor	body	20	idle		1	1	1	magazine.mesh	12	0
+红色椅	1212020	2220	decorate	红色椅	1	s_chair	g1047_chairs.actor	body	21	idle		1	1	1	magazine.mesh	12	0
+灰色沙发	1213021	2221	decorate	灰色沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	23	idle		3	1	1	magazine.mesh	13	0
+褐色椅	1212022	2222	decorate	褐色椅	1	s_chair	g1047_chairs.actor	body	24	idle		1	1	1	magazine.mesh	12	0
+黑色椅	1212023	2223	decorate	黑色椅	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	25	idle		3	1	1	magazine.mesh	12	0
+爱心长沙发	1213024	2224	decorate	爱心长沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	26	idle		3	1	1	magazine.mesh	13	0
+长绿椅	1213025	2225	decorate	长绿椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	27	idle		3	1	1	magazine.mesh	13	0
+长黄椅	1213026	2226	decorate	长黄椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	28	idle		3	1	1	magazine.mesh	13	0
+长棕椅	1213027	2227	decorate	长棕椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	29	idle		3	1	1	magazine.mesh	13	0
