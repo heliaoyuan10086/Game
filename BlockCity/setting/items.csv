@@ -1,4 +1,4 @@
-﻿Id	Name	Desc	Icon	Price	Cube	Score	
+Id	Name	Desc	Icon	Price	Cube	Score	
 物品id	多语言名称	多语言描述	对应Item图标	价格	魔方价格	积分	中文备注
 Id	Name	Desc	Icon	Price	Cube	Score	
 12	Town_01	123	decorate	2878	29	2878	Town_01
@@ -14,7 +14,7 @@ Id	Name	Desc	Icon	Price	Cube	Score
 8	build_06	123	decorate	2786	28	2786	build_06
 2	build_07	123	decorate	1006	11	1006	build_07
 7	build_08	123	decorate	2184	22	2184	build_08
-11	build_09	123	decorate	2316	24	2316	build_09
+11	build_09	123	decorate	2030	21	2030	build_09
 13	build_10	123	decorate	3596	36	3596	build_10
 14	build_11	123	decorate	4490	45	4490	build_11
 4	build_12	123	decorate	1306	14	1306	build_12
@@ -56,11 +56,3 @@ Id	Name	Desc	Icon	Price	Cube	Score
 1213025	长绿椅	@@@	set:blockcity_items.json image:g1047_prop_27	400	5	400	长绿椅
 1213026	长黄椅	@@@	set:blockcity_items.json image:g1047_prop_28	400	5	400	长黄椅
 1213027	长棕椅	@@@	set:blockcity_items.json image:g1047_prop_29	400	5	400	长棕椅
-							
-							
-							
-							
-							
-							
-							
-							
