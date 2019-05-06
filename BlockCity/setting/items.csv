@@ -29,33 +29,33 @@ Id	Name	Desc	Icon	Price	Cube	Score
 27	Landscape_08	123	decorate	344	4	344	Landscape_08
 24	Landscape_09	123	decorate	118	2	118	Landscape_09
 23	Landscape_10	123	decorate	116	2	116	Landscape_10
-3100001	洗衣机	@@@	decorate	100	2	100	洗衣机
-1100002	电脑桌	@@@	decorate	100	2	100	电脑桌
-1212003	木椅	@@@	decorate	200	3	200	木椅
-1213004	褐色沙发	@@@	decorate	300	4	300	褐色沙发
-1100005	化妆桌	@@@	decorate	100	2	100	化妆桌
-3200006	垃圾桶	@@@	decorate	100	2	100	垃圾桶
-1212007	长木椅	@@@	decorate	300	4	300	长木椅
-3200008	气球	@@@	decorate	300	4	300	气球
-3200009	洗手台	@@@	decorate	300	4	300	洗手台
-3200010	烤箱	@@@	decorate	300	4	300	烤箱
-1213011	长木椅	@@@	decorate	400	5	400	长木椅
-1213012	长木椅	@@@	decorate	400	5	400	长木椅
-1213013	蓝白长沙发	@@@	decorate	300	4	300	蓝白长沙发
-1213014	白长沙发	@@@	decorate	300	4	300	白长沙发
-1213015	蓝白沙发	@@@	decorate	200	3	200	蓝白沙发
-1213016	白沙发	@@@	decorate	200	3	200	白沙发
-1212017	绿色椅	@@@	decorate	200	3	200	绿色椅
-3212018	绿马桶	@@@	decorate	200	3	200	绿马桶
-1212019	格子椅	@@@	decorate	200	3	200	格子椅
-1212020	红色椅	@@@	decorate	200	3	200	红色椅
-1213021	灰色沙发	@@@	decorate	300	4	300	灰色沙发
-1212022	褐色椅	@@@	decorate	200	3	200	褐色椅
-1212023	黑色椅	@@@	decorate	300	4	300	黑色椅
-1213024	爱心长沙发	@@@	decorate	300	4	300	爱心长沙发
-1213025	长绿椅	@@@	decorate	400	5	400	长绿椅
-1213026	长黄椅	@@@	decorate	400	5	400	长黄椅
-1213027	长棕椅	@@@	decorate	400	5	400	长棕椅
+3100001	洗衣机	@@@	set:blockcity_items.json image:g1047_prop_1	100	2	100	洗衣机
+1100002	电脑桌	@@@	set:blockcity_items.json image:g1047_prop_2	100	2	100	电脑桌
+1212003	木椅	@@@	set:blockcity_items.json image:g1047_prop_3	200	3	200	木椅
+1213004	褐色沙发	@@@	set:blockcity_items.json image:g1047_prop_4	300	4	300	褐色沙发
+1100005	化妆桌	@@@	set:blockcity_items.json image:g1047_prop_5	100	2	100	化妆桌
+3200006	垃圾桶	@@@	set:blockcity_items.json image:g1047_prop_7	100	2	100	垃圾桶
+1212007	长木椅	@@@	set:blockcity_items.json image:g1047_prop_8	300	4	300	长木椅
+3200008	气球	@@@	set:blockcity_items.json image:g1047_prop_9	100	2	100	气球
+3200009	洗手台	@@@	set:blockcity_items.json image:g1047_prop_10	100	2	100	洗手台
+3200010	烤箱	@@@	set:blockcity_items.json image:g1047_prop_11	100	2	100	烤箱
+1213011	长木椅	@@@	set:blockcity_items.json image:g1047_prop_12	400	5	400	长木椅
+1213012	长木椅	@@@	set:blockcity_items.json image:g1047_prop_13	400	5	400	长木椅
+1213013	蓝白长沙发	@@@	set:blockcity_items.json image:g1047_prop_14	300	4	300	蓝白长沙发
+1213014	白长沙发	@@@	set:blockcity_items.json image:g1047_prop_15	300	4	300	白长沙发
+1213015	蓝白沙发	@@@	set:blockcity_items.json image:g1047_prop_16	200	3	200	蓝白沙发
+1213016	白沙发	@@@	set:blockcity_items.json image:g1047_prop_17	200	3	200	白沙发
+1212017	绿色椅	@@@	set:blockcity_items.json image:g1047_prop_18	200	3	200	绿色椅
+3212018	绿马桶	@@@	set:blockcity_items.json image:g1047_prop_19	200	3	200	绿马桶
+1212019	格子椅	@@@	set:blockcity_items.json image:g1047_prop_20	200	3	200	格子椅
+1212020	红色椅	@@@	set:blockcity_items.json image:g1047_prop_21	200	3	200	红色椅
+1213021	灰色沙发	@@@	set:blockcity_items.json image:g1047_prop_23	300	4	300	灰色沙发
+1212022	褐色椅	@@@	set:blockcity_items.json image:g1047_prop_24	200	3	200	褐色椅
+1212023	黑色椅	@@@	set:blockcity_items.json image:g1047_prop_25	200	3	200	黑色椅
+1213024	爱心长沙发	@@@	set:blockcity_items.json image:g1047_prop_26	300	4	300	爱心长沙发
+1213025	长绿椅	@@@	set:blockcity_items.json image:g1047_prop_27	400	5	400	长绿椅
+1213026	长黄椅	@@@	set:blockcity_items.json image:g1047_prop_28	400	5	400	长黄椅
+1213027	长棕椅	@@@	set:blockcity_items.json image:g1047_prop_29	400	5	400	长棕椅
 							
 							
 							
