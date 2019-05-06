@@ -1,13 +1,13 @@
-序号	标签类型（1是图纸，2是方块，3是装饰）	标签id	多语言	图标
-order	type	tag	name	icon
-1	1	1	建筑	@@@
-2	1	2	景观	@@@
-3	2	1	普通	@@@
-4	2	2	彩色	@@@
-5	2	3	结构	@@@
-6	2	4	玻璃	@@@
-7	2	5	毛皮	@@@
-8	2	6	特殊	@@@
-9	3	1	客厅	@@@
-10	3	2	卧室	@@@
-11	3	3	其他	@@@
+序号	标签类型（1是图纸，2是方块，3是装饰）	标签id	多语言	图标	备注
+order	type	tag	name	icon	remark
+1	1	1	drawing_tag_1	@@@	建筑
+2	1	2	drawing_tag_2	@@@	景观
+3	2	1	block_tag_1	@@@	普通
+4	2	2	block_tag_2	@@@	彩色
+5	2	3	block_tag_3	@@@	结构
+6	2	4	block_tag_4	@@@	玻璃
+7	2	5	block_tag_5	@@@	毛皮
+8	2	6	block_tag_6	@@@	特殊
+9	3	1	decorate_tag_1	@@@	客厅
+10	3	2	decorate_tag_2	@@@	卧室
+11	3	3	decorate_tag_3	@@@	其他
