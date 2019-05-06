@@ -16,3 +16,15 @@ gui_blockcity_manor_open_status_all=所有玩家
 gui_blockcity_manor_open_status_friend=好友
 gui_blockcity_manor_open_status_close=不可访问
 gui_blockcity_manor_max_level=MAX
+
+gui_blockcity_store=仓库
+gui_blockcity_store_parper=图纸
+gui_blockcity_store_block=方块
+gui_blockcity_store_furniture=家具
+gui_blockcity_store_vol=体积
+gui_blockcity_store_score=积分
+
+gui_blockcity_store_material=全部材料
+
+gui_blockcity_friend_list=好友列表
+gui_blockcity_apply_list=申请列表
