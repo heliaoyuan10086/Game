@@ -1,29 +1,29 @@
-﻿	Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	MeshName	ActionId	CanCollided
+	Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	MeshName	ActionId	CanCollided
 中文备注	Id	手持道具Id(2201~2255)	对应Item图标	多语言名称	类别	挂点	Actor文件名	默认配置应该是body	部件Id	待机动画	完成使用	长	宽	高	模型	玩家动作id（12是凳子坐下，13是沙发坐下）	是否可以碰撞:1/0
-洗衣机	3100001	2201	set:blockcity_items.json image:g1047_prop_1	洗衣机	3		g1047_chairs.actor	body	1	idle		1	1	1	magazine.mesh	0	0
-电脑桌	1100002	2202	set:blockcity_items.json image:g1047_prop_2	电脑桌	1		g1047_chairs.actor	body	2	idle		1	1	1	magazine.mesh	0	0
-木椅	1212003	2203	set:blockcity_items.json image:g1047_prop_3	木椅	1	s_chair	g1047_chairs.actor	body	3	idle		1	1	1	magazine.mesh	12	0
-褐色沙发	1213004	2204	set:blockcity_items.json image:g1047_prop_4	褐色沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	4	idle		3	1	1	magazine.mesh	13	0
-化妆桌	1100005	2205	set:blockcity_items.json image:g1047_prop_5	化妆桌	1		g1047_chairs.actor	body	5	idle		2	1	2	magazine.mesh	0	0
-垃圾桶	3200006	2206	set:blockcity_items.json image:g1047_prop_7	垃圾桶	3		g1047_chairs.actor	body	7	idle		1	1	1	magazine.mesh	0	0
-长木椅	1212007	2207	set:blockcity_items.json image:g1047_prop_8	长木椅	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	8	idle		3	1	1	magazine.mesh	12	0
-气球	3200008	2208	set:blockcity_items.json image:g1047_prop_9	气球	3		g1047_chairs.actor	body	9	idle		2	2	2	magazine.mesh	0	0
-洗手台	3200009	2209	set:blockcity_items.json image:g1047_prop_10	洗手台	3		g1047_chairs.actor	body	10	idle		2	1	2	magazine.mesh	0	0
-烤箱	3200010	2210	set:blockcity_items.json image:g1047_prop_11	烤箱	3		g1047_chairs.actor	body	11	idle		1	1	1	magazine.mesh	0	0
-长木椅	1213011	2211	set:blockcity_items.json image:g1047_prop_12	长木椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	12	idle		3	1	1	magazine.mesh	13	0
-长木椅	1213012	2212	set:blockcity_items.json image:g1047_prop_13	长木椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	13	idle		3	1	1	magazine.mesh	13	0
-蓝白长沙发	1213013	2213	set:blockcity_items.json image:g1047_prop_14	蓝白长沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	14	idle		3	1	1	magazine.mesh	13	0
-白长沙发	1213014	2214	set:blockcity_items.json image:g1047_prop_15	白长沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	15	idle		2	1	1	magazine.mesh	13	0
-蓝白沙发	1213015	2215	set:blockcity_items.json image:g1047_prop_16	蓝白沙发	1	s_chair	g1047_chairs.actor	body	16	idle		1	1	1	magazine.mesh	13	0
-白沙发	1213016	2216	set:blockcity_items.json image:g1047_prop_17	白沙发	1	s_chair	g1047_chairs.actor	body	17	idle		1	1	1	magazine.mesh	13	0
-绿色椅	1212017	2217	set:blockcity_items.json image:g1047_prop_18	绿色椅	1	s_chair	g1047_chairs.actor	body	18	idle		1	1	1	magazine.mesh	12	0
-绿马桶	3212018	2218	set:blockcity_items.json image:g1047_prop_19	绿马桶	3	s_chair	g1047_chairs.actor	body	19	idle		1	1	1	magazine.mesh	12	0
-格子椅	1212019	2219	set:blockcity_items.json image:g1047_prop_20	格子椅	1	s_chair	g1047_chairs.actor	body	20	idle		1	1	1	magazine.mesh	12	0
-红色椅	1212020	2220	set:blockcity_items.json image:g1047_prop_21	红色椅	1	s_chair	g1047_chairs.actor	body	21	idle		1	1	1	magazine.mesh	12	0
-灰色沙发	1213021	2221	set:blockcity_items.json image:g1047_prop_23	灰色沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	23	idle		3	1	1	magazine.mesh	13	0
-褐色椅	1212022	2222	set:blockcity_items.json image:g1047_prop_24	褐色椅	1	s_chair	g1047_chairs.actor	body	24	idle		1	1	1	magazine.mesh	12	0
-黑色椅	1212023	2223	set:blockcity_items.json image:g1047_prop_25	黑色椅	1	s_chair	g1047_chairs.actor	body	25	idle		1	1	1	magazine.mesh	12	0
-爱心长沙发	1213024	2224	set:blockcity_items.json image:g1047_prop_26	爱心长沙发	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	26	idle		3	1	1	magazine.mesh	13	0
-长绿椅	1213025	2225	set:blockcity_items.json image:g1047_prop_27	长绿椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	27	idle		3	1	1	magazine.mesh	13	0
-长黄椅	1213026	2226	set:blockcity_items.json image:g1047_prop_28	长黄椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	28	idle		3	1	1	magazine.mesh	13	0
-长棕椅	1213027	2227	set:blockcity_items.json image:g1047_prop_29	长棕椅	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	29	idle		3	1	1	magazine.mesh	13	0
+洗衣机	3100001	2201	set:blockcity_items.json image:g1047_prop_1	decoration_3100001_name	3		g1047_chairs.actor	body	1	idle		1	1	1	magazine.mesh	0	0
+电脑桌	1100002	2202	set:blockcity_items.json image:g1047_prop_2	decoration_1100002_name	1		g1047_chairs.actor	body	2	idle		1	1	1	magazine.mesh	0	0
+木椅	1212003	2203	set:blockcity_items.json image:g1047_prop_3	decoration_1212003_name	1	s_chair	g1047_chairs.actor	body	3	idle		1	1	1	magazine.mesh	12	0
+褐色沙发	1213004	2204	set:blockcity_items.json image:g1047_prop_4	decoration_1213004_name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	4	idle		3	1	1	magazine.mesh	13	0
+化妆桌	1100005	2205	set:blockcity_items.json image:g1047_prop_5	decoration_1100005_name	1		g1047_chairs.actor	body	5	idle		2	1	2	magazine.mesh	0	0
+垃圾桶	3200006	2206	set:blockcity_items.json image:g1047_prop_7	decoration_3200006_name	3		g1047_chairs.actor	body	7	idle		1	1	1	magazine.mesh	0	0
+长木椅	1212007	2207	set:blockcity_items.json image:g1047_prop_8	decoration_1212007_name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	8	idle		3	1	1	magazine.mesh	12	0
+气球	3200008	2208	set:blockcity_items.json image:g1047_prop_9	decoration_3200008_name	3		g1047_chairs.actor	body	9	idle		2	2	2	magazine.mesh	0	0
+洗手台	3200009	2209	set:blockcity_items.json image:g1047_prop_10	decoration_3200009_name	3		g1047_chairs.actor	body	10	idle		2	1	2	magazine.mesh	0	0
+烤箱	3200010	2210	set:blockcity_items.json image:g1047_prop_11	decoration_3200010_name	3		g1047_chairs.actor	body	11	idle		1	1	1	magazine.mesh	0	0
+长木椅	1213011	2211	set:blockcity_items.json image:g1047_prop_12	decoration_1213011_name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	12	idle		3	1	1	magazine.mesh	13	0
+长木椅	1213012	2212	set:blockcity_items.json image:g1047_prop_13	decoration_1213012_name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	13	idle		3	1	1	magazine.mesh	13	0
+蓝白长沙发	1213013	2213	set:blockcity_items.json image:g1047_prop_14	decoration_1213013_name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	14	idle		3	1	1	magazine.mesh	13	0
+白长沙发	1213014	2214	set:blockcity_items.json image:g1047_prop_15	decoration_1213014_name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	15	idle		2	1	1	magazine.mesh	13	0
+蓝白沙发	1213015	2215	set:blockcity_items.json image:g1047_prop_16	decoration_1213015_name	1	s_chair	g1047_chairs.actor	body	16	idle		1	1	1	magazine.mesh	13	0
+白沙发	1213016	2216	set:blockcity_items.json image:g1047_prop_17	decoration_1213016_name	1	s_chair	g1047_chairs.actor	body	17	idle		1	1	1	magazine.mesh	13	0
+绿色椅	1212017	2217	set:blockcity_items.json image:g1047_prop_18	decoration_1212017_name	1	s_chair	g1047_chairs.actor	body	18	idle		1	1	1	magazine.mesh	12	0
+绿马桶	3212018	2218	set:blockcity_items.json image:g1047_prop_19	decoration_3212018_name	3	s_chair	g1047_chairs.actor	body	19	idle		1	1	1	magazine.mesh	12	0
+格子椅	1212019	2219	set:blockcity_items.json image:g1047_prop_20	decoration_1212019_name	1	s_chair	g1047_chairs.actor	body	20	idle		1	1	1	magazine.mesh	12	0
+红色椅	1212020	2220	set:blockcity_items.json image:g1047_prop_21	decoration_1212020_name	1	s_chair	g1047_chairs.actor	body	21	idle		1	1	1	magazine.mesh	12	0
+灰色沙发	1213021	2221	set:blockcity_items.json image:g1047_prop_23	decoration_1213021_name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	23	idle		3	1	1	magazine.mesh	13	0
+褐色椅	1212022	2222	set:blockcity_items.json image:g1047_prop_24	decoration_1212022_name	1	s_chair	g1047_chairs.actor	body	24	idle		1	1	1	magazine.mesh	12	0
+黑色椅	1212023	2223	set:blockcity_items.json image:g1047_prop_25	decoration_1212023_name	1	s_chair	g1047_chairs.actor	body	25	idle		1	1	1	magazine.mesh	12	0
+爱心长沙发	1213024	2224	set:blockcity_items.json image:g1047_prop_26	decoration_1213024_name	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	26	idle		3	1	1	magazine.mesh	13	0
+长绿椅	1213025	2225	set:blockcity_items.json image:g1047_prop_27	decoration_1213025_name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	27	idle		3	1	1	magazine.mesh	13	0
+长黄椅	1213026	2226	set:blockcity_items.json image:g1047_prop_28	decoration_1213026_name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	28	idle		3	1	1	magazine.mesh	13	0
+长棕椅	1213027	2227	set:blockcity_items.json image:g1047_prop_29	decoration_1213027_name	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	29	idle		3	1	1	magazine.mesh	13	0
