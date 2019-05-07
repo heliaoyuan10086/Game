@@ -1,58 +1,58 @@
 Id	Name	Desc	Icon	Price	Cube	Score	
 物品id	多语言名称	多语言描述	对应Item图标	价格	魔方价格	积分	中文备注
 Id	Name	Desc	Icon	Price	Cube	Score	
-18	drawing_name_18	123	decorate	1000	11	1000	drawing_name_18
-12	drawing_name_12	123	decorate	1006	11	1006	drawing_name_12
-6	drawing_name_6	123	decorate	1072	11	1072	drawing_name_6
-17	drawing_name_17	123	decorate	1306	14	1306	drawing_name_17
-8	drawing_name_8	123	decorate	1312	14	1312	drawing_name_8
-9	drawing_name_9	123	decorate	2322	24	2322	drawing_name_9
-13	drawing_name_13	123	decorate	2184	22	2184	drawing_name_13
-11	drawing_name_11	123	decorate	2786	28	2786	drawing_name_11
-10	drawing_name_10	123	decorate	2928	30	2928	drawing_name_10
-7	drawing_name_7	123	decorate	3054	31	3054	drawing_name_7
-14	drawing_name_14	123	decorate	2030	21	2030	drawing_name_14
-1	drawing_name_1	123	decorate	2878	29	2878	drawing_name_1
-15	drawing_name_15	123	decorate	3596	36	3596	drawing_name_15
-16	drawing_name_16	123	decorate	4490	45	4490	drawing_name_16
-2	drawing_name_2	123	decorate	6788	68	6788	drawing_name_2
-5	drawing_name_5	123	decorate	7116	72	7116	drawing_name_5
-3	drawing_name_3	123	decorate	8000	81	8000	drawing_name_3
-4	drawing_name_4	123	decorate	8036	81	8036	drawing_name_4
-21	drawing_name_21	123	decorate	64	1	64	drawing_name_21
-20	drawing_name_20	123	decorate	74	1	74	drawing_name_20
-25	drawing_name_25	123	decorate	74	1	74	drawing_name_25
-24	drawing_name_24	123	decorate	156	2	156	drawing_name_24
-28	drawing_name_28	123	decorate	116	2	116	drawing_name_28
-27	drawing_name_27	123	decorate	118	2	118	drawing_name_27
-22	drawing_name_22	123	decorate	132	2	132	drawing_name_22
-23	drawing_name_23	123	decorate	244	3	244	drawing_name_23
-26	drawing_name_26	123	decorate	344	4	344	drawing_name_26
-19	drawing_name_19	123	decorate	890	9	890	drawing_name_19
-3100001	decoration_3100001_name	@@@	set:blockcity_items.json image:g1047_prop_1	100	2	100	洗衣机
-1100002	decoration_1100002_name	@@@	set:blockcity_items.json image:g1047_prop_2	100	2	100	电脑桌
-1212003	decoration_1212003_name	@@@	set:blockcity_items.json image:g1047_prop_3	200	3	200	木椅
-1213004	decoration_1213004_name	@@@	set:blockcity_items.json image:g1047_prop_4	300	4	300	褐色沙发
-1100005	decoration_1100005_name	@@@	set:blockcity_items.json image:g1047_prop_5	100	2	100	化妆桌
-3200006	decoration_3200006_name	@@@	set:blockcity_items.json image:g1047_prop_7	100	2	100	垃圾桶
-1212007	decoration_1212007_name	@@@	set:blockcity_items.json image:g1047_prop_8	300	4	300	长木椅
-3200008	decoration_3200008_name	@@@	set:blockcity_items.json image:g1047_prop_9	100	2	100	气球
-3200009	decoration_3200009_name	@@@	set:blockcity_items.json image:g1047_prop_10	100	2	100	洗手台
-3200010	decoration_3200010_name	@@@	set:blockcity_items.json image:g1047_prop_11	100	2	100	烤箱
-1213011	decoration_1213011_name	@@@	set:blockcity_items.json image:g1047_prop_12	400	5	400	长木椅
-1213012	decoration_1213012_name	@@@	set:blockcity_items.json image:g1047_prop_13	400	5	400	长木椅
-1213013	decoration_1213013_name	@@@	set:blockcity_items.json image:g1047_prop_14	300	4	300	蓝白长沙发
-1213014	decoration_1213014_name	@@@	set:blockcity_items.json image:g1047_prop_15	300	4	300	白长沙发
-1213015	decoration_1213015_name	@@@	set:blockcity_items.json image:g1047_prop_16	200	3	200	蓝白沙发
-1213016	decoration_1213016_name	@@@	set:blockcity_items.json image:g1047_prop_17	200	3	200	白沙发
-1212017	decoration_1212017_name	@@@	set:blockcity_items.json image:g1047_prop_18	200	3	200	绿色椅
-3212018	decoration_3212018_name	@@@	set:blockcity_items.json image:g1047_prop_19	200	3	200	绿马桶
-1212019	decoration_1212019_name	@@@	set:blockcity_items.json image:g1047_prop_20	200	3	200	格子椅
-1212020	decoration_1212020_name	@@@	set:blockcity_items.json image:g1047_prop_21	200	3	200	红色椅
-1213021	decoration_1213021_name	@@@	set:blockcity_items.json image:g1047_prop_23	300	4	300	灰色沙发
-1212022	decoration_1212022_name	@@@	set:blockcity_items.json image:g1047_prop_24	200	3	200	褐色椅
-1212023	decoration_1212023_name	@@@	set:blockcity_items.json image:g1047_prop_25	200	3	200	黑色椅
-1213024	decoration_1213024_name	@@@	set:blockcity_items.json image:g1047_prop_26	300	4	300	爱心长沙发
-1213025	decoration_1213025_name	@@@	set:blockcity_items.json image:g1047_prop_27	400	5	400	长绿椅
-1213026	decoration_1213026_name	@@@	set:blockcity_items.json image:g1047_prop_28	400	5	400	长黄椅
-1213027	decoration_1213027_name	@@@	set:blockcity_items.json image:g1047_prop_29	400	5	400	长棕椅
+12	drawing_name_1	123	decorate	2878	29	2878	大屋子
+15	drawing_name_2	123	decorate	6922	70	6922	贵族房屋
+17	drawing_name_3	123	decorate	8000	81	8000	洋房
+18	drawing_name_4	123	decorate	8276	83	8276	别墅
+16	drawing_name_5	123	decorate	7126	72	7126	高层公寓
+3	drawing_name_6	123	decorate	1178	12	1178	亭子
+10	drawing_name_7	123	decorate	3054	31	3054	树屋
+5	drawing_name_8	123	decorate	1312	14	1312	小木屋
+6	drawing_name_9	123	decorate	2322	24	2322	砖木小屋
+9	drawing_name_10	123	decorate	2972	30	2972	小教堂
+8	drawing_name_11	123	decorate	2786	28	2786	石英小楼
+2	drawing_name_12	123	decorate	1006	11	1006	彩虹屋
+7	drawing_name_13	123	decorate	2184	22	2184	双层小屋
+11	drawing_name_14	123	decorate	2030	21	2030	后现代建筑
+13	drawing_name_15	123	decorate	3724	38	3724	砂石堡垒
+14	drawing_name_16	123	decorate	4546	46	4546	大教堂
+4	drawing_name_17	123	decorate	1306	14	1306	小屋
+1	drawing_name_18	123	decorate	1000	11	1000	码头小屋
+28	drawing_name_19	123	decorate	890	9	890	大树
+20	drawing_name_20	123	decorate	92	1	92	石灯
+19	drawing_name_21	123	decorate	64	1	64	小树
+25	drawing_name_22	123	decorate	140	2	140	地灯
+26	drawing_name_23	123	decorate	244	3	244	黄金信标
+22	drawing_name_24	123	decorate	156	2	156	魔方
+21	drawing_name_25	123	decorate	74	1	74	路灯
+27	drawing_name_26	123	decorate	344	4	344	石英伞
+24	drawing_name_27	123	decorate	118	2	118	八面体
+23	drawing_name_28	123	decorate	116	2	116	树
+3100001	decorate_3100001_name	@@@	set:blockcity_items.json image:g1047_prop_1	100	2	100	洗衣机
+1100002	decorate_1100002_name	@@@	set:blockcity_items.json image:g1047_prop_2	100	2	100	电脑桌
+1212003	decorate_1212003_name	@@@	set:blockcity_items.json image:g1047_prop_3	200	3	200	木椅
+1213004	decorate_1213004_name	@@@	set:blockcity_items.json image:g1047_prop_4	300	4	300	褐色沙发
+1100005	decorate_1100005_name	@@@	set:blockcity_items.json image:g1047_prop_5	100	2	100	化妆桌
+3200006	decorate_3200006_name	@@@	set:blockcity_items.json image:g1047_prop_7	100	2	100	垃圾桶
+1212007	decorate_1212007_name	@@@	set:blockcity_items.json image:g1047_prop_8	300	4	300	长木椅
+3200008	decorate_3200008_name	@@@	set:blockcity_items.json image:g1047_prop_9	100	2	100	气球
+3200009	decorate_3200009_name	@@@	set:blockcity_items.json image:g1047_prop_10	100	2	100	洗手台
+3200010	decorate_3200010_name	@@@	set:blockcity_items.json image:g1047_prop_11	100	2	100	烤箱
+1213011	decorate_1213011_name	@@@	set:blockcity_items.json image:g1047_prop_12	400	5	400	长木椅
+1213012	decorate_1213012_name	@@@	set:blockcity_items.json image:g1047_prop_13	400	5	400	长木椅
+1213013	decorate_1213013_name	@@@	set:blockcity_items.json image:g1047_prop_14	300	4	300	蓝白长沙发
+1213014	decorate_1213014_name	@@@	set:blockcity_items.json image:g1047_prop_15	300	4	300	白长沙发
+1213015	decorate_1213015_name	@@@	set:blockcity_items.json image:g1047_prop_16	200	3	200	蓝白沙发
+1213016	decorate_1213016_name	@@@	set:blockcity_items.json image:g1047_prop_17	200	3	200	白沙发
+1212017	decorate_1212017_name	@@@	set:blockcity_items.json image:g1047_prop_18	200	3	200	绿色椅
+3212018	decorate_3212018_name	@@@	set:blockcity_items.json image:g1047_prop_19	200	3	200	绿马桶
+1212019	decorate_1212019_name	@@@	set:blockcity_items.json image:g1047_prop_20	200	3	200	格子椅
+1212020	decorate_1212020_name	@@@	set:blockcity_items.json image:g1047_prop_21	200	3	200	红色椅
+1213021	decorate_1213021_name	@@@	set:blockcity_items.json image:g1047_prop_23	300	4	300	灰色沙发
+1212022	decorate_1212022_name	@@@	set:blockcity_items.json image:g1047_prop_24	200	3	200	褐色椅
+1212023	decorate_1212023_name	@@@	set:blockcity_items.json image:g1047_prop_25	200	3	200	黑色椅
+1213024	decorate_1213024_name	@@@	set:blockcity_items.json image:g1047_prop_26	300	4	300	爱心长沙发
+1213025	decorate_1213025_name	@@@	set:blockcity_items.json image:g1047_prop_27	400	5	400	长绿椅
+1213026	decorate_1213026_name	@@@	set:blockcity_items.json image:g1047_prop_28	400	5	400	长黄椅
+1213027	decorate_1213027_name	@@@	set:blockcity_items.json image:g1047_prop_29	400	5	400	长棕椅
