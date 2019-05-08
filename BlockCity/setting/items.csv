@@ -1,34 +1,34 @@
 Id	Name	Desc	Icon	Price	Cube	Score	
 物品id	多语言名称	多语言描述	对应Item图标	价格	魔方价格	积分	中文备注
 Id	Name	Desc	Icon	Price	Cube	Score	
-12	drawing_name_1	123	decorate	2878	29	2878	大屋子
-15	drawing_name_2	123	decorate	6922	70	6922	贵族房屋
-17	drawing_name_3	123	decorate	8000	81	8000	洋房
-18	drawing_name_4	123	decorate	8276	83	8276	别墅
-16	drawing_name_5	123	decorate	7126	72	7126	高层公寓
-3	drawing_name_6	123	decorate	1178	12	1178	亭子
-10	drawing_name_7	123	decorate	3054	31	3054	树屋
-5	drawing_name_8	123	decorate	1312	14	1312	小木屋
-6	drawing_name_9	123	decorate	2322	24	2322	砖木小屋
-9	drawing_name_10	123	decorate	2972	30	2972	小教堂
-8	drawing_name_11	123	decorate	2786	28	2786	石英小楼
-2	drawing_name_12	123	decorate	1006	11	1006	彩虹屋
-7	drawing_name_13	123	decorate	2184	22	2184	双层小屋
-11	drawing_name_14	123	decorate	2030	21	2030	后现代建筑
-13	drawing_name_15	123	decorate	3724	38	3724	砂石堡垒
-14	drawing_name_16	123	decorate	4546	46	4546	大教堂
-4	drawing_name_17	123	decorate	1306	14	1306	小屋
-1	drawing_name_18	123	decorate	1000	11	1000	码头小屋
-28	drawing_name_19	123	decorate	890	9	890	大树
-20	drawing_name_20	123	decorate	92	1	92	石灯
-19	drawing_name_21	123	decorate	64	1	64	小树
-25	drawing_name_22	123	decorate	140	2	140	地灯
-26	drawing_name_23	123	decorate	244	3	244	黄金信标
-22	drawing_name_24	123	decorate	156	2	156	魔方
-21	drawing_name_25	123	decorate	74	1	74	路灯
-27	drawing_name_26	123	decorate	344	4	344	石英伞
-24	drawing_name_27	123	decorate	118	2	118	八面体
-23	drawing_name_28	123	decorate	116	2	116	树
+1	drawing_name_1	123	set:blockcity_items.json image:town_100_01	2706	28	2706	大屋子
+2	drawing_name_2	123	set:blockcity_items.json image:town_100_02	7162	72	7162	贵族房屋
+3	drawing_name_3	123	set:blockcity_items.json image:town_100_03	8000	81	8000	洋房
+4	drawing_name_4	123	set:blockcity_items.json image:town_100_04	8276	83	8276	别墅
+5	drawing_name_5	123	set:blockcity_items.json image:town_100_05	7126	72	7126	高层公寓
+6	drawing_name_6	123	set:blockcity_items.json image:building_100_01	1178	12	1178	亭子
+7	drawing_name_7	123	set:blockcity_items.json image:building_100_02	3126	32	3126	树屋
+8	drawing_name_8	123	set:blockcity_items.json image:building_100_03	1312	14	1312	小木屋
+9	drawing_name_9	123	set:blockcity_items.json image:building_100_04	2322	24	2322	砖木小屋
+10	drawing_name_10	123	set:blockcity_items.json image:building_100_05	2972	30	2972	小教堂
+11	drawing_name_11	123	set:blockcity_items.json image:building_100_06	2786	28	2786	石英小楼
+12	drawing_name_12	123	set:blockcity_items.json image:building_100_07	1006	11	1006	彩虹屋
+13	drawing_name_13	123	set:blockcity_items.json image:building_100_08	2184	22	2184	双层小屋
+14	drawing_name_14	123	set:blockcity_items.json image:building_100_09	2030	21	2030	后现代建筑
+15	drawing_name_15	123	set:blockcity_items.json image:building_100_10	3724	38	3724	砂石堡垒
+16	drawing_name_16	123	set:blockcity_items.json image:building_100_11	4546	46	4546	大教堂
+17	drawing_name_17	123	set:blockcity_items.json image:building_100_12	1306	14	1306	小屋
+18	drawing_name_18	123	set:blockcity_items.json image:building_100_13	1000	11	1000	码头小屋
+19	drawing_name_19	123	set:blockcity_items.json image:landscape_100_01	290	3	290	大树
+20	drawing_name_20	123	set:blockcity_items.json image:landscape_100_02	92	1	92	石灯
+21	drawing_name_21	123	set:blockcity_items.json image:landscape_100_03	24	1	24	小树
+22	drawing_name_22	123	set:blockcity_items.json image:landscape_100_04	180	2	180	地灯
+23	drawing_name_23	123	set:blockcity_items.json image:landscape_100_05	244	3	244	黄金信标
+24	drawing_name_24	123	set:blockcity_items.json image:landscape_100_06	156	2	156	魔方
+25	drawing_name_25	123	set:blockcity_items.json image:landscape_100_07	74	1	74	路灯
+26	drawing_name_26	123	set:blockcity_items.json image:landscape_100_08	344	4	344	石英伞
+27	drawing_name_27	123	set:blockcity_items.json image:landscape_100_09	118	2	118	八面体
+28	drawing_name_28	123	set:blockcity_items.json image:landscape_100_10	116	2	116	树
 3100001	decorate_3100001_name	@@@	set:blockcity_items.json image:g1047_prop_1	100	2	100	洗衣机
 1100002	decorate_1100002_name	@@@	set:blockcity_items.json image:g1047_prop_2	100	2	100	电脑桌
 1212003	decorate_1212003_name	@@@	set:blockcity_items.json image:g1047_prop_3	200	3	200	木椅
