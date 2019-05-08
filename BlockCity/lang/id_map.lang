@@ -260,3 +260,35 @@ drawing_name_27=Segi delapan
 drawing_name_28=Pohon
 
 language_end:blueprint
+
+language_start:decoration
+
+decoration_name_3100001=Mesin cuci
+decoration_name_1100002=Meja tulis
+decoration_name_1212003=Kursi kayu
+decoration_name_1213004=Sofa Coklat
+decoration_name_1100005=Meja komputer
+decoration_name_3200006=Bak sampah
+decoration_name_1212007=Bangku
+decoration_name_3200008=Balon
+decoration_name_3200009=Wastafel
+decoration_name_3200010=Tungku gas
+decoration_name_1213011=Bangku kayu
+decoration_name_1213012=Kursi Panjang
+decoration_name_1213013=Sofa Biru-Putih
+decoration_name_1213014=Sofa Putih
+decoration_name_1213015=Sofa Biru-Putih Single
+decoration_name_1213016=Sofa Putih Single
+decoration_name_1212017=Kursi Hijau
+decoration_name_3212018=Closestool
+decoration_name_1212019=Kursi Kisi
+decoration_name_1212020=Kursi Merah
+decoration_name_1213021=Sofa Hitam
+decoration_name_1212022=Kursi Brown
+decoration_name_1212023=Kursi Hitam
+decoration_name_1213024=Sofa hati
+decoration_name_1213025=Green Bench
+decoration_name_1213026=Bangku Kuning
+decoration_name_1213027=Brown Bench
+
+language_end:decoration

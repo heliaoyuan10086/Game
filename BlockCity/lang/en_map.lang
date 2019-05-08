@@ -260,3 +260,35 @@ drawing_name_27=Octahedron
 drawing_name_28=Tree
 
 language_end:blueprint
+
+language_start:decoration
+
+decoration_name_3100001=Washing Machine
+decoration_name_1100002=Desk
+decoration_name_1212003=Wooden Chair
+decoration_name_1213004=Brown Sofa
+decoration_name_1100005=Computer Table
+decoration_name_3200006=Trash Bin
+decoration_name_1212007=Bench
+decoration_name_3200008=Balloon
+decoration_name_3200009=Hand Sink
+decoration_name_3200010=Gas Stove
+decoration_name_1213011=Wooden Bench
+decoration_name_1213012=Long Armchair
+decoration_name_1213013=Blue-White Sofa
+decoration_name_1213014=White Sofa
+decoration_name_1213015=Single Blue-White Sofa
+decoration_name_1213016=Single White Sofa
+decoration_name_1212017=Green Chair
+decoration_name_3212018=Closestool
+decoration_name_1212019=Lattice Chair
+decoration_name_1212020=Red Chair
+decoration_name_1213021=Black Sofa
+decoration_name_1212022=Brown Chair
+decoration_name_1212023=Black Chair
+decoration_name_1213024=Heart Sofa
+decoration_name_1213025=Green Bench
+decoration_name_1213026=Yellow Bench
+decoration_name_1213027=Brown Bench
+
+language_end:decoration

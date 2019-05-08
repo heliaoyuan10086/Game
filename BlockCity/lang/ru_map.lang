@@ -260,3 +260,35 @@ drawing_name_27=Октаэдр
 drawing_name_28=дерево
 
 language_end:blueprint
+
+language_start:decoration
+
+decoration_name_3100001=Стиральная машина
+decoration_name_1100002=стол письменный
+decoration_name_1212003=Деревянный стул
+decoration_name_1213004=Коричневый диван
+decoration_name_1100005=Компьютерный стол
+decoration_name_3200006=Мусорное ведро
+decoration_name_1212007=Скамейка
+decoration_name_3200008=Баллон
+decoration_name_3200009=стороны, тони
+decoration_name_3200010=Газовая плита
+decoration_name_1213011=Деревянная скамья
+decoration_name_1213012=Длинное кресло
+decoration_name_1213013=Сине-белый диван
+decoration_name_1213014=Белый диван
+decoration_name_1213015=Одноместный сине-белый диван
+decoration_name_1213016=Одноместный Белый Диван
+decoration_name_1212017=Зеленый стул
+decoration_name_3212018=Closestool
+decoration_name_1212019=Стул решетки
+decoration_name_1212020=Красный стул
+decoration_name_1213021=Черный диван
+decoration_name_1212022=Коричневый стул
+decoration_name_1212023=Черный стул
+decoration_name_1213024=Диван Сердце
+decoration_name_1213025=Зеленая скамья
+decoration_name_1213026=Желтая скамья
+decoration_name_1213027=Коричневая скамья
+
+language_end:decoration
