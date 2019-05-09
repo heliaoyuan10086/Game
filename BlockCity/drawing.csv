@@ -1,4 +1,4 @@
-序号	切片唯一id	手持道具Id	解锁等级	切片名称	多语言	图标	长	宽	高	是否假图纸	分类	金币	魔方
+﻿序号	切片唯一id	手持道具Id	解锁等级	切片名称	多语言	图标	长	宽	高	是否假图纸	分类	金币	魔方
 order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	cube
 1	18	2118	1	build_13_11x11x8-0.schematic	drawing_name_18	set:blockcity_items.json image:building_100_13	11	11	8	1	1	952	10
 2	12	2112	1	build_07_11x11x8-1.schematic	drawing_name_12	set:blockcity_items.json image:building_100_07	11	11	8	1	1	1006	11
@@ -12,12 +12,12 @@ order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	c
 10	7	2107	1	build_02_11x11x23-0.schematic	drawing_name_7	set:blockcity_items.json image:building_100_02	11	11	23	1	1	3126	32
 11	14	2114	2	build_09_11x11x13-1.schematic	drawing_name_14	set:blockcity_items.json image:building_100_09	11	11	13	1	1	2030	21
 12	1	2101	3	Town_01_16x16x11-1.schematic	drawing_name_1	set:blockcity_items.json image:town_100_01	16	16	11	1	1	2706	28
-13	15	2115	3	build_10_21x21x10-1.schematic	drawing_name_15	set:blockcity_items.json image:building_100_10	21	21	10	1	1	3596	36
+13	15	2115	3	build_10_21x21x10-1.schematic	drawing_name_15	set:blockcity_items.json image:building_100_10	21	21	10	1	1	3990	40
 14	16	2116	3	build_11_16x16x14-0.schematic	drawing_name_16	set:blockcity_items.json image:building_100_11	16	16	14	1	1	4490	45
-15	2	2102	3	Town_02_19x19x17-1.schematic	drawing_name_2	set:blockcity_items.json image:town_100_02	19	19	17	1	1	7028	71
-16	5	2105	3	Town_05_17x17x24-1.schematic	drawing_name_5	set:blockcity_items.json image:town_100_05	17	17	24	1	1	7116	72
-17	3	2103	3	Town_03_21x21x14-1.schematic	drawing_name_3	set:blockcity_items.json image:town_100_03	21	21	14	1	1	8000	80
-18	4	2104	3	Town_04_20x20x22-0.schematic	drawing_name_4	set:blockcity_items.json image:town_100_04	20	20	22	1	1	8036	81
+15	2	2102	3	Town_02_19x19x17-1.schematic	drawing_name_2	set:blockcity_items.json image:town_100_02	19	19	17	1	1	7572	76
+16	5	2105	3	Town_05_17x17x24-1.schematic	drawing_name_5	set:blockcity_items.json image:town_100_05	17	17	24	1	1	7126	72
+17	3	2103	3	Town_03_21x21x14-1.schematic	drawing_name_3	set:blockcity_items.json image:town_100_03	21	21	14	1	1	8000	81
+18	4	2104	3	Town_04_20x20x22-0.schematic	drawing_name_4	set:blockcity_items.json image:town_100_04	20	20	22	1	1	8812	89
 19	21	2121	1	Landscape_03_1x1x5-0.schematic	drawing_name_21	set:blockcity_items.json image:landscape_100_03	1	1	5	1	2	24	1
 20	20	2120	1	Landscape_02_3x3x5-0.schematic	drawing_name_20	set:blockcity_items.json image:landscape_100_02	3	3	5	1	2	74	1
 21	25	2125	1	Landscape_07_2x2x8-0.schematic	drawing_name_25	set:blockcity_items.json image:landscape_100_07	2	2	8	1	2	74	1

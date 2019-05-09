@@ -1,4 +1,4 @@
-ID	对应的模板Id	方块ID	方块子ID	数量
+﻿ID	对应的模板Id	方块ID	方块子ID	数量
 id	drawingId	blockId	meta	num
 1	1	1	0	228
 2	1	4	0	6
@@ -257,3 +257,4 @@ id	drawingId	blockId	meta	num
 255	27	95	11	2
 256	28	17	0	4
 257	28	18	1	18
+				
