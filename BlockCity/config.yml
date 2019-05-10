@@ -1,6 +1,6 @@
 initPos: [-709, 34, -260]
-manorReleaseTime: 30
-flyMsg: "123456789101112"
+manorReleaseTime: 120
+flyMsg: "需要购买飞行"
 flyMoneyType: 2
 flyPrice: 100
 toolId: 284
