@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=Zarządzanie Realm
-gui_blockcity_manor_cur_head=Aktualny poziom
-gui_blockcity_manor_class=Poziom sfery
-gui_blockcity_manor_area=Obszar sfery
-gui_blockcity_manor_grade=Wynik Realm
-gui_blockcity_manor_block_grade=Blokuj wynik
-gui_blockcity_manor_decorate_grade=Wynik dekoracji
-gui_blockcity_manor_total_grade=Całkowity wynik
-gui_blockcity_manor_open_status=Otwórz stan
-gui_blockcity_manor_next_head=Następny poziom
-gui_blockcity_manor_class=Poziom sfery
-gui_blockcity_manor_area=Obszar sfery
-gui_blockcity_manor_grade=Wynik Realm
-gui_blockcity_manor_mod_open_status=Zmień stan otwarty
-gui_blockcity_manor_open_status_all=Wszyscy gracze
-gui_blockcity_manor_open_status_friend=Tylko przyjaciele
-gui_blockcity_manor_open_status_close=Niedostępne
-gui_blockcity_manor_max_level=MAX
-gui_blockcity_store=Magazyn
-gui_blockcity_store_parper=Plan
-gui_blockcity_store_block=Bloki
-gui_blockcity_store_furniture=Dekoracja
-gui_blockcity_store_vol=Tom
-gui_blockcity_store_score=Wynik
-gui_blockcity_store_material=Materiały
-gui_blockcity_friend_list=Lista przyjaciół
-gui_blockcity_apply_list=Lista aplikacji
-block_tag_1=Pospolity
-block_tag_2=Wielobarwność
-block_tag_3=Struktura
-block_tag_4=Szkło
-block_tag_5=Futro
-block_tag_6=Specjalny
-decorate_tag_1=Salon
-decorate_tag_2=Sypialnia
-decorate_tag_3=Inni
-drawing_tag_1=Majątek
-drawing_tag_2=Krajobraz
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=Pralka
 decoration_name_1100002.name=Biurko
 decoration_name_1212003.name=Drewniane krzesło
 decoration_name_1213004.name=Brązowa sofa
-decoration_name_1100005.name=Stolik na komputer
+decoration_name_1100005.name=Stolik opatrunkowy
 decoration_name_3200006.name=Kosz na śmieci
 decoration_name_1212007.name=Ławka
 decoration_name_3200008.name=Balon
@@ -167,6 +124,49 @@ decoration_name_1213026.name=Żółta ławka
 decoration_name_1213027.name=Brown Bench
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=Zarządzanie Realm
+gui_blockcity_manor_cur_head=Aktualny poziom
+gui_blockcity_manor_class=Poziom sfery
+gui_blockcity_manor_area=Obszar sfery
+gui_blockcity_manor_grade=Wynik Realm
+gui_blockcity_manor_block_grade=Blokuj wynik
+gui_blockcity_manor_decorate_grade=Wynik dekoracji
+gui_blockcity_manor_total_grade=Całkowity wynik
+gui_blockcity_manor_open_status=Otwórz stan
+gui_blockcity_manor_next_head=Następny poziom
+gui_blockcity_manor_class=Poziom sfery
+gui_blockcity_manor_area=Obszar sfery
+gui_blockcity_manor_grade=Wynik Realm
+gui_blockcity_manor_mod_open_status=Zmień stan otwarty
+gui_blockcity_manor_open_status_all=Wszyscy gracze
+gui_blockcity_manor_open_status_friend=Tylko przyjaciele
+gui_blockcity_manor_open_status_close=Niedostępne
+gui_blockcity_manor_max_level=MAX
+gui_blockcity_store=Magazyn
+gui_blockcity_store_parper=Plan
+gui_blockcity_store_block=Bloki
+gui_blockcity_store_furniture=Dekoracja
+gui_blockcity_store_vol=Tom
+gui_blockcity_store_score=Wynik
+gui_blockcity_store_material=Materiały
+gui_blockcity_friend_list=Lista przyjaciół
+gui_blockcity_apply_list=Lista aplikacji
+block_tag_1=Pospolity
+block_tag_2=Wielobarwność
+block_tag_3=Struktura
+block_tag_4=Szkło
+block_tag_5=Futro
+block_tag_6=Specjalny
+decorate_tag_1=Salon
+decorate_tag_2=Sypialnia
+decorate_tag_3=Inni
+drawing_tag_1=Majątek
+drawing_tag_2=Krajobraz
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=Blok diamentu
 tile.emerald_block.name=Blok Szmaragdu
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=Skrzydła nieba
+item.wings_02.name=Złote Skrzydła
+item.wings_03.name=Magiczne Skrzydła
+item.wings_04.name=Przyszłe skrzydła
+
+language_end:item

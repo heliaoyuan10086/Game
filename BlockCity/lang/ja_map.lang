@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=領域管理
-gui_blockcity_manor_cur_head=現在のレベル
-gui_blockcity_manor_class=レルムレベル
-gui_blockcity_manor_area=領域
-gui_blockcity_manor_grade=基準点
-gui_blockcity_manor_block_grade=ブロックスコア
-gui_blockcity_manor_decorate_grade=デコレーションスコア
-gui_blockcity_manor_total_grade=総得点
-gui_blockcity_manor_open_status=開放状態
-gui_blockcity_manor_next_head=次レベル
-gui_blockcity_manor_class=レルムレベル
-gui_blockcity_manor_area=領域
-gui_blockcity_manor_grade=基準点
-gui_blockcity_manor_mod_open_status=オープンオープン状態
-gui_blockcity_manor_open_status_all=全選手
-gui_blockcity_manor_open_status_friend=のフレンド一覧
-gui_blockcity_manor_open_status_close=アクセスできない
-gui_blockcity_manor_max_level=マックス
-gui_blockcity_store=倉庫
-gui_blockcity_store_parper=青写真
-gui_blockcity_store_block=ブロック
-gui_blockcity_store_furniture=装飾
-gui_blockcity_store_vol=体積
-gui_blockcity_store_score=スコア
-gui_blockcity_store_material=材料
-gui_blockcity_friend_list=のフレンド一覧
-gui_blockcity_apply_list=アプリケーション一覧
-block_tag_1=一般
-block_tag_2=多色
-block_tag_3=構造
-block_tag_4=ガラス
-block_tag_5=毛皮
-block_tag_6=特殊
-decorate_tag_1=リビングルーム
-decorate_tag_2=寝室
-decorate_tag_3=その他
-drawing_tag_1=エステート
-drawing_tag_2=景観
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=洗濯機
 decoration_name_1100002.name=机
 decoration_name_1212003.name=木製の椅子
 decoration_name_1213004.name=ブラウンソファー
-decoration_name_1100005.name=コンピューターテーブル
+decoration_name_1100005.name=ドレッシングテーブル
 decoration_name_3200006.name=ごみ箱
 decoration_name_1212007.name=ベンチ
 decoration_name_3200008.name=バルーン
@@ -167,6 +124,49 @@ decoration_name_1213026.name=黄色いベンチ
 decoration_name_1213027.name=ブラウンベンチ
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=領域管理
+gui_blockcity_manor_cur_head=現在のレベル
+gui_blockcity_manor_class=レルムレベル
+gui_blockcity_manor_area=領域
+gui_blockcity_manor_grade=基準点
+gui_blockcity_manor_block_grade=ブロックスコア
+gui_blockcity_manor_decorate_grade=デコレーションスコア
+gui_blockcity_manor_total_grade=総得点
+gui_blockcity_manor_open_status=開放状態
+gui_blockcity_manor_next_head=次レベル
+gui_blockcity_manor_class=レルムレベル
+gui_blockcity_manor_area=領域
+gui_blockcity_manor_grade=基準点
+gui_blockcity_manor_mod_open_status=オープンオープン状態
+gui_blockcity_manor_open_status_all=全選手
+gui_blockcity_manor_open_status_friend=のフレンド一覧
+gui_blockcity_manor_open_status_close=アクセスできない
+gui_blockcity_manor_max_level=マックス
+gui_blockcity_store=倉庫
+gui_blockcity_store_parper=青写真
+gui_blockcity_store_block=ブロック
+gui_blockcity_store_furniture=装飾
+gui_blockcity_store_vol=体積
+gui_blockcity_store_score=スコア
+gui_blockcity_store_material=材料
+gui_blockcity_friend_list=のフレンド一覧
+gui_blockcity_apply_list=アプリケーション一覧
+block_tag_1=一般
+block_tag_2=多色
+block_tag_3=構造
+block_tag_4=ガラス
+block_tag_5=毛皮
+block_tag_6=特殊
+decorate_tag_1=リビングルーム
+decorate_tag_2=寝室
+decorate_tag_3=その他
+drawing_tag_1=エステート
+drawing_tag_2=景観
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=ダイヤモンドブロック
 tile.emerald_block.name=エメラルドブロック
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=スカイウィングス
+item.wings_02.name=ゴールデンウィングス
+item.wings_03.name=マジックウィングス
+item.wings_04.name=未来の翼
+
+language_end:item

@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=Manajemen ranah
-gui_blockcity_manor_cur_head=Level saat ini
-gui_blockcity_manor_class=Tingkat ranah
-gui_blockcity_manor_area=Wilayah Realm
-gui_blockcity_manor_grade=Skor Realm
-gui_blockcity_manor_block_grade=Blokir Skor
-gui_blockcity_manor_decorate_grade=Skor Dekorasi
-gui_blockcity_manor_total_grade=Skor total
-gui_blockcity_manor_open_status=Open State
-gui_blockcity_manor_next_head=Level selanjutnya
-gui_blockcity_manor_class=Tingkat ranah
-gui_blockcity_manor_area=Wilayah Realm
-gui_blockcity_manor_grade=Skor Realm
-gui_blockcity_manor_mod_open_status=Ubah Status Terbuka
-gui_blockcity_manor_open_status_all=Semua Pemain
-gui_blockcity_manor_open_status_friend=Hanya Teman
-gui_blockcity_manor_open_status_close=Tidak dapat diakses
-gui_blockcity_manor_max_level=maks
-gui_blockcity_store=Gudang
-gui_blockcity_store_parper=Cetak Biru
-gui_blockcity_store_block=Blok
-gui_blockcity_store_furniture=Dekorasi
-gui_blockcity_store_vol=Volume
-gui_blockcity_store_score=Skor
-gui_blockcity_store_material=Material
-gui_blockcity_friend_list=Daftar teman
-gui_blockcity_apply_list=Daftar Aplikasi
-block_tag_1=Umum
-block_tag_2=Warnawarni
-block_tag_3=Struktur
-block_tag_4=Kaca
-block_tag_5=Bulu
-block_tag_6=Khusus
-decorate_tag_1=Ruang keluarga
-decorate_tag_2=Kamar tidur
-decorate_tag_3=Lainnya
-drawing_tag_1=Perkebunan
-drawing_tag_2=Pemandangan
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=Mesin cuci
 decoration_name_1100002.name=Meja tulis
 decoration_name_1212003.name=Kursi kayu
 decoration_name_1213004.name=Sofa Coklat
-decoration_name_1100005.name=Meja komputer
+decoration_name_1100005.name=Meja rias
 decoration_name_3200006.name=Bak sampah
 decoration_name_1212007.name=Bangku
 decoration_name_3200008.name=Balon
@@ -167,6 +124,49 @@ decoration_name_1213026.name=Bangku Kuning
 decoration_name_1213027.name=Brown Bench
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=Manajemen ranah
+gui_blockcity_manor_cur_head=Level saat ini
+gui_blockcity_manor_class=Tingkat ranah
+gui_blockcity_manor_area=Wilayah Realm
+gui_blockcity_manor_grade=Skor Realm
+gui_blockcity_manor_block_grade=Blokir Skor
+gui_blockcity_manor_decorate_grade=Skor Dekorasi
+gui_blockcity_manor_total_grade=Skor total
+gui_blockcity_manor_open_status=Open State
+gui_blockcity_manor_next_head=Level selanjutnya
+gui_blockcity_manor_class=Tingkat ranah
+gui_blockcity_manor_area=Wilayah Realm
+gui_blockcity_manor_grade=Skor Realm
+gui_blockcity_manor_mod_open_status=Ubah Status Terbuka
+gui_blockcity_manor_open_status_all=Semua Pemain
+gui_blockcity_manor_open_status_friend=Hanya Teman
+gui_blockcity_manor_open_status_close=Tidak dapat diakses
+gui_blockcity_manor_max_level=maks
+gui_blockcity_store=Gudang
+gui_blockcity_store_parper=Cetak Biru
+gui_blockcity_store_block=Blok
+gui_blockcity_store_furniture=Dekorasi
+gui_blockcity_store_vol=Volume
+gui_blockcity_store_score=Skor
+gui_blockcity_store_material=Material
+gui_blockcity_friend_list=Daftar teman
+gui_blockcity_apply_list=Daftar Aplikasi
+block_tag_1=Umum
+block_tag_2=Warnawarni
+block_tag_3=Struktur
+block_tag_4=Kaca
+block_tag_5=Bulu
+block_tag_6=Khusus
+decorate_tag_1=Ruang keluarga
+decorate_tag_2=Kamar tidur
+decorate_tag_3=Lainnya
+drawing_tag_1=Perkebunan
+drawing_tag_2=Pemandangan
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=Blok Berlian
 tile.emerald_block.name=Blok Emerald
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=Sky Wings
+item.wings_02.name=Golden Wings
+item.wings_03.name=Magic Wings
+item.wings_04.name=Future Wings
+
+language_end:item

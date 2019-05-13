@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=Realm Management
-gui_blockcity_manor_cur_head=Aktuelles Level
-gui_blockcity_manor_class=Reichsebene
-gui_blockcity_manor_area=Reichsbereich
-gui_blockcity_manor_grade=Realm Score
-gui_blockcity_manor_block_grade=Score blockieren
-gui_blockcity_manor_decorate_grade=Dekoration Score
-gui_blockcity_manor_total_grade=Gesamtpunktzahl
-gui_blockcity_manor_open_status=Offener Zustand
-gui_blockcity_manor_next_head=Nächste Ebene
-gui_blockcity_manor_class=Reichsebene
-gui_blockcity_manor_area=Reichsbereich
-gui_blockcity_manor_grade=Realm Score
-gui_blockcity_manor_mod_open_status=Geöffneten Zustand ändern
-gui_blockcity_manor_open_status_all=Alle Spieler
-gui_blockcity_manor_open_status_friend=Nur Freunde
-gui_blockcity_manor_open_status_close=Nicht zugänglich
-gui_blockcity_manor_max_level=MAX
-gui_blockcity_store=Warenhaus
-gui_blockcity_store_parper=Entwurf
-gui_blockcity_store_block=Blöcke
-gui_blockcity_store_furniture=Dekoration
-gui_blockcity_store_vol=Volumen
-gui_blockcity_store_score=Ergebnis
-gui_blockcity_store_material=Materialien
-gui_blockcity_friend_list=Freundesliste
-gui_blockcity_apply_list=Anwendungsliste
-block_tag_1=Verbreitet
-block_tag_2=Mehrfarben
-block_tag_3=Struktur
-block_tag_4=Glas
-block_tag_5=Pelz
-block_tag_6=Besondere
-decorate_tag_1=Wohnzimmer
-decorate_tag_2=Schlafzimmer
-decorate_tag_3=Andere
-drawing_tag_1=Estate
-drawing_tag_2=Landschaft
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=Waschmaschine
 decoration_name_1100002.name=Schreibtisch
 decoration_name_1212003.name=Holzstuhl
 decoration_name_1213004.name=Braunes Sofa
-decoration_name_1100005.name=Computer Tisch
+decoration_name_1100005.name=Garderobe Tisch
 decoration_name_3200006.name=Mülleimer
 decoration_name_1212007.name=Bank
 decoration_name_3200008.name=Ballon
@@ -167,6 +124,49 @@ decoration_name_1213026.name=Gelbe Bank
 decoration_name_1213027.name=Braune Bank
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=Realm Management
+gui_blockcity_manor_cur_head=Aktuelles Level
+gui_blockcity_manor_class=Reichsebene
+gui_blockcity_manor_area=Reichsbereich
+gui_blockcity_manor_grade=Realm Score
+gui_blockcity_manor_block_grade=Score blockieren
+gui_blockcity_manor_decorate_grade=Dekoration Score
+gui_blockcity_manor_total_grade=Gesamtpunktzahl
+gui_blockcity_manor_open_status=Offener Zustand
+gui_blockcity_manor_next_head=Nächste Ebene
+gui_blockcity_manor_class=Reichsebene
+gui_blockcity_manor_area=Reichsbereich
+gui_blockcity_manor_grade=Realm Score
+gui_blockcity_manor_mod_open_status=Geöffneten Zustand ändern
+gui_blockcity_manor_open_status_all=Alle Spieler
+gui_blockcity_manor_open_status_friend=Nur Freunde
+gui_blockcity_manor_open_status_close=Nicht zugänglich
+gui_blockcity_manor_max_level=MAX
+gui_blockcity_store=Warenhaus
+gui_blockcity_store_parper=Entwurf
+gui_blockcity_store_block=Blöcke
+gui_blockcity_store_furniture=Dekoration
+gui_blockcity_store_vol=Volumen
+gui_blockcity_store_score=Ergebnis
+gui_blockcity_store_material=Materialien
+gui_blockcity_friend_list=Freundesliste
+gui_blockcity_apply_list=Anwendungsliste
+block_tag_1=Verbreitet
+block_tag_2=Mehrfarben
+block_tag_3=Struktur
+block_tag_4=Glas
+block_tag_5=Pelz
+block_tag_6=Besondere
+decorate_tag_1=Wohnzimmer
+decorate_tag_2=Schlafzimmer
+decorate_tag_3=Andere
+drawing_tag_1=Estate
+drawing_tag_2=Landschaft
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=Block Diamond
 tile.emerald_block.name=Block des Smaragds
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=Sky Wings
+item.wings_02.name=Goldene Flügel
+item.wings_03.name=Magic Wings
+item.wings_04.name=Künftige Flügel
+
+language_end:item

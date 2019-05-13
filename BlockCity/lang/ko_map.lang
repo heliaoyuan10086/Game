@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=영역 관리
-gui_blockcity_manor_cur_head=현재 레벨
-gui_blockcity_manor_class=영역 수준
-gui_blockcity_manor_area=영역 영역
-gui_blockcity_manor_grade=렐름 점수
-gui_blockcity_manor_block_grade=블록 점수
-gui_blockcity_manor_decorate_grade=장식 점수
-gui_blockcity_manor_total_grade=총 점수
-gui_blockcity_manor_open_status=Open State
-gui_blockcity_manor_next_head=다음 레벨
-gui_blockcity_manor_class=영역 수준
-gui_blockcity_manor_area=영역 영역
-gui_blockcity_manor_grade=렐름 점수
-gui_blockcity_manor_mod_open_status=공개 상태 변경
-gui_blockcity_manor_open_status_all=모든 플레이어
-gui_blockcity_manor_open_status_friend=오직 친구들 만
-gui_blockcity_manor_open_status_close=액세스 할 수 없음
-gui_blockcity_manor_max_level=최대
-gui_blockcity_store=창고
-gui_blockcity_store_parper=청사진
-gui_blockcity_store_block=블록
-gui_blockcity_store_furniture=장식
-gui_blockcity_store_vol=음량
-gui_blockcity_store_score=점수
-gui_blockcity_store_material=기재
-gui_blockcity_friend_list=친구 목록
-gui_blockcity_apply_list=응용 프로그램 목록
-block_tag_1=공유지
-block_tag_2=멀티 컬러
-block_tag_3=구조
-block_tag_4=유리
-block_tag_5=모피
-block_tag_6=특별한
-decorate_tag_1=거실
-decorate_tag_2=침실
-decorate_tag_3=기타
-drawing_tag_1=재산
-drawing_tag_2=경치
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=세탁기
 decoration_name_1100002.name=책상
 decoration_name_1212003.name=나무 의자
 decoration_name_1213004.name=갈색 소파
-decoration_name_1100005.name=컴퓨터 책상
+decoration_name_1100005.name=화장대
 decoration_name_3200006.name=쓰레기통
 decoration_name_1212007.name=벤치
 decoration_name_3200008.name=풍선
@@ -167,6 +124,49 @@ decoration_name_1213026.name=옐로우 벤치
 decoration_name_1213027.name=브라운 벤치
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=영역 관리
+gui_blockcity_manor_cur_head=현재 레벨
+gui_blockcity_manor_class=영역 수준
+gui_blockcity_manor_area=영역 영역
+gui_blockcity_manor_grade=렐름 점수
+gui_blockcity_manor_block_grade=블록 점수
+gui_blockcity_manor_decorate_grade=장식 점수
+gui_blockcity_manor_total_grade=총 점수
+gui_blockcity_manor_open_status=Open State
+gui_blockcity_manor_next_head=다음 레벨
+gui_blockcity_manor_class=영역 수준
+gui_blockcity_manor_area=영역 영역
+gui_blockcity_manor_grade=렐름 점수
+gui_blockcity_manor_mod_open_status=공개 상태 변경
+gui_blockcity_manor_open_status_all=모든 플레이어
+gui_blockcity_manor_open_status_friend=오직 친구들 만
+gui_blockcity_manor_open_status_close=액세스 할 수 없음
+gui_blockcity_manor_max_level=최대
+gui_blockcity_store=창고
+gui_blockcity_store_parper=청사진
+gui_blockcity_store_block=블록
+gui_blockcity_store_furniture=장식
+gui_blockcity_store_vol=음량
+gui_blockcity_store_score=점수
+gui_blockcity_store_material=기재
+gui_blockcity_friend_list=친구 목록
+gui_blockcity_apply_list=응용 프로그램 목록
+block_tag_1=공유지
+block_tag_2=멀티 컬러
+block_tag_3=구조
+block_tag_4=유리
+block_tag_5=모피
+block_tag_6=특별한
+decorate_tag_1=거실
+decorate_tag_2=침실
+decorate_tag_3=기타
+drawing_tag_1=재산
+drawing_tag_2=경치
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=블록 다이아몬드
 tile.emerald_block.name=블록 에메랄드
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=하늘 날개
+item.wings_02.name=김 날개
+item.wings_03.name=마술 날개
+item.wings_04.name=앞으로 날개
+
+language_end:item

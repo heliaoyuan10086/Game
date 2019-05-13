@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=Realm Management
-gui_blockcity_manor_cur_head=Current Level
-gui_blockcity_manor_class=Realm Level
-gui_blockcity_manor_area=Realm Area
-gui_blockcity_manor_grade=Realm Score
-gui_blockcity_manor_block_grade=Block Score
-gui_blockcity_manor_decorate_grade=Decoration Score
-gui_blockcity_manor_total_grade=Total Score
-gui_blockcity_manor_open_status=Open State
-gui_blockcity_manor_next_head=Next Level
-gui_blockcity_manor_class=Realm Level
-gui_blockcity_manor_area=Realm Area
-gui_blockcity_manor_grade=Realm Score
-gui_blockcity_manor_mod_open_status=Change Open State
-gui_blockcity_manor_open_status_all=All Players
-gui_blockcity_manor_open_status_friend=Friends Only
-gui_blockcity_manor_open_status_close=Not Accessible
-gui_blockcity_manor_max_level=MAX
-gui_blockcity_store=Warehouse
-gui_blockcity_store_parper=Blueprint
-gui_blockcity_store_block=Blocks
-gui_blockcity_store_furniture=Decoration
-gui_blockcity_store_vol=Volume
-gui_blockcity_store_score=Score
-gui_blockcity_store_material=Materials
-gui_blockcity_friend_list=Friends List
-gui_blockcity_apply_list=Application List
-block_tag_1=Common
-block_tag_2=Multicolour
-block_tag_3=Structure
-block_tag_4=Glass
-block_tag_5=Fur
-block_tag_6=Special
-decorate_tag_1=Livingroom
-decorate_tag_2=Bedroom
-decorate_tag_3=Others
-drawing_tag_1=Estate
-drawing_tag_2=Landscape
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=Washing Machine
 decoration_name_1100002.name=Desk
 decoration_name_1212003.name=Wooden Chair
 decoration_name_1213004.name=Brown Sofa
-decoration_name_1100005.name=Computer Table
+decoration_name_1100005.name=Dressing Table
 decoration_name_3200006.name=Trash Bin
 decoration_name_1212007.name=Bench
 decoration_name_3200008.name=Balloon
@@ -167,6 +124,49 @@ decoration_name_1213026.name=Yellow Bench
 decoration_name_1213027.name=Brown Bench
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=Realm Management
+gui_blockcity_manor_cur_head=Current Level
+gui_blockcity_manor_class=Realm Level
+gui_blockcity_manor_area=Realm Area
+gui_blockcity_manor_grade=Realm Score
+gui_blockcity_manor_block_grade=Block Score
+gui_blockcity_manor_decorate_grade=Decoration Score
+gui_blockcity_manor_total_grade=Total Score
+gui_blockcity_manor_open_status=Open State
+gui_blockcity_manor_next_head=Next Level
+gui_blockcity_manor_class=Realm Level
+gui_blockcity_manor_area=Realm Area
+gui_blockcity_manor_grade=Realm Score
+gui_blockcity_manor_mod_open_status=Change Open State
+gui_blockcity_manor_open_status_all=All Players
+gui_blockcity_manor_open_status_friend=Friends Only
+gui_blockcity_manor_open_status_close=Not Accessible
+gui_blockcity_manor_max_level=MAX
+gui_blockcity_store=Warehouse
+gui_blockcity_store_parper=Blueprint
+gui_blockcity_store_block=Blocks
+gui_blockcity_store_furniture=Decoration
+gui_blockcity_store_vol=Volume
+gui_blockcity_store_score=Score
+gui_blockcity_store_material=Materials
+gui_blockcity_friend_list=Friends List
+gui_blockcity_apply_list=Application List
+block_tag_1=Common
+block_tag_2=Multicolour
+block_tag_3=Structure
+block_tag_4=Glass
+block_tag_5=Fur
+block_tag_6=Special
+decorate_tag_1=Livingroom
+decorate_tag_2=Bedroom
+decorate_tag_3=Others
+drawing_tag_1=Estate
+drawing_tag_2=Landscape
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=Block of Diamond
 tile.emerald_block.name=Block of Emerald
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=Sky Wings
+item.wings_02.name=Golden Wings
+item.wings_03.name=Magic Wings
+item.wings_04.name=Future Wings
+
+language_end:item

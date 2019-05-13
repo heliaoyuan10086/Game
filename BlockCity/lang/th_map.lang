@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=การบริหารอาณาจักร
-gui_blockcity_manor_cur_head=ระดับปัจจุบัน
-gui_blockcity_manor_class=ระดับแดน
-gui_blockcity_manor_area=พื้นที่ขอบเขต
-gui_blockcity_manor_grade=คะแนนอาณาจักร
-gui_blockcity_manor_block_grade=คะแนนบล็อก
-gui_blockcity_manor_decorate_grade=คะแนนการตกแต่ง
-gui_blockcity_manor_total_grade=คะแนนรวม
-gui_blockcity_manor_open_status=สถานะเปิด
-gui_blockcity_manor_next_head=ระดับถัดไป
-gui_blockcity_manor_class=ระดับแดน
-gui_blockcity_manor_area=พื้นที่ขอบเขต
-gui_blockcity_manor_grade=คะแนนอาณาจักร
-gui_blockcity_manor_mod_open_status=เปลี่ยนสถานะเปิด
-gui_blockcity_manor_open_status_all=ผู้เล่นทั้งหมด
-gui_blockcity_manor_open_status_friend=เพื่อนเท่านั้น
-gui_blockcity_manor_open_status_close=ไม่ที่สามารถเข้าถึงได้
-gui_blockcity_manor_max_level=แม็กซ์
-gui_blockcity_store=คลังสินค้า
-gui_blockcity_store_parper=พิมพ์เขียว
-gui_blockcity_store_block=บล็อก
-gui_blockcity_store_furniture=การตกแต่ง
-gui_blockcity_store_vol=ปริมาณ
-gui_blockcity_store_score=คะแนน
-gui_blockcity_store_material=วัสดุ
-gui_blockcity_friend_list=รายชื่อเพื่อนๆ
-gui_blockcity_apply_list=รายการโปรแกรม
-block_tag_1=ร่วมกัน
-block_tag_2=Multicolour
-block_tag_3=โครงสร้าง
-block_tag_4=กระจก
-block_tag_5=ขน
-block_tag_6=พิเศษ
-decorate_tag_1=ห้องนั่งเล่น
-decorate_tag_2=ห้องนอน
-decorate_tag_3=คนอื่น ๆ
-drawing_tag_1=ที่ดิน
-drawing_tag_2=ภูมิประเทศ
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=เครื่องซักผ้า
 decoration_name_1100002.name=เคาน์เตอร์
 decoration_name_1212003.name=เก้าอี้ไม้
 decoration_name_1213004.name=โซฟาสีน้ำตาล
-decoration_name_1100005.name=โต๊ะคอมพิวเตอร์
+decoration_name_1100005.name=โต๊ะเครื่องแป้ง
 decoration_name_3200006.name=ถังขยะ
 decoration_name_1212007.name=ม้านั่ง
 decoration_name_3200008.name=บอลลูน
@@ -167,6 +124,49 @@ decoration_name_1213026.name=ม้านั่งสีเหลือง
 decoration_name_1213027.name=ม้านั่งสีน้ำตาล
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=การบริหารอาณาจักร
+gui_blockcity_manor_cur_head=ระดับปัจจุบัน
+gui_blockcity_manor_class=ระดับแดน
+gui_blockcity_manor_area=พื้นที่ขอบเขต
+gui_blockcity_manor_grade=คะแนนอาณาจักร
+gui_blockcity_manor_block_grade=คะแนนบล็อก
+gui_blockcity_manor_decorate_grade=คะแนนการตกแต่ง
+gui_blockcity_manor_total_grade=คะแนนรวม
+gui_blockcity_manor_open_status=สถานะเปิด
+gui_blockcity_manor_next_head=ระดับถัดไป
+gui_blockcity_manor_class=ระดับแดน
+gui_blockcity_manor_area=พื้นที่ขอบเขต
+gui_blockcity_manor_grade=คะแนนอาณาจักร
+gui_blockcity_manor_mod_open_status=เปลี่ยนสถานะเปิด
+gui_blockcity_manor_open_status_all=ผู้เล่นทั้งหมด
+gui_blockcity_manor_open_status_friend=เพื่อนเท่านั้น
+gui_blockcity_manor_open_status_close=ไม่ที่สามารถเข้าถึงได้
+gui_blockcity_manor_max_level=แม็กซ์
+gui_blockcity_store=คลังสินค้า
+gui_blockcity_store_parper=พิมพ์เขียว
+gui_blockcity_store_block=บล็อก
+gui_blockcity_store_furniture=การตกแต่ง
+gui_blockcity_store_vol=ปริมาณ
+gui_blockcity_store_score=คะแนน
+gui_blockcity_store_material=วัสดุ
+gui_blockcity_friend_list=รายชื่อเพื่อนๆ
+gui_blockcity_apply_list=รายการโปรแกรม
+block_tag_1=ร่วมกัน
+block_tag_2=Multicolour
+block_tag_3=โครงสร้าง
+block_tag_4=กระจก
+block_tag_5=ขน
+block_tag_6=พิเศษ
+decorate_tag_1=ห้องนั่งเล่น
+decorate_tag_2=ห้องนอน
+decorate_tag_3=คนอื่น ๆ
+drawing_tag_1=ที่ดิน
+drawing_tag_2=ภูมิประเทศ
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=บล็อกของเพชร
 tile.emerald_block.name=บล็อกของมรกต
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=ปีกฟ้า
+item.wings_02.name=ปีกสีทอง
+item.wings_03.name=ปีกเมจิก
+item.wings_04.name=ปีกในอนาคต
+
+language_end:item

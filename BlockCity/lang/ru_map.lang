@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=Управление Царством
-gui_blockcity_manor_cur_head=Текущий уровень
-gui_blockcity_manor_class=Уровень Царства
-gui_blockcity_manor_area=Область Царства
-gui_blockcity_manor_grade=Оценка Царства
-gui_blockcity_manor_block_grade=Блок Оценка
-gui_blockcity_manor_decorate_grade=Украшение Оценка
-gui_blockcity_manor_total_grade=Общий счет
-gui_blockcity_manor_open_status=Открытое состояние
-gui_blockcity_manor_next_head=Следующий уровень
-gui_blockcity_manor_class=Уровень Царства
-gui_blockcity_manor_area=Область Царства
-gui_blockcity_manor_grade=Оценка Царства
-gui_blockcity_manor_mod_open_status=Изменить открытое состояние
-gui_blockcity_manor_open_status_all=Все игроки
-gui_blockcity_manor_open_status_friend=Только друзья
-gui_blockcity_manor_open_status_close=Не доступный
-gui_blockcity_manor_max_level=МАКСИМУМ
-gui_blockcity_store=Склад
-gui_blockcity_store_parper=светокопия
-gui_blockcity_store_block=Блоки
-gui_blockcity_store_furniture=Украшение
-gui_blockcity_store_vol=объем
-gui_blockcity_store_score=Гол
-gui_blockcity_store_material=материалы
-gui_blockcity_friend_list=Список друзей
-gui_blockcity_apply_list=Список приложений
-block_tag_1=общий
-block_tag_2=многокрасочный
-block_tag_3=Состав
-block_tag_4=Стакан
-block_tag_5=Мех
-block_tag_6=Специальный
-decorate_tag_1=Гостинная
-decorate_tag_2=спальная комната
-decorate_tag_3=другие
-drawing_tag_1=имущество
-drawing_tag_2=Пейзаж
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=Стиральная машина
 decoration_name_1100002.name=стол письменный
 decoration_name_1212003.name=Деревянный стул
 decoration_name_1213004.name=Коричневый диван
-decoration_name_1100005.name=Компьютерный стол
+decoration_name_1100005.name=туалетный столик
 decoration_name_3200006.name=Мусорное ведро
 decoration_name_1212007.name=Скамейка
 decoration_name_3200008.name=Баллон
@@ -167,6 +124,49 @@ decoration_name_1213026.name=Желтая скамья
 decoration_name_1213027.name=Коричневая скамья
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=Управление Царством
+gui_blockcity_manor_cur_head=Текущий уровень
+gui_blockcity_manor_class=Уровень Царства
+gui_blockcity_manor_area=Область Царства
+gui_blockcity_manor_grade=Оценка Царства
+gui_blockcity_manor_block_grade=Блок Оценка
+gui_blockcity_manor_decorate_grade=Украшение Оценка
+gui_blockcity_manor_total_grade=Общий счет
+gui_blockcity_manor_open_status=Открытое состояние
+gui_blockcity_manor_next_head=Следующий уровень
+gui_blockcity_manor_class=Уровень Царства
+gui_blockcity_manor_area=Область Царства
+gui_blockcity_manor_grade=Оценка Царства
+gui_blockcity_manor_mod_open_status=Изменить открытое состояние
+gui_blockcity_manor_open_status_all=Все игроки
+gui_blockcity_manor_open_status_friend=Только друзья
+gui_blockcity_manor_open_status_close=Не доступный
+gui_blockcity_manor_max_level=МАКСИМУМ
+gui_blockcity_store=Склад
+gui_blockcity_store_parper=светокопия
+gui_blockcity_store_block=Блоки
+gui_blockcity_store_furniture=Украшение
+gui_blockcity_store_vol=объем
+gui_blockcity_store_score=Гол
+gui_blockcity_store_material=материалы
+gui_blockcity_friend_list=Список друзей
+gui_blockcity_apply_list=Список приложений
+block_tag_1=общий
+block_tag_2=многокрасочный
+block_tag_3=Состав
+block_tag_4=Стакан
+block_tag_5=Мех
+block_tag_6=Специальный
+decorate_tag_1=Гостинная
+decorate_tag_2=спальная комната
+decorate_tag_3=другие
+drawing_tag_1=имущество
+drawing_tag_2=Пейзаж
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=блок алмазов
 tile.emerald_block.name=блок изумруд
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=небо крылья
+item.wings_02.name=золотые крылья
+item.wings_03.name=магия крылья
+item.wings_04.name=в будущем.
+
+language_end:item
