@@ -17,7 +17,7 @@ order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	c
 15	2	2102	3	Town_02_19x19x17-1.schematic	drawing_name_2	set:blockcity_items.json image:town_100_02	19	19	17	1	1	7572	76
 16	5	2105	3	Town_05_17x17x24-1.schematic	drawing_name_5	set:blockcity_items.json image:town_100_05	17	17	24	1	1	7126	72
 17	3	2103	3	Town_03_21x21x14-1.schematic	drawing_name_3	set:blockcity_items.json image:town_100_03	21	21	14	1	1	8000	80
-18	4	2104	3	Town_04_20x20x22-0.schematic	drawing_name_4	set:blockcity_items.json image:town_100_04	20	20	22	1	1	8812	89
+18	4	2104	3	Town_04_20x20x22-0.schematic	drawing_name_4	set:blockcity_items.json image:town_100_04	20	20	22	1	1	8882	89
 19	21	2121	1	Landscape_03_1x1x5-0.schematic	drawing_name_21	set:blockcity_items.json image:landscape_100_03	1	1	5	1	2	24	1
 20	20	2120	1	Landscape_02_3x3x5-0.schematic	drawing_name_20	set:blockcity_items.json image:landscape_100_02	3	3	5	1	2	74	1
 21	25	2125	1	Landscape_07_2x2x8-0.schematic	drawing_name_25	set:blockcity_items.json image:landscape_100_07	2	2	8	1	2	74	1
