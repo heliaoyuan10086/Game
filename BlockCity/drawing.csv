@@ -38,4 +38,4 @@ order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	c
 36	908	0	1	@@@	drawing_name_3	set:blockcity_items.json image:town_100_03	0	0	0	0	1	160	2
 37	909	0	1	@@@	drawing_name_3	set:blockcity_items.json image:town_100_03	0	0	0	0	1	240	3
 38	910	0	1	@@@	drawing_name_4	set:blockcity_items.json image:town_100_04	0	0	0	0	1	240	3
-39	911	1	2	@@@	drawing_name_5	set:blockcity_items.json image:town_100_05	1	1	1	1	2	160	2
+39	911	0	1	@@@	drawing_name_5	set:blockcity_items.json image:town_100_05	0	0	0	0	1	160	2
