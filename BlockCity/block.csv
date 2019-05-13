@@ -1,6 +1,6 @@
 排序权重	唯一id	id1	id2	分数	等级	价格	魔方价格	类型	备注
 weight	id	blockId	meta	score	level	price	cube	type	remark
-1	100100	1	0	2	1	2	1	1	石头
+1	100100	1	0	0	1	0	0	1	石头
 2	100400	4	0	2	1	2	1	1	鹅卵石
 3	100200	2	0	2	1	2	1	1	草方块
 4	100300	3	0	2	1	2	1	1	泥土

@@ -1,15 +1,15 @@
 Id	Name	Desc	Icon	Price	Cube	Score	
 物品id	多语言名称	多语言描述	对应Item图标	价格	魔方价格	积分	中文备注
 Id	Name	Desc	Icon	Price	Cube	Score	
-1	drawing_name_1	123	set:blockcity_items.json image:town_100_01	2706	28	2706	town_32_01
+1	drawing_name_1	123	set:blockcity_items.json image:town_100_01	2250	28	2706	town_32_01
 2	drawing_name_2	123	set:blockcity_items.json image:town_100_02	7572	76	7572	town_32_02
 3	drawing_name_3	123	set:blockcity_items.json image:town_100_03	8000	81	8000	town_32_03
-4	drawing_name_4	123	set:blockcity_items.json image:town_100_04	8882	89	8812	town_32_04
-5	drawing_name_5	123	set:blockcity_items.json image:town_100_05	7126	72	7126	town_32_05
+4	drawing_name_4	123	set:blockcity_items.json image:town_100_04	7368	89	8812	town_32_04
+5	drawing_name_5	123	set:blockcity_items.json image:town_100_05	7070	72	7126	town_32_05
 6	drawing_name_6	123	set:blockcity_items.json image:building_100_01	1072	11	1072	building_32_01
 7	drawing_name_7	123	set:blockcity_items.json image:building_100_02	3126	32	3126	building_32_02
 8	drawing_name_8	123	set:blockcity_items.json image:building_100_03	1252	13	1252	building_32_03
-9	drawing_name_9	123	set:blockcity_items.json image:building_100_04	2298	23	2298	building_32_04
+9	drawing_name_9	123	set:blockcity_items.json image:building_100_04	2074	23	2298	building_32_04
 10	drawing_name_10	123	set:blockcity_items.json image:building_100_05	2928	30	2928	building_32_05
 11	drawing_name_11	123	set:blockcity_items.json image:building_100_06	2786	28	2786	building_32_06
 12	drawing_name_12	123	set:blockcity_items.json image:building_100_07	1006	11	1006	building_32_07
