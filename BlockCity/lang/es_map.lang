@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=Gestión del reino
-gui_blockcity_manor_cur_head=Nivel actual
-gui_blockcity_manor_class=Nivel de reino
-gui_blockcity_manor_area=Area de reino
-gui_blockcity_manor_grade=Puntaje de reino
-gui_blockcity_manor_block_grade=Puntuación de bloque
-gui_blockcity_manor_decorate_grade=Puntuación de decoración
-gui_blockcity_manor_total_grade=Puntaje total
-gui_blockcity_manor_open_status=Estado abierto
-gui_blockcity_manor_next_head=Siguiente nivel
-gui_blockcity_manor_class=Nivel de reino
-gui_blockcity_manor_area=Area de reino
-gui_blockcity_manor_grade=Puntaje de reino
-gui_blockcity_manor_mod_open_status=Cambiar estado abierto
-gui_blockcity_manor_open_status_all=Todos los jugadores
-gui_blockcity_manor_open_status_friend=Solo amigos
-gui_blockcity_manor_open_status_close=Inaccesible
-gui_blockcity_manor_max_level=MAX
-gui_blockcity_store=Almacén
-gui_blockcity_store_parper=Cianotipo
-gui_blockcity_store_block=Bloques
-gui_blockcity_store_furniture=Decoración
-gui_blockcity_store_vol=Volumen
-gui_blockcity_store_score=Puntuación
-gui_blockcity_store_material=Materiales
-gui_blockcity_friend_list=Lista de amigos
-gui_blockcity_apply_list=Lista de aplicaciones
-block_tag_1=Común
-block_tag_2=Multicolor
-block_tag_3=Estructura
-block_tag_4=Vaso
-block_tag_5=Piel
-block_tag_6=Especial
-decorate_tag_1=Sala
-decorate_tag_2=Habitación
-decorate_tag_3=Otros
-drawing_tag_1=Inmuebles
-drawing_tag_2=Paisaje
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=Lavadora
 decoration_name_1100002.name=Escritorio
 decoration_name_1212003.name=Silla de madera
 decoration_name_1213004.name=Sofa marron
-decoration_name_1100005.name=Mesa de ordenador
+decoration_name_1100005.name=Tocador
 decoration_name_3200006.name=Contenedor de basura
 decoration_name_1212007.name=Banco
 decoration_name_3200008.name=Globo
@@ -167,6 +124,49 @@ decoration_name_1213026.name=Banco amarillo
 decoration_name_1213027.name=Banco marrón
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=Gestión del reino
+gui_blockcity_manor_cur_head=Nivel actual
+gui_blockcity_manor_class=Nivel de reino
+gui_blockcity_manor_area=Area de reino
+gui_blockcity_manor_grade=Puntaje de reino
+gui_blockcity_manor_block_grade=Puntuación de bloque
+gui_blockcity_manor_decorate_grade=Puntuación de decoración
+gui_blockcity_manor_total_grade=Puntaje total
+gui_blockcity_manor_open_status=Estado abierto
+gui_blockcity_manor_next_head=Siguiente nivel
+gui_blockcity_manor_class=Nivel de reino
+gui_blockcity_manor_area=Area de reino
+gui_blockcity_manor_grade=Puntaje de reino
+gui_blockcity_manor_mod_open_status=Cambiar estado abierto
+gui_blockcity_manor_open_status_all=Todos los jugadores
+gui_blockcity_manor_open_status_friend=Solo amigos
+gui_blockcity_manor_open_status_close=Inaccesible
+gui_blockcity_manor_max_level=MAX
+gui_blockcity_store=Almacén
+gui_blockcity_store_parper=Cianotipo
+gui_blockcity_store_block=Bloques
+gui_blockcity_store_furniture=Decoración
+gui_blockcity_store_vol=Volumen
+gui_blockcity_store_score=Puntuación
+gui_blockcity_store_material=Materiales
+gui_blockcity_friend_list=Lista de amigos
+gui_blockcity_apply_list=Lista de aplicaciones
+block_tag_1=Común
+block_tag_2=Multicolor
+block_tag_3=Estructura
+block_tag_4=Vaso
+block_tag_5=Piel
+block_tag_6=Especial
+decorate_tag_1=Sala
+decorate_tag_2=Habitación
+decorate_tag_3=Otros
+drawing_tag_1=Inmuebles
+drawing_tag_2=Paisaje
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=Bloque de diamante
 tile.emerald_block.name=Bloque de Esmeralda
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=SKY WINGS
+item.wings_02.name=Alas de oro
+item.wings_03.name=Magic Wings
+item.wings_04.name=Futuro alas
+
+language_end:item

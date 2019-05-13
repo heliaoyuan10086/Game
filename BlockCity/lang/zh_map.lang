@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=领地管理
-gui_blockcity_manor_cur_head=当前等级
-gui_blockcity_manor_class=领地等级
-gui_blockcity_manor_area=领地面积
-gui_blockcity_manor_grade=领地分
-gui_blockcity_manor_block_grade=方块分
-gui_blockcity_manor_decorate_grade=装饰分
-gui_blockcity_manor_total_grade=总分
-gui_blockcity_manor_open_status=开放状态
-gui_blockcity_manor_next_head=下一等级
-gui_blockcity_manor_class=领地等级
-gui_blockcity_manor_area=领地面积
-gui_blockcity_manor_grade=领地分
-gui_blockcity_manor_mod_open_status=修改开放状态
-gui_blockcity_manor_open_status_all=所有玩家
-gui_blockcity_manor_open_status_friend=好友
-gui_blockcity_manor_open_status_close=不可访问
-gui_blockcity_manor_max_level=MAX
-gui_blockcity_store=仓库
-gui_blockcity_store_parper=图纸
-gui_blockcity_store_block=方块
-gui_blockcity_store_furniture=家具
-gui_blockcity_store_vol=体积
-gui_blockcity_store_score=积分
-gui_blockcity_store_material=全部材料
-gui_blockcity_friend_list=好友列表
-gui_blockcity_apply_list=申请列表
-block_tag_1=普通
-block_tag_2=彩色
-block_tag_3=结构
-block_tag_4=玻璃
-block_tag_5=毛皮
-block_tag_6=特殊
-decorate_tag_1=客厅
-decorate_tag_2=卧室
-decorate_tag_3=其他
-drawing_tag_1=建筑
-drawing_tag_2=景观
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=洗衣机
 decoration_name_1100002.name=书桌
 decoration_name_1212003.name=木椅
 decoration_name_1213004.name=棕色沙发
-decoration_name_1100005.name=电脑桌
+decoration_name_1100005.name=梳妆台
 decoration_name_3200006.name=垃圾桶
 decoration_name_1212007.name=长椅
 decoration_name_3200008.name=气球
@@ -167,6 +124,49 @@ decoration_name_1213026.name=黄色长凳
 decoration_name_1213027.name=棕色长凳
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=领地管理
+gui_blockcity_manor_cur_head=当前等级
+gui_blockcity_manor_class=领地等级
+gui_blockcity_manor_area=领地面积
+gui_blockcity_manor_grade=领地分
+gui_blockcity_manor_block_grade=方块分
+gui_blockcity_manor_decorate_grade=装饰分
+gui_blockcity_manor_total_grade=总分
+gui_blockcity_manor_open_status=开放状态
+gui_blockcity_manor_next_head=下一等级
+gui_blockcity_manor_class=领地等级
+gui_blockcity_manor_area=领地面积
+gui_blockcity_manor_grade=领地分
+gui_blockcity_manor_mod_open_status=修改开放状态
+gui_blockcity_manor_open_status_all=所有玩家
+gui_blockcity_manor_open_status_friend=好友
+gui_blockcity_manor_open_status_close=不可访问
+gui_blockcity_manor_max_level=MAX
+gui_blockcity_store=仓库
+gui_blockcity_store_parper=图纸
+gui_blockcity_store_block=方块
+gui_blockcity_store_furniture=家具
+gui_blockcity_store_vol=体积
+gui_blockcity_store_score=积分
+gui_blockcity_store_material=全部材料
+gui_blockcity_friend_list=好友列表
+gui_blockcity_apply_list=申请列表
+block_tag_1=普通
+block_tag_2=彩色
+block_tag_3=结构
+block_tag_4=玻璃
+block_tag_5=毛皮
+block_tag_6=特殊
+decorate_tag_1=客厅
+decorate_tag_2=卧室
+decorate_tag_3=其他
+drawing_tag_1=建筑
+drawing_tag_2=景观
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=钻石块
 tile.emerald_block.name=绿宝石块
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=蓝天之翼
+item.wings_02.name=黄金之翼
+item.wings_03.name=魔法之翼
+item.wings_04.name=未来之翼
+
+language_end:item

@@ -6,4 +6,4 @@ day	rewardId1	type1	level1	num1	icon1	name1	rewardId2	type2	level2	num2	icon2	na
 4	19	3	1	1	set:blockcity_items.json image:landscape_100_01	drawing_name_19	907	3	1	1	set:blockcity_items.json image:town_100_02	drawing_name_2
 5	1213013	2	1	1	set:blockcity_items.json image:g1047_prop_14	decoration_name_1213013	908	3	1	1	set:blockcity_items.json image:town_100_03	drawing_name_3
 6	903	3	1	1	set:blockcity_items.json image:town_100_01	drawing_name_1	909	3	1	1	set:blockcity_items.json image:town_100_03	drawing_name_3
-7	4004	4	1	1	set:bird_icon.json image:wing_02	item.wings_03.name	910	3	1	1	set:blockcity_items.json image:town_100_04	drawing_name_4
+7	4003	4	1	1	set:bird_icon.json image:wing_02	item.wings_03.name	910	3	1	1	set:blockcity_items.json image:town_100_04	drawing_name_4

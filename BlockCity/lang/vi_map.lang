@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=Quản lý lĩnh vực
-gui_blockcity_manor_cur_head=Cấp độ hiện tại
-gui_blockcity_manor_class=Cấp độ cảnh giới
-gui_blockcity_manor_area=Khu vực cảnh giới
-gui_blockcity_manor_grade=Điểm số cảnh giới
-gui_blockcity_manor_block_grade=Chặn điểm
-gui_blockcity_manor_decorate_grade=Điểm trang trí
-gui_blockcity_manor_total_grade=Tổng điểm
-gui_blockcity_manor_open_status=Nhà nước mở
-gui_blockcity_manor_next_head=Cấp độ tiếp theo
-gui_blockcity_manor_class=Cấp độ cảnh giới
-gui_blockcity_manor_area=Khu vực cảnh giới
-gui_blockcity_manor_grade=Điểm số cảnh giới
-gui_blockcity_manor_mod_open_status=Thay đổi trạng thái mở
-gui_blockcity_manor_open_status_all=Tất cả người chơi
-gui_blockcity_manor_open_status_friend=Chỉ bạn bè
-gui_blockcity_manor_open_status_close=Không truy cập được
-gui_blockcity_manor_max_level=Tối đa
-gui_blockcity_store=Kho
-gui_blockcity_store_parper=Bản vẽ thiết kế
-gui_blockcity_store_block=Khối
-gui_blockcity_store_furniture=Trang trí
-gui_blockcity_store_vol=Âm lượng
-gui_blockcity_store_score=Ghi bàn
-gui_blockcity_store_material=Nguyên vật liệu
-gui_blockcity_friend_list=Danh sách bạn bè
-gui_blockcity_apply_list=Danh sách ứng dụng
-block_tag_1=Chung
-block_tag_2=Nhiều màu
-block_tag_3=Kết cấu
-block_tag_4=Ly
-block_tag_5=Lông
-block_tag_6=Đặc biệt
-decorate_tag_1=Phòng khách
-decorate_tag_2=Phòng ngủ
-decorate_tag_3=Khác
-drawing_tag_1=Bất động sản
-drawing_tag_2=Phong cảnh
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=May giặt
 decoration_name_1100002.name=Bàn
 decoration_name_1212003.name=Ghế gỗ
 decoration_name_1213004.name=Sofa nâu
-decoration_name_1100005.name=Bảng máy tính
+decoration_name_1100005.name=Trang điểm
 decoration_name_3200006.name=Thùng rác
 decoration_name_1212007.name=Băng ghế
 decoration_name_3200008.name=Quả bóng bay
@@ -167,6 +124,49 @@ decoration_name_1213026.name=Ghế băng màu vàng
 decoration_name_1213027.name=Băng ghế màu nâu
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=Quản lý lĩnh vực
+gui_blockcity_manor_cur_head=Cấp độ hiện tại
+gui_blockcity_manor_class=Cấp độ cảnh giới
+gui_blockcity_manor_area=Khu vực cảnh giới
+gui_blockcity_manor_grade=Điểm số cảnh giới
+gui_blockcity_manor_block_grade=Chặn điểm
+gui_blockcity_manor_decorate_grade=Điểm trang trí
+gui_blockcity_manor_total_grade=Tổng điểm
+gui_blockcity_manor_open_status=Nhà nước mở
+gui_blockcity_manor_next_head=Cấp độ tiếp theo
+gui_blockcity_manor_class=Cấp độ cảnh giới
+gui_blockcity_manor_area=Khu vực cảnh giới
+gui_blockcity_manor_grade=Điểm số cảnh giới
+gui_blockcity_manor_mod_open_status=Thay đổi trạng thái mở
+gui_blockcity_manor_open_status_all=Tất cả người chơi
+gui_blockcity_manor_open_status_friend=Chỉ bạn bè
+gui_blockcity_manor_open_status_close=Không truy cập được
+gui_blockcity_manor_max_level=Tối đa
+gui_blockcity_store=Kho
+gui_blockcity_store_parper=Bản vẽ thiết kế
+gui_blockcity_store_block=Khối
+gui_blockcity_store_furniture=Trang trí
+gui_blockcity_store_vol=Âm lượng
+gui_blockcity_store_score=Ghi bàn
+gui_blockcity_store_material=Nguyên vật liệu
+gui_blockcity_friend_list=Danh sách bạn bè
+gui_blockcity_apply_list=Danh sách ứng dụng
+block_tag_1=Chung
+block_tag_2=Nhiều màu
+block_tag_3=Kết cấu
+block_tag_4=Ly
+block_tag_5=Lông
+block_tag_6=Đặc biệt
+decorate_tag_1=Phòng khách
+decorate_tag_2=Phòng ngủ
+decorate_tag_3=Khác
+drawing_tag_1=Bất động sản
+drawing_tag_2=Phong cảnh
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=Khối Kim Cương
 tile.emerald_block.name=Dãy núi Emerald.
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=Cánh Trường Thiên
+item.wings_02.name=Đôi cánh vàng
+item.wings_03.name=Đôi cánh thần diệu
+item.wings_04.name=Đôi cánh tương lai
+
+language_end:item

@@ -1,48 +1,5 @@
 
 
-language_start:system
-
-gui_blockcity_manor=Gestione del reame
-gui_blockcity_manor_cur_head=Livello attuale
-gui_blockcity_manor_class=Livello regno
-gui_blockcity_manor_area=Area del regno
-gui_blockcity_manor_grade=Punteggio del reame
-gui_blockcity_manor_block_grade=Block Score
-gui_blockcity_manor_decorate_grade=Punteggio della decorazione
-gui_blockcity_manor_total_grade=Punteggio totale
-gui_blockcity_manor_open_status=Stato aperto
-gui_blockcity_manor_next_head=Livello successivo
-gui_blockcity_manor_class=Livello regno
-gui_blockcity_manor_area=Area del regno
-gui_blockcity_manor_grade=Punteggio del reame
-gui_blockcity_manor_mod_open_status=Cambia stato aperto
-gui_blockcity_manor_open_status_all=Tutti i giocatori
-gui_blockcity_manor_open_status_friend=Solo amici
-gui_blockcity_manor_open_status_close=Non accessibile
-gui_blockcity_manor_max_level=MAX
-gui_blockcity_store=Magazzino
-gui_blockcity_store_parper=Planimetria
-gui_blockcity_store_block=blocchi
-gui_blockcity_store_furniture=Decorazione
-gui_blockcity_store_vol=Volume
-gui_blockcity_store_score=Punto
-gui_blockcity_store_material=materiale
-gui_blockcity_friend_list=Lista di amici
-gui_blockcity_apply_list=Elenco delle applicazioni
-block_tag_1=Comune
-block_tag_2=Multicolore
-block_tag_3=Struttura
-block_tag_4=Bicchiere
-block_tag_5=Pelliccia
-block_tag_6=Speciale
-decorate_tag_1=Soggiorno
-decorate_tag_2=Camera da letto
-decorate_tag_3=Altri
-drawing_tag_1=tenuta
-drawing_tag_2=Paesaggio
-
-language_end:system
-
 language_start:block
 
 
@@ -142,7 +99,7 @@ decoration_name_3100001.name=Lavatrice
 decoration_name_1100002.name=Scrivania
 decoration_name_1212003.name=Sedia di legno
 decoration_name_1213004.name=Divano marrone
-decoration_name_1100005.name=Tavolo per computer
+decoration_name_1100005.name=Tabella di medicazione
 decoration_name_3200006.name=Cestino dei rifiuti
 decoration_name_1212007.name=panca
 decoration_name_3200008.name=Palloncino
@@ -167,6 +124,49 @@ decoration_name_1213026.name=Panchina gialla
 decoration_name_1213027.name=Panchina marrone
 
 language_end:decoration
+
+language_start:system
+
+gui_blockcity_manor=Gestione del reame
+gui_blockcity_manor_cur_head=Livello attuale
+gui_blockcity_manor_class=Livello regno
+gui_blockcity_manor_area=Area del regno
+gui_blockcity_manor_grade=Punteggio del reame
+gui_blockcity_manor_block_grade=Block Score
+gui_blockcity_manor_decorate_grade=Punteggio della decorazione
+gui_blockcity_manor_total_grade=Punteggio totale
+gui_blockcity_manor_open_status=Stato aperto
+gui_blockcity_manor_next_head=Livello successivo
+gui_blockcity_manor_class=Livello regno
+gui_blockcity_manor_area=Area del regno
+gui_blockcity_manor_grade=Punteggio del reame
+gui_blockcity_manor_mod_open_status=Cambia stato aperto
+gui_blockcity_manor_open_status_all=Tutti i giocatori
+gui_blockcity_manor_open_status_friend=Solo amici
+gui_blockcity_manor_open_status_close=Non accessibile
+gui_blockcity_manor_max_level=MAX
+gui_blockcity_store=Magazzino
+gui_blockcity_store_parper=Planimetria
+gui_blockcity_store_block=blocchi
+gui_blockcity_store_furniture=Decorazione
+gui_blockcity_store_vol=Volume
+gui_blockcity_store_score=Punto
+gui_blockcity_store_material=materiale
+gui_blockcity_friend_list=Lista di amici
+gui_blockcity_apply_list=Elenco delle applicazioni
+block_tag_1=Comune
+block_tag_2=Multicolore
+block_tag_3=Struttura
+block_tag_4=Bicchiere
+block_tag_5=Pelliccia
+block_tag_6=Speciale
+decorate_tag_1=Soggiorno
+decorate_tag_2=Camera da letto
+decorate_tag_3=Altri
+drawing_tag_1=tenuta
+drawing_tag_2=Paesaggio
+
+language_end:system
 
 language_start:tile
 
@@ -646,3 +646,12 @@ tile.diamond_block.name=Block of Diamond
 tile.emerald_block.name=Blocco di Smeraldo
 
 language_end:tile
+
+language_start:item
+
+item.wings_01.name=Sky Wings
+item.wings_02.name=Golden Wings
+item.wings_03.name=Ali Magiche
+item.wings_04.name=Future ali
+
+language_end:item
