@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=Machine à laver
-decoration_name_1100002=Bureau
-decoration_name_1212003=Chaise en bois
-decoration_name_1213004=Canapé marron
-decoration_name_1100005=Table d'ordinateur
-decoration_name_3200006=Poubelle
-decoration_name_1212007=Banc
-decoration_name_3200008=Ballon
-decoration_name_3200009=main de puits
-decoration_name_3200010=Cuisinière à gaz
-decoration_name_1213011=Banc en bois
-decoration_name_1213012=Fauteuil long
-decoration_name_1213013=Canapé Bleu-Blanc
-decoration_name_1213014=Canapé blanc
-decoration_name_1213015=Canapé Simple Bleu-Blanc
-decoration_name_1213016=Canapé Simple Blanc
-decoration_name_1212017=Chaise verte
-decoration_name_3212018=Closestool
-decoration_name_1212019=Chaise de treillis
-decoration_name_1212020=Chaise rouge
-decoration_name_1213021=Canapé noir
-decoration_name_1212022=Chaise marron
-decoration_name_1212023=Chaise noire
-decoration_name_1213024=Canapé coeur
-decoration_name_1213025=Banc Vert
-decoration_name_1213026=Banc jaune
-decoration_name_1213027=Banc marron
 decoration_name_3100001.name=Machine à laver
 decoration_name_1100002.name=Bureau
 decoration_name_1212003.name=Chaise en bois
@@ -165,6 +138,42 @@ decorate_tag_2=Chambre
 decorate_tag_3=Autres
 drawing_tag_1=Biens
 drawing_tag_2=Paysage
+gui_blockcity_store_one=%d/1
+gui_blockcity_store_gcroup=%d/64
+gui_blockcity_friend_list=liste d'amis
+gui_blockcity_apply_list=application
+gui_blockcity_rank=grade
+gui_blockcity_rank_friend=ami grade
+gui_blockcity_rank_global=rang mondial
+gui_blockcity_own_rank=mon rang
+gui_checkin_day=jour% d
+gui_blockcity_lock_money=pas assez de pièces d'or
+gui_blockcity_lock_money_tip=pas assez de pièces d'or, l'utilisation de cubes?
+gui_blockcity_lock_material=pas assez de matière
+gui_blockcity_transfer_title=transmettre la confirmation
+gui_blockcity_if_transfer=sûr de transmettre à votre royaume?
+gui_blockcity_transfer=confirmer
+gui_blockcity_delete_title=toute confirmation
+gui_blockcity_if_delete=sûr à éclaircir tous les points de votre royaume?
+gui_blockcity_delete=confirmer
+gui_blockcity_operation_in_manor=vous pouvez faire ça dans ton monde
+gui_blockcity_lock_item_title=vous n'avez pas ce point
+gui_blockcity_lock_item=manque %s
+gui_blockcity_lock_item_buy_one=acheter 1
+gui_blockcity_lock_item_buy_gcroup=acheter 64
+gui_blockcity_invite=inviter
+gui_blockcity_ratify=autoriser
+gui_blockcity_unratify=annuler autoriser
+gui_blockcity_remove_out=supprimer.
+gui_blockcity_invite_user=%s vous a envoyé une invitation
+gui_blockcity_invite_sure=d'accord
+gui_blockcity_invite_cancel=rejeter
+gui_blockcity_open_tiger_lottery=tirage
+gui_blockcity_open_cannon=utiliser canon
+gui_blockcity_sit_down=assieds - toi
+gui_blockcity_stand_up=debout
+gui_blockcity_not_open_fun=cette fonction n'est pas encore disponible
+gui_call_on_in_decoration=transmition échoue, vous devez arrêter avant transmition interaction
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=grès sculpté
 tile.sandstone.smooth.name=bon grès
 tile.stone.name=pierre
 tile.gold_block.name=bloc d'or
-item.doorwood.name=porte en bois
-tile.sandstone.default.name=le grès
+item.doorWood.name=porte en bois
+item.doorWood=porte en bois
 tile.leaves..name=les feuilles
 tile.iron_block.name=bloc de fer
 tile.pressurePlate.name=plaque en bois
@@ -653,5 +662,7 @@ item.wings_01.name=sky wings
 item.wings_02.name=des ailes d'or
 item.wings_03.name=ailes magiques
 item.wings_04.name=les wings
+gui_blockcity_sit_down=assieds - toi
+gui_blockcity_stand_up=debout
 
 language_end:item

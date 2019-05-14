@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=세탁기
-decoration_name_1100002=책상
-decoration_name_1212003=나무 의자
-decoration_name_1213004=갈색 소파
-decoration_name_1100005=컴퓨터 책상
-decoration_name_3200006=쓰레기통
-decoration_name_1212007=벤치
-decoration_name_3200008=풍선
-decoration_name_3200009=손 모아서
-decoration_name_3200010=가스 난로
-decoration_name_1213011=나무 벤치
-decoration_name_1213012=긴 안락 의자
-decoration_name_1213013=블루 - 화이트 소파
-decoration_name_1213014=화이트 소파
-decoration_name_1213015=싱글 블루 - 화이트 소파
-decoration_name_1213016=싱글 소파
-decoration_name_1212017=녹색 의자
-decoration_name_3212018=가장 가까운 곳
-decoration_name_1212019=격자 의자
-decoration_name_1212020=빨간 의자
-decoration_name_1213021=검은 소파
-decoration_name_1212022=갈색 의자
-decoration_name_1212023=검은 색 의자
-decoration_name_1213024=심장 소파
-decoration_name_1213025=녹색 벤치
-decoration_name_1213026=옐로우 벤치
-decoration_name_1213027=브라운 벤치
 decoration_name_3100001.name=세탁기
 decoration_name_1100002.name=책상
 decoration_name_1212003.name=나무 의자
@@ -165,6 +138,42 @@ decorate_tag_2=침실
 decorate_tag_3=기타
 drawing_tag_1=재산
 drawing_tag_2=경치
+gui_blockcity_store_one=%d/1
+gui_blockcity_store_gcroup=%d/64
+gui_blockcity_friend_list=친구 시계
+gui_blockcity_apply_list=응용 프로그램
+gui_blockcity_rank=질서
+gui_blockcity_rank_friend=친구 등급
+gui_blockcity_rank_global=세계 등급
+gui_blockcity_own_rank=내 등급
+gui_checkin_day=날% d
+gui_blockcity_lock_money=충분한 금화
+gui_blockcity_lock_money_tip=충분한 금화, 사용 큐브?
+gui_blockcity_lock_material=충분한 재료
+gui_blockcity_transfer_title=보내기 확인
+gui_blockcity_if_transfer=분명히 니 경지에 전해?
+gui_blockcity_transfer=확인
+gui_blockcity_delete_title=잘 확인
+gui_blockcity_if_delete=분명히 분명히 니 경지에 모든 항목?
+gui_blockcity_delete=확인
+gui_blockcity_operation_in_manor=그냥 이 니 경지
+gui_blockcity_lock_item_title=너 이번 프로젝트
+gui_blockcity_lock_item=빠진 %s
+gui_blockcity_lock_item_buy_one=산 하나
+gui_blockcity_lock_item_buy_gcroup=산 64
+gui_blockcity_invite=좀
+gui_blockcity_ratify=인증
+gui_blockcity_unratify=취소 인증
+gui_blockcity_remove_out=해체 경지
+gui_blockcity_invite_user=%s 오라고 초청장
+gui_blockcity_invite_sure=동의한다.
+gui_blockcity_invite_cancel=거절하다
+gui_blockcity_open_tiger_lottery=추첨
+gui_blockcity_open_cannon=사용 대포
+gui_blockcity_sit_down=앉아, 앉아.
+gui_blockcity_stand_up=일어나.
+gui_blockcity_not_open_fun=아직 이 기능을 사용할 수 없다
+gui_call_on_in_decoration=전송 실패한다면, 너는 반드시 서로 완전히 전에 그만
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=꽃무늬 사암
 tile.sandstone.smooth.name=부드럽게 사암
 tile.stone.name=돌
 tile.gold_block.name=블록 금
-item.doorwood.name=나무 문
-tile.sandstone.default.name=사암
+item.doorWood.name=나무 문
+item.doorWood=나무 문
 tile.leaves..name=잎
 tile.iron_block.name=조각 철
 tile.pressurePlate.name=나무 접시
@@ -653,5 +662,7 @@ item.wings_01.name=하늘 날개
 item.wings_02.name=김 날개
 item.wings_03.name=마술 날개
 item.wings_04.name=앞으로 날개
+gui_blockcity_sit_down=앉아, 앉아.
+gui_blockcity_stand_up=일어나.
 
 language_end:item

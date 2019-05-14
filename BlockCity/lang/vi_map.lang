@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=May giặt
-decoration_name_1100002=Bàn
-decoration_name_1212003=Ghế gỗ
-decoration_name_1213004=Sofa nâu
-decoration_name_1100005=Bảng máy tính
-decoration_name_3200006=Thùng rác
-decoration_name_1212007=Băng ghế
-decoration_name_3200008=Quả bóng bay
-decoration_name_3200009=Mũi tay
-decoration_name_3200010=Lò ga
-decoration_name_1213011=Ghế băng gỗ
-decoration_name_1213012=Ghế bành dài
-decoration_name_1213013=Sofa trắng xanh
-decoration_name_1213014=Sofa trắng
-decoration_name_1213015=Sofa đơn màu xanh trắng
-decoration_name_1213016=Sofa trắng đơn
-decoration_name_1212017=Ghế xanh
-decoration_name_3212018=Cất đồ nghề
-decoration_name_1212019=Ghế lưới
-decoration_name_1212020=Ghế đỏ
-decoration_name_1213021=Sofa đen
-decoration_name_1212022=Ghế nâu
-decoration_name_1212023=Ghế đen
-decoration_name_1213024=Sofa trái tim
-decoration_name_1213025=Ghế băng xanh
-decoration_name_1213026=Ghế băng màu vàng
-decoration_name_1213027=Băng ghế màu nâu
 decoration_name_3100001.name=May giặt
 decoration_name_1100002.name=Bàn
 decoration_name_1212003.name=Ghế gỗ
@@ -165,6 +138,42 @@ decorate_tag_2=Phòng ngủ
 decorate_tag_3=Khác
 drawing_tag_1=Bất động sản
 drawing_tag_2=Phong cảnh
+gui_blockcity_store_one=%d/1
+gui_blockcity_store_gcroup=%d/64
+gui_blockcity_friend_list=Danh sách bạn
+gui_blockcity_apply_list=Ứng dụng
+gui_blockcity_rank=Cấp
+gui_blockcity_rank_friend=Anh Lang
+gui_blockcity_rank_global=Cấp độ toàn cầu
+gui_blockcity_own_rank=Hạng của tôi
+gui_checkin_day=Ngày% d
+gui_blockcity_lock_money=Không đủ tiền vàng
+gui_blockcity_lock_money_tip=Không đủ tiền vàng, dùng gạch?
+gui_blockcity_lock_material=Không đủ vật liệu
+gui_blockcity_transfer_title=Xác nhận Gửi
+gui_blockcity_if_transfer=Có chắc sẽ truyền tới Vương Quốc của anh?
+gui_blockcity_transfer=Xác nhận
+gui_blockcity_delete_title=Xác nhận rõ
+gui_blockcity_if_delete=Có chắc dọn dẹp hết đồ trong khu đất của anh chứ?
+gui_blockcity_delete=Xác nhận
+gui_blockcity_operation_in_manor=Anh chỉ có thể làm việc này trong đất nước của anh.
+gui_blockcity_lock_item_title=Anh không có thứ này
+gui_blockcity_lock_item=Thiếu %s
+gui_blockcity_lock_item_buy_one=Mua 1
+gui_blockcity_lock_item_buy_gcroup=Trao đổi 42
+gui_blockcity_invite=Mời
+gui_blockcity_ratify=Thẩm quyền
+gui_blockcity_unratify=Thẩm quyền hủy
+gui_blockcity_remove_out=Xóa đổ
+gui_blockcity_invite_user=%s  Tháng Năm đã gửi thư mời
+gui_blockcity_invite_sure=Đồngý
+gui_blockcity_invite_cancel=Bỏ
+gui_blockcity_open_tiger_lottery=Vẽ xổ số
+gui_blockcity_open_cannon=Dùng đại bác
+gui_blockcity_sit_down=Ngồi xuống.
+gui_blockcity_stand_up=Đứng lên
+gui_blockcity_not_open_fun=Chức năng này chưa sẵn sàng
+gui_call_on_in_decoration=Tín hiệu không truyền, bạn phải ngừng tác động trước khi phát.
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=Đá lát than
 tile.sandstone.smooth.name=Đá nâu mịn
 tile.stone.name=Đá
 tile.gold_block.name=Mô phỏng vàng
-item.doorwood.name=Cửa gỗ
-tile.sandstone.default.name=Đá
+item.doorWood.name=Cửa gỗ
+item.doorWood=Cửa gỗ
 tile.leaves..name=Lá
 tile.iron_block.name=Khối sắt
 tile.pressurePlate.name=Tấm áp suất gỗ
@@ -653,5 +662,7 @@ item.wings_01.name=Cánh Trường Thiên
 item.wings_02.name=Đôi cánh vàng
 item.wings_03.name=Đôi cánh thần diệu
 item.wings_04.name=Đôi cánh tương lai
+gui_blockcity_sit_down=Ngồi xuống.
+gui_blockcity_stand_up=Đứng lên
 
 language_end:item

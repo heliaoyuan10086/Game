@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=Waschmaschine
-decoration_name_1100002=Schreibtisch
-decoration_name_1212003=Holzstuhl
-decoration_name_1213004=Braunes Sofa
-decoration_name_1100005=Computer Tisch
-decoration_name_3200006=Mülleimer
-decoration_name_1212007=Bank
-decoration_name_3200008=Ballon
-decoration_name_3200009=Sinken der Hand
-decoration_name_3200010=Gasherd
-decoration_name_1213011=Holzbank
-decoration_name_1213012=Langer Sessel
-decoration_name_1213013=Blau-weißes Sofa
-decoration_name_1213014=Weißes Sofa
-decoration_name_1213015=Einzelnes blau-weißes Sofa
-decoration_name_1213016=Einzelnes weißes Sofa
-decoration_name_1212017=Grüner Stuhl
-decoration_name_3212018=Closestool
-decoration_name_1212019=Gitterstuhl
-decoration_name_1212020=Roter Stuhl
-decoration_name_1213021=Schwarzes Sofa
-decoration_name_1212022=Brauner Stuhl
-decoration_name_1212023=Schwarzer Stuhl
-decoration_name_1213024=Herz Sofa
-decoration_name_1213025=Grüne Bank
-decoration_name_1213026=Gelbe Bank
-decoration_name_1213027=Braune Bank
 decoration_name_3100001.name=Waschmaschine
 decoration_name_1100002.name=Schreibtisch
 decoration_name_1212003.name=Holzstuhl
@@ -165,6 +138,42 @@ decorate_tag_2=Schlafzimmer
 decorate_tag_3=Andere
 drawing_tag_1=Estate
 drawing_tag_2=Landschaft
+gui_blockcity_store_one=%d/1
+gui_blockcity_store_gcroup=%d/64
+gui_blockcity_friend_list=Liste der Freunde
+gui_blockcity_apply_list=Anwendung
+gui_blockcity_rank=Rang
+gui_blockcity_rank_friend=Rang eines Freundes
+gui_blockcity_rank_global=Globaler Rang
+gui_blockcity_own_rank=Mein Rang
+gui_checkin_day=Tag%d
+gui_blockcity_lock_money=Nicht genug Goldmünzen
+gui_blockcity_lock_money_tip=Nicht genug Goldmünzen, Würfel?
+gui_blockcity_lock_material=Nicht genügend Material
+gui_blockcity_transfer_title=Bestätigen senden
+gui_blockcity_if_transfer=Sicher, dass Sie in Ihr Reich senden?
+gui_blockcity_transfer=Bestätigen
+gui_blockcity_delete_title=Bestätigung löschen
+gui_blockcity_if_delete=Sind Sie sicher, alle Gegenstände in Ihrem Reich zu räumen?
+gui_blockcity_delete=Bestätigen
+gui_blockcity_operation_in_manor=Du kannst das nur in deinem Reich tun
+gui_blockcity_lock_item_title=Du hast diesen Artikel nicht.
+gui_blockcity_lock_item=Mangel %s
+gui_blockcity_lock_item_buy_one=Kaufen 1
+gui_blockcity_lock_item_buy_gcroup=Kaufen 64
+gui_blockcity_invite=Einladung
+gui_blockcity_ratify=Autorisieren
+gui_blockcity_unratify=Abbrechen der Autorisierung
+gui_blockcity_remove_out=Realm entfernen
+gui_blockcity_invite_user=%s hat Ihnen eine Einladung geschickt
+gui_blockcity_invite_sure=Einverstanden.
+gui_blockcity_invite_cancel=Zurückweisen
+gui_blockcity_open_tiger_lottery=Lotterie Draw
+gui_blockcity_open_cannon=Kanone verwenden
+gui_blockcity_sit_down=Setz dich.
+gui_blockcity_stand_up=Steh auf!
+gui_blockcity_not_open_fun=Diese Funktion ist noch nicht verfügbar
+gui_call_on_in_decoration=Wenn die Übertragung fehlschlägt, müssen Sie vor der Übertragung aufhören.
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=Schnitzel Sandstein
 tile.sandstone.smooth.name=Smooth Sandstone
 tile.stone.name=Stein
 tile.gold_block.name=Block Gold
-item.doorwood.name=Tür aus Holz
-tile.sandstone.default.name=Sandstein
+item.doorWood.name=Tür aus Holz
+item.doorWood=Tür aus Holz
 tile.leaves..name=Blätter
 tile.iron_block.name=Block aus Eisen
 tile.pressurePlate.name=Druckplatte aus Holz
@@ -653,5 +662,7 @@ item.wings_01.name=Sky Wings
 item.wings_02.name=Goldene Flügel
 item.wings_03.name=Magic Wings
 item.wings_04.name=Künftige Flügel
+gui_blockcity_sit_down=Setz dich.
+gui_blockcity_stand_up=Steh auf!
 
 language_end:item

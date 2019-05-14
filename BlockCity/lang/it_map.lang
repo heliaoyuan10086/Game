@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=Lavatrice
-decoration_name_1100002=Scrivania
-decoration_name_1212003=Sedia di legno
-decoration_name_1213004=Divano marrone
-decoration_name_1100005=Tavolo per computer
-decoration_name_3200006=Cestino dei rifiuti
-decoration_name_1212007=panca
-decoration_name_3200008=Palloncino
-decoration_name_3200009=Sinistra a mano
-decoration_name_3200010=Stufa a gas
-decoration_name_1213011=Panchina di legno
-decoration_name_1213012=Poltrona lunga
-decoration_name_1213013=Divano blu-bianco
-decoration_name_1213014=Divano bianco
-decoration_name_1213015=Unico divano blu-bianco
-decoration_name_1213016=Divano singolo bianco
-decoration_name_1212017=Sedia verde
-decoration_name_3212018=closestool
-decoration_name_1212019=Lattice Chair
-decoration_name_1212020=Sedia rossa
-decoration_name_1213021=Divano nero
-decoration_name_1212022=Sedia marrone
-decoration_name_1212023=Sedia nera
-decoration_name_1213024=Heart Sofa
-decoration_name_1213025=Panchina verde
-decoration_name_1213026=Panchina gialla
-decoration_name_1213027=Panchina marrone
 decoration_name_3100001.name=Lavatrice
 decoration_name_1100002.name=Scrivania
 decoration_name_1212003.name=Sedia di legno
@@ -165,6 +138,42 @@ decorate_tag_2=Camera da letto
 decorate_tag_3=Altri
 drawing_tag_1=tenuta
 drawing_tag_2=Paesaggio
+gui_blockcity_store_one=%d/1
+gui_blockcity_store_gcroup=%d/64
+gui_blockcity_friend_list=Elenco degli amici
+gui_blockcity_apply_list=Applicazione
+gui_blockcity_rank=Rank
+gui_blockcity_rank_friend=Rank amico
+gui_blockcity_rank_global=Rank globale
+gui_blockcity_own_rank=Il mio Rank
+gui_checkin_day=Giorno%d
+gui_blockcity_lock_money=Non abbastanza monete d'oro
+gui_blockcity_lock_money_tip=Non ci sono abbastanza monete d'oro, usare i cubi?
+gui_blockcity_lock_material=Non abbastanza materiale
+gui_blockcity_transfer_title=Conferma di trasmissione
+gui_blockcity_if_transfer=Sei sicuro di trasmettere al tuo regno?
+gui_blockcity_transfer=Conferma
+gui_blockcity_delete_title=Conferma chiara
+gui_blockcity_if_delete=Sicuro di ripulire tutti gli oggetti nel tuo regno?
+gui_blockcity_delete=Conferma
+gui_blockcity_operation_in_manor=Puoi farlo solo nel tuo regno.
+gui_blockcity_lock_item_title=Non hai questo oggetto.
+gui_blockcity_lock_item=Mancanza %s
+gui_blockcity_lock_item_buy_one=Acquista 1
+gui_blockcity_lock_item_buy_gcroup=Acquista 64
+gui_blockcity_invite=Invito
+gui_blockcity_ratify=Autorizzazione
+gui_blockcity_unratify=Annulla autorizzazione
+gui_blockcity_remove_out=Rimuovi regni
+gui_blockcity_invite_user=%s ti ha inviato un invito
+gui_blockcity_invite_sure=D'accordo
+gui_blockcity_invite_cancel=Rifiuta
+gui_blockcity_open_tiger_lottery=Lotteria Disegno
+gui_blockcity_open_cannon=Usa Cannone
+gui_blockcity_sit_down=Siediti. Siediti.
+gui_blockcity_stand_up=In piedi
+gui_blockcity_not_open_fun=Questa funzione non è ancora disponibile
+gui_call_on_in_decoration=La trasmissione fallisce, deve interrompere l'interazione prima della trasmissione
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=Pietra di sabbia intagliata
 tile.sandstone.smooth.name=Liscio arenile
 tile.stone.name=Pietra
 tile.gold_block.name=Block of Gold
-item.doorwood.name=Porta in legno
-tile.sandstone.default.name=Pietra
+item.doorWood.name=Porta in legno
+item.doorWood=Porta in legno
 tile.leaves..name=Foglie
 tile.iron_block.name=Blocco di ferro
 tile.pressurePlate.name=Piastra a pressione in legno
@@ -653,5 +662,7 @@ item.wings_01.name=Sky Wings
 item.wings_02.name=Golden Wings
 item.wings_03.name=Ali Magiche
 item.wings_04.name=Future ali
+gui_blockcity_sit_down=Siediti. Siediti.
+gui_blockcity_stand_up=In piedi
 
 language_end:item

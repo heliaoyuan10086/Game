@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=Washing Machine
-decoration_name_1100002=Desk
-decoration_name_1212003=Wooden Chair
-decoration_name_1213004=Brown Sofa
-decoration_name_1100005=Computer Table
-decoration_name_3200006=Trash Bin
-decoration_name_1212007=Bench
-decoration_name_3200008=Balloon
-decoration_name_3200009=Hand Sink
-decoration_name_3200010=Gas Stove
-decoration_name_1213011=Wooden Bench
-decoration_name_1213012=Long Armchair
-decoration_name_1213013=Blue-White Sofa
-decoration_name_1213014=White Sofa
-decoration_name_1213015=Single Blue-White Sofa
-decoration_name_1213016=Single White Sofa
-decoration_name_1212017=Green Chair
-decoration_name_3212018=Closestool
-decoration_name_1212019=Lattice Chair
-decoration_name_1212020=Red Chair
-decoration_name_1213021=Black Sofa
-decoration_name_1212022=Brown Chair
-decoration_name_1212023=Black Chair
-decoration_name_1213024=Heart Sofa
-decoration_name_1213025=Green Bench
-decoration_name_1213026=Yellow Bench
-decoration_name_1213027=Brown Bench
 decoration_name_3100001.name=Washing Machine
 decoration_name_1100002.name=Desk
 decoration_name_1212003.name=Wooden Chair
@@ -165,6 +138,42 @@ decorate_tag_2=Bedroom
 decorate_tag_3=Others
 drawing_tag_1=Estate
 drawing_tag_2=Landscape
+gui_blockcity_store_one=%d/1
+gui_blockcity_store_gcroup=%d/64
+gui_blockcity_friend_list=Friend List
+gui_blockcity_apply_list=Application
+gui_blockcity_rank=Rank
+gui_blockcity_rank_friend=Friend Rank
+gui_blockcity_rank_global=Global Rank
+gui_blockcity_own_rank=My Rank
+gui_checkin_day=Day %d
+gui_blockcity_lock_money=Not enough gold coins
+gui_blockcity_lock_money_tip=Not enough gold coins, use cubes?
+gui_blockcity_lock_material=Not enough material
+gui_blockcity_transfer_title=Transmit confirmation
+gui_blockcity_if_transfer=Sure to transmit to your Realm?
+gui_blockcity_transfer=Confirm
+gui_blockcity_delete_title=Clear up confirmation
+gui_blockcity_if_delete=Sure to clear up all items in your Realm?
+gui_blockcity_delete=Confirm
+gui_blockcity_operation_in_manor=You can only do this in your Realm
+gui_blockcity_lock_item_title=You don't have this item
+gui_blockcity_lock_item=Lack %s
+gui_blockcity_lock_item_buy_one=Buy 1
+gui_blockcity_lock_item_buy_gcroup=Buy 64
+gui_blockcity_invite=Invite
+gui_blockcity_ratify=Authorize
+gui_blockcity_unratify=Cancel Authorize
+gui_blockcity_remove_out=Remove Realm
+gui_blockcity_invite_user=%s hassent you an invitation
+gui_blockcity_invite_sure=Agree
+gui_blockcity_invite_cancel=Reject
+gui_blockcity_open_tiger_lottery=Lottery Draw
+gui_blockcity_open_cannon=Use Cannon
+gui_blockcity_sit_down=Sit Down
+gui_blockcity_stand_up=Stand Up
+gui_blockcity_not_open_fun=This function is not yet available
+gui_call_on_in_decoration=Transmition fail, you must stop interacting before transmition
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=Carved Sandstone
 tile.sandstone.smooth.name=Smooth Sandstone
 tile.stone.name=Stone
 tile.gold_block.name=Block of Gold
-item.doorwood.name=Wooden Door
-tile.sandstone.default.name=Sandstone
+item.doorWood.name=Wooden Door
+item.doorWood=Wooden Door
 tile.leaves..name=Leaves
 tile.iron_block.name=Block of Iron
 tile.pressurePlate.name=Wooden Pressure Plate
@@ -653,5 +662,7 @@ item.wings_01.name=Sky Wings
 item.wings_02.name=Golden Wings
 item.wings_03.name=Magic Wings
 item.wings_04.name=Future Wings
+gui_blockcity_sit_down=Sit Down
+gui_blockcity_stand_up=Stand Up
 
 language_end:item

@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=Mesin cuci
-decoration_name_1100002=Meja tulis
-decoration_name_1212003=Kursi kayu
-decoration_name_1213004=Sofa Coklat
-decoration_name_1100005=Meja komputer
-decoration_name_3200006=Bak sampah
-decoration_name_1212007=Bangku
-decoration_name_3200008=Balon
-decoration_name_3200009=Wastafel
-decoration_name_3200010=Tungku gas
-decoration_name_1213011=Bangku kayu
-decoration_name_1213012=Kursi Panjang
-decoration_name_1213013=Sofa Biru-Putih
-decoration_name_1213014=Sofa Putih
-decoration_name_1213015=Sofa Biru-Putih Single
-decoration_name_1213016=Sofa Putih Single
-decoration_name_1212017=Kursi Hijau
-decoration_name_3212018=Closestool
-decoration_name_1212019=Kursi Kisi
-decoration_name_1212020=Kursi Merah
-decoration_name_1213021=Sofa Hitam
-decoration_name_1212022=Kursi Brown
-decoration_name_1212023=Kursi Hitam
-decoration_name_1213024=Sofa hati
-decoration_name_1213025=Green Bench
-decoration_name_1213026=Bangku Kuning
-decoration_name_1213027=Brown Bench
 decoration_name_3100001.name=Mesin cuci
 decoration_name_1100002.name=Meja tulis
 decoration_name_1212003.name=Kursi kayu
@@ -165,6 +138,42 @@ decorate_tag_2=Kamar tidur
 decorate_tag_3=Lainnya
 drawing_tag_1=Perkebunan
 drawing_tag_2=Pemandangan
+gui_blockcity_store_one=%d/1
+gui_blockcity_store_gcroup=%d/64
+gui_blockcity_friend_list=Friend List
+gui_blockcity_apply_list=Application
+gui_blockcity_rank=Rank
+gui_blockcity_rank_friend=Friend Rank
+gui_blockcity_rank_global=Global Rank
+gui_blockcity_own_rank=My Rank
+gui_checkin_day=Day %d
+gui_blockcity_lock_money=Not enough gold coins
+gui_blockcity_lock_money_tip=Not enough gold coins, use cubes?
+gui_blockcity_lock_material=Not enough material
+gui_blockcity_transfer_title=Transmit confirmation
+gui_blockcity_if_transfer=Sure to transmit to your Realm?
+gui_blockcity_transfer=Confirm
+gui_blockcity_delete_title=Clear up confirmation
+gui_blockcity_if_delete=Sure to clear up all items in your Realm?
+gui_blockcity_delete=Confirm
+gui_blockcity_operation_in_manor=You can only do this in your Realm
+gui_blockcity_lock_item_title=You don't have this item
+gui_blockcity_lock_item=Lack %s
+gui_blockcity_lock_item_buy_one=Buy 1
+gui_blockcity_lock_item_buy_gcroup=Buy 64
+gui_blockcity_invite=Invite
+gui_blockcity_ratify=Authorize
+gui_blockcity_unratify=Cancel Authorize
+gui_blockcity_remove_out=Remove Realm
+gui_blockcity_invite_user=%s hassent you an invitation
+gui_blockcity_invite_sure=Agree
+gui_blockcity_invite_cancel=Reject
+gui_blockcity_open_tiger_lottery=Lottery Draw
+gui_blockcity_open_cannon=Use Cannon
+gui_blockcity_sit_down=Sit Down
+gui_blockcity_stand_up=Stand Up
+gui_blockcity_not_open_fun=This function is not yet available
+gui_call_on_in_decoration=Transmition fail, you must stop interacting before transmition
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=Batu Pasir Ukir
 tile.sandstone.smooth.name=Batu Pasir yang halus
 tile.stone.name=batu
 tile.gold_block.name=Blok Emas
-item.doorwood.name=Pintu kayu
-tile.sandstone.default.name=batu pasir
+item.doorWood.name=Pintu kayu
+item.doorWood=Pintu kayu
 tile.leaves..name=daun
 tile.iron_block.name=Blok Besi
 tile.pressurePlate.name=Pelat Tekanan Kayu
@@ -653,5 +662,7 @@ item.wings_01.name=Sky Wings
 item.wings_02.name=Golden Wings
 item.wings_03.name=Magic Wings
 item.wings_04.name=Future Wings
+gui_blockcity_sit_down=Sit Down
+gui_blockcity_stand_up=Stand Up
 
 language_end:item

@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=洗衣机
-decoration_name_1100002=书桌
-decoration_name_1212003=木椅
-decoration_name_1213004=棕色沙发
-decoration_name_1100005=电脑桌
-decoration_name_3200006=垃圾桶
-decoration_name_1212007=长椅
-decoration_name_3200008=气球
-decoration_name_3200009=洗手池
-decoration_name_3200010=燃气灶
-decoration_name_1213011=长木椅
-decoration_name_1213012=长扶手椅
-decoration_name_1213013=蓝白沙发
-decoration_name_1213014=白色沙发
-decoration_name_1213015=单人蓝白沙发
-decoration_name_1213016=单人白色沙发
-decoration_name_1212017=绿色椅子
-decoration_name_3212018=马桶
-decoration_name_1212019=格子椅
-decoration_name_1212020=红色椅子
-decoration_name_1213021=黑色沙发
-decoration_name_1212022=棕色椅子
-decoration_name_1212023=黑色椅子
-decoration_name_1213024=爱心沙发
-decoration_name_1213025=绿色长凳
-decoration_name_1213026=黄色长凳
-decoration_name_1213027=棕色长凳
 decoration_name_3100001.name=洗衣机
 decoration_name_1100002.name=书桌
 decoration_name_1212003.name=木椅
@@ -165,6 +138,42 @@ decorate_tag_2=卧室
 decorate_tag_3=其他
 drawing_tag_1=建筑
 drawing_tag_2=景观
+gui_blockcity_store_one=%d/个
+gui_blockcity_store_gcroup=%d/64个
+gui_blockcity_friend_list=好友列表
+gui_blockcity_apply_list=申请列表
+gui_blockcity_rank=排行榜
+gui_blockcity_rank_friend=好友排行
+gui_blockcity_rank_global=全球排行
+gui_blockcity_own_rank=我的排名
+gui_checkin_day=第%d天
+gui_blockcity_lock_money=金币不足
+gui_blockcity_lock_money_tip=金币不足，是否使用魔方
+gui_blockcity_lock_material=缺少材料
+gui_blockcity_transfer_title=传送确定
+gui_blockcity_if_transfer=是否确定传送回家
+gui_blockcity_transfer=传送
+gui_blockcity_delete_title=清空确定
+gui_blockcity_if_delete=是否清空领地内所有物品
+gui_blockcity_delete=清空
+gui_blockcity_operation_in_manor=需要在领地内才能操作
+gui_blockcity_lock_item_title=缺少物品
+gui_blockcity_lock_item=当前缺少%s
+gui_blockcity_lock_item_buy_one=购买 1 个
+gui_blockcity_lock_item_buy_gcroup=购买 64 个
+gui_blockcity_invite=邀请
+gui_blockcity_ratify=授权
+gui_blockcity_unratify=取消授权
+gui_blockcity_remove_out=移除领地
+gui_blockcity_invite_user=%s 邀请您去他家参观
+gui_blockcity_invite_sure=同意
+gui_blockcity_invite_cancel=取消
+gui_blockcity_open_tiger_lottery=抽奖
+gui_blockcity_open_cannon=使用大炮
+gui_blockcity_sit_down=坐下
+gui_blockcity_stand_up=站起
+gui_blockcity_not_open_fun=该功能暂未开放
+gui_call_on_in_decoration=传送失败，离开交互后方可传送！
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=雕刻砂岩
 tile.sandstone.smooth.name=平滑砂岩
 tile.stone.name=石头
 tile.gold_block.name=金块
-item.doorwood.name=木门
-tile.sandstone.default.name=砂岩
+item.doorWood.name=木门
+item.doorWood=木门
 tile.leaves..name=树叶
 tile.iron_block.name=铁块
 tile.pressurePlate.name=木质压力板
@@ -653,5 +662,7 @@ item.wings_01.name=蓝天之翼
 item.wings_02.name=黄金之翼
 item.wings_03.name=魔法之翼
 item.wings_04.name=未来之翼
+gui_blockcity_sit_down=坐下
+gui_blockcity_stand_up=站起
 
 language_end:item

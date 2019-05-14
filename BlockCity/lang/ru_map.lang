@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=Стиральная машина
-decoration_name_1100002=стол письменный
-decoration_name_1212003=Деревянный стул
-decoration_name_1213004=Коричневый диван
-decoration_name_1100005=Компьютерный стол
-decoration_name_3200006=Мусорное ведро
-decoration_name_1212007=Скамейка
-decoration_name_3200008=Баллон
-decoration_name_3200009=стороны, тони
-decoration_name_3200010=Газовая плита
-decoration_name_1213011=Деревянная скамья
-decoration_name_1213012=Длинное кресло
-decoration_name_1213013=Сине-белый диван
-decoration_name_1213014=Белый диван
-decoration_name_1213015=Одноместный сине-белый диван
-decoration_name_1213016=Одноместный Белый Диван
-decoration_name_1212017=Зеленый стул
-decoration_name_3212018=Closestool
-decoration_name_1212019=Стул решетки
-decoration_name_1212020=Красный стул
-decoration_name_1213021=Черный диван
-decoration_name_1212022=Коричневый стул
-decoration_name_1212023=Черный стул
-decoration_name_1213024=Диван Сердце
-decoration_name_1213025=Зеленая скамья
-decoration_name_1213026=Желтая скамья
-decoration_name_1213027=Коричневая скамья
 decoration_name_3100001.name=Стиральная машина
 decoration_name_1100002.name=стол письменный
 decoration_name_1212003.name=Деревянный стул
@@ -165,6 +138,42 @@ decorate_tag_2=спальная комната
 decorate_tag_3=другие
 drawing_tag_1=имущество
 drawing_tag_2=Пейзаж
+gui_blockcity_store_one=%d/1
+gui_blockcity_store_gcroup=%d/64
+gui_blockcity_friend_list=список друзей
+gui_blockcity_apply_list=применение
+gui_blockcity_rank=звание
+gui_blockcity_rank_friend=друг.
+gui_blockcity_rank_global=мировой рейтинг
+gui_blockcity_own_rank=я - офицер
+gui_checkin_day=день% d
+gui_blockcity_lock_money=не хватает золотых монет
+gui_blockcity_lock_money_tip=не хватает золотых монет, использование кубики?
+gui_blockcity_lock_material=не достаточно материала
+gui_blockcity_transfer_title=передавать подтверждения
+gui_blockcity_if_transfer=уверен, что передать вашу территорию?
+gui_blockcity_transfer=подтвердить
+gui_blockcity_delete_title=прояснить утверждение
+gui_blockcity_if_delete=конечно, чтобы прояснить все вопросы в ваших отношений?
+gui_blockcity_delete=подтвердить
+gui_blockcity_operation_in_manor=ты можешь делать это только в вашей сфере
+gui_blockcity_lock_item_title=ты не должен этого пункта
+gui_blockcity_lock_item=отсутствие %s
+gui_blockcity_lock_item_buy_one=купить 1
+gui_blockcity_lock_item_buy_gcroup=купить 64
+gui_blockcity_invite=приглашаю
+gui_blockcity_ratify=разрешить
+gui_blockcity_unratify=отменить разрешение
+gui_blockcity_remove_out=удалить царство
+gui_blockcity_invite_user=%s послал тебе приглашение
+gui_blockcity_invite_sure=согласны
+gui_blockcity_invite_cancel=отклонить
+gui_blockcity_open_tiger_lottery=лотереи
+gui_blockcity_open_cannon=из пушки
+gui_blockcity_sit_down=садись
+gui_blockcity_stand_up=встань
+gui_blockcity_not_open_fun=эта функция пока нет
+gui_call_on_in_decoration=не предоставляется, вы должны прекратить взаимодействие до предоставляется
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=резные песчаник
 tile.sandstone.smooth.name=гладкие песчаник
 tile.stone.name=камень
 tile.gold_block.name=блок золота
-item.doorwood.name=деревянные двери
-tile.sandstone.default.name=песчаник
+item.doorWood.name=деревянные двери
+item.doorWood=деревянные двери
 tile.leaves..name=листья
 tile.iron_block.name=блок железа
 tile.pressurePlate.name=деревянные датчик давления
@@ -653,5 +662,7 @@ item.wings_01.name=небо крылья
 item.wings_02.name=золотые крылья
 item.wings_03.name=магия крылья
 item.wings_04.name=в будущем.
+gui_blockcity_sit_down=садись
+gui_blockcity_stand_up=встань
 
 language_end:item

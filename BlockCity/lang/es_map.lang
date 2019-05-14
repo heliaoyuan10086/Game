@@ -68,33 +68,6 @@ language_end:blueprint
 
 language_start:decoration
 
-decoration_name_3100001=Lavadora
-decoration_name_1100002=Escritorio
-decoration_name_1212003=Silla de madera
-decoration_name_1213004=Sofa marron
-decoration_name_1100005=Mesa de ordenador
-decoration_name_3200006=Contenedor de basura
-decoration_name_1212007=Banco
-decoration_name_3200008=Globo
-decoration_name_3200009=Mano fregadero
-decoration_name_3200010=Estufa de gas
-decoration_name_1213011=Banco de madera
-decoration_name_1213012=Sillón largo
-decoration_name_1213013=Sofá azul blanco
-decoration_name_1213014=Sofá Blanco
-decoration_name_1213015=Sofá individual azul-blanco
-decoration_name_1213016=Sofá individual blanco
-decoration_name_1212017=Silla verde
-decoration_name_3212018=Cerca de las heces
-decoration_name_1212019=Silla de celosía
-decoration_name_1212020=Silla roja
-decoration_name_1213021=Sofá negro
-decoration_name_1212022=Silla marrón
-decoration_name_1212023=Silla negra
-decoration_name_1213024=Sofá del corazón
-decoration_name_1213025=Banco verde
-decoration_name_1213026=Banco amarillo
-decoration_name_1213027=Banco marrón
 decoration_name_3100001.name=Lavadora
 decoration_name_1100002.name=Escritorio
 decoration_name_1212003.name=Silla de madera
@@ -165,6 +138,42 @@ decorate_tag_2=Habitación
 decorate_tag_3=Otros
 drawing_tag_1=Inmuebles
 drawing_tag_2=Paisaje
+gui_blockcity_store_one=%d/1
+gui_blockcity_store_gcroup=%d/64
+gui_blockcity_friend_list=Lista de amigo
+gui_blockcity_apply_list=Aplicación
+gui_blockcity_rank=Rank
+gui_blockcity_rank_friend=Amigo rank
+gui_blockcity_rank_global=Global rank
+gui_blockcity_own_rank=Mi rango
+gui_checkin_day=Dia% d
+gui_blockcity_lock_money=No suficientes monedas de oro
+gui_blockcity_lock_money_tip=¿No suficientes monedas de oro, usar cubos?
+gui_blockcity_lock_material=No suficiente material
+gui_blockcity_transfer_title=Transmitir la confirmación
+gui_blockcity_if_transfer=¿Seguro para transmitir a su reino?
+gui_blockcity_transfer=Confirmar
+gui_blockcity_delete_title=Aclarar la confirmación
+gui_blockcity_if_delete=¿Seguro para aclarar todos los articulos en tu reino?
+gui_blockcity_delete=Confirmar
+gui_blockcity_operation_in_manor=Sólo puedes hacer esto en tu reino
+gui_blockcity_lock_item_title=No tienes este tema
+gui_blockcity_lock_item=Faltade %s
+gui_blockcity_lock_item_buy_one=Comprar 1
+gui_blockcity_lock_item_buy_gcroup=Comprar 64
+gui_blockcity_invite=Invitar a
+gui_blockcity_ratify=Autorizar
+gui_blockcity_unratify=Cancelar autorizar
+gui_blockcity_remove_out=Eliminar el Reino
+gui_blockcity_invite_user=%s le ha enviado una invitacion
+gui_blockcity_invite_sure=De acuerdo
+gui_blockcity_invite_cancel=Rechazar
+gui_blockcity_open_tiger_lottery=Sorteo de la loteria
+gui_blockcity_open_cannon=Utilice cañón
+gui_blockcity_sit_down=Siéntate
+gui_blockcity_stand_up=Stand Up
+gui_blockcity_not_open_fun=Esta funcion no esta disponible todavia
+gui_call_on_in_decoration=Transmisión falla, usted debe dejar de interactuar antes de transmisión
 
 language_end:system
 
@@ -602,8 +611,8 @@ tile.sandstone.chiseled.name=Piedra tallada
 tile.sandstone.smooth.name=Smooth Sandstone
 tile.stone.name=Piedra
 tile.gold_block.name=Bloque de oro
-item.doorwood.name=Puerta de madera
-tile.sandstone.default.name=Sandstone
+item.doorWood.name=Puerta de madera
+item.doorWood=Puerta de madera
 tile.leaves..name=Hojas
 tile.iron_block.name=Bloque de hierro
 tile.pressurePlate.name=Placa de madera
@@ -653,5 +662,7 @@ item.wings_01.name=SKY WINGS
 item.wings_02.name=Alas de oro
 item.wings_03.name=Magic Wings
 item.wings_04.name=Futuro alas
+gui_blockcity_sit_down=Siéntate
+gui_blockcity_stand_up=Stand Up
 
 language_end:item
