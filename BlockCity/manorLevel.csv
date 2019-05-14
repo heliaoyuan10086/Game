@@ -1,5 +1,5 @@
 领地等级	领地可操作范围开始偏移x	领地可操作范围开始偏移y	领地可操作范围开始偏移z	领地可操作范围结束偏移x	领地可操作范围结束偏移y	领地可操作范围结束偏移z	等级积分	升级需要的金钱类别	升级需要的金钱	当前等级一键删除所需的金币类型	当前等级一键删除所需要的钱	BlockId	Meta
 level	offsetStartX	offsetStartY	offsetStartZ	offsetEndX	offsetEndY	offsetEndZ	score	moneyType	price	moneyTypeToDelete	priceToDelete	repairBlockId	repairBlockMeta
-1	7	0	12	17	50	22	10	2	10	2	10	5	0
-2	2	0	12	22	50	22	20	2	20	2	20	5	0
-3	2	0	2	22	50	22	30	2	0	2	30	5	0
+1	8	0	2	21	50	15	10	2	10	2	10	5	0
+2	2	0	2	27	50	17	20	2	20	2	20	5	0
+3	2	0	2	27	50	27	30	2	0	2	30	5	0
