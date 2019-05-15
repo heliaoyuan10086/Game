@@ -700,8 +700,8 @@ language_end:tile
 language_start:item
 
 item.wings_01.name=Asas do Céu
-item.wings_02.name=Asas Douradas
-item.wings_03.name=Asas Mágicas
+item.wings_02.name=Asas Mágicas
+item.wings_03.name=Asas Douradas
 item.wings_04.name=Asas do Futuro
 gui_blockcity_sit_down=Sente -se. Sente -se.
 gui_blockcity_stand_up=Fique de pé.

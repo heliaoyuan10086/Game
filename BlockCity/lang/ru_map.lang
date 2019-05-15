@@ -700,8 +700,8 @@ language_end:tile
 language_start:item
 
 item.wings_01.name=небо крылья
-item.wings_02.name=золотые крылья
-item.wings_03.name=магия крылья
+item.wings_02.name=магия крылья
+item.wings_03.name=золотые крылья
 item.wings_04.name=в будущем.
 gui_blockcity_sit_down=садись
 gui_blockcity_stand_up=встань

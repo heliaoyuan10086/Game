@@ -1,6 +1,6 @@
 翅膀ID	飞行速度	下落减速（百分比）	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，3.果币，4.抽蛋票)	物品类型（1采集器，2存储灌，3装饰， 4翅膀）	物品描述	所属商店	装饰部件名字	装饰部件Id	新图标
 wingId	speed	reduction	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindStoreId	actorName	actorId	iconNew
-4001	1	0.25	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	1	item.wings_01.name	-650.5	14	-298.5	270	10000	3	4	item.wings.describe_01	101003	custom_wing	17	set:bird_icon.json image:wing_01
-4002	1	0.25	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	2	item.wings_02.name	-650.5	14	-298.5	270	10000	3	4	item.wings.describe_02	101003	custom_wing	18	set:bird_icon.json image:wing_01
-4003	1.1	0.25	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	3	item.wings_03.name	-650.5	14	-298.5	270	10000	3	4	item.wings.describe_03	101003	custom_wing	19	set:bird_icon.json image:wing_01
-4004	1.3	0.3	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	4	item.wings_04.name	-650.5	14	-298.5	270	10000	3	4	item.wings.describe_04	101003	custom_wing	20	set:bird_icon.json image:wing_01
+4001	0.6	0.3	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	1	item.wings_01.name	-650.5	14	-298.5	270	10000	3	4	item.wings.describe_01	101003	custom_wing	17	set:bird_icon.json image:wing_01
+4002	0.6	0.3	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	2	item.wings_02.name	-650.5	14	-298.5	270	10000	3	4	item.wings.describe_02	101003	custom_wing	18	set:bird_icon.json image:wing_01
+4003	1	0.4	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	3	item.wings_03.name	-650.5	14	-298.5	270	10000	3	4	item.wings.describe_03	101003	custom_wing	19	set:bird_icon.json image:wing_01
+4004	1.4	0.5	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	4	item.wings_04.name	-650.5	14	-298.5	270	10000	3	4	item.wings.describe_04	101003	custom_wing	20	set:bird_icon.json image:wing_01

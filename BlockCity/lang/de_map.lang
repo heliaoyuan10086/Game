@@ -700,8 +700,8 @@ language_end:tile
 language_start:item
 
 item.wings_01.name=Sky Wings
-item.wings_02.name=Goldene Flügel
-item.wings_03.name=Magic Wings
+item.wings_02.name=Magic Wings
+item.wings_03.name=Goldene Flügel
 item.wings_04.name=Künftige Flügel
 gui_blockcity_sit_down=Setz dich.
 gui_blockcity_stand_up=Steh auf!

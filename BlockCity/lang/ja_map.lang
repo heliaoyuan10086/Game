@@ -700,8 +700,8 @@ language_end:tile
 language_start:item
 
 item.wings_01.name=スカイウィングス
-item.wings_02.name=ゴールデンウィングス
-item.wings_03.name=マジックウィングス
+item.wings_02.name=マジックウィングス
+item.wings_03.name=ゴールデンウィングス
 item.wings_04.name=未来の翼
 gui_blockcity_sit_down=座る
 gui_blockcity_stand_up=立ち上がる

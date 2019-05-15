@@ -700,8 +700,8 @@ language_end:tile
 language_start:item
 
 item.wings_01.name=sky wings
-item.wings_02.name=des ailes d'or
-item.wings_03.name=ailes magiques
+item.wings_02.name=ailes magiques
+item.wings_03.name=des ailes d'or
 item.wings_04.name=les wings
 gui_blockcity_sit_down=assieds - toi
 gui_blockcity_stand_up=debout

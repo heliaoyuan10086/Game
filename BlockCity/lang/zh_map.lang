@@ -700,8 +700,8 @@ language_end:tile
 language_start:item
 
 item.wings_01.name=蓝天之翼
-item.wings_02.name=黄金之翼
-item.wings_03.name=魔法之翼
+item.wings_02.name=魔法之翼
+item.wings_03.name=黄金之翼
 item.wings_04.name=未来之翼
 gui_blockcity_sit_down=坐下
 gui_blockcity_stand_up=站起

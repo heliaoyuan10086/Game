@@ -700,8 +700,8 @@ language_end:tile
 language_start:item
 
 item.wings_01.name=하늘 날개
-item.wings_02.name=김 날개
-item.wings_03.name=마술 날개
+item.wings_02.name=마술 날개
+item.wings_03.name=김 날개
 item.wings_04.name=앞으로 날개
 gui_blockcity_sit_down=앉아, 앉아.
 gui_blockcity_stand_up=일어나.

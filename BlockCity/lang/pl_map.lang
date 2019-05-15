@@ -700,8 +700,8 @@ language_end:tile
 language_start:item
 
 item.wings_01.name=Skrzydła nieba
-item.wings_02.name=Złote Skrzydła
-item.wings_03.name=Magiczne Skrzydła
+item.wings_02.name=Magiczne Skrzydła
+item.wings_03.name=Złote Skrzydła
 item.wings_04.name=Przyszłe skrzydła
 gui_blockcity_sit_down=Proszę usiąść.
 gui_blockcity_stand_up=Wstań. Wstań.

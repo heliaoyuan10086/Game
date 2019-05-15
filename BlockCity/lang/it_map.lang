@@ -700,8 +700,8 @@ language_end:tile
 language_start:item
 
 item.wings_01.name=Sky Wings
-item.wings_02.name=Golden Wings
-item.wings_03.name=Ali Magiche
+item.wings_02.name=Ali Magiche
+item.wings_03.name=Golden Wings
 item.wings_04.name=Future ali
 gui_blockcity_sit_down=Siediti. Siediti.
 gui_blockcity_stand_up=In piedi
