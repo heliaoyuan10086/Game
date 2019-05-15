@@ -1,0 +1,6 @@
+方块id	回收id	回收meta	x轴增加	x轴减少	y轴增加	y轴减少	z轴增加	z轴减少	名称
+blockid	id	meta	xplus	xminus	yplus	yminus	zplus	zminus	name
+50	50	5	1	2	5	@@@	3	4	火把
+75	76	5	1	2	5	@@@	3	4	红石火把
+76	76	5	1	2	5	@@@	3	4	红石火把
+65	65	0	5	4	@@@	@@@	3	0	梯子
