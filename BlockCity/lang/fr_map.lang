@@ -214,6 +214,7 @@ gui_blockcity_sit_down=assieds - toi
 gui_blockcity_stand_up=debout
 gui_blockcity_not_open_fun=cette fonction n'est pas encore disponible
 gui_call_on_in_decoration=transmition échoue, vous devez arrêter avant transmition interaction
+gui_flymsg=tu dois passer en mode
 
 language_end:system
 

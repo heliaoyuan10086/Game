@@ -214,6 +214,7 @@ gui_blockcity_sit_down=Siediti. Siediti.
 gui_blockcity_stand_up=In piedi
 gui_blockcity_not_open_fun=Questa funzione non è ancora disponibile
 gui_call_on_in_decoration=La trasmissione fallisce, deve interrompere l'interazione prima della trasmissione
+gui_flymsg=È necessario passare alla modalità di volo
 
 language_end:system
 

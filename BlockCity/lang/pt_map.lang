@@ -214,6 +214,7 @@ gui_blockcity_sit_down=Sente -se. Sente -se.
 gui_blockcity_stand_up=Fique de pé.
 gui_blockcity_not_open_fun=Esta função ainda não está disponível
 gui_call_on_in_decoration=Se a transmissão falhar, você deve parar de interagir antes Da transmissão.
+gui_flymsg=Você Precisa mudar para modo de vôo
 
 language_end:system
 

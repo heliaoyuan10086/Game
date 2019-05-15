@@ -214,6 +214,7 @@ gui_blockcity_sit_down=Proszę usiąść.
 gui_blockcity_stand_up=Wstań. Wstań.
 gui_blockcity_not_open_fun=Ta funkcja nie jest jeszcze dostępna
 gui_call_on_in_decoration=Transmitacja nie powiodła się, musisz przerwać interakcję przed transmisją.
+gui_flymsg=Musisz przełączyć się na tryb latania
 
 language_end:system
 

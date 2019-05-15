@@ -214,6 +214,7 @@ gui_blockcity_sit_down=Setz dich.
 gui_blockcity_stand_up=Steh auf!
 gui_blockcity_not_open_fun=Diese Funktion ist noch nicht verfügbar
 gui_call_on_in_decoration=Wenn die Übertragung fehlschlägt, müssen Sie vor der Übertragung aufhören.
+gui_flymsg=Sie müssen in den Flugmodus wechseln
 
 language_end:system
 

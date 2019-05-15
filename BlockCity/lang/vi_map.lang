@@ -214,6 +214,7 @@ gui_blockcity_sit_down=Ngồi xuống.
 gui_blockcity_stand_up=Đứng lên
 gui_blockcity_not_open_fun=Chức năng này chưa sẵn sàng
 gui_call_on_in_decoration=Tín hiệu không truyền, bạn phải ngừng tác động trước khi phát.
+gui_flymsg=Bạn cần chuyển sang chế độ bay
 
 language_end:system
 

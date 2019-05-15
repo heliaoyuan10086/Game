@@ -214,6 +214,7 @@ gui_blockcity_sit_down=นั่งลง
 gui_blockcity_stand_up=ยืนขึ้น
 gui_blockcity_not_open_fun=ฟังก์ชันนี้ยังไม่สามารถใช้ได้
 gui_call_on_in_decoration=transmition ล้มเหลว คุณต้องหยุด ก่อนที่ transmition โต้ตอบ
+gui_flymsg=คุณต้องการสลับไปยังโหมดบิน
 
 language_end:system
 

@@ -214,6 +214,7 @@ gui_blockcity_sit_down=앉아, 앉아.
 gui_blockcity_stand_up=일어나.
 gui_blockcity_not_open_fun=아직 이 기능을 사용할 수 없다
 gui_call_on_in_decoration=전송 실패한다면, 너는 반드시 서로 완전히 전에 그만
+gui_flymsg=너는 반드시 비행 모드로 전환
 
 language_end:system
 
