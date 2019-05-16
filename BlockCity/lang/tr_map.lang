@@ -63,19 +63,19 @@ drawing_name_25.name=Sokak lambası
 drawing_name_26.name=Kuvars Şemsiye
 drawing_name_27.name=sekizyüzlü
 drawing_name_28.name=ağaç
-drawing_name_901=Block Gift
-drawing_name_902=Structure Gift
-drawing_name_903=Wool Gift
-drawing_name_904=Grass Gift
-drawing_name_905=Sandstone Gift
-drawing_name_906=Gold Gift
-drawing_name_907=Tree Gift
-drawing_name_908=Wood Gift
-drawing_name_909=Glass Gift
-drawing_name_910=ConcreteGift
-drawing_name_911=Wool Gift
-drawing_name_912=Special Gift
-drawing_name_913=Jewel Gift
+drawing_name_901=Kare paket
+drawing_name_902=Yapı paketi
+drawing_name_903=Yün paketi
+drawing_name_904=Çim çanta
+drawing_name_905=Kumtaşı paketi
+drawing_name_906=Altın paketi
+drawing_name_907=Ağaç paketi
+drawing_name_908=Ahşap paketi
+drawing_name_909=Cam paketi
+drawing_name_910=Beton paketi
+drawing_name_911=Yün paketi
+drawing_name_912=Özel hediye paketi
+drawing_name_913=Değerli taş paketi
 
 language_end:blueprint
 
@@ -180,41 +180,41 @@ drawing_tag_1=Arazi
 drawing_tag_2=peyzaj
 gui_blockcity_store_one=%d/1
 gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=Friend List
-gui_blockcity_apply_list=Application
-gui_blockcity_rank=Rank
-gui_blockcity_rank_friend=Friend Rank
-gui_blockcity_rank_global=Global Rank
-gui_blockcity_own_rank=My Rank
-gui_checkin_day=Day %d
-gui_blockcity_lock_money=Not enough gold coins
-gui_blockcity_lock_money_tip=Not enough gold coins, use cubes?
-gui_blockcity_lock_material=Not enough material
-gui_blockcity_transfer_title=Transmit confirmation
-gui_blockcity_if_transfer=Sure to transmit to your Realm?
-gui_blockcity_transfer=Confirm
-gui_blockcity_delete_title=Clear up confirmation
-gui_blockcity_if_delete=Sure to clear up all items in your Realm?
-gui_blockcity_delete=Confirm
-gui_blockcity_operation_in_manor=You can only do this in your Realm
-gui_blockcity_lock_item_title=You don't have this item
-gui_blockcity_lock_item=Lack %s
-gui_blockcity_lock_item_buy_one=Buy 1
-gui_blockcity_lock_item_buy_gcroup=Buy 64
-gui_blockcity_invite=Invite
-gui_blockcity_ratify=Authorize
-gui_blockcity_unratify=Cancel Authorize
-gui_blockcity_remove_out=Remove Realm
-gui_blockcity_invite_user=%s hassent you an invitation
-gui_blockcity_invite_sure=Agree
-gui_blockcity_invite_cancel=Reject
-gui_blockcity_open_tiger_lottery=Lottery Draw
-gui_blockcity_open_cannon=Use Cannon
-gui_blockcity_sit_down=Sit Down
-gui_blockcity_stand_up=Stand Up
-gui_blockcity_not_open_fun=This function is not yet available
-gui_call_on_in_decoration=Transmition fail, you must stop interacting before transmition
-gui_flymsg=You need to switch to flying mode
+gui_blockcity_friend_list=Arkadaş listesi
+gui_blockcity_apply_list=Uygulama listesi
+gui_blockcity_rank=Afiş
+gui_blockcity_rank_friend=Arkadaş sıralaması
+gui_blockcity_rank_global=Global sıralama
+gui_blockcity_own_rank=Benim sıralama
+gui_checkin_day=%d gün
+gui_blockcity_lock_money=Altın para eksikliği
+gui_blockcity_lock_money_tip=Altın para eksikliği,Rubik Küpü kullanılıp kullanılmayacağı
+gui_blockcity_lock_material=Malzeme eksikliği
+gui_blockcity_transfer_title=Transfer belirleme
+gui_blockcity_if_transfer=Eve göndereceğine emin misin?
+gui_blockcity_transfer=teslim etmek
+gui_blockcity_delete_title=Temizle tamam
+gui_blockcity_if_delete=Bölgedeki tüm öğelerin boşaltılıp boşaltılmayacağı
+gui_blockcity_delete=açık
+gui_blockcity_operation_in_manor=Bölgede faaliyet göstermeli
+gui_blockcity_lock_item_title=Kayıp eşya
+gui_blockcity_lock_item=Şu anda eksik %s
+gui_blockcity_lock_item_buy_one=1 satın al
+gui_blockcity_lock_item_buy_gcroup=64 satın al
+gui_blockcity_invite=davet etmek
+gui_blockcity_ratify=yetki vermek
+gui_blockcity_unratify=yetkisini kaldır
+gui_blockcity_remove_out=Bölgeyi kaldır
+gui_blockcity_invite_user=%s Seni evini ziyaret etmeye davet et
+gui_blockcity_invite_sure=anlaşmak
+gui_blockcity_invite_cancel=iptal edildi
+gui_blockcity_open_tiger_lottery=piyango
+gui_blockcity_open_cannon=Top kullanarak
+gui_blockcity_sit_down=Otur
+gui_blockcity_stand_up=Ayağa kalk
+gui_blockcity_not_open_fun=Bu özellik henüz açık değil
+gui_call_on_in_decoration=Aktarım başarısız oldu, etkileşimi aktarmaya bıraktı!
+gui_flymsg=Uçuş moduna geçmeniz gerekiyor
 
 language_end:system
 
@@ -699,11 +699,11 @@ language_end:tile
 
 language_start:item
 
-item.wings_01.name=Sky Wings
-item.wings_02.name=Magic Wings
-item.wings_03.name=Golden Wings
-item.wings_04.name=Future Wings
-gui_blockcity_sit_down=Sit Down
-gui_blockcity_stand_up=Stand Up
+item.wings_01.name=Mavi gökyüzünün kanat
+item.wings_02.name=Büyü kanadı
+item.wings_03.name=Altın kanat
+item.wings_04.name=Geleceğin Kanadı
+gui_blockcity_sit_down=Otur
+gui_blockcity_stand_up=Ayağa kalk
 
 language_end:item

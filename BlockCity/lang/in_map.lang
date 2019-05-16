@@ -63,19 +63,19 @@ drawing_name_25.name=Lampu jalan
 drawing_name_26.name=Payung Kuarsa
 drawing_name_27.name=Segi delapan
 drawing_name_28.name=Pohon
-drawing_name_901=Block Gift
-drawing_name_902=Structure Gift
-drawing_name_903=Wool Gift
-drawing_name_904=Grass Gift
-drawing_name_905=Sandstone Gift
-drawing_name_906=Gold Gift
-drawing_name_907=Tree Gift
-drawing_name_908=Wood Gift
-drawing_name_909=Glass Gift
-drawing_name_910=ConcreteGift
-drawing_name_911=Wool Gift
-drawing_name_912=Special Gift
-drawing_name_913=Jewel Gift
+drawing_name_901=Paket persegi
+drawing_name_902=Paket struktur
+drawing_name_903=Paket wol
+drawing_name_904=Tas rumput
+drawing_name_905=Paket batu pasir
+drawing_name_906=Paket emas
+drawing_name_907=Paket pohon
+drawing_name_908=Paket kayu
+drawing_name_909=Paket gelas
+drawing_name_910=Paket beton
+drawing_name_911=Paket wol
+drawing_name_912=Paket hadiah khusus
+drawing_name_913=Paket batu permata
 
 language_end:blueprint
 
@@ -180,41 +180,41 @@ drawing_tag_1=Perkebunan
 drawing_tag_2=Pemandangan
 gui_blockcity_store_one=%d/1
 gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=Friend List
-gui_blockcity_apply_list=Application
-gui_blockcity_rank=Rank
-gui_blockcity_rank_friend=Friend Rank
-gui_blockcity_rank_global=Global Rank
-gui_blockcity_own_rank=My Rank
-gui_checkin_day=Day %d
-gui_blockcity_lock_money=Not enough gold coins
-gui_blockcity_lock_money_tip=Not enough gold coins, use cubes?
-gui_blockcity_lock_material=Not enough material
-gui_blockcity_transfer_title=Transmit confirmation
-gui_blockcity_if_transfer=Sure to transmit to your Realm?
-gui_blockcity_transfer=Confirm
-gui_blockcity_delete_title=Clear up confirmation
-gui_blockcity_if_delete=Sure to clear up all items in your Realm?
-gui_blockcity_delete=Confirm
-gui_blockcity_operation_in_manor=You can only do this in your Realm
-gui_blockcity_lock_item_title=You don't have this item
-gui_blockcity_lock_item=Lack %s
-gui_blockcity_lock_item_buy_one=Buy 1
-gui_blockcity_lock_item_buy_gcroup=Buy 64
-gui_blockcity_invite=Invite
-gui_blockcity_ratify=Authorize
-gui_blockcity_unratify=Cancel Authorize
-gui_blockcity_remove_out=Remove Realm
-gui_blockcity_invite_user=%s hassent you an invitation
-gui_blockcity_invite_sure=Agree
-gui_blockcity_invite_cancel=Reject
-gui_blockcity_open_tiger_lottery=Lottery Draw
-gui_blockcity_open_cannon=Use Cannon
-gui_blockcity_sit_down=Sit Down
-gui_blockcity_stand_up=Stand Up
-gui_blockcity_not_open_fun=This function is not yet available
-gui_call_on_in_decoration=Transmition fail, you must stop interacting before transmition
-gui_flymsg=You need to switch to flying mode
+gui_blockcity_friend_list=Daftar teman
+gui_blockcity_apply_list=Daftar aplikasi
+gui_blockcity_rank=Papan peringkat
+gui_blockcity_rank_friend=Peringkat teman
+gui_blockcity_rank_global=Peringkat global
+gui_blockcity_own_rank=Peringkat saya
+gui_checkin_day=Hari%d
+gui_blockcity_lock_money=Kurangnya koin emas
+gui_blockcity_lock_money_tip=Kurangnya koin emas,Apakah akan menggunakan Rubik's Cube
+gui_blockcity_lock_material=Kekurangan material
+gui_blockcity_transfer_title=Penentuan transfer
+gui_blockcity_if_transfer=Anda yakin akan mengirim pulang?
+gui_blockcity_transfer=Transfer
+gui_blockcity_delete_title=Jelas ok
+gui_blockcity_if_delete=Apakah akan mengosongkan semua item di wilayah tersebut
+gui_blockcity_delete=Kosong
+gui_blockcity_operation_in_manor=Perlu beroperasi di wilayah tersebut
+gui_blockcity_lock_item_title=Item tidak ada
+gui_blockcity_lock_item=Saat ini hilang %s
+gui_blockcity_lock_item_buy_one=Beli 1
+gui_blockcity_lock_item_buy_gcroup=Beli 64
+gui_blockcity_invite=Undangan
+gui_blockcity_ratify=Otorisasi
+gui_blockcity_unratify=Deauthorization
+gui_blockcity_remove_out=Hapus wilayah
+gui_blockcity_invite_user=%s Undang Anda untuk mengunjungi rumahnya
+gui_blockcity_invite_sure=Setuju
+gui_blockcity_invite_cancel=Batalkan
+gui_blockcity_open_tiger_lottery=Lotre
+gui_blockcity_open_cannon=Menggunakan meriam
+gui_blockcity_sit_down=Duduk
+gui_blockcity_stand_up=Berdiri
+gui_blockcity_not_open_fun=Fitur ini belum terbuka
+gui_call_on_in_decoration=Transfer gagal, meninggalkan interaksi untuk ditransfer!
+gui_flymsg=Harus beralih ke mode penerbangan
 
 language_end:system
 
@@ -699,11 +699,11 @@ language_end:tile
 
 language_start:item
 
-item.wings_01.name=Sky Wings
-item.wings_02.name=Magic Wings
-item.wings_03.name=Golden Wings
-item.wings_04.name=Future Wings
-gui_blockcity_sit_down=Sit Down
-gui_blockcity_stand_up=Stand Up
+item.wings_01.name=Sayap langit biru
+item.wings_02.name=Sayap ajaib
+item.wings_03.name=Sayap emas
+item.wings_04.name=Sayap masa depan
+gui_blockcity_sit_down=Duduk
+gui_blockcity_stand_up=Berdiri
 
 language_end:item
