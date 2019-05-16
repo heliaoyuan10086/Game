@@ -1,6 +1,6 @@
 序号	切片唯一id	手持道具Id	解锁等级	切片名称	多语言	图标	长	宽	高	是否假图纸	分类	金币	魔方
 order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	cube
-1	18	2118	1	build_13_11x11x8-0.schematic	drawing_name_18	set:blockcity_items.json image:building_100_13	11	11	8	1	1	968	10
+1	18	2118	1	build_13_11x11x8-0.schematic	drawing_name_18	set:blockcity_items.json image:building_100_13	11	11	8	1	1	974	10
 2	12	2112	1	build_07_11x11x8-1.schematic	drawing_name_12	set:blockcity_items.json image:building_100_07	11	11	8	1	1	1006	11
 3	6	2106	2	build_01_9x9x10-0.schematic	drawing_name_6	set:blockcity_items.json image:building_100_01	9	9	10	1	1	1072	11
 4	17	2117	1	build_12_11x11x10-1.schematic	drawing_name_17	set:blockcity_items.json image:building_100_12	11	11	10	1	1	1306	14
@@ -41,3 +41,4 @@ order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	c
 39	911	0	1	@@@	drawing_name_911	set:blockcity_items.json image:0	0	0	0	0	1	160	2
 40	912	0	1	@@@	drawing_name_912	set:blockcity_items.json image:0	0	0	0	0	1	320	4
 41	913	0	1	@@@	drawing_name_913	set:blockcity_items.json image:0	0	0	0	0	1	480	5
+42	914	0	1	Guide_100_11x11x5-0.schematic	drawing_name_914	set:blockcity_items.json image:guide_100_100	0	11	5	1	2	370	4
