@@ -215,6 +215,7 @@ gui_blockcity_stand_up=站起
 gui_blockcity_not_open_fun=该功能暂未开放
 gui_call_on_in_decoration=传送失败，离开交互后方可传送！
 gui_flymsg=需要切换到飞行模式
+gui_fly_buy_success=购买成功
 
 language_end:system
 
