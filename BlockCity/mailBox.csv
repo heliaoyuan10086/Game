@@ -1,18 +1,18 @@
 领地Id	x坐标	y坐标	z坐标	朝向	x起始坐标	y起始坐标	z起始坐标	x终点坐标	y终点坐标	z终点坐标	actor名称	默认配置应该是body	bodyId	UI显示的文字（点击前）	UI显示的文字（点击后）	UI显示的图片（点击前）	UI显示的图片（点击后）
 id	x	y	z	yaw	x1	y1	z1	x2	y2	z2	actorName	actorBody	actorBodyId	tipNor	tipPre	imageNor	imagePre
-1	-664.5	34	-308.5	0	-666.5	33	-310.5	-662.5	37	-306.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-2	-693.5	34	-308.5	0	-695.5	33	-310.5	-691.5	37	-306.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-3	-729.5	34	-308.5	0	-731.5	33	-310.5	-727.5	37	-306.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-4	-758.5	34	-308.5	0	-760.5	33	-310.5	-756.5	37	-306.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-5	-641.5	34	-260.5	0	-643.5	33	-262.5	-639.5	37	-258.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-6	-641.5	34	-289.5	0	-643.5	33	-291.5	-639.5	37	-287.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-7	-777.5	34	-256.5	0	-779.5	33	-258.5	-775.5	37	-254.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-8	-777.5	34	-285.5	0	-779.5	33	-287.5	-775.5	37	-283.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-9	-641.5	34	-325.5	0	-643.5	33	-327.5	-639.5	37	-323.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-10	-641.5	34	-354.5	0	-643.5	33	-356.5	-639.5	37	-352.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-11	-777.5	34	-321.5	0	-779.5	33	-323.5	-775.5	37	-319.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-12	-777.5	34	-350.5	0	-779.5	33	-352.5	-775.5	37	-348.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-13	-647.5	34	-350.5	0	-649.5	33	-352.5	-645.5	37	-348.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-14	-706.5	34	-354.5	0	-708.5	33	-356.5	-704.5	37	-352.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-15	-710.5	34	-350.5	0	-712.5	33	-352.5	-708.5	37	-348.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
-16	-771.5	34	-354.5	0	-773.5	33	-356.5	-769.5	37	-352.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+1	-663.5	34	-310.5	0	-665.5	33	-312.5	-661.5	37	-308.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+2	-692.5	34	-310.5	0	-694.5	33	-312.5	-690.5	37	-308.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+3	-730.5	34	-310.5	0	-732.5	33	-312.5	-728.5	37	-308.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+4	-759.5	34	-310.5	0	-761.5	33	-312.5	-757.5	37	-308.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+5	-638.5	34	-260.5	0	-640.5	33	-262.5	-636.5	37	-258.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+6	-638.5	34	-289.5	0	-640.5	33	-291.5	-636.5	37	-287.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+7	-780.5	34	-256.5	0	-782.5	33	-258.5	-778.5	37	-254.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+8	-780.5	34	-285.5	0	-782.5	33	-287.5	-778.5	37	-283.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+9	-638.5	34	-327.5	0	-640.5	33	-329.5	-636.5	37	-325.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+10	-638.5	34	-356.5	0	-640.5	33	-358.5	-636.5	37	-354.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+11	-780.5	34	-323.5	0	-782.5	33	-325.5	-778.5	37	-321.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+12	-780.5	34	-352.5	0	-782.5	33	-354.5	-778.5	37	-350.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+13	-646.5	34	-352.5	0	-648.5	33	-354.5	-644.5	37	-350.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+14	-705.5	34	-356.5	0	-707.5	33	-358.5	-703.5	37	-354.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+15	-713.5	34	-352.5	0	-715.5	33	-354.5	-711.5	37	-350.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
+16	-772.5	34	-356.5	0	-774.5	33	-358.5	-770.5	37	-354.5	g1047_chairs.actor	body	22	check mail!	check mail!	@@@	@@@
