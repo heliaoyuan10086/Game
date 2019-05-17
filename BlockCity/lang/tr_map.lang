@@ -709,3 +709,9 @@ gui_blockcity_sit_down=Otur
 gui_blockcity_stand_up=Ayağa kalk
 
 language_end:item
+
+language_start:npc
+
+npc_name_1Extend Realm
+
+language_end:npc

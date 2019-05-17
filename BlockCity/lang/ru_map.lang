@@ -709,3 +709,9 @@ gui_blockcity_sit_down=садись
 gui_blockcity_stand_up=встань
 
 language_end:item
+
+language_start:npc
+
+npc_name_1расширить сферу
+
+language_end:npc

@@ -709,3 +709,9 @@ gui_blockcity_sit_down=assieds - toi
 gui_blockcity_stand_up=debout
 
 language_end:item
+
+language_start:npc
+
+npc_name_1prolonger royaume
+
+language_end:npc

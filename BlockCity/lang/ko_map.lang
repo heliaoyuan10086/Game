@@ -709,3 +709,9 @@ gui_blockcity_sit_down=앉아, 앉아.
 gui_blockcity_stand_up=일어나.
 
 language_end:item
+
+language_start:npc
+
+npc_name_1확장 경지
+
+language_end:npc

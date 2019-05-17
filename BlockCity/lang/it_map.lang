@@ -709,3 +709,9 @@ gui_blockcity_sit_down=Siediti. Siediti.
 gui_blockcity_stand_up=In piedi
 
 language_end:item
+
+language_start:npc
+
+npc_name_1Estendi Realm
+
+language_end:npc

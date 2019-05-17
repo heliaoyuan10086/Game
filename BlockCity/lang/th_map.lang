@@ -709,3 +709,9 @@ gui_blockcity_sit_down=นั่งลง
 gui_blockcity_stand_up=ยืนขึ้น
 
 language_end:item
+
+language_start:npc
+
+npc_name_1ขยายอาณาจักร
+
+language_end:npc

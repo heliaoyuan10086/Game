@@ -709,3 +709,9 @@ gui_blockcity_sit_down=Setz dich.
 gui_blockcity_stand_up=Steh auf!
 
 language_end:item
+
+language_start:npc
+
+npc_name_1Erweitertes Reich
+
+language_end:npc

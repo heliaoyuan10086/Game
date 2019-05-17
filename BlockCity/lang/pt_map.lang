@@ -709,3 +709,9 @@ gui_blockcity_sit_down=Sente -se. Sente -se.
 gui_blockcity_stand_up=Fique de pé.
 
 language_end:item
+
+language_start:npc
+
+npc_name_1Reino Estendido
+
+language_end:npc

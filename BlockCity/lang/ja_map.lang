@@ -709,3 +709,9 @@ gui_blockcity_sit_down=座る
 gui_blockcity_stand_up=立ち上がる
 
 language_end:item
+
+language_start:npc
+
+npc_name_1拡張領域
+
+language_end:npc

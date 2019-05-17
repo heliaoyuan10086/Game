@@ -709,3 +709,9 @@ gui_blockcity_sit_down=Siéntate
 gui_blockcity_stand_up=Stand Up
 
 language_end:item
+
+language_start:npc
+
+npc_name_1Extender el Reino
+
+language_end:npc

@@ -709,3 +709,9 @@ gui_blockcity_sit_down=Proszę usiąść.
 gui_blockcity_stand_up=Wstań. Wstań.
 
 language_end:item
+
+language_start:npc
+
+npc_name_1Rozszerz Królestwo
+
+language_end:npc
