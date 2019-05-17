@@ -5,7 +5,7 @@ order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	c
 3	6	2106	2	build_01_9x9x10-0.schematic	drawing_name_6	set:blockcity_items.json image:building_100_01	9	9	10	1	1	1072	11
 4	17	2117	1	build_12_11x11x10-1.schematic	drawing_name_17	set:blockcity_items.json image:building_100_12	11	11	10	1	1	1306	14
 5	8	2108	1	build_03_9x9x13-1.schematic	drawing_name_8	set:blockcity_items.json image:building_100_03	9	9	13	1	1	1252	13
-6	9	2109	1	build_04_11x11x12-1.schematic	drawing_name_9	set:blockcity_items.json image:building_100_04	11	11	12	1	1	2074	21
+6	9	2109	1	build_04_11x11x12-1.schematic	drawing_name_9	set:blockcity_items.json image:building_100_04	11	11	12	1	1	2298	23
 7	13	2113	2	build_08_11x11x13-1.schematic	drawing_name_13	set:blockcity_items.json image:building_100_08	11	11	13	1	1	2184	22
 8	11	2111	2	build_06_11x11x16-1.schematic	drawing_name_11	set:blockcity_items.json image:building_100_06	11	11	16	1	1	3462	35
 9	10	2110	1	build_05_11x11x20-1.schematic	drawing_name_10	set:blockcity_items.json image:building_100_05	11	11	20	1	1	2928	30

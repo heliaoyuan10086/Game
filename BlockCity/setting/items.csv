@@ -9,9 +9,9 @@ Id	Name	Desc	Icon	Price	Cube	Score
 6	drawing_name_6	123	set:blockcity_items.json image:building_100_01	1072	11	1072	building_32_01
 7	drawing_name_7	123	set:blockcity_items.json image:building_100_02	1800	19	1800	building_32_02
 8	drawing_name_8	123	set:blockcity_items.json image:building_100_03	1252	13	1252	building_32_03
-9	drawing_name_9	123	set:blockcity_items.json image:building_100_04	2074	21	2074	building_32_04
+9	drawing_name_9	123	set:blockcity_items.json image:building_100_04	2298	23	2298	building_32_04
 10	drawing_name_10	123	set:blockcity_items.json image:building_100_05	2928	30	2928	building_32_05
-11	drawing_name_11	123	set:blockcity_items.json image:building_100_06	3462	35	2786	building_32_06
+11	drawing_name_11	123	set:blockcity_items.json image:building_100_06	3462	35	3462	building_32_06
 12	drawing_name_12	123	set:blockcity_items.json image:building_100_07	1006	11	1006	building_32_07
 13	drawing_name_13	123	set:blockcity_items.json image:building_100_08	2184	22	2184	building_32_08
 14	drawing_name_14	123	set:blockcity_items.json image:building_100_09	2030	21	2030	building_32_09
