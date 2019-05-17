@@ -215,6 +215,8 @@ gui_blockcity_stand_up=Steh auf!
 gui_blockcity_not_open_fun=Diese Funktion ist noch nicht verfügbar
 gui_call_on_in_decoration=Wenn die Übertragung fehlschlägt, müssen Sie vor der Übertragung aufhören.
 gui_flymsg=Sie müssen in den Flugmodus wechseln
+gui_fly_buy_success=Erfolg beim Kauf
+manor_level_up_max=Max. Level erreicht
 
 language_end:system
 

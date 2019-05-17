@@ -215,6 +215,8 @@ gui_blockcity_stand_up=立ち上がる
 gui_blockcity_not_open_fun=この関数はまだ利用できません
 gui_call_on_in_decoration=トランスミッシングが失敗すると、トランスミッタ前に相互作用を止めなければならない
 gui_flymsg=フライングモードに切り替える必要があります
+gui_fly_buy_success=購入成功
+manor_level_up_max=到達最大レベル
 
 language_end:system
 

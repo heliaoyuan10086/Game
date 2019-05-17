@@ -215,6 +215,8 @@ gui_blockcity_stand_up=Ayağa kalk
 gui_blockcity_not_open_fun=Bu özellik henüz açık değil
 gui_call_on_in_decoration=Aktarım başarısız oldu, etkileşimi aktarmaya bıraktı!
 gui_flymsg=Uçuş moduna geçmeniz gerekiyor
+gui_fly_buy_success=Purchase Success
+manor_level_up_max=Reached Max Level
 
 language_end:system
 

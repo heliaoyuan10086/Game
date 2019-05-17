@@ -215,6 +215,8 @@ gui_blockcity_stand_up=встань
 gui_blockcity_not_open_fun=эта функция пока нет
 gui_call_on_in_decoration=не предоставляется, вы должны прекратить взаимодействие до предоставляется
 gui_flymsg=вам нужно перейти на режим полета
+gui_fly_buy_success=покупка успеха
+manor_level_up_max=достиг уровня, макс
 
 language_end:system
 

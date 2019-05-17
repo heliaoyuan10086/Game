@@ -215,6 +215,8 @@ gui_blockcity_stand_up=Wstań. Wstań.
 gui_blockcity_not_open_fun=Ta funkcja nie jest jeszcze dostępna
 gui_call_on_in_decoration=Transmitacja nie powiodła się, musisz przerwać interakcję przed transmisją.
 gui_flymsg=Musisz przełączyć się na tryb latania
+gui_fly_buy_success=Sukces zakupu
+manor_level_up_max=Osiągnięto najwyższy poziom
 
 language_end:system
 

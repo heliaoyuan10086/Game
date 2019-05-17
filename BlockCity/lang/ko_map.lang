@@ -215,6 +215,8 @@ gui_blockcity_stand_up=일어나.
 gui_blockcity_not_open_fun=아직 이 기능을 사용할 수 없다
 gui_call_on_in_decoration=전송 실패한다면, 너는 반드시 서로 완전히 전에 그만
 gui_flymsg=너는 반드시 비행 모드로 전환
+gui_fly_buy_success=구입 성공
+manor_level_up_max=최고 수준에 이르렀다.
 
 language_end:system
 

@@ -215,6 +215,8 @@ gui_blockcity_stand_up=Đứng lên
 gui_blockcity_not_open_fun=Chức năng này chưa sẵn sàng
 gui_call_on_in_decoration=Tín hiệu không truyền, bạn phải ngừng tác động trước khi phát.
 gui_flymsg=Bạn cần chuyển sang chế độ bay
+gui_fly_buy_success=Lấy thành công
+manor_level_up_max=Trình độ tối đa
 
 language_end:system
 

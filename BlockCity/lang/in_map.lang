@@ -215,6 +215,8 @@ gui_blockcity_stand_up=Berdiri
 gui_blockcity_not_open_fun=Fitur ini belum terbuka
 gui_call_on_in_decoration=Transfer gagal, meninggalkan interaksi untuk ditransfer!
 gui_flymsg=Harus beralih ke mode penerbangan
+gui_fly_buy_success=Purchase Success
+manor_level_up_max=Reached Max Level
 
 language_end:system
 

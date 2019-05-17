@@ -215,6 +215,8 @@ gui_blockcity_stand_up=In piedi
 gui_blockcity_not_open_fun=Questa funzione non è ancora disponibile
 gui_call_on_in_decoration=La trasmissione fallisce, deve interrompere l'interazione prima della trasmissione
 gui_flymsg=È necessario passare alla modalità di volo
+gui_fly_buy_success=Acquista riuscita
+manor_level_up_max=Livello Max raggiunto
 
 language_end:system
 
