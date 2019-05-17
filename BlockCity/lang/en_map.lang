@@ -216,6 +216,7 @@ gui_blockcity_not_open_fun=This function is not yet available
 gui_call_on_in_decoration=Transmition fail, you must stop interacting before transmition
 gui_flymsg=You need to switch to flying mode
 gui_fly_buy_success=购买成功
+manor_level_up_max=已经是最高等级
 language_end:system
 
 language_start:tile
