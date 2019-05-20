@@ -140,25 +140,22 @@ language_end:decoration
 
 language_start:system
 
-gui_blockcity_manor=Управление Царством
-gui_blockcity_manor_cur_head=Текущий уровень
-gui_blockcity_manor_class=Уровень Царства
-gui_blockcity_manor_area=Область Царства
-gui_blockcity_manor_grade=Оценка Царства
-gui_blockcity_manor_block_grade=Блок Оценка
-gui_blockcity_manor_decorate_grade=Украшение Оценка
-gui_blockcity_manor_total_grade=Общий счет
+gui_blockcity_manor=царство
+gui_blockcity_manor_cur_head=текущий
+gui_blockcity_manor_class=уровень
+gui_blockcity_manor_area=район
+gui_blockcity_manor_grade=царство
+gui_blockcity_manor_block_grade=блоки
+gui_blockcity_manor_decorate_grade=украшения
+gui_blockcity_manor_total_grade=балл
 gui_blockcity_manor_open_status=Открытое состояние
-gui_blockcity_manor_next_head=Следующий уровень
-gui_blockcity_manor_class=Уровень Царства
-gui_blockcity_manor_area=Область Царства
-gui_blockcity_manor_grade=Оценка Царства
+gui_blockcity_manor_next_head=след.
 gui_blockcity_manor_mod_open_status=Изменить открытое состояние
-gui_blockcity_manor_open_status_all=Все игроки
-gui_blockcity_manor_open_status_friend=Только друзья
-gui_blockcity_manor_open_status_close=Не доступный
+gui_blockcity_manor_open_status_all=все
+gui_blockcity_manor_open_status_friend=друзья
+gui_blockcity_manor_open_status_close=никто не
 gui_blockcity_manor_max_level=МАКСИМУМ
-gui_blockcity_store=Склад
+gui_blockcity_store=магазин
 gui_blockcity_store_parper=светокопия
 gui_blockcity_store_block=Блоки
 gui_blockcity_store_furniture=Украшение
@@ -166,22 +163,20 @@ gui_blockcity_store_vol=объем
 gui_blockcity_store_score=Гол
 gui_blockcity_store_material=материалы
 gui_blockcity_friend_list=Список друзей
-gui_blockcity_apply_list=Список приложений
+gui_blockcity_apply_list=применение
 block_tag_1=общий
-block_tag_2=многокрасочный
+block_tag_2=цвета
 block_tag_3=Состав
 block_tag_4=Стакан
 block_tag_5=Мех
 block_tag_6=Специальный
-decorate_tag_1=Гостинная
+decorate_tag_1=салон
 decorate_tag_2=спальная комната
 decorate_tag_3=другие
 drawing_tag_1=имущество
-drawing_tag_2=Пейзаж
-gui_blockcity_store_one=%d/1
-gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=список друзей
-gui_blockcity_apply_list=применение
+drawing_tag_2=эмбиент
+gui_blockcity_store_one=покупать 1%d 
+gui_blockcity_store_gcroup=купить 64%d 
 gui_blockcity_rank=звание
 gui_blockcity_rank_friend=друг.
 gui_blockcity_rank_global=мировой рейтинг
@@ -205,7 +200,7 @@ gui_blockcity_invite=приглашаю
 gui_blockcity_ratify=разрешить
 gui_blockcity_unratify=отменить разрешение
 gui_blockcity_remove_out=удалить царство
-gui_blockcity_invite_user=%s послал тебе приглашение
+gui_blockcity_invite_user=%s приглашает вас посетить
 gui_blockcity_invite_sure=согласны
 gui_blockcity_invite_cancel=отклонить
 gui_blockcity_open_tiger_lottery=лотереи
@@ -217,6 +212,19 @@ gui_call_on_in_decoration=не предоставляется, вы должны
 gui_flymsg=вам нужно перейти на режим полета
 gui_fly_buy_success=покупка успеха
 manor_level_up_max=достиг уровня, макс
+gui_blockcity_next_refersh_tigerlottery=время обновления \ \ N% s
+gui_blockcity_tigerlottery=слот - машина
+gui_blockcity_tigerlottery_choose=выбор
+gui_blockcity_tigerlottery_begin=привлечь
+gui_blockcity_tip_time_msg=рисовать снова
+gui_blockcity_tip_title=совет
+gui_blockcity_tip_cancel=отменить
+gui_blockcity_tip_sure=конечно
+gui_blockcity_store_nohave=0
+gui_bird_checkin_time_left=времени остается:% s
+gui_bird_checkin_receive=регистрация заезда
+gui_bird_checkin_received=получил
+gui_bird_checkin_title=7 - регистрация заезда
 
 language_end:system
 
@@ -712,6 +720,6 @@ language_end:item
 
 language_start:npc
 
-npc_name_1расширить сферу
+npc_name_1=расширить сферу
 
 language_end:npc

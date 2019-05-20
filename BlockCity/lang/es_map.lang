@@ -140,25 +140,22 @@ language_end:decoration
 
 language_start:system
 
-gui_blockcity_manor=Gestión del reino
-gui_blockcity_manor_cur_head=Nivel actual
-gui_blockcity_manor_class=Nivel de reino
-gui_blockcity_manor_area=Area de reino
-gui_blockcity_manor_grade=Puntaje de reino
-gui_blockcity_manor_block_grade=Puntuación de bloque
-gui_blockcity_manor_decorate_grade=Puntuación de decoración
-gui_blockcity_manor_total_grade=Puntaje total
+gui_blockcity_manor=Realm
+gui_blockcity_manor_cur_head=Presente
+gui_blockcity_manor_class=Nivel
+gui_blockcity_manor_area=Area
+gui_blockcity_manor_grade=Realm
+gui_blockcity_manor_block_grade=Bloques
+gui_blockcity_manor_decorate_grade=Decoracion
+gui_blockcity_manor_total_grade=Calificacion
 gui_blockcity_manor_open_status=Estado abierto
-gui_blockcity_manor_next_head=Siguiente nivel
-gui_blockcity_manor_class=Nivel de reino
-gui_blockcity_manor_area=Area de reino
-gui_blockcity_manor_grade=Puntaje de reino
+gui_blockcity_manor_next_head=Siguiente
 gui_blockcity_manor_mod_open_status=Cambiar estado abierto
-gui_blockcity_manor_open_status_all=Todos los jugadores
-gui_blockcity_manor_open_status_friend=Solo amigos
-gui_blockcity_manor_open_status_close=Inaccesible
+gui_blockcity_manor_open_status_all=Todos
+gui_blockcity_manor_open_status_friend=Amigos
+gui_blockcity_manor_open_status_close=Nadie
 gui_blockcity_manor_max_level=MAX
-gui_blockcity_store=Almacén
+gui_blockcity_store=Tienda
 gui_blockcity_store_parper=Cianotipo
 gui_blockcity_store_block=Bloques
 gui_blockcity_store_furniture=Decoración
@@ -166,22 +163,20 @@ gui_blockcity_store_vol=Volumen
 gui_blockcity_store_score=Puntuación
 gui_blockcity_store_material=Materiales
 gui_blockcity_friend_list=Lista de amigos
-gui_blockcity_apply_list=Lista de aplicaciones
+gui_blockcity_apply_list=Aplicación
 block_tag_1=Común
-block_tag_2=Multicolor
+block_tag_2=Color
 block_tag_3=Estructura
 block_tag_4=Vaso
 block_tag_5=Piel
 block_tag_6=Especial
-decorate_tag_1=Sala
+decorate_tag_1=Parlour
 decorate_tag_2=Habitación
 decorate_tag_3=Otros
 drawing_tag_1=Inmuebles
-drawing_tag_2=Paisaje
-gui_blockcity_store_one=%d/1
-gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=Lista de amigo
-gui_blockcity_apply_list=Aplicación
+drawing_tag_2=Ambient
+gui_blockcity_store_one=%d comprar 1
+gui_blockcity_store_gcroup=%d comprar 64
 gui_blockcity_rank=Rank
 gui_blockcity_rank_friend=Amigo rank
 gui_blockcity_rank_global=Global rank
@@ -205,7 +200,7 @@ gui_blockcity_invite=Invitar a
 gui_blockcity_ratify=Autorizar
 gui_blockcity_unratify=Cancelar autorizar
 gui_blockcity_remove_out=Eliminar el Reino
-gui_blockcity_invite_user=%s le ha enviado una invitacion
+gui_blockcity_invite_user=%s invitamos a visitar
 gui_blockcity_invite_sure=De acuerdo
 gui_blockcity_invite_cancel=Rechazar
 gui_blockcity_open_tiger_lottery=Sorteo de la loteria
@@ -217,6 +212,19 @@ gui_call_on_in_decoration=Transmisión falla, usted debe dejar de interactuar an
 gui_flymsg=Necesitas cambiar a modo de vuelo
 gui_fly_buy_success=Compra de éxito
 manor_level_up_max=Llegado a nivel máximo
+gui_blockcity_next_refersh_tigerlottery=Actualización de tiempo \ \ n% s
+gui_blockcity_tigerlottery=La maquina de ranura
+gui_blockcity_tigerlottery_choose=Elige
+gui_blockcity_tigerlottery_begin=Draw
+gui_blockcity_tip_time_msg=Dibujar de nuevo
+gui_blockcity_tip_title=Punta
+gui_blockcity_tip_cancel=Cancelar
+gui_blockcity_tip_sure=Seguro
+gui_blockcity_store_nohave=0
+gui_bird_checkin_time_left=Tiempo permanecen:% s
+gui_bird_checkin_receive=De entrada
+gui_bird_checkin_received=Recibido
+gui_bird_checkin_title=Cheque en 7 días
 
 language_end:system
 
@@ -712,6 +720,6 @@ language_end:item
 
 language_start:npc
 
-npc_name_1Extender el Reino
+npc_name_1=Extender el Reino
 
 language_end:npc

@@ -140,25 +140,22 @@ language_end:decoration
 
 language_start:system
 
-gui_blockcity_manor=Quản lý lĩnh vực
-gui_blockcity_manor_cur_head=Cấp độ hiện tại
-gui_blockcity_manor_class=Cấp độ cảnh giới
-gui_blockcity_manor_area=Khu vực cảnh giới
-gui_blockcity_manor_grade=Điểm số cảnh giới
-gui_blockcity_manor_block_grade=Chặn điểm
-gui_blockcity_manor_decorate_grade=Điểm trang trí
-gui_blockcity_manor_total_grade=Tổng điểm
+gui_blockcity_manor=Vương
+gui_blockcity_manor_cur_head=Hiện tại.
+gui_blockcity_manor_class=Mức
+gui_blockcity_manor_area=Vùng
+gui_blockcity_manor_grade=Vương
+gui_blockcity_manor_block_grade=Chặn
+gui_blockcity_manor_decorate_grade=Description
+gui_blockcity_manor_total_grade=Điểm
 gui_blockcity_manor_open_status=Nhà nước mở
-gui_blockcity_manor_next_head=Cấp độ tiếp theo
-gui_blockcity_manor_class=Cấp độ cảnh giới
-gui_blockcity_manor_area=Khu vực cảnh giới
-gui_blockcity_manor_grade=Điểm số cảnh giới
+gui_blockcity_manor_next_head=Tiếp
 gui_blockcity_manor_mod_open_status=Thay đổi trạng thái mở
-gui_blockcity_manor_open_status_all=Tất cả người chơi
-gui_blockcity_manor_open_status_friend=Chỉ bạn bè
-gui_blockcity_manor_open_status_close=Không truy cập được
+gui_blockcity_manor_open_status_all=Tất
+gui_blockcity_manor_open_status_friend=Bạn
+gui_blockcity_manor_open_status_close=Không ai cả.
 gui_blockcity_manor_max_level=Tối đa
-gui_blockcity_store=Kho
+gui_blockcity_store=Lưu
 gui_blockcity_store_parper=Bản vẽ thiết kế
 gui_blockcity_store_block=Khối
 gui_blockcity_store_furniture=Trang trí
@@ -166,22 +163,20 @@ gui_blockcity_store_vol=Âm lượng
 gui_blockcity_store_score=Ghi bàn
 gui_blockcity_store_material=Nguyên vật liệu
 gui_blockcity_friend_list=Danh sách bạn bè
-gui_blockcity_apply_list=Danh sách ứng dụng
+gui_blockcity_apply_list=Ứng dụng
 block_tag_1=Chung
-block_tag_2=Nhiều màu
+block_tag_2=Màu
 block_tag_3=Kết cấu
 block_tag_4=Ly
 block_tag_5=Lông
 block_tag_6=Đặc biệt
-decorate_tag_1=Phòng khách
+decorate_tag_1=GenericName
 decorate_tag_2=Phòng ngủ
 decorate_tag_3=Khác
 drawing_tag_1=Bất động sản
-drawing_tag_2=Phong cảnh
-gui_blockcity_store_one=%d/1
-gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=Danh sách bạn
-gui_blockcity_apply_list=Ứng dụng
+drawing_tag_2=Chung
+gui_blockcity_store_one=Giád
+gui_blockcity_store_gcroup=Giá bao nhiêu?
 gui_blockcity_rank=Cấp
 gui_blockcity_rank_friend=Anh Lang
 gui_blockcity_rank_global=Cấp độ toàn cầu
@@ -205,7 +200,7 @@ gui_blockcity_invite=Mời
 gui_blockcity_ratify=Thẩm quyền
 gui_blockcity_unratify=Thẩm quyền hủy
 gui_blockcity_remove_out=Xóa đổ
-gui_blockcity_invite_user=%s  Tháng Năm đã gửi thư mời
+gui_blockcity_invite_user=Tháng Năm Mời bạn đến thăm
 gui_blockcity_invite_sure=Đồngý
 gui_blockcity_invite_cancel=Bỏ
 gui_blockcity_open_tiger_lottery=Vẽ xổ số
@@ -217,6 +212,19 @@ gui_call_on_in_decoration=Tín hiệu không truyền, bạn phải ngừng tác
 gui_flymsg=Bạn cần chuyển sang chế độ bay
 gui_fly_buy_success=Lấy thành công
 manor_level_up_max=Trình độ tối đa
+gui_blockcity_next_refersh_tigerlottery=Thay đổi thời gian \ n% s
+gui_blockcity_tigerlottery=Máy hút
+gui_blockcity_tigerlottery_choose=Chọn
+gui_blockcity_tigerlottery_begin=Vẽ
+gui_blockcity_tip_time_msg=Vẽ lần nữa
+gui_blockcity_tip_title=Mẹo
+gui_blockcity_tip_cancel=Thôi
+gui_blockcity_tip_sure=Được.
+gui_blockcity_store_nohave=Không
+gui_bird_checkin_time_left=Còn giờ
+gui_bird_checkin_receive=Nhập tên
+gui_bird_checkin_received=Nhận
+gui_bird_checkin_title=Kiểm tra ngày 7
 
 language_end:system
 
@@ -712,6 +720,6 @@ language_end:item
 
 language_start:npc
 
-npc_name_1Gửi Realm
+npc_name_1=Gửi Realm
 
 language_end:npc

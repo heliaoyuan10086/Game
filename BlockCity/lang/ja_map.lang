@@ -140,25 +140,22 @@ language_end:decoration
 
 language_start:system
 
-gui_blockcity_manor=領域管理
-gui_blockcity_manor_cur_head=現在のレベル
-gui_blockcity_manor_class=レルムレベル
-gui_blockcity_manor_area=領域
-gui_blockcity_manor_grade=基準点
-gui_blockcity_manor_block_grade=ブロックスコア
-gui_blockcity_manor_decorate_grade=デコレーションスコア
-gui_blockcity_manor_total_grade=総得点
+gui_blockcity_manor=レルム
+gui_blockcity_manor_cur_head=現在
+gui_blockcity_manor_class=レベル
+gui_blockcity_manor_area=面積
+gui_blockcity_manor_grade=レルム
+gui_blockcity_manor_block_grade=ブロック
+gui_blockcity_manor_decorate_grade=装飾
+gui_blockcity_manor_total_grade=スコア
 gui_blockcity_manor_open_status=開放状態
-gui_blockcity_manor_next_head=次レベル
-gui_blockcity_manor_class=レルムレベル
-gui_blockcity_manor_area=領域
-gui_blockcity_manor_grade=基準点
+gui_blockcity_manor_next_head=次
 gui_blockcity_manor_mod_open_status=オープンオープン状態
-gui_blockcity_manor_open_status_all=全選手
-gui_blockcity_manor_open_status_friend=のフレンド一覧
-gui_blockcity_manor_open_status_close=アクセスできない
+gui_blockcity_manor_open_status_all=すべて
+gui_blockcity_manor_open_status_friend=友人
+gui_blockcity_manor_open_status_close=誰も
 gui_blockcity_manor_max_level=マックス
-gui_blockcity_store=倉庫
+gui_blockcity_store=店
 gui_blockcity_store_parper=青写真
 gui_blockcity_store_block=ブロック
 gui_blockcity_store_furniture=装飾
@@ -166,22 +163,20 @@ gui_blockcity_store_vol=体積
 gui_blockcity_store_score=スコア
 gui_blockcity_store_material=材料
 gui_blockcity_friend_list=のフレンド一覧
-gui_blockcity_apply_list=アプリケーション一覧
+gui_blockcity_apply_list=アプリケーション
 block_tag_1=一般
-block_tag_2=多色
+block_tag_2=色
 block_tag_3=構造
 block_tag_4=ガラス
 block_tag_5=毛皮
 block_tag_6=特殊
-decorate_tag_1=リビングルーム
+decorate_tag_1=パーラー
 decorate_tag_2=寝室
 decorate_tag_3=その他
 drawing_tag_1=エステート
-drawing_tag_2=景観
-gui_blockcity_store_one=%d/1
-gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=フレンドリスト
-gui_blockcity_apply_list=アプリケーション
+drawing_tag_2=周囲
+gui_blockcity_store_one=%d 購入1
+gui_blockcity_store_gcroup=%d 購入64
 gui_blockcity_rank=ランク
 gui_blockcity_rank_friend=フレンドランク
 gui_blockcity_rank_global=グローバルランク
@@ -205,7 +200,7 @@ gui_blockcity_invite=招待
 gui_blockcity_ratify=認可する
 gui_blockcity_unratify=認可を取り消す
 gui_blockcity_remove_out=領域を削除する
-gui_blockcity_invite_user=%s はあなたに招待を送りました
+gui_blockcity_invite_user=%sを訪問することを勧めます
 gui_blockcity_invite_sure=同意
 gui_blockcity_invite_cancel=拒絶する
 gui_blockcity_open_tiger_lottery=宝くじ抽選
@@ -217,6 +212,19 @@ gui_call_on_in_decoration=トランスミッシングが失敗すると、トラ
 gui_flymsg=フライングモードに切り替える必要があります
 gui_fly_buy_success=購入成功
 manor_level_up_max=到達最大レベル
+gui_blockcity_next_refersh_tigerlottery=リフレッシュ時間\ n % s
+gui_blockcity_tigerlottery=スロットマシン
+gui_blockcity_tigerlottery_choose=選択
+gui_blockcity_tigerlottery_begin=ドロー
+gui_blockcity_tip_time_msg=再度描画
+gui_blockcity_tip_title=チップ
+gui_blockcity_tip_cancel=取り消し
+gui_blockcity_tip_sure=確か
+gui_blockcity_store_nohave=0
+gui_bird_checkin_time_left=時間は残ります
+gui_bird_checkin_receive=チェック
+gui_bird_checkin_received=受信
+gui_bird_checkin_title=7日間チェック
 
 language_end:system
 
@@ -712,6 +720,6 @@ language_end:item
 
 language_start:npc
 
-npc_name_1拡張領域
+npc_name_1=拡張領域
 
 language_end:npc

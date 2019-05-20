@@ -140,25 +140,22 @@ language_end:decoration
 
 language_start:system
 
-gui_blockcity_manor=การบริหารอาณาจักร
-gui_blockcity_manor_cur_head=ระดับปัจจุบัน
-gui_blockcity_manor_class=ระดับแดน
-gui_blockcity_manor_area=พื้นที่ขอบเขต
-gui_blockcity_manor_grade=คะแนนอาณาจักร
-gui_blockcity_manor_block_grade=คะแนนบล็อก
-gui_blockcity_manor_decorate_grade=คะแนนการตกแต่ง
-gui_blockcity_manor_total_grade=คะแนนรวม
+gui_blockcity_manor=อาณาจักร
+gui_blockcity_manor_cur_head=กระแสน้ำ
+gui_blockcity_manor_class=ระดับ
+gui_blockcity_manor_area=พื้นที่
+gui_blockcity_manor_grade=อาณาจักร
+gui_blockcity_manor_block_grade=บล็อก
+gui_blockcity_manor_decorate_grade=การตกแต่ง
+gui_blockcity_manor_total_grade=คะแนน
 gui_blockcity_manor_open_status=สถานะเปิด
-gui_blockcity_manor_next_head=ระดับถัดไป
-gui_blockcity_manor_class=ระดับแดน
-gui_blockcity_manor_area=พื้นที่ขอบเขต
-gui_blockcity_manor_grade=คะแนนอาณาจักร
+gui_blockcity_manor_next_head=ต่อไป
 gui_blockcity_manor_mod_open_status=เปลี่ยนสถานะเปิด
-gui_blockcity_manor_open_status_all=ผู้เล่นทั้งหมด
-gui_blockcity_manor_open_status_friend=เพื่อนเท่านั้น
-gui_blockcity_manor_open_status_close=ไม่ที่สามารถเข้าถึงได้
+gui_blockcity_manor_open_status_all=ทั้งหมด
+gui_blockcity_manor_open_status_friend=เพื่อนๆ
+gui_blockcity_manor_open_status_close=ไม่มีใคร
 gui_blockcity_manor_max_level=แม็กซ์
-gui_blockcity_store=คลังสินค้า
+gui_blockcity_store=ร้าน
 gui_blockcity_store_parper=พิมพ์เขียว
 gui_blockcity_store_block=บล็อก
 gui_blockcity_store_furniture=การตกแต่ง
@@ -166,9 +163,9 @@ gui_blockcity_store_vol=ปริมาณ
 gui_blockcity_store_score=คะแนน
 gui_blockcity_store_material=วัสดุ
 gui_blockcity_friend_list=รายชื่อเพื่อนๆ
-gui_blockcity_apply_list=รายการโปรแกรม
+gui_blockcity_apply_list=ใบสมัคร
 block_tag_1=ร่วมกัน
-block_tag_2=Multicolour
+block_tag_2=สี
 block_tag_3=โครงสร้าง
 block_tag_4=กระจก
 block_tag_5=ขน
@@ -177,11 +174,9 @@ decorate_tag_1=ห้องนั่งเล่น
 decorate_tag_2=ห้องนอน
 decorate_tag_3=คนอื่น ๆ
 drawing_tag_1=ที่ดิน
-drawing_tag_2=ภูมิประเทศ
-gui_blockcity_store_one=%d/1
-gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=รายชื่อเพื่อน
-gui_blockcity_apply_list=ใบสมัคร
+drawing_tag_2=โดย
+gui_blockcity_store_one=%d ซื้อ 1
+gui_blockcity_store_gcroup=%d ซื้อ 64
 gui_blockcity_rank=อันดับ
 gui_blockcity_rank_friend=เพื่อนของยศ
 gui_blockcity_rank_global=โลกอันดับ
@@ -205,7 +200,7 @@ gui_blockcity_invite=เชิญ
 gui_blockcity_ratify=อนุญาตให้
 gui_blockcity_unratify=ยกเลิกการอนุญาตให้
 gui_blockcity_remove_out=เอาดินแดน
-gui_blockcity_invite_user=%s ได้ส่งบัตรเชิญ
+gui_blockcity_invite_user=%s เชิญคุณเยี่ยมชม
 gui_blockcity_invite_sure=เห็นด้วย
 gui_blockcity_invite_cancel=ปฏิเสธ
 gui_blockcity_open_tiger_lottery=วาดหวย
@@ -217,6 +212,19 @@ gui_call_on_in_decoration=transmition ล้มเหลว คุณต้อ�
 gui_flymsg=คุณต้องการสลับไปยังโหมดบิน
 gui_fly_buy_success=ซื้อความสำเร็จ
 manor_level_up_max=ถึงระดับแม็กซ์
+gui_blockcity_next_refersh_tigerlottery=รีเฟรชเวลา \ \ N ที่ %s
+gui_blockcity_tigerlottery=สล็อต
+gui_blockcity_tigerlottery_choose=เลือก
+gui_blockcity_tigerlottery_begin=วาด
+gui_blockcity_tip_time_msg=วาดอีก
+gui_blockcity_tip_title=เคล็ดลับ
+gui_blockcity_tip_cancel=ยกเลิก
+gui_blockcity_tip_sure=แน่ใจว่า
+gui_blockcity_store_nohave=0
+gui_bird_checkin_time_left=เวลายังคง : %s
+gui_bird_checkin_receive=ตรวจสอบใน
+gui_bird_checkin_received=ได้รับ
+gui_bird_checkin_title=ตรวจสอบใน 7 วัน
 
 language_end:system
 
@@ -712,6 +720,6 @@ language_end:item
 
 language_start:npc
 
-npc_name_1ขยายอาณาจักร
+npc_name_1=ขยายอาณาจักร
 
 language_end:npc

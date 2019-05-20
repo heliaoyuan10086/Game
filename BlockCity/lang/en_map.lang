@@ -140,25 +140,22 @@ language_end:decoration
 
 language_start:system
 
-gui_blockcity_manor=Realm Management
-gui_blockcity_manor_cur_head=Current Level
-gui_blockcity_manor_class=Realm Level
-gui_blockcity_manor_area=Realm Area
-gui_blockcity_manor_grade=Realm Score
-gui_blockcity_manor_block_grade=Block Score
-gui_blockcity_manor_decorate_grade=Decoration Score
-gui_blockcity_manor_total_grade=Total Score
+gui_blockcity_manor=Realm
+gui_blockcity_manor_cur_head=Current
+gui_blockcity_manor_class=Level
+gui_blockcity_manor_area=Area
+gui_blockcity_manor_grade=Realm
+gui_blockcity_manor_block_grade=Blocks
+gui_blockcity_manor_decorate_grade=Decoration
+gui_blockcity_manor_total_grade=Score
 gui_blockcity_manor_open_status=Open State
-gui_blockcity_manor_next_head=Next Level
-gui_blockcity_manor_class=Realm Level
-gui_blockcity_manor_area=Realm Area
-gui_blockcity_manor_grade=Realm Score
+gui_blockcity_manor_next_head=Next
 gui_blockcity_manor_mod_open_status=Change Open State
-gui_blockcity_manor_open_status_all=All Players
-gui_blockcity_manor_open_status_friend=Friends Only
-gui_blockcity_manor_open_status_close=Not Accessible
+gui_blockcity_manor_open_status_all=All
+gui_blockcity_manor_open_status_friend=Friends
+gui_blockcity_manor_open_status_close=No one
 gui_blockcity_manor_max_level=MAX
-gui_blockcity_store=Warehouse
+gui_blockcity_store=Store
 gui_blockcity_store_parper=Blueprint
 gui_blockcity_store_block=Blocks
 gui_blockcity_store_furniture=Decoration
@@ -166,22 +163,20 @@ gui_blockcity_store_vol=Volume
 gui_blockcity_store_score=Score
 gui_blockcity_store_material=Materials
 gui_blockcity_friend_list=Friends List
-gui_blockcity_apply_list=Application List
+gui_blockcity_apply_list=Application
 block_tag_1=Common
-block_tag_2=Multicolour
+block_tag_2=Colour
 block_tag_3=Structure
 block_tag_4=Glass
 block_tag_5=Fur
 block_tag_6=Special
-decorate_tag_1=Livingroom
+decorate_tag_1=Parlour
 decorate_tag_2=Bedroom
 decorate_tag_3=Others
 drawing_tag_1=Estate
-drawing_tag_2=Landscape
-gui_blockcity_store_one=%d/1
-gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=Friend List
-gui_blockcity_apply_list=Application
+drawing_tag_2=Ambient
+gui_blockcity_store_one=%d buy 1
+gui_blockcity_store_gcroup=%d buy 64
 gui_blockcity_rank=Rank
 gui_blockcity_rank_friend=Friend Rank
 gui_blockcity_rank_global=Global Rank
@@ -205,7 +200,7 @@ gui_blockcity_invite=Invite
 gui_blockcity_ratify=Authorize
 gui_blockcity_unratify=Cancel Authorize
 gui_blockcity_remove_out=Remove Realm
-gui_blockcity_invite_user=%s hassent you an invitation
+gui_blockcity_invite_user=%s Invite you to visit
 gui_blockcity_invite_sure=Agree
 gui_blockcity_invite_cancel=Reject
 gui_blockcity_open_tiger_lottery=Lottery Draw
@@ -217,6 +212,19 @@ gui_call_on_in_decoration=Transmition fail, you must stop interacting before tra
 gui_flymsg=You need to switch to flying mode
 gui_fly_buy_success=Purchase Success
 manor_level_up_max=Reached Max Level
+gui_blockcity_next_refersh_tigerlottery=Refresh time\\n%s
+gui_blockcity_tigerlottery=Slot machine
+gui_blockcity_tigerlottery_choose=Choose
+gui_blockcity_tigerlottery_begin=Draw
+gui_blockcity_tip_time_msg=Draw again
+gui_blockcity_tip_title=Tip
+gui_blockcity_tip_cancel=Cancel
+gui_blockcity_tip_sure=Sure
+gui_blockcity_store_nohave=0
+gui_bird_checkin_time_left=Time Remain:%s
+gui_bird_checkin_receive=Check In
+gui_bird_checkin_received=Received
+gui_bird_checkin_title=7-Day Check In
 
 language_end:system
 
@@ -712,6 +720,6 @@ language_end:item
 
 language_start:npc
 
-npc_name_1Extend Realm
+npc_name_1=Extend Realm
 
 language_end:npc

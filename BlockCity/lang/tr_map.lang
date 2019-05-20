@@ -140,25 +140,22 @@ language_end:decoration
 
 language_start:system
 
-gui_blockcity_manor=Bölge Yönetimi
-gui_blockcity_manor_cur_head=Mevcut seviye
-gui_blockcity_manor_class=Bölge Seviyesi
-gui_blockcity_manor_area=Bölge Alanı
-gui_blockcity_manor_grade=Bölge Puanı
-gui_blockcity_manor_block_grade=Blok Puanı
-gui_blockcity_manor_decorate_grade=Dekorasyon Puanı
-gui_blockcity_manor_total_grade=Toplam puan
+gui_blockcity_manor=Realm
+gui_blockcity_manor_cur_head=Current
+gui_blockcity_manor_class=Level
+gui_blockcity_manor_area=Area
+gui_blockcity_manor_grade=Realm
+gui_blockcity_manor_block_grade=Blocks
+gui_blockcity_manor_decorate_grade=Decoration
+gui_blockcity_manor_total_grade=Score
 gui_blockcity_manor_open_status=Açık Devlet
-gui_blockcity_manor_next_head=Sonraki seviye
-gui_blockcity_manor_class=Bölge Seviyesi
-gui_blockcity_manor_area=Bölge Alanı
-gui_blockcity_manor_grade=Bölge Puanı
+gui_blockcity_manor_next_head=Next
 gui_blockcity_manor_mod_open_status=Açık Durumu Değiştir
-gui_blockcity_manor_open_status_all=Tüm oyuncular
-gui_blockcity_manor_open_status_friend=Sadece arkadaşlar
-gui_blockcity_manor_open_status_close=Erişilebilir değil
+gui_blockcity_manor_open_status_all=All
+gui_blockcity_manor_open_status_friend=Friends
+gui_blockcity_manor_open_status_close=No one
 gui_blockcity_manor_max_level=maksimum
-gui_blockcity_store=Depo
+gui_blockcity_store=Store
 gui_blockcity_store_parper=Taslak
 gui_blockcity_store_block=Bloklar
 gui_blockcity_store_furniture=Dekorasyon
@@ -166,22 +163,20 @@ gui_blockcity_store_vol=hacim
 gui_blockcity_store_score=Gol
 gui_blockcity_store_material=Malzemeler
 gui_blockcity_friend_list=Arkadaş listesi
-gui_blockcity_apply_list=Başvuru Listesi
+gui_blockcity_apply_list=Application
 block_tag_1=Ortak
-block_tag_2=Çok renkli
+block_tag_2=Colour
 block_tag_3=yapı
 block_tag_4=Bardak
 block_tag_5=Kürk
 block_tag_6=Özel
-decorate_tag_1=Oturma odası
+decorate_tag_1=Parlour
 decorate_tag_2=Yatak odası
 decorate_tag_3=Diğerleri
 drawing_tag_1=Arazi
-drawing_tag_2=peyzaj
-gui_blockcity_store_one=%d/1
-gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=Arkadaş listesi
-gui_blockcity_apply_list=Uygulama listesi
+drawing_tag_2=Ambient
+gui_blockcity_store_one=%d buy 1
+gui_blockcity_store_gcroup=%d buy 64
 gui_blockcity_rank=Afiş
 gui_blockcity_rank_friend=Arkadaş sıralaması
 gui_blockcity_rank_global=Global sıralama
@@ -205,7 +200,7 @@ gui_blockcity_invite=davet etmek
 gui_blockcity_ratify=yetki vermek
 gui_blockcity_unratify=yetkisini kaldır
 gui_blockcity_remove_out=Bölgeyi kaldır
-gui_blockcity_invite_user=%s Seni evini ziyaret etmeye davet et
+gui_blockcity_invite_user=%s Invite you to visit
 gui_blockcity_invite_sure=anlaşmak
 gui_blockcity_invite_cancel=iptal edildi
 gui_blockcity_open_tiger_lottery=piyango
@@ -217,6 +212,19 @@ gui_call_on_in_decoration=Aktarım başarısız oldu, etkileşimi aktarmaya bır
 gui_flymsg=Uçuş moduna geçmeniz gerekiyor
 gui_fly_buy_success=Purchase Success
 manor_level_up_max=Reached Max Level
+gui_blockcity_next_refersh_tigerlottery=Refresh time\\n%s
+gui_blockcity_tigerlottery=Slot machine
+gui_blockcity_tigerlottery_choose=Choose
+gui_blockcity_tigerlottery_begin=Draw
+gui_blockcity_tip_time_msg=Draw again
+gui_blockcity_tip_title=Tip
+gui_blockcity_tip_cancel=Cancel
+gui_blockcity_tip_sure=Sure
+gui_blockcity_store_nohave=0
+gui_bird_checkin_time_left=Time Remain:%s
+gui_bird_checkin_receive=Check In
+gui_bird_checkin_received=Received
+gui_bird_checkin_title=7-Day Check In
 
 language_end:system
 
@@ -712,6 +720,6 @@ language_end:item
 
 language_start:npc
 
-npc_name_1Extend Realm
+npc_name_1=Extend Realm
 
 language_end:npc

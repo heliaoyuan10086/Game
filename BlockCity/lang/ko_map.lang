@@ -140,25 +140,22 @@ language_end:decoration
 
 language_start:system
 
-gui_blockcity_manor=영역 관리
-gui_blockcity_manor_cur_head=현재 레벨
-gui_blockcity_manor_class=영역 수준
-gui_blockcity_manor_area=영역 영역
-gui_blockcity_manor_grade=렐름 점수
-gui_blockcity_manor_block_grade=블록 점수
-gui_blockcity_manor_decorate_grade=장식 점수
-gui_blockcity_manor_total_grade=총 점수
+gui_blockcity_manor=경지
+gui_blockcity_manor_cur_head=현재
+gui_blockcity_manor_class=수준
+gui_blockcity_manor_area=지역
+gui_blockcity_manor_grade=경지
+gui_blockcity_manor_block_grade=블록
+gui_blockcity_manor_decorate_grade=장식
+gui_blockcity_manor_total_grade=점수
 gui_blockcity_manor_open_status=Open State
-gui_blockcity_manor_next_head=다음 레벨
-gui_blockcity_manor_class=영역 수준
-gui_blockcity_manor_area=영역 영역
-gui_blockcity_manor_grade=렐름 점수
+gui_blockcity_manor_next_head=다음
 gui_blockcity_manor_mod_open_status=공개 상태 변경
-gui_blockcity_manor_open_status_all=모든 플레이어
-gui_blockcity_manor_open_status_friend=오직 친구들 만
-gui_blockcity_manor_open_status_close=액세스 할 수 없음
+gui_blockcity_manor_open_status_all=모든
+gui_blockcity_manor_open_status_friend=친구
+gui_blockcity_manor_open_status_close=아무도
 gui_blockcity_manor_max_level=최대
-gui_blockcity_store=창고
+gui_blockcity_store=상점
 gui_blockcity_store_parper=청사진
 gui_blockcity_store_block=블록
 gui_blockcity_store_furniture=장식
@@ -166,9 +163,9 @@ gui_blockcity_store_vol=음량
 gui_blockcity_store_score=점수
 gui_blockcity_store_material=기재
 gui_blockcity_friend_list=친구 목록
-gui_blockcity_apply_list=응용 프로그램 목록
+gui_blockcity_apply_list=응용 프로그램
 block_tag_1=공유지
-block_tag_2=멀티 컬러
+block_tag_2=색
 block_tag_3=구조
 block_tag_4=유리
 block_tag_5=모피
@@ -177,11 +174,9 @@ decorate_tag_1=거실
 decorate_tag_2=침실
 decorate_tag_3=기타
 drawing_tag_1=재산
-drawing_tag_2=경치
-gui_blockcity_store_one=%d/1
-gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=친구 시계
-gui_blockcity_apply_list=응용 프로그램
+drawing_tag_2=환경
+gui_blockcity_store_one=% 1 사
+gui_blockcity_store_gcroup=구매 64%d 
 gui_blockcity_rank=질서
 gui_blockcity_rank_friend=친구 등급
 gui_blockcity_rank_global=세계 등급
@@ -205,7 +200,7 @@ gui_blockcity_invite=좀
 gui_blockcity_ratify=인증
 gui_blockcity_unratify=취소 인증
 gui_blockcity_remove_out=해체 경지
-gui_blockcity_invite_user=%s 오라고 초청장
+gui_blockcity_invite_user=%s 오라고 방문
 gui_blockcity_invite_sure=동의한다.
 gui_blockcity_invite_cancel=거절하다
 gui_blockcity_open_tiger_lottery=추첨
@@ -217,6 +212,19 @@ gui_call_on_in_decoration=전송 실패한다면, 너는 반드시 서로 완전
 gui_flymsg=너는 반드시 비행 모드로 전환
 gui_fly_buy_success=구입 성공
 manor_level_up_max=최고 수준에 이르렀다.
+gui_blockcity_next_refersh_tigerlottery=새로 고침 시간 \ \ (n)% s
+gui_blockcity_tigerlottery=슬롯 머신
+gui_blockcity_tigerlottery_choose=선택
+gui_blockcity_tigerlottery_begin=그림
+gui_blockcity_tip_time_msg=다시 그리다
+gui_blockcity_tip_title=끝
+gui_blockcity_tip_cancel=취소
+gui_blockcity_tip_sure=분명히
+gui_blockcity_store_nohave=0
+gui_bird_checkin_time_left=시간:% s 여전히
+gui_bird_checkin_receive=검사
+gui_bird_checkin_received=받았습니다.
+gui_bird_checkin_title=7일 검사
 
 language_end:system
 
@@ -712,6 +720,6 @@ language_end:item
 
 language_start:npc
 
-npc_name_1확장 경지
+npc_name_1=확장 경지
 
 language_end:npc

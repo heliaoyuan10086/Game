@@ -140,25 +140,22 @@ language_end:decoration
 
 language_start:system
 
-gui_blockcity_manor=Manajemen ranah
-gui_blockcity_manor_cur_head=Level saat ini
-gui_blockcity_manor_class=Tingkat ranah
-gui_blockcity_manor_area=Wilayah Realm
-gui_blockcity_manor_grade=Skor Realm
-gui_blockcity_manor_block_grade=Blokir Skor
-gui_blockcity_manor_decorate_grade=Skor Dekorasi
-gui_blockcity_manor_total_grade=Skor total
+gui_blockcity_manor=Realm
+gui_blockcity_manor_cur_head=Current
+gui_blockcity_manor_class=Level
+gui_blockcity_manor_area=Area
+gui_blockcity_manor_grade=Realm
+gui_blockcity_manor_block_grade=Blocks
+gui_blockcity_manor_decorate_grade=Decoration
+gui_blockcity_manor_total_grade=Score
 gui_blockcity_manor_open_status=Open State
-gui_blockcity_manor_next_head=Level selanjutnya
-gui_blockcity_manor_class=Tingkat ranah
-gui_blockcity_manor_area=Wilayah Realm
-gui_blockcity_manor_grade=Skor Realm
+gui_blockcity_manor_next_head=Next
 gui_blockcity_manor_mod_open_status=Ubah Status Terbuka
-gui_blockcity_manor_open_status_all=Semua Pemain
-gui_blockcity_manor_open_status_friend=Hanya Teman
-gui_blockcity_manor_open_status_close=Tidak dapat diakses
+gui_blockcity_manor_open_status_all=All
+gui_blockcity_manor_open_status_friend=Friends
+gui_blockcity_manor_open_status_close=No one
 gui_blockcity_manor_max_level=maks
-gui_blockcity_store=Gudang
+gui_blockcity_store=Store
 gui_blockcity_store_parper=Cetak Biru
 gui_blockcity_store_block=Blok
 gui_blockcity_store_furniture=Dekorasi
@@ -166,22 +163,20 @@ gui_blockcity_store_vol=Volume
 gui_blockcity_store_score=Skor
 gui_blockcity_store_material=Material
 gui_blockcity_friend_list=Daftar teman
-gui_blockcity_apply_list=Daftar Aplikasi
+gui_blockcity_apply_list=Application
 block_tag_1=Umum
-block_tag_2=Warnawarni
+block_tag_2=Colour
 block_tag_3=Struktur
 block_tag_4=Kaca
 block_tag_5=Bulu
 block_tag_6=Khusus
-decorate_tag_1=Ruang keluarga
+decorate_tag_1=Parlour
 decorate_tag_2=Kamar tidur
 decorate_tag_3=Lainnya
 drawing_tag_1=Perkebunan
-drawing_tag_2=Pemandangan
-gui_blockcity_store_one=%d/1
-gui_blockcity_store_gcroup=%d/64
-gui_blockcity_friend_list=Daftar teman
-gui_blockcity_apply_list=Daftar aplikasi
+drawing_tag_2=Ambient
+gui_blockcity_store_one=%d buy 1
+gui_blockcity_store_gcroup=%d buy 64
 gui_blockcity_rank=Papan peringkat
 gui_blockcity_rank_friend=Peringkat teman
 gui_blockcity_rank_global=Peringkat global
@@ -205,7 +200,7 @@ gui_blockcity_invite=Undangan
 gui_blockcity_ratify=Otorisasi
 gui_blockcity_unratify=Deauthorization
 gui_blockcity_remove_out=Hapus wilayah
-gui_blockcity_invite_user=%s Undang Anda untuk mengunjungi rumahnya
+gui_blockcity_invite_user=%s Invite you to visit
 gui_blockcity_invite_sure=Setuju
 gui_blockcity_invite_cancel=Batalkan
 gui_blockcity_open_tiger_lottery=Lotre
@@ -217,6 +212,19 @@ gui_call_on_in_decoration=Transfer gagal, meninggalkan interaksi untuk ditransfe
 gui_flymsg=Harus beralih ke mode penerbangan
 gui_fly_buy_success=Purchase Success
 manor_level_up_max=Reached Max Level
+gui_blockcity_next_refersh_tigerlottery=Refresh time\\n%s
+gui_blockcity_tigerlottery=Slot machine
+gui_blockcity_tigerlottery_choose=Choose
+gui_blockcity_tigerlottery_begin=Draw
+gui_blockcity_tip_time_msg=Draw again
+gui_blockcity_tip_title=Tip
+gui_blockcity_tip_cancel=Cancel
+gui_blockcity_tip_sure=Sure
+gui_blockcity_store_nohave=0
+gui_bird_checkin_time_left=Time Remain:%s
+gui_bird_checkin_receive=Check In
+gui_bird_checkin_received=Received
+gui_bird_checkin_title=7-Day Check In
 
 language_end:system
 
@@ -712,6 +720,6 @@ language_end:item
 
 language_start:npc
 
-npc_name_1Extend Realm
+npc_name_1=Extend Realm
 
 language_end:npc
