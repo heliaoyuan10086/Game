@@ -41,4 +41,4 @@ order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	c
 39	911	0	1	@@@	drawing_name_911	set:blockcity_items.json image:0	0	0	0	0	1	160	2
 40	912	0	1	@@@	drawing_name_912	set:blockcity_items.json image:0	0	0	0	0	1	320	4
 41	913	0	1	@@@	drawing_name_913	set:blockcity_items.json image:0	0	0	0	0	1	480	5
-42	914	0	1	Guide_100_11x11x5-0.schematic	drawing_name_914	set:blockcity_items.json image:guide_100_100	0	11	5	1	2	370	4
+42	914	0	1	Guide_100_11x11x5-0.schematic	drawing_name_914	set:blockcity_items.json image:guide_100_100	0	11	5	0	2	370	4
