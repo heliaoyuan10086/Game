@@ -9,5 +9,4 @@ order	type	tag	name	icon	remark
 7	2	5	block_tag_5	@@@	毛皮
 8	2	6	block_tag_6	@@@	特殊
 9	3	1	decorate_tag_1	@@@	客厅
-10	3	2	decorate_tag_2	@@@	卧室
-11	3	3	decorate_tag_3	@@@	其他
+10	3	3	decorate_tag_3	@@@	其他
