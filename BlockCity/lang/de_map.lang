@@ -225,6 +225,9 @@ gui_bird_checkin_time_left=Zeit bleibt:%s
 gui_bird_checkin_receive=Check In
 gui_bird_checkin_received=Empfangen
 gui_bird_checkin_title=7 -Day Check In
+gui_blockcity_delete_friend=Sind Sie sicher, Ihren Freund zu löschen
+gui_blockcity_manager_is_not_your_home=Du bist nicht der Besitzer dieses Reiches.
+gui_blockcity_choose_paper=Wählen Sie Blueprint
 
 language_end:system
 

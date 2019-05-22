@@ -225,6 +225,9 @@ gui_bird_checkin_time_left=Czas zachować:% s
 gui_bird_checkin_receive=Zamelduj się
 gui_bird_checkin_received=Otrzymane
 gui_bird_checkin_title=7 -dniowa odprawa
+gui_blockcity_delete_friend=Na pewno skasujesz swojego przyjaciela?
+gui_blockcity_manager_is_not_your_home=Nie jesteś właścicielem tego królestwa.
+gui_blockcity_choose_paper=Wybierz Blueprint
 
 language_end:system
 
