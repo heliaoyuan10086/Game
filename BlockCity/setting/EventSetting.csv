@@ -3,7 +3,7 @@ Id	Type	Pos	Remark
 Id	Type	Pos	Remark						
 111	1	#	BlockCityManor.json			1	弹出某UI	#	UI文件名（打开UI编辑器”blockmango-client\res\client\tools\UIEditor.exe”,找到对应的UI文件名，在blockmango-client\res\client\Media\GUI\UI中）
 121	3	0.17#0.25	halo.effect			2	传送	传送到该坐标点x#y#z	#
-122	6	#	Hello			3	屏幕特效	特效区域起点的相对位置：|x0/X|#|y0/Y|	特效文件名
+131	6	#	Hello			3	屏幕特效	特效区域起点的相对位置：|x0/X|#|y0/Y|	特效文件名
 						4	连线	指向坐标点x#y#z	#
 						5	世界层特效	特效出现位置x#y#z	特效文件名
 						6	弹出对话框		
