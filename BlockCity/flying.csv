@@ -1,0 +1,5 @@
+id	有效时间(秒)	天数	金钱类别(1是魔方，2是平台金币)	价格	flyMsg
+id	time	day	moneyType	price	flyMsg
+1	86400	1	1	10	msg1
+2	259200	3	1	30	msg2
+3	604800	7	1	70	msg3
