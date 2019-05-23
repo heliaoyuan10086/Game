@@ -228,6 +228,9 @@ gui_bird_checkin_title=7 -Day Check In
 gui_blockcity_delete_friend=Sind Sie sicher, Ihren Freund zu löschen
 gui_blockcity_manager_is_not_your_home=Du bist nicht der Besitzer dieses Reiches.
 gui_blockcity_choose_paper=Wählen Sie Blueprint
+fly_msg1=1 Tag
+fly_msg2=3 Tage
+fly_msg3=7 Tage
 
 language_end:system
 
@@ -759,5 +762,16 @@ language_end:item
 language_start:npc
 
 npc_name_1=Erweitertes Reich
+dialog_1=Willkommen in deinem Reich, ich bin der Spielgeist W.
+dialog_2=Schau, das ist dein Reich, aber es gibt einige Blöcke auf dem Boden. Drücken Sie die "Realm" -Taste, um sie aufzuräumen.
+dialog_3=Sie können alle Blöcke in Ihrem Bereich mit der Schaltfläche "Entfernen" entfernen.
+dialog_4=Die erstmalige Verwendung dieser Schaltfläche ist kostenlos, kostet jedoch beim nächsten Mal einige Münzen.
+dialog_5=Toll, jetzt ist es an der Zeit, Ihren ursprünglichen Nachlass auszuwählen. Drücken Sie die "Bearbeiten" -Taste, um den Bearbeitungsmodus aufzurufen.
+dialog_6=Sie können Änderungen an den Blöcken in Ihrem Bereich nur im Bearbeitungsmodus vornehmen.
+dialog_7=Sie haben Ihren ersten Nachlass ausgewählt. Klicken Sie auf die Schaltfläche "Lager".
+dialog_8=Immobilien können nur auf glattem Boden gebaut werden, und Sie können sich bewegen, um den Standort der Konstruktion zu ändern. Wenn der Hervorhebungsbereich weiß wird, können Sie ihn auf den Boden legen.
+dialog_9= Nachdem die Konstruktion abgeschlossen ist, können Sie die roten Pfeile drücken, um sie in die richtige Richtung zu drehen.
+dialog_10=Herzlichen Glückwunsch, Sie haben Ihr eigenes Anwesen in Ihrem Reich gebaut und können es beliebig ändern, solange Sie genügend Blöcke haben.
+dialog_11=Die Anleitung ist vorbei, ich hoffe, Sie haben Spaß an diesem Spiel.
 
 language_end:npc

@@ -228,6 +228,9 @@ gui_bird_checkin_title=7 -Day Check In
 gui_blockcity_delete_friend=Tem certeza de apagar SEU Amigo
 gui_blockcity_manager_is_not_your_home=Você não é o dono Deste Reino.
 gui_blockcity_choose_paper=Escolher o Blueprint
+fly_msg1=Um dia
+fly_msg2=3 Dias
+fly_msg3=7 Dias
 
 language_end:system
 
@@ -759,5 +762,16 @@ language_end:item
 language_start:npc
 
 npc_name_1=Reino Estendido
+dialog_1=Bem-vindo ao seu reino, eu sou o espírito do jogo W.
+dialog_2=Olha, este é o seu reino, mas existem alguns blocos no chão. Pressione o botão "Realm" para limpá-los.
+dialog_3=Você pode remover todos os blocos em seu reino com o botão "Remover", pense duas vezes antes de usar.
+dialog_4=A primeira vez que usar este botão é gratuita, mas custará algumas moedas na próxima vez.
+dialog_5=Ótimo, agora é hora de escolher sua propriedade inicial. Pressione o botão "editar" para entrar no modo de edição.
+dialog_6=Você pode fazer alterações nos blocos em seu território somente no modo de edição.
+dialog_7=Você escolheu sua primeira propriedade, pressione o botão "armazém" para usá-lo.
+dialog_8=A propriedade só pode ser construída em terreno plano, e você pode se movimentar para mudar a localização da construção. Quando a zona de destaque fica branca, você pode colocá-la no chão.
+dialog_9= Depois que a construção estiver concluída, você pode pressionar as setas vermelhas para girá-la para uma orientação adequada.
+dialog_10=Parabéns, você construiu sua própria propriedade em seu reino, e você pode mudá-la livremente contanto que você tenha blocos suficientes.
+dialog_11=O guia acabou, espero que você se divirta com este jogo.
 
 language_end:npc

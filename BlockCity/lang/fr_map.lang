@@ -228,6 +228,9 @@ gui_bird_checkin_title=vérifiez dans les 7 jours
 gui_blockcity_delete_friend=vous êtes sûr de supprimer votre ami
 gui_blockcity_manager_is_not_your_home=vous n'êtes pas le propriétaire de ce royaume.
 gui_blockcity_choose_paper=choisir le plan
+fly_msg1=1 jour
+fly_msg2=3 jours
+fly_msg3=7 jours
 
 language_end:system
 
@@ -759,5 +762,16 @@ language_end:item
 language_start:npc
 
 npc_name_1=prolonger royaume
+dialog_1=Bienvenue dans votre royaume, je suis l'esprit du jeu W.
+dialog_2=Regardez, ceci est votre royaume, mais il y a quelques blocs sur le terrain. Appuyez sur le bouton "Realm" pour les nettoyer.
+dialog_3=Vous pouvez supprimer tous les blocs de votre royaume avec le bouton "Supprimer", réfléchissez-y à deux fois avant de les utiliser.
+dialog_4=La première utilisation de ce bouton est gratuite, mais cela coûtera quelques pièces la prochaine fois.
+dialog_5=Génial, il est maintenant temps de choisir votre succession initiale. Appuyez sur le bouton "edit" pour entrer en mode édition.
+dialog_6=Vous pouvez modifier les blocs de votre royaume en mode édition uniquement.
+dialog_7=Vous avez choisi votre premier logement, appuyez sur le bouton "Magasin".
+dialog_8=La succession ne peut être construite que sur un sol lisse et vous pouvez vous déplacer pour modifier l'emplacement de la construction. Lorsque la zone de surbrillance devient blanche, vous pouvez la poser par terre.
+dialog_9= Une fois la construction terminée, vous pouvez appuyer sur les flèches rouges pour la faire pivoter dans le bon sens.
+dialog_10=Félicitations, vous avez construit votre propre domaine dans votre royaume et vous pouvez le changer librement tant que vous avez suffisamment de blocs.
+dialog_11=Le guide est terminé, espérons que vous aurez du plaisir avec ce jeu.
 
 language_end:npc

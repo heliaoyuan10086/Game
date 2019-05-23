@@ -228,6 +228,9 @@ gui_bird_checkin_title=七日累计登陆
 gui_blockcity_delete_friend=是否删除好友
 gui_blockcity_manager_is_not_your_home=操作失败，您不是当前领地的领主！
 gui_blockcity_choose_paper=选择图纸
+fly_msg1=1天
+fly_msg2=3天
+fly_msg3=7天
 
 language_end:system
 
@@ -759,5 +762,16 @@ language_end:item
 language_start:npc
 
 npc_name_1=扩展领地
+dialog_1=欢迎来到你的领地，我是游戏精灵小吴jj。
+dialog_2=看，这里就是你的领地了，不过现在这里有很多杂乱的方块，点击“领地”按钮来把它们清理干净吧。
+dialog_3=点击这里的“清除”按钮就可以一键清空领地内的所有方块了，一定要谨慎使用哦。
+dialog_4=第一次使用清除按钮是免费的，以后会收取一定的费用。
+dialog_5=太棒了，现在来领取你的初始房屋吧，点击“编辑”按钮进入编辑模式。
+dialog_6=只有在编辑模式状态下，才可以对领地的方块进行改动。
+dialog_7=你已经选择了你的第一个房子，点击“仓库”按钮就可以使用它了。
+dialog_8=房子只能建在平整的地面上，你可以移动你的位置来改变建造的位置，当高亮区域变成白色的时候就可以建造了。
+dialog_9=房子建好后你还可以点击左右箭头，来把它旋转到你喜欢的角度。
+dialog_10=恭喜，你在领地里拥有了自己的房子，只要你有足够的方块，就可以对它进行任意改造了。
+dialog_11=你的引导已经结束了，希望你在游戏里玩得开心。
 
 language_end:npc

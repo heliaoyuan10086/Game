@@ -228,6 +228,9 @@ gui_bird_checkin_title=7 Günlük Check-In
 gui_blockcity_delete_friend=Arkadaşını silmek istediğinden emin misin?
 gui_blockcity_manager_is_not_your_home=Siz bu alemin sahibi değilsiniz
 gui_blockcity_choose_paper=Planı Seç
+fly_msg1=1 Day
+fly_msg2=3 Days
+fly_msg3=7 Days
 
 language_end:system
 
@@ -759,5 +762,16 @@ language_end:item
 language_start:npc
 
 npc_name_1=Bölgeyi Genişlet
+dialog_1=Alemine hoş geldin, ben oyun ruhu W.
+dialog_2=Bak, bu senin ailen, ama yerde bazı bloklar var. Onları temizlemek için "Bölge" düğmesine basın.
+dialog_3=Bölgenizdeki tüm blokları "Kaldır" butonu ile kaldırabilirsiniz, kullanımdan önce iki kez düşünün.
+dialog_4=Bu düğmeyi ilk kez kullanmak ücretsizdir, ancak bir dahaki sefere bazı paralar mal olacak.
+dialog_5=Harika, şimdi ilk mülkünüzü seçme zamanı. Düzenleme moduna girmek için "düzenle" düğmesine basın.
+dialog_6=Bölgenizdeki bloklarda yalnızca düzenleme modunda değişiklikler yapabilirsiniz.
+dialog_7=İlk mülkünüzü seçtiniz, "Depo" butonuna basın.
+dialog_8=Emlak yalnızca düzgün bir zeminde inşa edilebilir ve inşaatın yerini değiştirmek için etrafında hareket edebilirsiniz. Vurgu bölgesi beyaza döndüğünde, yere koyabilirsiniz.
+dialog_9= İnşaat tamamlandıktan sonra kırmızı oklara basarak uygun bir yöne döndürün.
+dialog_10=Tebrikler, kendi mülkünüzü kendi bölgenizde inşa ettiniz ve yeterince blokunuz olduğu sürece özgürce değiştirebilirsiniz.
+dialog_11=Rehber bitti, umarım bu oyunda eğlenirsiniz.
 
 language_end:npc

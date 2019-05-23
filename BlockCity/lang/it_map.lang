@@ -228,6 +228,9 @@ gui_bird_checkin_title=Check in 7 -day
 gui_blockcity_delete_friend=Sei sicuro di cancellare il tuo amico
 gui_blockcity_manager_is_not_your_home=Non sei il proprietario di questo regno.
 gui_blockcity_choose_paper=Scegli Blueprint
+fly_msg1=1 Giorno
+fly_msg2=3 Giorni
+fly_msg3=7 Giorni
 
 language_end:system
 
@@ -759,5 +762,16 @@ language_end:item
 language_start:npc
 
 npc_name_1=Estendi Realm
+dialog_1=Benvenuto nel tuo Regno, io sono lo spirito di gioco W.
+dialog_2=Guarda, questo è il tuo regno, ma ci sono alcuni blocchi sul terreno. Premi il pulsante "Realm" per pulirli.
+dialog_3=Puoi rimuovere tutti i blocchi nel tuo regno con il pulsante "Rimuovi", pensaci due volte prima dell'uso.
+dialog_4=La prima volta che utilizzi questo pulsante è gratuito, ma la prossima volta ti costerà qualche moneta.
+dialog_5=Bene, ora è il momento di scegliere il tuo patrimonio iniziale. Premere il pulsante "modifica" per accedere alla modalità di modifica.
+dialog_6=Puoi apportare modifiche ai blocchi nel tuo reame solo in modalità di modifica.
+dialog_7=Hai scelto la tua prima proprietà, premi il pulsante "magazzino" usalo.
+dialog_8=La proprietà può essere costruita solo su terreno liscio e puoi spostarti per cambiare la posizione della costruzione. Quando la zona evidenziata diventa bianca, puoi metterla a terra.
+dialog_9= Dopo aver completato la costruzione, è possibile premere le frecce rosse per ruotarlo con un orientamento corretto.
+dialog_10=Complimenti, hai costruito il tuo patrimonio nel tuo regno e puoi cambiarlo liberamente se hai abbastanza blocchi.
+dialog_11=La guida è finita, spero ti diverta con questo gioco.
 
 language_end:npc

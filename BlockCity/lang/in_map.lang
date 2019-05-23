@@ -228,6 +228,9 @@ gui_bird_checkin_title=Check-in 7-Hari
 gui_blockcity_delete_friend=Apakah Anda yakin akan menghapus teman Anda
 gui_blockcity_manager_is_not_your_home=Anda bukan pemilik kerajaan ini
 gui_blockcity_choose_paper=Pilih Cetak Biru
+fly_msg1=1 Day
+fly_msg2=3 Days
+fly_msg3=7 Days
 
 language_end:system
 
@@ -759,5 +762,16 @@ language_end:item
 language_start:npc
 
 npc_name_1=Perpanjang Realm
+dialog_1=Selamat datang di Alam Anda, saya adalah roh permainan W.
+dialog_2=Lihat, ini adalah wilayahmu, tetapi ada beberapa blok di tanah. Tekan tombol "Realm" untuk membersihkannya.
+dialog_3=Anda dapat menghapus semua blok di dunia Anda dengan tombol "Hapus", berpikir dua kali sebelum digunakan.
+dialog_4=Pertama kali menggunakan tombol ini gratis, tetapi akan dikenakan biaya koin lain kali.
+dialog_5=Hebat, sekarang saatnya untuk memilih real awal Anda. Tekan tombol "edit" untuk masuk ke mode edit.
+dialog_6=Anda dapat membuat perubahan pada blok di wilayah Anda hanya dalam mode edit.
+dialog_7=Anda telah memilih estate pertama Anda, Tekan tombol "gudang" menggunakannya.
+dialog_8=Perkebunan hanya dapat dibangun di atas tanah yang halus, dan Anda dapat bergerak untuk mengubah lokasi konstruksi. Saat zona sorot berubah menjadi putih, Anda bisa meletakkannya di tanah.
+dialog_9= Setelah konstruksi selesai, Anda dapat menekan panah merah untuk memutarnya ke arah yang benar.
+dialog_10=Selamat, Anda telah membangun real Anda sendiri di wilayah Anda, dan Anda dapat mengubahnya secara bebas selama Anda memiliki cukup blok.
+dialog_11=Panduan ini selesai, semoga Anda bersenang-senang dengan game ini.
 
 language_end:npc

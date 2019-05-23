@@ -228,6 +228,9 @@ gui_bird_checkin_title=7일 검사
 gui_blockcity_delete_friend=니 친구 삭제하시겠습니까
 gui_blockcity_manager_is_not_your_home=아니, 이 집 주인 경지
 gui_blockcity_choose_paper=선택 청사진
+fly_msg1=하루
+fly_msg2=3일
+fly_msg3=7일
 
 language_end:system
 
@@ -759,5 +762,16 @@ language_end:item
 language_start:npc
 
 npc_name_1=확장 경지
+dialog_1=렐름에 오신 것을 환영합니다. 저는 게임 정신 W입니다.
+dialog_2=이봐 요, 이쪽은 당신의 영역입니다. 그러나 땅에 몇 개의 블록이 있습니다. "영역"버튼을 눌러 지우십시오.
+dialog_3=제거버튼으로 영역의 모든 블록을 제거 할 수 있습니다. 사용하기 전에 두 번 생각하십시오.
+dialog_4=이 버튼을 처음 사용하는 것은 무료이지만 다음에 동전이 필요합니다.
+dialog_5=이제는 초기 부동산을 선택할 때입니다. "편집"버튼을 눌러 편집 모드로 들어갑니다.
+dialog_6=편집 모드에서만 영역의 블록을 변경할 수 있습니다.
+dialog_7=당신은 당신의 첫번째 재산을 선택했습니다, 그것을 사용하는 "창고"버튼을 누르십시오.
+dialog_8=부동산은 매끄러운지면에만 건축 될 수 있으며, 건축물의 위치를 ​​바꾸기 위해 이동할 수 있습니다. 하이라이트 영역이 흰색으로 바뀌면이를 땅에 놓을 수 있습니다.
+dialog_9= 공사가 끝나면 빨간색 화살표를 눌러 올바른 방향으로 회전시킬 수 있습니다.
+dialog_10=축하해, 너는 너의 영역에 너의 자신의 재산을 세웠고, 너는 충분한 블록을 가지고있는 한 너는 그것을 자유롭게 바꿀 수있다.
+dialog_11=가이드가 끝났습니다. 게임을 즐기기를 바랍니다.
 
 language_end:npc

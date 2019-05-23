@@ -228,6 +228,9 @@ gui_bird_checkin_title=Kiểm tra ngày 7
 gui_blockcity_delete_friend=Bạn có chắc đã xoá bạn của bạn
 gui_blockcity_manager_is_not_your_home=Ngươi không phải là chủ nhân của vương quốc này.
 gui_blockcity_choose_paper=Chọn xanh
+fly_msg1=Ngày
+fly_msg2=3 Ngày
+fly_msg3=7 Days
 
 language_end:system
 
@@ -759,5 +762,16 @@ language_end:item
 language_start:npc
 
 npc_name_1=Gửi Realm
+dialog_1=Chào mừng bạn đến Vương quốc của bạn, tôi là tinh thần trò chơi W.
+dialog_2=Hãy nhìn xem, đây là vương quốc của bạn, nhưng có một số khối trên mặt đất. Nhấn nút "Realm" để dọn sạch chúng.
+dialog_3=Bạn có thể xóa tất cả các khối trong vương quốc của mình bằng nút "Xóa", suy nghĩ hai lần trước khi sử dụng.
+dialog_4=Lần đầu tiên sử dụng nút này là miễn phí, nhưng nó sẽ tốn một số tiền vào lần tới.
+dialog_5=Tuyệt vời, giờ là lúc để chọn bất động sản ban đầu của bạn. Nhấn nút "chỉnh sửa" để vào chế độ chỉnh sửa.
+dialog_6=Bạn chỉ có thể thay đổi các khối trong vương quốc của mình ở chế độ chỉnh sửa.
+dialog_7=Bạn đã chọn bất động sản đầu tiên của mình, nhấn nút "kho" sử dụng nó.
+dialog_8=Bất động sản chỉ có thể được xây dựng trên mặt đất mịn, và bạn có thể di chuyển xung quanh để thay đổi vị trí xây dựng. Khi vùng tô sáng chuyển sang màu trắng, bạn có thể đặt nó xuống đất.
+dialog_9= Sau khi xây dựng xong, bạn có thể nhấn các mũi tên màu đỏ để xoay nó theo hướng thích hợp.
+dialog_10=Xin chúc mừng, bạn đã xây dựng bất động sản của riêng mình trong vương quốc của bạn và bạn có thể thay đổi nó một cách tự do miễn là bạn có đủ khối.
+dialog_11=Hướng dẫn đã kết thúc, hy vọng bạn có niềm vui với trò chơi này.
 
 language_end:npc
