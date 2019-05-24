@@ -1,15 +1,20 @@
 Id	Type	Pos	Remark						
 事件Id	类型	坐标	控件特效				备注 	坐标	控件特效
 Id	Type	Pos	Remark						
-111	6	#	Hello!	对话框 Hello		1	弹出某UI	#	UI文件名（打开UI编辑器”blockmango-client\res\client\tools\UIEditor.exe”,找到对应的UI文件名，在blockmango-client\res\client\Media\GUI\UI中）
-112	2	1#1#1	#	传送进领地内		2	传送		
-121	3	0.5#0.5	halo.effect	高亮引导玩家点击领地按钮		3	屏幕特效		
+111	2	14#1#21	#	对话框 Hello		1	弹出某UI	#	UI文件名（打开UI编辑器”blockmango-client\res\client\tools\UIEditor.exe”,找到对应的UI文件名，在blockmango-client\res\client\Media\GUI\UI中）
+112	6	#	dialog_1#dialog_2	传送进领地内		2	传送		
+121	3	0.5#0.5	halo.effect						
+122	6	#	dialog_3	高亮引导玩家点击领地按钮		3	屏幕特效		
 131	3	0.5#0.5	halo.effect	高亮引导玩家点击一键清除按钮		4	连线		
 141	3	0.5#0.5	halo.effect	高亮引导玩家点击确定		5	世界层特效		
 151	3	0.5#0.5	halo.effect	高亮引导玩家点击编辑模式按钮		6	弹出对话框	传送到该坐标点x#y#z	#
-161	7	#	18#12#6#17	弹出图纸UI选择框		7	弹出选择物品对话框		
-171	1	#	BlockCityStore.json	弹出仓库UI				特效区域起点的相对位置：|x0/X|#|y0/Y|	特效文件名
-181	3	0.5#0.5	halo.effect	高亮引导玩家点击仓库图纸				指向坐标点x#y#z	#
-191	3	0.5#0.5	halo.effect	高亮引导玩家点击物品栏				特效出现位置x#y#z	特效文件名
-192	6	#	HAHAHA!	对话框					
-193	3	0.5#0.5	halo.effect	高亮引导玩家点击旋转按钮					
+150	6	#	dialog_5	弹出图纸UI选择框		7	弹出选择物品对话框		
+161	7	#	18#12#8#17	弹出仓库UI				特效区域起点的相对位置：|x0/X|#|y0/Y|	特效文件名
+171	3	0.5#0.5	halo.effect	高亮引导玩家点击仓库图纸				指向坐标点x#y#z	#
+181	3	0.5#0.5	halo.effect	高亮引导玩家点击物品栏				特效出现位置x#y#z	特效文件名
+190	3	0.5#0.5	halo.effect	对话框					
+191	3	0.5#0.5	halo.effect	高亮引导玩家点击旋转按钮					
+192	6	#	dialog_8						
+193	6	#	dialog_9						
+194	3	0.5#0.5	halo.effect						
+195	3	0.5#0.5	halo.effect						

@@ -6,11 +6,12 @@ flyMoney: 10
 toolId: 284
 inviteShowTime: 20
 #引导过程中，让玩家放置切片操作的前一个id事件
-inGuidePlaceTemplatePreId: 191
+inGuidePlaceTemplatePreId: 192
+#引导过程中，让玩家放置切片操作的前一个id事件
+inGuideLastId: 192
 #引导过程中，玩家放置切片操作的后一个事件id
-inGuidePlaceTemplateId: 192
+inGuidePlaceTemplateId: 193
 
-inGuideLastId: 191
 
 GuideDemoDrawId: 914
 GuideDemoDrawRPos: [9, 0, 8]
