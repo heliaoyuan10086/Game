@@ -15,3 +15,6 @@ inGuidePlaceTemplateId: 193
 
 GuideDemoDrawId: 914
 GuideDemoDrawRPos: [9, 0, 8]
+GuideAirWallFileName: airwall_29x29x50.schematic
+GuideReleaseAirWallAfterId: 195
+GuideAirWallRPos: [1, 2, 0]
