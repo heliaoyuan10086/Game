@@ -1,10 +1,13 @@
 initPos: [-709, 34, -260]
 manorReleaseTime: 300
 inviteShowTime: 20
+
+
+#引导中没有写进引导配置里面的配置
 #引导过程中，让玩家放置切片操作的前一个id事件
-inGuidePlaceTemplatePreId: 192
+inGuidePlaceTemplatePreId: 147
 #引导过程中，让玩家放置切片操作的前一个id事件
-inGuideLastId: 192
+inGuideLastId: 147
 #引导过程中，玩家放置切片操作的后一个事件id
 inGuidePlaceTemplateId: 193
 
@@ -12,5 +15,5 @@ inGuidePlaceTemplateId: 193
 GuideDemoDrawId: 914
 GuideDemoDrawRPos: [9, 0, 8]
 GuideAirWallFileName: airwall_29x29x50.schematic
-GuideReleaseAirWallAfterId: 195
+GuideReleaseAirWallAfterId: 196
 GuideAirWallRPos: [1, 2, 0]
