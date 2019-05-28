@@ -1,25 +1,22 @@
-Id	Type	Pos	Remark						
-事件Id	类型	坐标	控件特效				备注 	坐标	控件特效
-Id	Type	Pos	Remark						
-110	2	14#1#21	#	对话框 Hello		1	弹出某UI	#	UI文件名（打开UI编辑器”blockmango-client\res\client\tools\UIEditor.exe”,找到对应的UI文件名，在blockmango-client\res\client\Media\GUI\UI中）
-111	6	#	dialog_1#dialog_2	传送进领地内		2	传送		
-120	2	14#1#21	#						
-121	3	0.5#0.5	halo.effect	高亮引导玩家点击领地按钮		3	屏幕特效		
-122	6	#	dialog_3	高亮引导玩家点击一键清除按钮		4	连线		
-123	3	0.5#0.5	halo.effect	高亮引导玩家点击确定		5	世界层特效		
-124	3	0.5#0.5	halo.effect	高亮引导玩家点击编辑模式按钮		6	弹出对话框	传送到该坐标点x#y#z	#
-130	2	14#1#21	#	弹出图纸UI选择框		7	弹出选择物品对话框		
-131	6	#	dialog_5#dialog_6	弹出仓库UI				特效区域起点的相对位置：|x0/X|#|y0/Y|	特效文件名
-132	7	#	18#12#8#17	高亮引导玩家点击仓库图纸				指向坐标点x#y#z	#
-140	2	14#1#21	#	高亮引导玩家点击物品栏				特效出现位置x#y#z	特效文件名
-141	3	0.5#0.5	halo.effect	对话框					
-142	6	#	dialog_7	高亮引导玩家点击旋转按钮					
-143	3	0.5#0.5	halo.effect						
-144	3	0.5#0.5	halo.effect						
-145	3	0.5#0.5	halo.effect						
-146	3	0.5#0.5	halo.effect						
-147	6	#	dialog_8#dialog_12						
-193	6	#	dialog_9						
-194	3	0.5#0.5	halo.effect						
-195	3	0.5#0.5	halo.effect						
-196	6	#	dialog_10#dialog_11						
+Id	Type	Pos	Remark
+事件Id	类型	坐标	控件特效
+Id	Type	Pos	Remark
+110	2	14#1#21	#
+111	6	#	dialog_1#dialog_2
+120	3	0.5#0.5	guide.effect
+121	6	#	dialog_3
+122	3	0.5#0.5	guide.effect
+123	3	0.5#0.5	guide.effect
+130	6	#	dialog_5#dialog_6
+131	7	#	18#12#8#17
+140	3	0.5#0.5	guide.effect
+141	6	#	dialog_7
+142	3	0.5#0.5	guide.effect
+143	3	0.5#0.5	guide.effect
+144	3	0.5#0.5	guide.effect
+145	3	0.5#0.5	guide.effect
+146	6	#	dialog_8#dialog_12
+193	6	#	dialog_9
+194	3	0.5#0.5	guide.effect
+195	3	0.5#0.5	guide.effect
+196	6	#	dialog_10#dialog_11
