@@ -13,7 +13,9 @@ inGuidePlaceTemplateId: 193
 
 
 GuideDemoDrawId: 914
-GuideDemoDrawRPos: [9, 0, 8]
-GuideAirWallFileName: airwall_29x29x50.schematic
-GuideReleaseAirWallAfterId: 196
-GuideAirWallRPos: [1, 2, 0]
+GuidePlaceDemoDrawEventId: 111
+GuideDemoDrawRPos180: [9, 0, 8]
+GuideDemoDrawRPos90: [20, 0, 8]
+GuideDemoDrawRPos270: [9, 0, 19]
+
+GuideSuspendTeleportRPos: [14, 1, 21]
