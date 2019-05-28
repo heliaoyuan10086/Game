@@ -1,9 +1,5 @@
 initPos: [-709, 34, -260]
 manorReleaseTime: 300
-flyMsg: "gui_flymsg"
-flyMoneyType: 1
-flyMoney: 10
-toolId: 284
 inviteShowTime: 20
 #引导过程中，让玩家放置切片操作的前一个id事件
 inGuidePlaceTemplatePreId: 192
