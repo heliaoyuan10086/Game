@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=Dibujar de nuevo
 gui_blockcity_tip_title=Punta
 gui_blockcity_tip_cancel=Cancelar
 gui_blockcity_tip_sure=Seguro
-gui_blockcity_store_nohave=0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=Tiempo permanecen:%s
 gui_bird_checkin_receive=De entrada
 gui_bird_checkin_received=Recibido
@@ -769,9 +769,10 @@ dialog_4=La primera vez que use este botón es gratis, pero la próxima vez le c
 dialog_5=Genial, ahora es el momento de elegir su estado inicial. Presiona el botón "editar" para ingresar al modo de edición.
 dialog_6=Puede realizar cambios en los bloques de su reino solo en modo de edición.
 dialog_7=Usted ha elegido su primer estado, pulse el botón "almacén" utilizarlo.
-dialog_8=La propiedad solo se puede construir sobre un terreno liso, y puede moverse para cambiar la ubicación de la construcción. Cuando la zona resaltada se vuelve blanca, puede colocarla en el suelo.
+dialog_8=La propiedad solo se puede construir sobre un terreno liso, y puede moverse para cambiar la ubicación de la construcción.
 dialog_9= Una vez completada la construcción, puede presionar las flechas rojas para rotarla a una orientación adecuada.
 dialog_10=Enhorabuena, ha construido su propio patrimonio en su reino y puede cambiarlo libremente siempre que tenga suficientes bloques.
 dialog_11=La guía ha terminado, espero que te diviertas con este juego.
+dialog_12=Cuando la zona resaltada se vuelve blanca, puede colocarla en el suelo.
 
 language_end:npc

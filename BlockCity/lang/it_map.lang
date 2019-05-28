@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=Disegna ancora
 gui_blockcity_tip_title=Suggerimento
 gui_blockcity_tip_cancel=Annulla
 gui_blockcity_tip_sure=Certo.
-gui_blockcity_store_nohave=0.0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=Tempo restante:%s
 gui_bird_checkin_receive=Check in
 gui_bird_checkin_received=Ricevuto
@@ -769,9 +769,10 @@ dialog_4=La prima volta che utilizzi questo pulsante è gratuito, ma la prossima
 dialog_5=Bene, ora è il momento di scegliere il tuo patrimonio iniziale. Premere il pulsante "modifica" per accedere alla modalità di modifica.
 dialog_6=Puoi apportare modifiche ai blocchi nel tuo reame solo in modalità di modifica.
 dialog_7=Hai scelto la tua prima proprietà, premi il pulsante "magazzino" usalo.
-dialog_8=La proprietà può essere costruita solo su terreno liscio e puoi spostarti per cambiare la posizione della costruzione. Quando la zona evidenziata diventa bianca, puoi metterla a terra.
+dialog_8=La proprietà può essere costruita solo su terreno liscio e puoi spostarti per cambiare la posizione della costruzione. 
 dialog_9= Dopo aver completato la costruzione, è possibile premere le frecce rosse per ruotarlo con un orientamento corretto.
 dialog_10=Complimenti, hai costruito il tuo patrimonio nel tuo regno e puoi cambiarlo liberamente se hai abbastanza blocchi.
 dialog_11=La guida è finita, spero ti diverta con questo gioco.
+dialog_12=Quando la zona evidenziata diventa bianca, puoi metterla a terra.
 
 language_end:npc

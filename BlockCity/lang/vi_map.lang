@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=Vẽ lần nữa
 gui_blockcity_tip_title=Mẹo
 gui_blockcity_tip_cancel=Thôi
 gui_blockcity_tip_sure=Được.
-gui_blockcity_store_nohave=0.0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=Còn giờThời gian còn lại:%s
 gui_bird_checkin_receive=Nhập tên
 gui_bird_checkin_received=Nhận
@@ -769,9 +769,10 @@ dialog_4=Lần đầu tiên sử dụng nút này là miễn phí, nhưng nó s�
 dialog_5=Tuyệt vời, giờ là lúc để chọn bất động sản ban đầu của bạn. Nhấn nút "chỉnh sửa" để vào chế độ chỉnh sửa.
 dialog_6=Bạn chỉ có thể thay đổi các khối trong vương quốc của mình ở chế độ chỉnh sửa.
 dialog_7=Bạn đã chọn bất động sản đầu tiên của mình, nhấn nút "kho" sử dụng nó.
-dialog_8=Bất động sản chỉ có thể được xây dựng trên mặt đất mịn, và bạn có thể di chuyển xung quanh để thay đổi vị trí xây dựng. Khi vùng tô sáng chuyển sang màu trắng, bạn có thể đặt nó xuống đất.
+dialog_8=Bất động sản chỉ có thể được xây dựng trên mặt đất mịn, và bạn có thể di chuyển xung quanh để thay đổi vị trí xây dựng. 
 dialog_9= Sau khi xây dựng xong, bạn có thể nhấn các mũi tên màu đỏ để xoay nó theo hướng thích hợp.
 dialog_10=Xin chúc mừng, bạn đã xây dựng bất động sản của riêng mình trong vương quốc của bạn và bạn có thể thay đổi nó một cách tự do miễn là bạn có đủ khối.
 dialog_11=Hướng dẫn đã kết thúc, hy vọng bạn có niềm vui với trò chơi này.
+dialog_12=Khi vùng tô sáng chuyển sang màu trắng, bạn có thể đặt nó xuống đất.
 
 language_end:npc

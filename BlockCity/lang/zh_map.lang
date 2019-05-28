@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=再抽一次老虎机
 gui_blockcity_tip_title=提示
 gui_blockcity_tip_cancel=取消
 gui_blockcity_tip_sure=确定
-gui_blockcity_store_nohave=0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=签到剩余时间：%s
 gui_bird_checkin_receive=领取
 gui_bird_checkin_received=已领取
@@ -769,9 +769,10 @@ dialog_4=第一次使用清除按钮是免费的，以后会收取一定的费�
 dialog_5=太棒了，现在来领取你的初始房屋吧，点击“编辑”按钮进入编辑模式。
 dialog_6=只有在编辑模式状态下，才可以对领地的方块进行改动。
 dialog_7=你已经选择了你的第一个房子，点击“仓库”按钮就可以使用它了。
-dialog_8=房子只能建在平整的地面上，你可以移动你的位置来改变建造的位置，当高亮区域变成白色的时候就可以建造了。
+dialog_8=房子只能建在平整的地面上，你可以移动你的位置来改变建造的位置。
 dialog_9=房子建好后你还可以点击左右箭头，来把它旋转到你喜欢的角度。
 dialog_10=恭喜，你在领地里拥有了自己的房子，只要你有足够的方块，就可以对它进行任意改造了。
 dialog_11=你的引导已经结束了，希望你在游戏里玩得开心。
+dialog_12=当高亮区域变成白色的时候就可以建造了。
 
 language_end:npc

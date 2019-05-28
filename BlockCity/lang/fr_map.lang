@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=attirer à nouveau
 gui_blockcity_tip_title=tip
 gui_blockcity_tip_cancel=annuler
 gui_blockcity_tip_sure=bien sûr
-gui_blockcity_store_nohave=0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=durée:%s
 gui_bird_checkin_receive=vérifiez dans
 gui_bird_checkin_received=reçu
@@ -769,9 +769,10 @@ dialog_4=La première utilisation de ce bouton est gratuite, mais cela coûtera 
 dialog_5=Génial, il est maintenant temps de choisir votre succession initiale. Appuyez sur le bouton "edit" pour entrer en mode édition.
 dialog_6=Vous pouvez modifier les blocs de votre royaume en mode édition uniquement.
 dialog_7=Vous avez choisi votre premier logement, appuyez sur le bouton "Magasin".
-dialog_8=La succession ne peut être construite que sur un sol lisse et vous pouvez vous déplacer pour modifier l'emplacement de la construction. Lorsque la zone de surbrillance devient blanche, vous pouvez la poser par terre.
+dialog_8=La succession ne peut être construite que sur un sol lisse et vous pouvez vous déplacer pour modifier l'emplacement de la construction.
 dialog_9= Une fois la construction terminée, vous pouvez appuyer sur les flèches rouges pour la faire pivoter dans le bon sens.
 dialog_10=Félicitations, vous avez construit votre propre domaine dans votre royaume et vous pouvez le changer librement tant que vous avez suffisamment de blocs.
 dialog_11=Le guide est terminé, espérons que vous aurez du plaisir avec ce jeu.
+dialog_12=Lorsque la zone de surbrillance devient blanche, vous pouvez la poser par terre.
 
 language_end:npc

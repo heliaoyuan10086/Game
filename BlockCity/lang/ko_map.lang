@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=다시 그리다
 gui_blockcity_tip_title=끝
 gui_blockcity_tip_cancel=취소
 gui_blockcity_tip_sure=분명히
-gui_blockcity_store_nohave=0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=남은 시간：%s
 gui_bird_checkin_receive=검사
 gui_bird_checkin_received=받았습니다.
@@ -769,9 +769,10 @@ dialog_4=이 버튼을 처음 사용하는 것은 무료이지만 다음에 동�
 dialog_5=이제는 초기 부동산을 선택할 때입니다. "편집"버튼을 눌러 편집 모드로 들어갑니다.
 dialog_6=편집 모드에서만 영역의 블록을 변경할 수 있습니다.
 dialog_7=당신은 당신의 첫번째 재산을 선택했습니다, 그것을 사용하는 "창고"버튼을 누르십시오.
-dialog_8=부동산은 매끄러운지면에만 건축 될 수 있으며, 건축물의 위치를 ​​바꾸기 위해 이동할 수 있습니다. 하이라이트 영역이 흰색으로 바뀌면이를 땅에 놓을 수 있습니다.
+dialog_8=부동산은 매끄러운지면에만 건축 될 수 있으며, 건축물의 위치를 ​​바꾸기 위해 이동할 수 있습니다.
 dialog_9= 공사가 끝나면 빨간색 화살표를 눌러 올바른 방향으로 회전시킬 수 있습니다.
 dialog_10=축하해, 너는 너의 영역에 너의 자신의 재산을 세웠고, 너는 충분한 블록을 가지고있는 한 너는 그것을 자유롭게 바꿀 수있다.
 dialog_11=가이드가 끝났습니다. 게임을 즐기기를 바랍니다.
+dialog_12=하이라이트 영역이 흰색으로 바뀌면이를 땅에 놓을 수 있습니다.
 
 language_end:npc

@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=再度描画
 gui_blockcity_tip_title=チップ
 gui_blockcity_tip_cancel=取り消し
 gui_blockcity_tip_sure=確か
-gui_blockcity_store_nohave=0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=時間は残ります%s
 gui_bird_checkin_receive=チェック
 gui_bird_checkin_received=受信
@@ -769,9 +769,10 @@ dialog_4=このボタンを初めて使用するのは無料ですが、次回�
 dialog_5=素晴らしい、今こそあなたの初期財産を選ぶ時が来ました。 「編集」ボタンを押して編集モードに入ります。
 dialog_6=編集モードでのみ、レルム内のブロックに変更を加えることができます。
 dialog_7=あなたはあなたの最初の土地を選びました、それを使う「倉庫」ボタンを押してください。
-dialog_8=地所はなめらかな地面にのみ建てることができます、そしてあなたは建設の場所を変えるために動き回ることができます。ハイライトゾーンが白に変わったら、地面に置くことができます。
+dialog_8=地所はなめらかな地面にのみ建てることができます、そしてあなたは建設の場所を変えるために動き回ることができます。
 dialog_9= 構築が完了したら、赤い矢印を押して適切な方向に回転させることができます。
 dialog_10=おめでとうございます、あなたはあなた自身の領域をあなたの領域に構築しました、そしてあなたが十分なブロックを持っている限りあなたはそれを自由に変更することができます。
 dialog_11=ガイドは終わりました。このゲームを楽しんでください。
+dialog_12=ハイライトゾーンが白に変わったら、地面に置くことができます。
 
 language_end:npc

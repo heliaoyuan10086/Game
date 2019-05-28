@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=Tekrar çiz
 gui_blockcity_tip_title=Bahşiş
 gui_blockcity_tip_cancel=İptal etmek
 gui_blockcity_tip_sure=Emin
-gui_blockcity_store_nohave=0.0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=Kalan Süre:%s
 gui_bird_checkin_receive=Giriş
 gui_bird_checkin_received=Alınan
@@ -769,9 +769,10 @@ dialog_4=Bu düğmeyi ilk kez kullanmak ücretsizdir, ancak bir dahaki sefere ba
 dialog_5=Harika, şimdi ilk mülkünüzü seçme zamanı. Düzenleme moduna girmek için "düzenle" düğmesine basın.
 dialog_6=Bölgenizdeki bloklarda yalnızca düzenleme modunda değişiklikler yapabilirsiniz.
 dialog_7=İlk mülkünüzü seçtiniz, "Depo" butonuna basın.
-dialog_8=Emlak yalnızca düzgün bir zeminde inşa edilebilir ve inşaatın yerini değiştirmek için etrafında hareket edebilirsiniz. Vurgu bölgesi beyaza döndüğünde, yere koyabilirsiniz.
+dialog_8=Emlak yalnızca düzgün bir zeminde inşa edilebilir ve inşaatın yerini değiştirmek için etrafında hareket edebilirsiniz.
 dialog_9= İnşaat tamamlandıktan sonra kırmızı oklara basarak uygun bir yöne döndürün.
 dialog_10=Tebrikler, kendi mülkünüzü kendi bölgenizde inşa ettiniz ve yeterince blokunuz olduğu sürece özgürce değiştirebilirsiniz.
 dialog_11=Rehber bitti, umarım bu oyunda eğlenirsiniz.
+dialog_12=Vurgu bölgesi beyaza döndüğünde, yere koyabilirsiniz.
 
 language_end:npc

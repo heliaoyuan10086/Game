@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=Draw again
 gui_blockcity_tip_title=Tip
 gui_blockcity_tip_cancel=Cancel
 gui_blockcity_tip_sure=Sure
-gui_blockcity_store_nohave=0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=Time Remain:%s
 gui_bird_checkin_receive=Check In
 gui_bird_checkin_received=Received
@@ -769,9 +769,10 @@ dialog_4=The first time to use this button is free of charge, but it will cost s
 dialog_5=Great, now it's time to pick your initial estate. Press "edit" button to enter edit mode. 
 dialog_6=You can make changes to the blocks in your realm in edit mode only.
 dialog_7=You have chosen your first estate, Press "storehouse" button use it.
-dialog_8=Estate can only be built on smooth ground, and you can move around to change the location of construction. When the highlight zone turns to white, you can put it on the ground.
+dialog_8=Estate can only be built on smooth ground, and you can move around to change the location of construction.
 dialog_9= After the construction is completed, you can press the red arrows to rotate it to a proper orientation.
 dialog_10=Congratulations, you have built your own estate in your realm, and you can change it freely as long as you have enough blocks. 
 dialog_11=The guide is over, hope you have fun with this game.
+dialog_12=When the highlight zone turns to white, you can put it on the ground.
 
 language_end:npc

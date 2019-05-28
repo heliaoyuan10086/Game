@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=Zeichnen Sie erneut
 gui_blockcity_tip_title=Tipp
 gui_blockcity_tip_cancel=Abbrechen
 gui_blockcity_tip_sure=Sicher.
-gui_blockcity_store_nohave=0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=Zeit bleibt:%s
 gui_bird_checkin_receive=Check In
 gui_bird_checkin_received=Empfangen
@@ -769,9 +769,10 @@ dialog_4=Die erstmalige Verwendung dieser Schaltfläche ist kostenlos, kostet je
 dialog_5=Toll, jetzt ist es an der Zeit, Ihren ursprünglichen Nachlass auszuwählen. Drücken Sie die "Bearbeiten" -Taste, um den Bearbeitungsmodus aufzurufen.
 dialog_6=Sie können Änderungen an den Blöcken in Ihrem Bereich nur im Bearbeitungsmodus vornehmen.
 dialog_7=Sie haben Ihren ersten Nachlass ausgewählt. Klicken Sie auf die Schaltfläche "Lager".
-dialog_8=Immobilien können nur auf glattem Boden gebaut werden, und Sie können sich bewegen, um den Standort der Konstruktion zu ändern. Wenn der Hervorhebungsbereich weiß wird, können Sie ihn auf den Boden legen.
+dialog_8=Immobilien können nur auf glattem Boden gebaut werden, und Sie können sich bewegen, um den Standort der Konstruktion zu ändern.
 dialog_9= Nachdem die Konstruktion abgeschlossen ist, können Sie die roten Pfeile drücken, um sie in die richtige Richtung zu drehen.
 dialog_10=Herzlichen Glückwunsch, Sie haben Ihr eigenes Anwesen in Ihrem Reich gebaut und können es beliebig ändern, solange Sie genügend Blöcke haben.
 dialog_11=Die Anleitung ist vorbei, ich hoffe, Sie haben Spaß an diesem Spiel.
+dialog_12=Wenn der Hervorhebungsbereich weiß wird, können Sie ihn auf den Boden legen.
 
 language_end:npc
