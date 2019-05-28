@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=Desenhar novamente
 gui_blockcity_tip_title=Dica
 gui_blockcity_tip_cancel=Cancelar
 gui_blockcity_tip_sure=Claro.
-gui_blockcity_store_nohave=0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=Tempo Permanece:%s
 gui_bird_checkin_receive=Verificar em
 gui_bird_checkin_received=Recebido
@@ -769,9 +769,10 @@ dialog_4=A primeira vez que usar este botão é gratuita, mas custará algumas m
 dialog_5=Ótimo, agora é hora de escolher sua propriedade inicial. Pressione o botão "editar" para entrar no modo de edição.
 dialog_6=Você pode fazer alterações nos blocos em seu território somente no modo de edição.
 dialog_7=Você escolheu sua primeira propriedade, pressione o botão "armazém" para usá-lo.
-dialog_8=A propriedade só pode ser construída em terreno plano, e você pode se movimentar para mudar a localização da construção. Quando a zona de destaque fica branca, você pode colocá-la no chão.
+dialog_8=A propriedade só pode ser construída em terreno plano, e você pode se movimentar para mudar a localização da construção.
 dialog_9= Depois que a construção estiver concluída, você pode pressionar as setas vermelhas para girá-la para uma orientação adequada.
 dialog_10=Parabéns, você construiu sua própria propriedade em seu reino, e você pode mudá-la livremente contanto que você tenha blocos suficientes.
 dialog_11=O guia acabou, espero que você se divirta com este jogo.
+dialog_12=Quando a zona de destaque fica branca, você pode colocá-la no chão.
 
 language_end:npc

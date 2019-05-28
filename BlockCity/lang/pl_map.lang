@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=Rysuj ponownie
 gui_blockcity_tip_title=Wskazówka
 gui_blockcity_tip_cancel=Anuluj
 gui_blockcity_tip_sure=Jasne.
-gui_blockcity_store_nohave=0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=Czas zachować:%s
 gui_bird_checkin_receive=Zamelduj się
 gui_bird_checkin_received=Otrzymane
@@ -769,9 +769,10 @@ dialog_4=Pierwsze użycie tego przycisku jest bezpłatne, ale następnym razem b
 dialog_5=Świetnie, teraz nadszedł czas na wybranie twojego początkowego majątku. Naciśnij przycisk „edytuj”, aby przejść do trybu edycji.
 dialog_6=Możesz wprowadzać zmiany w blokach w swojej dziedzinie tylko w trybie edycji.
 dialog_7=Wybrałeś swoją pierwszą posiadłość, naciśnij przycisk „magazyn”, użyj jej.
-dialog_8=Osiedle można budować tylko na gładkim podłożu i można się przemieszczać, aby zmienić lokalizację konstrukcji. Gdy strefa podświetlenia zmieni kolor na biały, możesz umieścić ją na ziemi.
+dialog_8=Osiedle można budować tylko na gładkim podłożu i można się przemieszczać, aby zmienić lokalizację konstrukcji.
 dialog_9= Po zakończeniu budowy możesz nacisnąć czerwone strzałki, aby obrócić ją do odpowiedniej orientacji.
 dialog_10=Gratulacje, zbudowałeś własną posiadłość w swoim królestwie i możesz ją dowolnie zmieniać, o ile masz wystarczająco dużo bloków.
 dialog_11=Przewodnik się skończył, mam nadzieję, że dobrze się bawisz w tej grze.
+dialog_12= Gdy strefa podświetlenia zmieni kolor na biały, możesz umieścić ją na ziemi.
 
 language_end:npc

@@ -220,7 +220,7 @@ gui_blockcity_tip_time_msg=Gambar lagi
 gui_blockcity_tip_title=Tip
 gui_blockcity_tip_cancel=Membatalkan
 gui_blockcity_tip_sure=Yakin
-gui_blockcity_store_nohave=0.0
+gui_blockcity_store_nohave=▢FFFF30300▢FFFFFFFF
 gui_bird_checkin_time_left=Sisa Waktu:%s
 gui_bird_checkin_receive=Mendaftar
 gui_bird_checkin_received=Diterima
@@ -769,9 +769,10 @@ dialog_4=Pertama kali menggunakan tombol ini gratis, tetapi akan dikenakan biaya
 dialog_5=Hebat, sekarang saatnya untuk memilih real awal Anda. Tekan tombol "edit" untuk masuk ke mode edit.
 dialog_6=Anda dapat membuat perubahan pada blok di wilayah Anda hanya dalam mode edit.
 dialog_7=Anda telah memilih estate pertama Anda, Tekan tombol "gudang" menggunakannya.
-dialog_8=Perkebunan hanya dapat dibangun di atas tanah yang halus, dan Anda dapat bergerak untuk mengubah lokasi konstruksi. Saat zona sorot berubah menjadi putih, Anda bisa meletakkannya di tanah.
+dialog_8=Perkebunan hanya dapat dibangun di atas tanah yang halus, dan Anda dapat bergerak untuk mengubah lokasi konstruksi.
 dialog_9= Setelah konstruksi selesai, Anda dapat menekan panah merah untuk memutarnya ke arah yang benar.
 dialog_10=Selamat, Anda telah membangun real Anda sendiri di wilayah Anda, dan Anda dapat mengubahnya secara bebas selama Anda memiliki cukup blok.
 dialog_11=Panduan ini selesai, semoga Anda bersenang-senang dengan game ini.
+dialog_12=Saat zona sorot berubah menjadi putih, Anda bisa meletakkannya di tanah.
 
 language_end:npc
