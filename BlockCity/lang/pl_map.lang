@@ -231,6 +231,7 @@ gui_blockcity_choose_paper=Wybierz Blueprint
 fly_msg1=1 Dzień
 fly_msg2=3 Dni
 fly_msg3=7 Dni
+gui_blockcity_buy_fly=Zakup przywileju lotu
 
 language_end:system
 
@@ -762,7 +763,7 @@ language_end:item
 language_start:npc
 
 npc_name_1=Rozszerz Królestwo
-dialog_1=Witaj w swoim królestwie, jestem duchem gry W.
+dialog_1=Witaj w swoim królestwie, jestem duchem gry.
 dialog_2=Słuchaj, to jest twoje królestwo, ale są pewne bloki na ziemi. Naciśnij przycisk „Realm”, aby je wyczyścić.
 dialog_3=Możesz usunąć wszystkie bloki w swojej dziedzinie za pomocą przycisku „Usuń”, pomyśl dwa razy przed użyciem.
 dialog_4=Pierwsze użycie tego przycisku jest bezpłatne, ale następnym razem będzie kosztować trochę monet.

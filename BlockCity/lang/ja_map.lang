@@ -231,6 +231,7 @@ gui_blockcity_choose_paper=青写真を選ぶ
 fly_msg1=1日目
 fly_msg2=3日
 fly_msg3=7日
+gui_blockcity_buy_fly=飛行特権を購入
 
 language_end:system
 
@@ -762,7 +763,7 @@ language_end:item
 language_start:npc
 
 npc_name_1=拡張領域
-dialog_1=あなたの王国へようこそ、私はゲーム精神Wです。
+dialog_1=あなたの王国へようこそ、私はゲーム精神です。
 dialog_2=見てください、これはあなたの領域です、しかし地面にいくつかのブロックがあります。それらをきれいにするために "Realm"ボタンを押してください。
 dialog_3=あなたはレルム内のすべてのブロックを「削除」ボタンで削除することができます。使用前に二度考えてください。
 dialog_4=このボタンを初めて使用するのは無料ですが、次回はコインがいくらかかかります。

@@ -231,6 +231,7 @@ gui_blockcity_choose_paper=Elige modelo
 fly_msg1=1 día
 fly_msg2=3 días
 fly_msg3=7 días
+gui_blockcity_buy_fly=Compra Flying privilegio
 
 language_end:system
 
@@ -762,7 +763,7 @@ language_end:item
 language_start:npc
 
 npc_name_1=Extender el Reino
-dialog_1=Bienvenido a tu Reino, soy el espíritu del juego W.
+dialog_1=Bienvenido a tu Reino, soy el espíritu del juego.
 dialog_2=Mira, este es tu reino, pero hay algunos bloques en el suelo. Pulse el botón "Reino" para limpiarlos.
 dialog_3=Puede eliminar todos los bloques en su reino con el botón "Eliminar", piénselo dos veces antes de usarlo.
 dialog_4=La primera vez que use este botón es gratis, pero la próxima vez le costará algunas monedas.

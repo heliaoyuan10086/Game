@@ -231,6 +231,7 @@ gui_blockcity_choose_paper=choisir le plan
 fly_msg1=1 jour
 fly_msg2=3 jours
 fly_msg3=7 jours
+gui_blockcity_buy_fly=achat flying privilège
 
 language_end:system
 
@@ -762,7 +763,7 @@ language_end:item
 language_start:npc
 
 npc_name_1=prolonger royaume
-dialog_1=Bienvenue dans votre royaume, je suis l'esprit du jeu W.
+dialog_1=Bienvenue dans votre royaume, je suis l'esprit du jeu.
 dialog_2=Regardez, ceci est votre royaume, mais il y a quelques blocs sur le terrain. Appuyez sur le bouton "Realm" pour les nettoyer.
 dialog_3=Vous pouvez supprimer tous les blocs de votre royaume avec le bouton "Supprimer", réfléchissez-y à deux fois avant de les utiliser.
 dialog_4=La première utilisation de ce bouton est gratuite, mais cela coûtera quelques pièces la prochaine fois.

@@ -231,6 +231,7 @@ gui_blockcity_choose_paper=Chọn xanh
 fly_msg1=Ngày
 fly_msg2=3 Ngày
 fly_msg3=7 Days
+gui_blockcity_buy_fly=Quyền mua máy bay
 
 language_end:system
 
@@ -762,7 +763,7 @@ language_end:item
 language_start:npc
 
 npc_name_1=Gửi Realm
-dialog_1=Chào mừng bạn đến Vương quốc của bạn, tôi là tinh thần trò chơi W.
+dialog_1=Chào mừng bạn đến Vương quốc của bạn, tôi là tinh thần trò chơi.
 dialog_2=Hãy nhìn xem, đây là vương quốc của bạn, nhưng có một số khối trên mặt đất. Nhấn nút "Realm" để dọn sạch chúng.
 dialog_3=Bạn có thể xóa tất cả các khối trong vương quốc của mình bằng nút "Xóa", suy nghĩ hai lần trước khi sử dụng.
 dialog_4=Lần đầu tiên sử dụng nút này là miễn phí, nhưng nó sẽ tốn một số tiền vào lần tới.

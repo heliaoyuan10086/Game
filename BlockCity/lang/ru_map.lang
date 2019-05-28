@@ -231,6 +231,7 @@ gui_blockcity_choose_paper=выбрать план
 fly_msg1=1 день
 fly_msg2=3 дня
 fly_msg3=7 дней
+gui_blockcity_buy_fly=покупка пролетел привилегии
 
 language_end:system
 

@@ -231,6 +231,7 @@ gui_blockcity_choose_paper=选择图纸
 fly_msg1=1天
 fly_msg2=3天
 fly_msg3=7天
+gui_blockcity_buy_fly=购买飞行特权
 
 language_end:system
 
@@ -762,7 +763,7 @@ language_end:item
 language_start:npc
 
 npc_name_1=扩展领地
-dialog_1=欢迎来到你的领地，我是游戏精灵小吴jj。
+dialog_1=欢迎来到你的领地，我是游戏精灵。
 dialog_2=看，这里就是你的领地了，不过现在这里有很多杂乱的方块，点击“领地”按钮来把它们清理干净吧。
 dialog_3=点击这里的“清除”按钮就可以一键清空领地内的所有方块了，一定要谨慎使用哦。
 dialog_4=第一次使用清除按钮是免费的，以后会收取一定的费用。

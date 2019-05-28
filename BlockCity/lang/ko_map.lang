@@ -231,6 +231,7 @@ gui_blockcity_choose_paper=선택 청사진
 fly_msg1=하루
 fly_msg2=3일
 fly_msg3=7일
+gui_blockcity_buy_fly=구매 비행 특권
 
 language_end:system
 
