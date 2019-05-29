@@ -15,6 +15,9 @@ inGuidePlaceTemplateId: 193
 GuideDemoDrawId: 914
 #加载废墟的前一个id事件
 GuidePlaceDemoDrawEventId: 111
+#引导过程中准备点击仓库的事件Id
+GuideReadyToOpenStoreId: 142
+
 GuideDemoDrawRPos180: [9, 0, 8]
 GuideDemoDrawRPos90: [20, 0, 8]
 GuideDemoDrawRPos270: [9, 0, 19]
