@@ -22,3 +22,6 @@ GuideDemoDrawRPos270: [9, 0, 19]
 
 #中断引导之后，传进领地的相对坐标
 GuideSuspendTeleportRPos: [14, 1, 21]
+
+#玩家第一次进游戏时显示的默认名字
+defaultName = "defaultName"
