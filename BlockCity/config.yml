@@ -7,7 +7,7 @@ inviteShowTime: 20
 #引导过程中，让玩家放置切片操作的前一个id事件
 inGuidePlaceTemplatePreId: 146
 #引导过程中，让玩家放置切片操作的前一个id事件
-inGuideLastId: 146
+inGuideLastId: 195
 #引导过程中，玩家放置切片操作的后一个事件id
 inGuidePlaceTemplateId: 193
 
@@ -15,8 +15,6 @@ inGuidePlaceTemplateId: 193
 GuideDemoDrawId: 914
 #加载废墟的前一个id事件
 GuidePlaceDemoDrawEventId: 111
-#引导过程中准备点击仓库的事件Id
-GuideReadyToOpenStoreId: 142
 
 GuideDemoDrawRPos180: [9, 0, 8]
 GuideDemoDrawRPos90: [20, 0, 8]
