@@ -24,4 +24,4 @@ GuideDemoDrawRPos270: [9, 0, 19]
 GuideSuspendTeleportRPos: [14, 1, 21]
 
 #玩家第一次进游戏时显示的默认名字
-defaultName = "defaultName"
+defaultName = "RealmCity"
