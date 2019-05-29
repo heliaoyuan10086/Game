@@ -6,8 +6,8 @@ inviteShowTime: 20
 #引导中没有写进引导配置里面的配置
 #引导过程中，让玩家放置切片操作的前一个id事件
 inGuidePlaceTemplatePreId: 146
-#引导过程最后一步
-inGuideLastId: 196
+#引导过程中，玩家放置切片操作的后一个事件id，中断事件不为0
+inGuideLastId: 193
 #引导过程中，玩家放置切片操作的后一个事件id
 inGuidePlaceTemplateId: 193
 
