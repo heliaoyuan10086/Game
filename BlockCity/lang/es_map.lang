@@ -775,5 +775,6 @@ dialog_9= Una vez completada la construcción, puede presionar las flechas roja
 dialog_10=Enhorabuena, ha construido su propio patrimonio en su reino y puede cambiarlo libremente siempre que tenga suficientes bloques.
 dialog_11=La guía ha terminado, espero que te diviertas con este juego.
 dialog_12=Cuando la zona resaltada se vuelve blanca, puede colocarla en el suelo.
+gui_game_elf=Juego Sprite
 
 language_end:npc

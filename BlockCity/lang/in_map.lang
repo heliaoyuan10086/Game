@@ -775,5 +775,6 @@ dialog_9= Setelah konstruksi selesai, Anda dapat menekan panah merah untuk memu
 dialog_10=Selamat, Anda telah membangun real Anda sendiri di wilayah Anda, dan Anda dapat mengubahnya secara bebas selama Anda memiliki cukup blok.
 dialog_11=Panduan ini selesai, semoga Anda bersenang-senang dengan game ini.
 dialog_12=Saat zona sorot berubah menjadi putih, Anda bisa meletakkannya di tanah.
+gui_game_elf=Game Sprite
 
 language_end:npc

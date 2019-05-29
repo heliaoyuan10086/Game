@@ -775,5 +775,6 @@ dialog_9= After the construction is completed, you can press the red arrows to r
 dialog_10=Congratulations, you have built your own estate in your realm, and you can change it freely as long as you have enough blocks. 
 dialog_11=The guide is over, hope you have fun with this game.
 dialog_12=When the highlight zone turns to white, you can put it on the ground.
+gui_game_elf=Game Sprite
 
 language_end:npc

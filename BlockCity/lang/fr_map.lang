@@ -775,5 +775,6 @@ dialog_9= Une fois la construction terminée, vous pouvez appuyer sur les flèc
 dialog_10=Félicitations, vous avez construit votre propre domaine dans votre royaume et vous pouvez le changer librement tant que vous avez suffisamment de blocs.
 dialog_11=Le guide est terminé, espérons que vous aurez du plaisir avec ce jeu.
 dialog_12=Lorsque la zone de surbrillance devient blanche, vous pouvez la poser par terre.
+gui_game_elf=jeu à boire
 
 language_end:npc

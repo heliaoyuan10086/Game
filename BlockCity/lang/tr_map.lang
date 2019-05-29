@@ -775,5 +775,6 @@ dialog_9= İnşaat tamamlandıktan sonra kırmızı oklara basarak uygun bir y�
 dialog_10=Tebrikler, kendi mülkünüzü kendi bölgenizde inşa ettiniz ve yeterince blokunuz olduğu sürece özgürce değiştirebilirsiniz.
 dialog_11=Rehber bitti, umarım bu oyunda eğlenirsiniz.
 dialog_12=Vurgu bölgesi beyaza döndüğünde, yere koyabilirsiniz.
+gui_game_elf=Oyun Sprite
 
 language_end:npc

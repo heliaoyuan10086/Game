@@ -775,5 +775,6 @@ dialog_9= Sau khi xây dựng xong, bạn có thể nhấn các mũi tên màu 
 dialog_10=Xin chúc mừng, bạn đã xây dựng bất động sản của riêng mình trong vương quốc của bạn và bạn có thể thay đổi nó một cách tự do miễn là bạn có đủ khối.
 dialog_11=Hướng dẫn đã kết thúc, hy vọng bạn có niềm vui với trò chơi này.
 dialog_12=Khi vùng tô sáng chuyển sang màu trắng, bạn có thể đặt nó xuống đất.
+gui_game_elf=Game Sprite
 
 language_end:npc

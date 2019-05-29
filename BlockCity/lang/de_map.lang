@@ -775,5 +775,6 @@ dialog_9= Nachdem die Konstruktion abgeschlossen ist, können Sie die roten Pfe
 dialog_10=Herzlichen Glückwunsch, Sie haben Ihr eigenes Anwesen in Ihrem Reich gebaut und können es beliebig ändern, solange Sie genügend Blöcke haben.
 dialog_11=Die Anleitung ist vorbei, ich hoffe, Sie haben Spaß an diesem Spiel.
 dialog_12=Wenn der Hervorhebungsbereich weiß wird, können Sie ihn auf den Boden legen.
+gui_game_elf=Game Sprite
 
 language_end:npc

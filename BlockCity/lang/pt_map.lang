@@ -775,5 +775,6 @@ dialog_9= Depois que a construção estiver concluída, você pode pressionar a
 dialog_10=Parabéns, você construiu sua própria propriedade em seu reino, e você pode mudá-la livremente contanto que você tenha blocos suficientes.
 dialog_11=O guia acabou, espero que você se divirta com este jogo.
 dialog_12=Quando a zona de destaque fica branca, você pode colocá-la no chão.
+gui_game_elf=Jogo Sprite
 
 language_end:npc

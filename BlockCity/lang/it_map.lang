@@ -775,5 +775,6 @@ dialog_9= Dopo aver completato la costruzione, è possibile premere le frecce r
 dialog_10=Complimenti, hai costruito il tuo patrimonio nel tuo regno e puoi cambiarlo liberamente se hai abbastanza blocchi.
 dialog_11=La guida è finita, spero ti diverta con questo gioco.
 dialog_12=Quando la zona evidenziata diventa bianca, puoi metterla a terra.
+gui_game_elf=Partita Sprite
 
 language_end:npc

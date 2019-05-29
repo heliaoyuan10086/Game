@@ -775,5 +775,6 @@ dialog_9= Po zakończeniu budowy możesz nacisnąć czerwone strzałki, aby obr
 dialog_10=Gratulacje, zbudowałeś własną posiadłość w swoim królestwie i możesz ją dowolnie zmieniać, o ile masz wystarczająco dużo bloków.
 dialog_11=Przewodnik się skończył, mam nadzieję, że dobrze się bawisz w tej grze.
 dialog_12= Gdy strefa podświetlenia zmieni kolor na biały, możesz umieścić ją na ziemi.
+gui_game_elf=Sprite gry
 
 language_end:npc
