@@ -26,3 +26,6 @@ GuideSuspendTeleportRPos: [14, 1, 21]
 
 #玩家第一次进游戏时显示的默认名字
 defaultName: "RealmCity"
+
+#玩家领地释放后用于修复地皮用的模板文件
+groundName: "ground_29x29.schematic"
