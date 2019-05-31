@@ -412,6 +412,7 @@ fly_msg1=1 Giorno
 fly_msg2=3 Giorni
 fly_msg3=7 Giorni
 gui_blockcity_buy_fly=Acquisto privilegio di volo
+gui_block_city_manor_not_load=Entrare in avaria, reame non caricato
 
 language_end:system
 

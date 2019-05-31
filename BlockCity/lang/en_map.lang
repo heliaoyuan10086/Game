@@ -412,6 +412,7 @@ fly_msg1=1 Day
 fly_msg2=3 Days
 fly_msg3=7 Days
 gui_blockcity_buy_fly=Purchase flying privilege
+gui_block_city_manor_not_load=Entering fail, realm not loaded
 
 language_end:system
 

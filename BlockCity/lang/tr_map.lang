@@ -412,6 +412,7 @@ fly_msg1=1 gün
 fly_msg2=3 gün
 fly_msg3=7 gün
 gui_blockcity_buy_fly=Satınalma uçan ayrıcalığı
+gui_block_city_manor_not_load=Giriş başarısız, bölge yüklenmedi
 
 language_end:system
 

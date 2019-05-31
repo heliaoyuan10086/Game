@@ -412,6 +412,7 @@ fly_msg1=1日目
 fly_msg2=3日
 fly_msg3=7日
 gui_blockcity_buy_fly=飛行特権を購入
+gui_block_city_manor_not_load=入力失敗
 
 language_end:system
 

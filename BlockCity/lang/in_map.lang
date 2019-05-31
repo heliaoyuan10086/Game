@@ -412,6 +412,7 @@ fly_msg1=1 hari
 fly_msg2=3 hari
 fly_msg3=7 hari
 gui_blockcity_buy_fly=Beli keistimewaan terbang
+gui_block_city_manor_not_load=Masuk gagal, ranah tidak dimuat
 
 language_end:system
 

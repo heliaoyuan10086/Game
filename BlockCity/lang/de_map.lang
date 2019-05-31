@@ -412,6 +412,7 @@ fly_msg1=1 Tag
 fly_msg2=3 Tage
 fly_msg3=7 Tage
 gui_blockcity_buy_fly=Erwerb von Flugpräferenzen
+gui_block_city_manor_not_load=Entern fehlgeschlagen, Realm nicht geladen
 
 language_end:system
 

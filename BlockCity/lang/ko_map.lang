@@ -412,6 +412,7 @@ fly_msg1=하루
 fly_msg2=3일
 fly_msg3=7일
 gui_blockcity_buy_fly=구매 비행 특권
+gui_block_city_manor_not_load=진입 실패, 경지 불러올 수 없습니다.
 
 language_end:system
 

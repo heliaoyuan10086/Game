@@ -412,6 +412,7 @@ fly_msg1=1 день
 fly_msg2=3 дня
 fly_msg3=7 дней
 gui_blockcity_buy_fly=покупка пролетел привилегии
+gui_block_city_manor_not_load=в мире не загружен не,
 
 language_end:system
 

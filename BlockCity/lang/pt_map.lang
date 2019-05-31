@@ -412,6 +412,7 @@ fly_msg1=Um dia
 fly_msg2=3 Dias
 fly_msg3=7 Dias
 gui_blockcity_buy_fly=Privilégio de compra de VOO
+gui_block_city_manor_not_load=Falha de Entrada, domínio não carregado
 
 language_end:system
 

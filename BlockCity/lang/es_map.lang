@@ -412,6 +412,7 @@ fly_msg1=1 día
 fly_msg2=3 días
 fly_msg3=7 días
 gui_blockcity_buy_fly=Compra Flying privilegio
+gui_block_city_manor_not_load=Entrar a fallar, Reino no cargado
 
 language_end:system
 
