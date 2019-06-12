@@ -413,6 +413,8 @@ fly_msg2=3 Tage
 fly_msg3=7 Tage
 gui_blockcity_buy_fly=Erwerb von Flugpräferenzen
 gui_block_city_manor_not_load=Entern fehlgeschlagen, Realm nicht geladen
+gui_blockcity_use_platform_money=Dieser Kauf wird Plattform Goldmünzen verbrauchen, sicher weiter?
+gui_blockcity_use_platform_money_not_hint=Nicht wieder daran erinnern
 
 language_end:system
 

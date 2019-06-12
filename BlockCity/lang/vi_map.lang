@@ -413,6 +413,8 @@ fly_msg2=3 Ngày
 fly_msg3=7 Days
 gui_blockcity_buy_fly=Quyền mua máy bay
 gui_block_city_manor_not_load=Lỗi vào vùng không tải
+gui_blockcity_use_platform_money=Mua này sẽ tiêu thụ tiền vàng nền tảng, chắc chắn sẽ tiếp tục?
+gui_blockcity_use_platform_money_not_hint=Đừng nhắc lại lần nữa
 
 language_end:system
 

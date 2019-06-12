@@ -413,6 +413,8 @@ fly_msg2=3 Dias
 fly_msg3=7 Dias
 gui_blockcity_buy_fly=Privilégio de compra de VOO
 gui_block_city_manor_not_load=Falha de Entrada, domínio não carregado
+gui_blockcity_use_platform_money=Esta compra consumirá moedas de ouro da plataforma, certo de continuar?
+gui_blockcity_use_platform_money_not_hint=Não relembre novamente
 
 language_end:system
 

@@ -413,6 +413,8 @@ fly_msg2=3 Days
 fly_msg3=7 Days
 gui_blockcity_buy_fly=Purchase flying privilege
 gui_block_city_manor_not_load=Entering fail, realm not loaded
+gui_blockcity_use_platform_money=This purchase will consume platform gold coins, sure to continue?
+gui_blockcity_use_platform_money_not_hint=Do not remind again
 
 language_end:system
 

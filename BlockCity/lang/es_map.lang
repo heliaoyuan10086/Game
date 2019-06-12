@@ -413,6 +413,8 @@ fly_msg2=3 días
 fly_msg3=7 días
 gui_blockcity_buy_fly=Compra Flying privilegio
 gui_block_city_manor_not_load=Entrar a fallar, Reino no cargado
+gui_blockcity_use_platform_money=Esta compra consumirá monedas de oro de la plataforma, ¿seguro que continuará?
+gui_blockcity_use_platform_money_not_hint=No recuerdo otra vez
 
 language_end:system
 

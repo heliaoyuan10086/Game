@@ -413,6 +413,8 @@ fly_msg2=3 hari
 fly_msg3=7 hari
 gui_blockcity_buy_fly=Beli keistimewaan terbang
 gui_block_city_manor_not_load=Masuk gagal, ranah tidak dimuat
+gui_blockcity_use_platform_money=Pembelian ini akan menggunakan koin platform emas, yakin untuk melanjutkan?
+gui_blockcity_use_platform_money_not_hint=Jangan diingatkan lagi
 
 language_end:system
 

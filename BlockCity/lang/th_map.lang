@@ -413,6 +413,8 @@ fly_msg2=3 วัน
 fly_msg3=7 วัน
 gui_blockcity_buy_fly=ซื้อสิทธิพิเศษบิน
 gui_block_city_manor_not_load=ป้อน realm โหลดไม่ล้มเหลว
+gui_blockcity_use_platform_money=การซื้อนี้จะใช้เหรียญทองของแพลตฟอร์มแน่ใจว่าจะดำเนินการต่อไป?
+gui_blockcity_use_platform_money_not_hint=ไม่เตือนอีก
 
 language_end:system
 

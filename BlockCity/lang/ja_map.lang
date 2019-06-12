@@ -413,6 +413,8 @@ fly_msg2=3日
 fly_msg3=7日
 gui_blockcity_buy_fly=飛行特権を購入
 gui_block_city_manor_not_load=入力失敗
+gui_blockcity_use_platform_money=この購入はプラットフォームの金貨を消費します。
+gui_blockcity_use_platform_money_not_hint=二度と思い出さない
 
 language_end:system
 

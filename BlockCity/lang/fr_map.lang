@@ -413,6 +413,8 @@ fly_msg2=3 jours
 fly_msg3=7 jours
 gui_blockcity_buy_fly=achat flying privilège
 gui_block_city_manor_not_load=dans l'échec, domaine non chargées
+gui_blockcity_use_platform_money=Cet achat va consommer des pièces d'or de la plateforme, allez-vous continuer?
+gui_blockcity_use_platform_money_not_hint=encore ne pas rappeler
 
 language_end:system
 

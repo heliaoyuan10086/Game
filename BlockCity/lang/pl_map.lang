@@ -413,6 +413,8 @@ fly_msg2=3 Dni
 fly_msg3=7 Dni
 gui_blockcity_buy_fly=Zakup przywileju lotu
 gui_block_city_manor_not_load=Błąd wejścia, domena nie załadowana
+gui_blockcity_use_platform_money=Ten zakup pochłonie złote monety platformy, z pewnością będzie kontynuowany?
+gui_blockcity_use_platform_money_not_hint=Nie przypominaj mi.
 
 language_end:system
 

@@ -413,6 +413,8 @@ fly_msg2=3天
 fly_msg3=7天
 gui_blockcity_buy_fly=购买飞行特权
 gui_block_city_manor_not_load=打开失败，领地未加载
+gui_blockcity_use_platform_money=此项购买会消耗平台金币，确定继续？
+gui_blockcity_use_platform_money_not_hint=不再提示
 
 language_end:system
 

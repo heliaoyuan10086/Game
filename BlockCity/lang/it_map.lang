@@ -413,6 +413,8 @@ fly_msg2=3 Giorni
 fly_msg3=7 Giorni
 gui_blockcity_buy_fly=Acquisto privilegio di volo
 gui_block_city_manor_not_load=Entrare in avaria, reame non caricato
+gui_blockcity_use_platform_money=Questo acquisto consumerà monete d'oro della piattaforma, sicuro di continuare?
+gui_blockcity_use_platform_money_not_hint=Non ricordare di nuovo
 
 language_end:system
 
