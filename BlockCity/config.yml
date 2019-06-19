@@ -29,3 +29,9 @@ defaultName: "RealmCity"
 
 #玩家领地释放后用于修复地皮用的模板文件
 groundName: "ground_29x29.schematic"
+
+#免费给玩家的存档数量
+freeArchiveNum: 2
+
+#存档的默认名字 (后面会自动添加数字递增)
+archiveName: MyRealm
