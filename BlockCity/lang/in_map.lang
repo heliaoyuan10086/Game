@@ -256,6 +256,26 @@ drawing_name_910=Paket beton
 drawing_name_911=Paket wol
 drawing_name_912=Paket hadiah khusus
 drawing_name_913=Paket batu permata
+drawing_name_29Double-dwelling house
+drawing_name_30Exquisite log cabin
+drawing_name_31Treasure hut
+drawing_name_32Village house
+drawing_name_33Superior double-dwelling house
+drawing_name_34Cross Villa
+drawing_name_35Elf Cottage
+drawing_name_36Duke Villa
+drawing_name_37Knight's House
+drawing_name_38Wizard House
+drawing_name_39Knight statue
+drawing_name_40Cemetery
+drawing_name_41Lookout tower
+drawing_name_42Free time
+drawing_name_43Garden view
+drawing_name_44Small bush
+drawing_name_45Tall pine
+drawing_name_46Small park
+drawing_name_47rockery
+drawing_name_48Diamond altar
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=Kamar tidur
 decorate_tag_3=Lainnya
 drawing_tag_1=Perkebunan
 drawing_tag_2=Ambient
+drawing_tag_3=rumah bangsawan
 gui_blockcity_store_one=%d beli 1
 gui_blockcity_store_gcroup=%d beli 64
 gui_blockcity_rank=Papan peringkat

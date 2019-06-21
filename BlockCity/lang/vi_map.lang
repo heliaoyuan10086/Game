@@ -256,6 +256,26 @@ drawing_name_910=Thư mục
 drawing_name_911=Quà ăn xúc
 drawing_name_912=Quà đặc biệt
 drawing_name_913=Quà ngọc
+drawing_name_29Nhà đôi
+drawing_name_30Phòng gỗ sung sướng.
+drawing_name_31Căn chòi kho báu
+drawing_name_32Nhà quê
+drawing_name_33Nhà cao cấp
+drawing_name_34Villa Cross.
+drawing_name_35Nhà mộc Tiên
+drawing_name_36Công tước Villa.
+drawing_name_37Knight's House
+drawing_name_38Nhà Pháp sư
+drawing_name_39Tượng hiệp sĩ
+drawing_name_40Nghĩa trang
+drawing_name_41Tháp thăm dò
+drawing_name_42Thời gian rảnh
+drawing_name_43Khung xem vườn
+drawing_name_44Tiểu bụi rậm
+drawing_name_45Rừng thông cao
+drawing_name_46Công viên nhỏ
+drawing_name_47Đỉnh
+drawing_name_48Sàn thờ
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=Phòng ngủ
 decorate_tag_3=Khác
 drawing_tag_1=Bất động sản
 drawing_tag_2=Chung
+drawing_tag_3=trang viên
 gui_blockcity_store_one=%d mua 1
 gui_blockcity_store_gcroup=%d mua 64
 gui_blockcity_rank=Cấp

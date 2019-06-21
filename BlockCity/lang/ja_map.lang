@@ -256,6 +256,26 @@ drawing_name_910=具象
 drawing_name_911=ウールギフト
 drawing_name_912=スペシャルギフト
 drawing_name_913=ジュエルギフト
+drawing_name_29ダブルハウス
+drawing_name_30ログキャビン
+drawing_name_31宝小屋
+drawing_name_32ビレッジハウス
+drawing_name_33優良集合住宅
+drawing_name_34クロスヴィラ
+drawing_name_35エルフコテージ
+drawing_name_36デュークビラ
+drawing_name_37騎士の家
+drawing_name_38ウィザードハウス
+drawing_name_39ナイトスタチュー
+drawing_name_40墓地
+drawing_name_41見張り塔
+drawing_name_42自由時間
+drawing_name_43ガーデンビュー
+drawing_name_44小さな茂み
+drawing_name_45背の高い松
+drawing_name_46小公園
+drawing_name_47岩石
+drawing_name_48ダイアモンド
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=寝室
 decorate_tag_3=その他
 drawing_tag_1=エステート
 drawing_tag_2=周囲
+drawing_tag_3=マナー
 gui_blockcity_store_one=%d 購入1
 gui_blockcity_store_gcroup=%d 購入64
 gui_blockcity_rank=ランク

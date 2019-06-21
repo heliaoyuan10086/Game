@@ -256,6 +256,26 @@ drawing_name_910=concretegift
 drawing_name_911=laine don
 drawing_name_912=don
 drawing_name_913=jewel don
+drawing_name_29double maison d'habitation
+drawing_name_30un chalet
+drawing_name_31trésor hut
+drawing_name_32maison du village
+drawing_name_33superior double maison d'habitation
+drawing_name_34la villa
+drawing_name_35elf cottage
+drawing_name_36duke villa
+drawing_name_37la maison du chevalier
+drawing_name_38magicien maison
+drawing_name_39knight statue
+drawing_name_40cimetière
+drawing_name_41tour de guet
+drawing_name_42temps libre
+drawing_name_43avec vue sur le jardin
+drawing_name_44petit bush
+drawing_name_45grand pin
+drawing_name_46petit parc
+drawing_name_47rocaille
+drawing_name_48diamond autel
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=Chambre
 decorate_tag_3=Autres
 drawing_tag_1=Biens
 drawing_tag_2=ambient
+drawing_tag_3=Manoir
 gui_blockcity_store_one=%d acheter 1
 gui_blockcity_store_gcroup=%d acheter 64
 gui_blockcity_rank=grade

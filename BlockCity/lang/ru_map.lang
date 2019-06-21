@@ -256,6 +256,26 @@ drawing_name_910=concretegift
 drawing_name_911=шерсть подарок
 drawing_name_912=специальный подарок
 drawing_name_913=джуэл подарок
+drawing_name_29двойной жилой дом
+drawing_name_30изысканный хижине
+drawing_name_31сокровища хат
+drawing_name_32деревенский дом
+drawing_name_33Superior Double жилой дом
+drawing_name_34кросс - вилла
+drawing_name_35эльф.
+drawing_name_36герцог вилла
+drawing_name_37рыцарь.
+drawing_name_38мастер дома
+drawing_name_39рыцарь статуи
+drawing_name_40кладбище
+drawing_name_41башня.
+drawing_name_42свободного времени
+drawing_name_43с видом на сад
+drawing_name_44небольшой буша
+drawing_name_45высокие сосны
+drawing_name_46маленький парк
+drawing_name_47скала
+drawing_name_48алмаз.
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=спальная комната
 decorate_tag_3=другие
 drawing_tag_1=имущество
 drawing_tag_2=эмбиент
+drawing_tag_3=поместье
 gui_blockcity_store_one=покупать 1%d 
 gui_blockcity_store_gcroup=купить 64%d 
 gui_blockcity_rank=звание

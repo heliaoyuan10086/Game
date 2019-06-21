@@ -256,6 +256,26 @@ drawing_name_910=concretegift
 drawing_name_911=양털 선물
 drawing_name_912=특별 선물
 drawing_name_913=보석 선물
+drawing_name_29더블 주택
+drawing_name_30정교한 로그 캐빈
+drawing_name_31보물 초가집
+drawing_name_32마을에
+drawing_name_33뛰어난 두 주택
+drawing_name_34크로스 별장
+drawing_name_35정령 초가집
+drawing_name_36공작 별장
+drawing_name_37기사 집
+drawing_name_38마법사 집
+drawing_name_39기사 조각상
+drawing_name_40묘지
+drawing_name_41감시탑
+drawing_name_42시간
+drawing_name_43전원 풍경
+drawing_name_44작은 관목
+drawing_name_45키가 큰 소나무
+drawing_name_46작은 공원
+drawing_name_47가산
+drawing_name_48다이아몬드 제단
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=침실
 decorate_tag_3=기타
 drawing_tag_1=재산
 drawing_tag_2=환경
+drawing_tag_3=매너
 gui_blockcity_store_one=%d 구매 1
 gui_blockcity_store_gcroup=%d 64를 사다 
 gui_blockcity_rank=질서

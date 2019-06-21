@@ -256,6 +256,26 @@ drawing_name_910=Presente concreto
 drawing_name_911=Presente de lã
 drawing_name_912=Presente especial
 drawing_name_913=Presente de Jóias
+drawing_name_29Casa de habitação Dupla
+drawing_name_30Cabine de registo requintada
+drawing_name_31Cabana do tesouro
+drawing_name_32Casa Da Aldeia
+drawing_name_33Casa de dois andares superior
+drawing_name_34Cruzar Villa
+drawing_name_35Cabana Elfo
+drawing_name_36Duque Villa.
+drawing_name_37Casa DOS Cavaleiros
+drawing_name_38Casa DOS Feiticeiros
+drawing_name_39Estátua de cavaleiro
+drawing_name_40Cemitério
+drawing_name_41Torre de Vigia
+drawing_name_42Tempo Livre
+drawing_name_43Vista para Jardins
+drawing_name_44Pequeno arbusto
+drawing_name_45Alto Pinheiro
+drawing_name_46Estacionamento pequeno
+drawing_name_47Rochas
+drawing_name_48Altar de Diamante
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=quarto
 decorate_tag_3=Outras
 drawing_tag_1=Estado
 drawing_tag_2=Ambiente
+drawing_tag_3=Manor
 gui_blockcity_store_one=%d comprar um
 gui_blockcity_store_gcroup=%d comprar 64
 gui_blockcity_rank=Correu.

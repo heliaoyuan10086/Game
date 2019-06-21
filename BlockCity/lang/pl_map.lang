@@ -256,6 +256,26 @@ drawing_name_910=ConcreteGift
 drawing_name_911=Wool Gift
 drawing_name_912=Specjalny prezent
 drawing_name_913=Prezent jubilerski
+drawing_name_29Dom dwumieszkaniowy
+drawing_name_30Wspaniała kabina pokładowa
+drawing_name_31Chata skarbów
+drawing_name_32Dom wiejski
+drawing_name_33Domek najwyższej klasy
+drawing_name_34Skrzyżowanie Villa
+drawing_name_35Elf Cottage
+drawing_name_36Duke Villa.
+drawing_name_37Dom rycerza
+drawing_name_38Dom czarodzieja
+drawing_name_39Rycerski posąg
+drawing_name_40Cmentarz
+drawing_name_41Wieża obserwacyjna
+drawing_name_42Wolny czas
+drawing_name_43Widok ogrodu
+drawing_name_44Mały krzak
+drawing_name_45Wysoka sosna
+drawing_name_46Mały park
+drawing_name_47rockowy
+drawing_name_48Diamentowy ołtarz
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=Sypialnia
 decorate_tag_3=Inni
 drawing_tag_1=Majątek
 drawing_tag_2=Otoczenie
+drawing_tag_3=dwór
 gui_blockcity_store_one=%d kup 1
 gui_blockcity_store_gcroup=%d kup 64
 gui_blockcity_rank=Stopień

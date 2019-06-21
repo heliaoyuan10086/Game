@@ -256,6 +256,26 @@ drawing_name_910=混凝土礼包
 drawing_name_911=羊毛礼包
 drawing_name_912=特殊礼包
 drawing_name_913=宝石礼包
+drawing_name_29双层民居
+drawing_name_30精致小木屋
+drawing_name_31宝藏小屋
+drawing_name_32村民之家
+drawing_name_33高级双层民居
+drawing_name_34十字别墅
+drawing_name_35精灵小屋
+drawing_name_36公爵别墅
+drawing_name_37骑士之家
+drawing_name_38巫师之家
+drawing_name_39骑士雕像
+drawing_name_40墓地
+drawing_name_41瞭望塔
+drawing_name_42休闲时光
+drawing_name_43园景
+drawing_name_44小树丛
+drawing_name_45高大松树
+drawing_name_46小公园
+drawing_name_47假山
+drawing_name_48钻石祭坛
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=卧室
 decorate_tag_3=其他
 drawing_tag_1=建筑
 drawing_tag_2=景观
+drawing_tag_3=庄园
 gui_blockcity_store_one=%d /个
 gui_blockcity_store_gcroup=%d /64个
 gui_blockcity_rank=排行榜

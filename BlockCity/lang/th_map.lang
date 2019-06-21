@@ -256,6 +256,26 @@ drawing_name_910=concretegift
 drawing_name_911=ของขวัญไหมพรม
 drawing_name_912=ของขวัญพิเศษ
 drawing_name_913=ของขวัญอัญมณี
+drawing_name_29บ้านที่อยู่อาศัย คู่
+drawing_name_30ห้องโดยสารเข้าสู่ระบบชั้นเยี่ยม
+drawing_name_31ทับสมบัติ
+drawing_name_32บ้านเดี่ยว หมู่บ้าน
+drawing_name_33บ้านที่อยู่อาศัยที่เหนือกว่าคู่
+drawing_name_34ข้าม วิลล่า
+drawing_name_35เอลฟ์ คอทเทจ
+drawing_name_36ดุ๊ควิลล่า
+drawing_name_37บ้านอัศวิน
+drawing_name_38บ้านพ่อมด
+drawing_name_39รูปปั้นอัศวิน
+drawing_name_40สุสาน
+drawing_name_41ระวัง ทาวเวอร์
+drawing_name_42เวลาฟรี
+drawing_name_43วิวสวน
+drawing_name_44พุ่มไม้เล็ก ๆ
+drawing_name_45ต้นสนสูง
+drawing_name_46สวนสาธารณะเล็ก ๆ
+drawing_name_47rockery
+drawing_name_48แท่นเพชร
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=ห้องนอน
 decorate_tag_3=คนอื่น ๆ
 drawing_tag_1=ที่ดิน
 drawing_tag_2=โดย
+drawing_tag_3=คฤหาสน์
 gui_blockcity_store_one=%d ซื้อ 1
 gui_blockcity_store_gcroup=%d ซื้อ 64
 gui_blockcity_rank=อันดับ

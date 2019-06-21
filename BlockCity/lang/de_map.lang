@@ -256,6 +256,26 @@ drawing_name_910=BetonGeschenk
 drawing_name_911=Wolle Geschenk
 drawing_name_912=Spezielles Geschenk
 drawing_name_913=Juwel Geschenk
+drawing_name_29Haus mit Doppelbett
+drawing_name_30Exquisite Blockhütte
+drawing_name_31Hütte der Schätze
+drawing_name_32Das Dorfhaus
+drawing_name_33Superior Doppelhaus
+drawing_name_34Cross Villa
+drawing_name_35Elf Cottage
+drawing_name_36Herzog Villa
+drawing_name_37Knight's House
+drawing_name_38Haus des Assistenten
+drawing_name_39Statue des Ritters
+drawing_name_40Friedhof
+drawing_name_41Der Aussichtsturm
+drawing_name_42Freie Zeit
+drawing_name_43Blick zum Garten
+drawing_name_44Kleiner Busch
+drawing_name_45Tall pine
+drawing_name_46Kleiner Park
+drawing_name_47Rocky
+drawing_name_48Diamant Altar
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=Schlafzimmer
 decorate_tag_3=Andere
 drawing_tag_1=Estate
 drawing_tag_2=Umgebung
+drawing_tag_3=Manor
 gui_blockcity_store_one=%d kaufen 1
 gui_blockcity_store_gcroup=%d kaufen 64
 gui_blockcity_rank=Rang

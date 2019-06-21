@@ -256,6 +256,26 @@ drawing_name_910=ConcreteGift
 drawing_name_911=Regalo di lana
 drawing_name_912=Regalo speciale
 drawing_name_913=Regalo di Gioia
+drawing_name_29Casa doppia
+drawing_name_30Exquisite cabina di log
+drawing_name_31Alloggio tesoro
+drawing_name_32Casa del villaggio
+drawing_name_33Superiora casa doppia
+drawing_name_34Villa Croce
+drawing_name_35Casa di Elf
+drawing_name_36Villa Duca
+drawing_name_37Knight's House
+drawing_name_38Mago House
+drawing_name_39Statua dei cavalieri
+drawing_name_40Cimitero
+drawing_name_41Torre di controllo
+drawing_name_42Tempo libero
+drawing_name_43Vista da giardino
+drawing_name_44Piccolo cespuglio
+drawing_name_45pino alto
+drawing_name_46Piccolo parco
+drawing_name_47rocker
+drawing_name_48Diamante altare
 
 language_end:blueprint
 
@@ -355,6 +375,7 @@ decorate_tag_2=Camera da letto
 decorate_tag_3=Altri
 drawing_tag_1=tenuta
 drawing_tag_2=Ambiente
+drawing_tag_3=Villa
 gui_blockcity_store_one=%d buy 1
 gui_blockcity_store_gcroup=%d buy 64
 gui_blockcity_rank=Rank
