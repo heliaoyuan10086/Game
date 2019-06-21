@@ -1,5 +1,5 @@
 	物品id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，2.金币)	物品类型（1车，2翅膀，3枪）	物品描述	所属商店	装饰部件名字	装饰部件Id	新图标
-id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindStoreId	actorName	actorId	iconNew
+id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindShopId	actorName	actorId	iconNew
 1	2001	g1041_bagpack.actor	set:bird_icon.json image:bagpack_01	bagpack	1	item.backpack.name_01	-642	34	-268	270	1	1	2	item.backpack.describe_01	101001	custom_bag	1	set:bird_icon.json image:bagpackicon_01
 2	1027	g1041_weapon_shovel.actor	set:bird_icon.json image:weapon1	body	1	item.toolGather_01.name	-640	34	-268	270	1	1	1	item.toolGather_01.describe	101001	gun	weapon_22.mesh	set:bird_icon.json image:weaponicon1
 3	2002	g1041_bagpack.actor	set:bird_icon.json image:bagpack_10	bagpack	10	item.backpack.name_10	-709	38	-240	0	1	1	2	item.backpack.describe_10	101001	custom_bag	10	set:bird_icon.json image:bagpackicon_10
