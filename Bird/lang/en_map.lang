@@ -1,4 +1,4 @@
-tastlang_id_101=▢FFFFFFFFMango Field▢FF123456
+﻿tastlang_id_101=▢FFFFFFFFMango Field▢FF123456
 tastlang_id_102=▢FFFFFFFFBanana Field▢FF123456
 tastlang_id_103=▢FFFFFFFFWatermelon Field▢FF123456
 tastlang_id_104=▢FFFFFFFFGrape Field▢FF123456
@@ -1380,7 +1380,7 @@ discribe_501=Access to VIP fruit coin chest
 discribe_502=Access to VIP ticket chest
 discribe_503=Access to VIP section
 discribe_504=Increased 20% of player collection amount
-discribe_505=Increased 50% of bird fruit coin conversion amount
+discribe_505=Increased 50% of bird fruit coin conversion speed
 discribe_506=Increased 100% of player basic health
 discribe_401=Purchase 10 tickets
 discribe_402=Purchase 100 tickets

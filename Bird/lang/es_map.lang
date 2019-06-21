@@ -1,4 +1,4 @@
-tastlang_id_101=▢FFFFFFFFCampo de mango▢FF123456
+﻿tastlang_id_101=▢FFFFFFFFCampo de mango▢FF123456
 tastlang_id_102=▢FFFFFFFFBanana Field▢FF123456
 tastlang_id_103=▢FFFFFFFFCampo de sandia▢FF123456
 tastlang_id_104=▢FFFFFFFFCampo de uva▢FF123456
@@ -1380,7 +1380,7 @@ discribe_501=Acceso al caja de monedas VIP
 discribe_502=Acceso al caja de entradas VIP
 discribe_503=Acceso a la sección VIP.
 discribe_504=+ 20% del monto de la colección del jugador
-discribe_505=+ 50% del monto de conversión de la moneda de fruta de ave
+discribe_505=Aumento del 50% de la velocidad de conversión de monedas de fruta de ave.
 discribe_506=+ 100% de salud básica del jugador.
 discribe_401=Compra de 10 entradas
 discribe_402=Compra de 100 entradas

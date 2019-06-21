@@ -1,4 +1,4 @@
-tastlang_id_101=▢FFFFFFFF망고 필드▢FF123456
+﻿tastlang_id_101=▢FFFFFFFF망고 필드▢FF123456
 tastlang_id_102=▢FFFFFFFF바나나 밭▢FF123456
 tastlang_id_103=▢FFFFFFFF수박 밭▢FF123456
 tastlang_id_104=▢FFFFFFFF포도밭▢FF123456
@@ -1381,7 +1381,7 @@ discribe_501=VIP 과일 동전 상자에 접근
 discribe_502=VIP 티켓 발매
 discribe_503=VIP 섹션 액세스
 discribe_504=플레이어 수집 금액의 20%
-discribe_505=새 과일 열매의 50%+ 전환율
+discribe_505=새 과실 동전 변환 속도의 50 % 증가
 discribe_506=+ 플레이어 기본 건강의 100%
 discribe_401=+10 티켓
 discribe_402=+100 티켓

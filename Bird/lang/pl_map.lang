@@ -1,4 +1,4 @@
-tastlang_id_101=▢FFFFFFFFPole mango▢FF123456
+﻿tastlang_id_101=▢FFFFFFFFPole mango▢FF123456
 tastlang_id_102=▢FFFFFFFFPole bananów▢FF123456
 tastlang_id_103=▢FFFFFFFFPole arbuza▢FF123456
 tastlang_id_104=▢FFFFFFFFPole winogron▢FF123456
@@ -1387,7 +1387,7 @@ discribe_501=Może otrzymać skarb owoców VIP
 discribe_502=Może otrzymać skrzynię ze skarbami dla VIP-ów
 discribe_503=Dostęp do strefy VIP
 discribe_504=Przejęcie gracza wzrosło o 20%
-discribe_505=Ptaki przeliczają ilość monet owocowych o 50%
+discribe_505=Zwiększono 50% prędkości konwersji monet owocowych
 discribe_506=Zdrowie bazy graczy wzrosło o 100%
 discribe_401=Dodaj 10 partii jaj
 discribe_402=Dodaj 100 biletów na jajka

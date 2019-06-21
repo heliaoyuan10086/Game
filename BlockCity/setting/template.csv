@@ -1,4 +1,4 @@
-﻿	ItemId	Name	Desc	Icon	Length	Width	Height	Template	MeshName
+	ItemId	Name	Desc	Icon	Length	Width	Height	Template	MeshName
 中文备注	手持道具Id(2101~2115)	多语言名称	多语言描述	对应Item图标	长	宽	高	房子模板	模型名称
 1	2506	drawing_name_6	123	building_32_01	9	9	10	build_01_9x9x10-0.schematic	blueprint.mesh
 	2518	drawing_name_18	123	building_32_13	11	11	10	build_13_11x11x10-0.schematic	blueprint.mesh
@@ -6,10 +6,10 @@
 	2517	drawing_name_17	123	building_32_12	11	11	10	build_12_11x11x10-1.schematic	blueprint.mesh
 	2508	drawing_name_8	123	building_32_03	9	9	13	build_03_9x9x13-1.schematic	blueprint.mesh
 	2509	drawing_name_9	123	building_32_04	11	11	12	build_04_11x11x12-1.schematic	blueprint.mesh
-	2513	drawing_name_13	123	building_32_08	11	11	13	build_08_11x11x13-1.schematic	blueprint.mesh
-	2511	drawing_name_11	123	building_32_06	11	11	16	build_06_11x11x16-1.schematic	blueprint.mesh
 	2510	drawing_name_10	123	building_32_05	11	11	20	build_05_11x11x20-1.schematic	blueprint.mesh
 	2507	drawing_name_7	123	building_32_02	11	11	23	build_02_11x11x23-0.schematic	blueprint.mesh
+	2513	drawing_name_13	123	building_32_08	11	11	13	build_08_11x11x13-1.schematic	blueprint.mesh
+	2511	drawing_name_11	123	building_32_06	11	11	16	build_06_11x11x16-1.schematic	blueprint.mesh
 	2514	drawing_name_14	123	building_32_09	11	11	14	build_09_11x11x14-1.schematic	blueprint.mesh
 	2501	drawing_name_1	123	town_32_01	16	16	11	Town_01_16x16x11-1.schematic	blueprint.mesh
 	2515	drawing_name_15	123	building_32_10	21	21	10	build_10_21x21x10-1.schematic	blueprint.mesh
@@ -28,3 +28,23 @@
 	2523	drawing_name_23	123	landscape_32_05	5	5	4	Landscape_05_5x5x4-0.schematic	blueprint.mesh
 	2526	drawing_name_26	123	landscape_32_08	7	7	11	Landscape_08_7x7x11-1.schematic	blueprint.mesh
 	2519	drawing_name_19	123	landscape_32_01	9	9	15	Landscape_01_9x9x15-0.schematic	blueprint.mesh
+	2529	drawing_name_29	123	2building_32_01	12	12	11	2build_01_12x12x11-1.schematic	blueprint.mesh
+	2530	drawing_name_30	123	2building_32_02	15	15	13	2build_02_13x15x13-1.schematic	blueprint.mesh
+	2531	drawing_name_31	123	2building_32_03	8	8	13	2build_03_13x8x13-0.schematic	blueprint.mesh
+	2532	drawing_name_32	123	2building_32_04	8	8	13	2build_04_13x8x13-0.schematic	blueprint.mesh
+	2533	drawing_name_33	123	2building_32_05	18	18	15	2build_05_15x18x15-0.schematic	blueprint.mesh
+	2534	drawing_name_34	123	2building_32_06	25	25	15	2build_06_15x25x15-0.schematic	blueprint.mesh
+	2535	drawing_name_35	123	2building_32_07	23	23	18	2build_07_18x23x18-0.schematic	blueprint.mesh
+	2536	drawing_name_36	123	2building_32_08	23	23	23	2build_08_23x23x23-0.schematic	blueprint.mesh
+	2537	drawing_name_37	123	2building_32_09	27	27	23	2build_09_23x27x23-1.schematic	blueprint.mesh
+	2538	drawing_name_38	123	2building_32_10	34	34	23	2build_10_23x34x23-1.schematic	blueprint.mesh
+	2539	drawing_name_39	123	2landscape_32_01	12	12	6	2landscape_01_6x12x6-0.schematic	blueprint.mesh
+	2540	drawing_name_40	123	2landscape_32_02	3	3	5	2landscape_02_5x3x5-1.schematic	blueprint.mesh
+	2541	drawing_name_41	123	2landscape_32_03	12	12	5	2landscape_03_5x12x5-0.schematic	blueprint.mesh
+	2542	drawing_name_42	123	2landscape_32_04	7	7	7	2landscape_04_7x7x7-0.schematic	blueprint.mesh
+	2543	drawing_name_43	123	2landscape_32_05	4	4	7	2landscape_05_7x4x7-0.schematic	blueprint.mesh
+	2544	drawing_name_44	123	2landscape_32_06	9	9	7	2landscape_06_7x9x7-0.schematic	blueprint.mesh
+	2545	drawing_name_45	123	2landscape_32_07	28	28	11	2landscape_07_11x28x11-0.schematic	blueprint.mesh
+	2546	drawing_name_46	123	2landscape_32_08	8	8	13	2landscape_08_13x8x13-0.schematic	blueprint.mesh
+	2547	drawing_name_47	123	2landscape_32_09	9	9	12	2landscape_09_12x9x12-1.schematic	blueprint.mesh
+	2548	drawing_name_48	123	2landscape_32_010	8	8	12	2landscape_010_12x8x12-0.schematic	blueprint.mesh

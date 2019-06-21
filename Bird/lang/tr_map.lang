@@ -1,4 +1,4 @@
-tastlang_id_101=▢FFFFFFFFMango Tarlası▢FF123456
+﻿tastlang_id_101=▢FFFFFFFFMango Tarlası▢FF123456
 tastlang_id_102=▢FFFFFFFFMuz Tarlası▢FF123456
 tastlang_id_103=▢FFFFFFFFKarpuz tarlası▢FF123456
 tastlang_id_104=▢FFFFFFFFÜzüm Tarlası▢FF123456
@@ -1380,7 +1380,7 @@ discribe_501=VIP meyve paralı sandığına erişim
 discribe_502=VIP bilet sandığına erişim	
 discribe_503=VIP bölümüne erişim	
 discribe_504=Oyuncu toplama tutarının% + 20'si	
-discribe_505=Kuş meyve parası dönüşüm miktarının% + 50'si	
+discribe_505=Kuş meyve parası dönüşüm hızının% 50'sinin arttırılması
 discribe_506=Oyuncu temel sağlığının% + 100'ü	
 discribe_401=10 bilet satın alın	
 discribe_402=100 bilet satın alın	
