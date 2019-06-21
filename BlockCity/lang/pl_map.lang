@@ -256,46 +256,46 @@ drawing_name_910=ConcreteGift
 drawing_name_911=Wool Gift
 drawing_name_912=Specjalny prezent
 drawing_name_913=Prezent jubilerski
-drawing_name_29Dom dwumieszkaniowy
-drawing_name_30Wspaniała kabina pokładowa
-drawing_name_31Chata skarbów
-drawing_name_32Dom wiejski
-drawing_name_33Domek najwyższej klasy
-drawing_name_34Skrzyżowanie Villa
-drawing_name_35Elf Cottage
-drawing_name_36Duke Villa.
-drawing_name_37Dom rycerza
-drawing_name_38Dom czarodzieja
-drawing_name_39Rycerski posąg
-drawing_name_40Cmentarz
-drawing_name_41Wieża obserwacyjna
-drawing_name_42Wolny czas
-drawing_name_43Widok ogrodu
-drawing_name_44Mały krzak
-drawing_name_45Wysoka sosna
-drawing_name_46Mały park
-drawing_name_47rockowy
-drawing_name_48Diamentowy ołtarz
-drawing_name_29.nameDom dwumieszkaniowy
-drawing_name_30.nameWspaniała kabina pokładowa
-drawing_name_31.nameChata skarbów
-drawing_name_32.nameDom wiejski
-drawing_name_33.nameDomek najwyższej klasy
-drawing_name_34.nameSkrzyżowanie Villa
-drawing_name_35.nameElf Cottage
-drawing_name_36.nameDuke Villa.
-drawing_name_37.nameDom rycerza
-drawing_name_38.nameDom czarodzieja
-drawing_name_39.nameRycerski posąg
-drawing_name_40.nameCmentarz
-drawing_name_41.nameWieża obserwacyjna
-drawing_name_42.nameWolny czas
-drawing_name_43.nameWidok ogrodu
-drawing_name_44.nameMały krzak
-drawing_name_45.nameWysoka sosna
-drawing_name_46.nameMały park
-drawing_name_47.namerockowy
-drawing_name_48.nameDiamentowy ołtarz
+drawing_name_29=Dom dwumieszkaniowy
+drawing_name_30=Wspaniała kabina pokładowa
+drawing_name_31=Chata skarbów
+drawing_name_32=Dom wiejski
+drawing_name_33=Domek najwyższej klasy
+drawing_name_34=Skrzyżowanie Villa
+drawing_name_35=Elf Cottage
+drawing_name_36=Duke Villa.
+drawing_name_37=Dom rycerza
+drawing_name_38=Dom czarodzieja
+drawing_name_39=Rycerski posąg
+drawing_name_40=Cmentarz
+drawing_name_41=Wieża obserwacyjna
+drawing_name_42=Wolny czas
+drawing_name_43=Widok ogrodu
+drawing_name_44=Mały krzak
+drawing_name_45=Wysoka sosna
+drawing_name_46=Mały park
+drawing_name_47=rockowy
+drawing_name_48=Diamentowy ołtarz
+drawing_name_29=.name=Dom dwumieszkaniowy
+drawing_name_30=.name=Wspaniała kabina pokładowa
+drawing_name_31=.name=Chata skarbów
+drawing_name_32=.name=Dom wiejski
+drawing_name_33=.name=Domek najwyższej klasy
+drawing_name_34=.name=Skrzyżowanie Villa
+drawing_name_35=.name=Elf Cottage
+drawing_name_36=.name=Duke Villa.
+drawing_name_37=.name=Dom rycerza
+drawing_name_38=.name=Dom czarodzieja
+drawing_name_39=.name=Rycerski posąg
+drawing_name_40=.name=Cmentarz
+drawing_name_41=.name=Wieża obserwacyjna
+drawing_name_42=.name=Wolny czas
+drawing_name_43=.name=Widok ogrodu
+drawing_name_44=.name=Mały krzak
+drawing_name_45=.name=Wysoka sosna
+drawing_name_46=.name=Mały park
+drawing_name_47=.name=rockowy
+drawing_name_48=.name=Diamentowy ołtarz
 
 language_end:blueprint
 

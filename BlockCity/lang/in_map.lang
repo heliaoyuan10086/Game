@@ -256,46 +256,46 @@ drawing_name_910=Paket beton
 drawing_name_911=Paket wol
 drawing_name_912=Paket hadiah khusus
 drawing_name_913=Paket batu permata
-drawing_name_29Double-dwelling house
-drawing_name_30Exquisite log cabin
-drawing_name_31Treasure hut
-drawing_name_32Village house
-drawing_name_33Superior double-dwelling house
-drawing_name_34Cross Villa
-drawing_name_35Elf Cottage
-drawing_name_36Duke Villa
-drawing_name_37Knight's House
-drawing_name_38Wizard House
-drawing_name_39Knight statue
-drawing_name_40Cemetery
-drawing_name_41Lookout tower
-drawing_name_42Free time
-drawing_name_43Garden view
-drawing_name_44Small bush
-drawing_name_45Tall pine
-drawing_name_46Small park
-drawing_name_47rockery
-drawing_name_48Diamond altar
-drawing_name_29.nameDouble-dwelling house
-drawing_name_30.nameExquisite log cabin
-drawing_name_31.nameTreasure hut
-drawing_name_32.nameVillage house
-drawing_name_33.nameSuperior double-dwelling house
-drawing_name_34.nameCross Villa
-drawing_name_35.nameElf Cottage
-drawing_name_36.nameDuke Villa
-drawing_name_37.nameKnight's House
-drawing_name_38.nameWizard House
-drawing_name_39.nameKnight statue
-drawing_name_40.nameCemetery
-drawing_name_41.nameLookout tower
-drawing_name_42.nameFree time
-drawing_name_43.nameGarden view
-drawing_name_44.nameSmall bush
-drawing_name_45.nameTall pine
-drawing_name_46.nameSmall park
-drawing_name_47.namerockery
-drawing_name_48.nameDiamond altar
+drawing_name_29=Double-dwelling house
+drawing_name_30=Exquisite log cabin
+drawing_name_31=Treasure hut
+drawing_name_32=Village house
+drawing_name_33=Superior double-dwelling house
+drawing_name_34=Cross Villa
+drawing_name_35=Elf Cottage
+drawing_name_36=Duke Villa
+drawing_name_37=Knight's House
+drawing_name_38=Wizard House
+drawing_name_39=Knight statue
+drawing_name_40=Cemetery
+drawing_name_41=Lookout tower
+drawing_name_42=Free time
+drawing_name_43=Garden view
+drawing_name_44=Small bush
+drawing_name_45=Tall pine
+drawing_name_46=Small park
+drawing_name_47=rockery
+drawing_name_48=Diamond altar
+drawing_name_29=.name=Double-dwelling house
+drawing_name_30=.name=Exquisite log cabin
+drawing_name_31=.name=Treasure hut
+drawing_name_32=.name=Village house
+drawing_name_33=.name=Superior double-dwelling house
+drawing_name_34=.name=Cross Villa
+drawing_name_35=.name=Elf Cottage
+drawing_name_36=.name=Duke Villa
+drawing_name_37=.name=Knight's House
+drawing_name_38=.name=Wizard House
+drawing_name_39=.name=Knight statue
+drawing_name_40=.name=Cemetery
+drawing_name_41=.name=Lookout tower
+drawing_name_42=.name=Free time
+drawing_name_43=.name=Garden view
+drawing_name_44=.name=Small bush
+drawing_name_45=.name=Tall pine
+drawing_name_46=.name=Small park
+drawing_name_47=.name=rockery
+drawing_name_48=.name=Diamond altar
 
 language_end:blueprint
 

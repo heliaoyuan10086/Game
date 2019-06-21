@@ -256,46 +256,46 @@ drawing_name_910=concretegift
 drawing_name_911=laine don
 drawing_name_912=don
 drawing_name_913=jewel don
-drawing_name_29double maison d'habitation
-drawing_name_30un chalet
-drawing_name_31trésor hut
-drawing_name_32maison du village
-drawing_name_33superior double maison d'habitation
-drawing_name_34la villa
-drawing_name_35elf cottage
-drawing_name_36duke villa
-drawing_name_37la maison du chevalier
-drawing_name_38magicien maison
-drawing_name_39knight statue
-drawing_name_40cimetière
-drawing_name_41tour de guet
-drawing_name_42temps libre
-drawing_name_43avec vue sur le jardin
-drawing_name_44petit bush
-drawing_name_45grand pin
-drawing_name_46petit parc
-drawing_name_47rocaille
-drawing_name_48diamond autel
-drawing_name_29.namedouble maison d'habitation
-drawing_name_30.nameun chalet
-drawing_name_31.nametrésor hut
-drawing_name_32.namemaison du village
-drawing_name_33.namesuperior double maison d'habitation
-drawing_name_34.namela villa
-drawing_name_35.nameelf cottage
-drawing_name_36.nameduke villa
-drawing_name_37.namela maison du chevalier
-drawing_name_38.namemagicien maison
-drawing_name_39.nameknight statue
-drawing_name_40.namecimetière
-drawing_name_41.nametour de guet
-drawing_name_42.nametemps libre
-drawing_name_43.nameavec vue sur le jardin
-drawing_name_44.namepetit bush
-drawing_name_45.namegrand pin
-drawing_name_46.namepetit parc
-drawing_name_47.namerocaille
-drawing_name_48.namediamond autel
+drawing_name_29=double maison d'habitation
+drawing_name_30=un chalet
+drawing_name_31=trésor hut
+drawing_name_32=maison du village
+drawing_name_33=superior double maison d'habitation
+drawing_name_34=la villa
+drawing_name_35=elf cottage
+drawing_name_36=duke villa
+drawing_name_37=la maison du chevalier
+drawing_name_38=magicien maison
+drawing_name_39=knight statue
+drawing_name_40=cimetière
+drawing_name_41=tour de guet
+drawing_name_42=temps libre
+drawing_name_43=avec vue sur le jardin
+drawing_name_44=petit bush
+drawing_name_45=grand pin
+drawing_name_46=petit parc
+drawing_name_47=rocaille
+drawing_name_48=diamond autel
+drawing_name_29=.name=double maison d'habitation
+drawing_name_30=.name=un chalet
+drawing_name_31=.name=trésor hut
+drawing_name_32=.name=maison du village
+drawing_name_33=.name=superior double maison d'habitation
+drawing_name_34=.name=la villa
+drawing_name_35=.name=elf cottage
+drawing_name_36=.name=duke villa
+drawing_name_37=.name=la maison du chevalier
+drawing_name_38=.name=magicien maison
+drawing_name_39=.name=knight statue
+drawing_name_40=.name=cimetière
+drawing_name_41=.name=tour de guet
+drawing_name_42=.name=temps libre
+drawing_name_43=.name=avec vue sur le jardin
+drawing_name_44=.name=petit bush
+drawing_name_45=.name=grand pin
+drawing_name_46=.name=petit parc
+drawing_name_47=.name=rocaille
+drawing_name_48=.name=diamond autel
 
 language_end:blueprint
 

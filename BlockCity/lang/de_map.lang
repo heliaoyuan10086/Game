@@ -256,46 +256,46 @@ drawing_name_910=BetonGeschenk
 drawing_name_911=Wolle Geschenk
 drawing_name_912=Spezielles Geschenk
 drawing_name_913=Juwel Geschenk
-drawing_name_29Haus mit Doppelbett
-drawing_name_30Exquisite Blockhütte
-drawing_name_31Hütte der Schätze
-drawing_name_32Das Dorfhaus
-drawing_name_33Superior Doppelhaus
-drawing_name_34Cross Villa
-drawing_name_35Elf Cottage
-drawing_name_36Herzog Villa
-drawing_name_37Knight's House
-drawing_name_38Haus des Assistenten
-drawing_name_39Statue des Ritters
-drawing_name_40Friedhof
-drawing_name_41Der Aussichtsturm
-drawing_name_42Freie Zeit
-drawing_name_43Blick zum Garten
-drawing_name_44Kleiner Busch
-drawing_name_45Tall pine
-drawing_name_46Kleiner Park
-drawing_name_47Rocky
-drawing_name_48Diamant Altar
-drawing_name_29.nameHaus mit Doppelbett
-drawing_name_30.nameExquisite Blockhütte
-drawing_name_31.nameHütte der Schätze
-drawing_name_32.nameDas Dorfhaus
-drawing_name_33.nameSuperior Doppelhaus
-drawing_name_34.nameCross Villa
-drawing_name_35.nameElf Cottage
-drawing_name_36.nameHerzog Villa
-drawing_name_37.nameKnight's House
-drawing_name_38.nameHaus des Assistenten
-drawing_name_39.nameStatue des Ritters
-drawing_name_40.nameFriedhof
-drawing_name_41.nameDer Aussichtsturm
-drawing_name_42.nameFreie Zeit
-drawing_name_43.nameBlick zum Garten
-drawing_name_44.nameKleiner Busch
-drawing_name_45.nameTall pine
-drawing_name_46.nameKleiner Park
-drawing_name_47.nameRocky
-drawing_name_48.nameDiamant Altar
+drawing_name_29=Haus mit Doppelbett
+drawing_name_30=Exquisite Blockhütte
+drawing_name_31=Hütte der Schätze
+drawing_name_32=Das Dorfhaus
+drawing_name_33=Superior Doppelhaus
+drawing_name_34=Cross Villa
+drawing_name_35=Elf Cottage
+drawing_name_36=Herzog Villa
+drawing_name_37=Knight's House
+drawing_name_38=Haus des Assistenten
+drawing_name_39=Statue des Ritters
+drawing_name_40=Friedhof
+drawing_name_41=Der Aussichtsturm
+drawing_name_42=Freie Zeit
+drawing_name_43=Blick zum Garten
+drawing_name_44=Kleiner Busch
+drawing_name_45=Tall pine
+drawing_name_46=Kleiner Park
+drawing_name_47=Rocky
+drawing_name_48=Diamant Altar
+drawing_name_29=.name=Haus mit Doppelbett
+drawing_name_30=.name=Exquisite Blockhütte
+drawing_name_31=.name=Hütte der Schätze
+drawing_name_32=.name=Das Dorfhaus
+drawing_name_33=.name=Superior Doppelhaus
+drawing_name_34=.name=Cross Villa
+drawing_name_35=.name=Elf Cottage
+drawing_name_36=.name=Herzog Villa
+drawing_name_37=.name=Knight's House
+drawing_name_38=.name=Haus des Assistenten
+drawing_name_39=.name=Statue des Ritters
+drawing_name_40=.name=Friedhof
+drawing_name_41=.name=Der Aussichtsturm
+drawing_name_42=.name=Freie Zeit
+drawing_name_43=.name=Blick zum Garten
+drawing_name_44=.name=Kleiner Busch
+drawing_name_45=.name=Tall pine
+drawing_name_46=.name=Kleiner Park
+drawing_name_47=.name=Rocky
+drawing_name_48=.name=Diamant Altar
 
 language_end:blueprint
 
