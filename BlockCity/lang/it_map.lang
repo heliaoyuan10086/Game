@@ -276,26 +276,26 @@ drawing_name_45=pino alto
 drawing_name_46=Piccolo parco
 drawing_name_47=rocker
 drawing_name_48=Diamante altare
-drawing_name_29=.name=Casa doppia
-drawing_name_30=.name=Exquisite cabina di log
-drawing_name_31=.name=Alloggio tesoro
-drawing_name_32=.name=Casa del villaggio
-drawing_name_33=.name=Superiora casa doppia
-drawing_name_34=.name=Villa Croce
-drawing_name_35=.name=Casa di Elf
-drawing_name_36=.name=Villa Duca
-drawing_name_37=.name=Knight's House
-drawing_name_38=.name=Mago House
-drawing_name_39=.name=Statua dei cavalieri
-drawing_name_40=.name=Cimitero
-drawing_name_41=.name=Torre di controllo
-drawing_name_42=.name=Tempo libero
-drawing_name_43=.name=Vista da giardino
-drawing_name_44=.name=Piccolo cespuglio
-drawing_name_45=.name=pino alto
-drawing_name_46=.name=Piccolo parco
-drawing_name_47=.name=rocker
-drawing_name_48=.name=Diamante altare
+drawing_name_29.name=Casa doppia
+drawing_name_30.name=Exquisite cabina di log
+drawing_name_31.name=Alloggio tesoro
+drawing_name_32.name=Casa del villaggio
+drawing_name_33.name=Superiora casa doppia
+drawing_name_34.name=Villa Croce
+drawing_name_35.name=Casa di Elf
+drawing_name_36.name=Villa Duca
+drawing_name_37.name=Knight's House
+drawing_name_38.name=Mago House
+drawing_name_39.name=Statua dei cavalieri
+drawing_name_40.name=Cimitero
+drawing_name_41.name=Torre di controllo
+drawing_name_42.name=Tempo libero
+drawing_name_43.name=Vista da giardino
+drawing_name_44.name=Piccolo cespuglio
+drawing_name_45.name=pino alto
+drawing_name_46.name=Piccolo parco
+drawing_name_47.name=rocker
+drawing_name_48.name=Diamante altare
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=Vetro rosso
 tile.stained_glass.silver.name=Vetro grigio chiaro
 tile.stained_glass.white.name=Vetro bianco
 tile.stained_glass.yellow.name=Vetro giallo
+tile.flower.name=yellow flower
 
 language_end:tile
 

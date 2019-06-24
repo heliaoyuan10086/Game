@@ -276,26 +276,26 @@ drawing_name_45=Tall Pine
 drawing_name_46=Pequeño parque
 drawing_name_47=Rocalla
 drawing_name_48=Diamond altar
-drawing_name_29=.name=Doble vivienda
-drawing_name_30=.name=Exquisito Log Cabin
-drawing_name_31=.name=Tesoro Hut
-drawing_name_32=.name=Casa de pueblo
-drawing_name_33=.name=Superior Double vivienda
-drawing_name_34=.name=Cruz Villa
-drawing_name_35=.name=Elf Cottage
-drawing_name_36=.name=Duque Villa
-drawing_name_37=.name=Knight 's House
-drawing_name_38=.name=Mago House
-drawing_name_39=.name=Knight estatua
-drawing_name_40=.name=Cemetery
-drawing_name_41=.name=Lookout Tower
-drawing_name_42=.name=Tiempo libre
-drawing_name_43=.name=Garden View
-drawing_name_44=.name=Pequeño arbusto
-drawing_name_45=.name=Tall Pine
-drawing_name_46=.name=Pequeño parque
-drawing_name_47=.name=Rocalla
-drawing_name_48=.name=Diamond altar
+drawing_name_29.name=Doble vivienda
+drawing_name_30.name=Exquisito Log Cabin
+drawing_name_31.name=Tesoro Hut
+drawing_name_32.name=Casa de pueblo
+drawing_name_33.name=Superior Double vivienda
+drawing_name_34.name=Cruz Villa
+drawing_name_35.name=Elf Cottage
+drawing_name_36.name=Duque Villa
+drawing_name_37.name=Knight 's House
+drawing_name_38.name=Mago House
+drawing_name_39.name=Knight estatua
+drawing_name_40.name=Cemetery
+drawing_name_41.name=Lookout Tower
+drawing_name_42.name=Tiempo libre
+drawing_name_43.name=Garden View
+drawing_name_44.name=Pequeño arbusto
+drawing_name_45.name=Tall Pine
+drawing_name_46.name=Pequeño parque
+drawing_name_47.name=Rocalla
+drawing_name_48.name=Diamond altar
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=Cristal Rojo
 tile.stained_glass.silver.name=Cristal gris claro
 tile.stained_glass.white.name=Cristal blanco
 tile.stained_glass.yellow.name=Cristal Amarillo
+tile.flower.name=yellow flower
 
 language_end:tile
 

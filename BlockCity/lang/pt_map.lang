@@ -276,26 +276,26 @@ drawing_name_45=Alto Pinheiro
 drawing_name_46=Estacionamento pequeno
 drawing_name_47=Rochas
 drawing_name_48=Altar de Diamante
-drawing_name_29=.name=Casa de habitação Dupla
-drawing_name_30=.name=Cabine de registo requintada
-drawing_name_31=.name=Cabana do tesouro
-drawing_name_32=.name=Casa Da Aldeia
-drawing_name_33=.name=Casa de dois andares superior
-drawing_name_34=.name=Cruzar Villa
-drawing_name_35=.name=Cabana Elfo
-drawing_name_36=.name=Duque Villa.
-drawing_name_37=.name=Casa DOS Cavaleiros
-drawing_name_38=.name=Casa DOS Feiticeiros
-drawing_name_39=.name=Estátua de cavaleiro
-drawing_name_40=.name=Cemitério
-drawing_name_41=.name=Torre de Vigia
-drawing_name_42=.name=Tempo Livre
-drawing_name_43=.name=Vista para Jardins
-drawing_name_44=.name=Pequeno arbusto
-drawing_name_45=.name=Alto Pinheiro
-drawing_name_46=.name=Estacionamento pequeno
-drawing_name_47=.name=Rochas
-drawing_name_48=.name=Altar de Diamante
+drawing_name_29.name=Casa de habitação Dupla
+drawing_name_30.name=Cabine de registo requintada
+drawing_name_31.name=Cabana do tesouro
+drawing_name_32.name=Casa Da Aldeia
+drawing_name_33.name=Casa de dois andares superior
+drawing_name_34.name=Cruzar Villa
+drawing_name_35.name=Cabana Elfo
+drawing_name_36.name=Duque Villa.
+drawing_name_37.name=Casa DOS Cavaleiros
+drawing_name_38.name=Casa DOS Feiticeiros
+drawing_name_39.name=Estátua de cavaleiro
+drawing_name_40.name=Cemitério
+drawing_name_41.name=Torre de Vigia
+drawing_name_42.name=Tempo Livre
+drawing_name_43.name=Vista para Jardins
+drawing_name_44.name=Pequeno arbusto
+drawing_name_45.name=Alto Pinheiro
+drawing_name_46.name=Estacionamento pequeno
+drawing_name_47.name=Rochas
+drawing_name_48.name=Altar de Diamante
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=Vidro Vermelho
 tile.stained_glass.silver.name=Vidro cinzento Claro
 tile.stained_glass.white.name=Vidro Branco
 tile.stained_glass.yellow.name=Vidro amarelo
+tile.flower.name=yellow flower
 
 language_end:tile
 

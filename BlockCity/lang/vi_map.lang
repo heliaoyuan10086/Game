@@ -276,26 +276,26 @@ drawing_name_45=Rừng thông cao
 drawing_name_46=Công viên nhỏ
 drawing_name_47=Đỉnh
 drawing_name_48=Sàn thờ
-drawing_name_29=.name=Nhà đôi
-drawing_name_30=.name=Phòng gỗ sung sướng.
-drawing_name_31=.name=Căn chòi kho báu
-drawing_name_32=.name=Nhà quê
-drawing_name_33=.name=Nhà cao cấp
-drawing_name_34=.name=Villa Cross.
-drawing_name_35=.name=Nhà mộc Tiên
-drawing_name_36=.name=Công tước Villa.
-drawing_name_37=.name=Knight's House
-drawing_name_38=.name=Nhà Pháp sư
-drawing_name_39=.name=Tượng hiệp sĩ
-drawing_name_40=.name=Nghĩa trang
-drawing_name_41=.name=Tháp thăm dò
-drawing_name_42=.name=Thời gian rảnh
-drawing_name_43=.name=Khung xem vườn
-drawing_name_44=.name=Tiểu bụi rậm
-drawing_name_45=.name=Rừng thông cao
-drawing_name_46=.name=Công viên nhỏ
-drawing_name_47=.name=Đỉnh
-drawing_name_48=.name=Sàn thờ
+drawing_name_29.name=Nhà đôi
+drawing_name_30.name=Phòng gỗ sung sướng.
+drawing_name_31.name=Căn chòi kho báu
+drawing_name_32.name=Nhà quê
+drawing_name_33.name=Nhà cao cấp
+drawing_name_34.name=Villa Cross.
+drawing_name_35.name=Nhà mộc Tiên
+drawing_name_36.name=Công tước Villa.
+drawing_name_37.name=Knight's House
+drawing_name_38.name=Nhà Pháp sư
+drawing_name_39.name=Tượng hiệp sĩ
+drawing_name_40.name=Nghĩa trang
+drawing_name_41.name=Tháp thăm dò
+drawing_name_42.name=Thời gian rảnh
+drawing_name_43.name=Khung xem vườn
+drawing_name_44.name=Tiểu bụi rậm
+drawing_name_45.name=Rừng thông cao
+drawing_name_46.name=Công viên nhỏ
+drawing_name_47.name=Đỉnh
+drawing_name_48.name=Sàn thờ
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=Kính màu đỏ
 tile.stained_glass.silver.name=Kính màu xám nhạt
 tile.stained_glass.white.name=Thuỷ tinh trắng
 tile.stained_glass.yellow.name=Kính màu vàng
+tile.flower.name=yellow flower
 
 language_end:tile
 

@@ -276,26 +276,26 @@ drawing_name_45=ต้นสนสูง
 drawing_name_46=สวนสาธารณะเล็ก ๆ
 drawing_name_47=rockery
 drawing_name_48=แท่นเพชร
-drawing_name_29=.name=บ้านที่อยู่อาศัย คู่
-drawing_name_30=.name=ห้องโดยสารเข้าสู่ระบบชั้นเยี่ยม
-drawing_name_31=.name=ทับสมบัติ
-drawing_name_32=.name=บ้านเดี่ยว หมู่บ้าน
-drawing_name_33=.name=บ้านที่อยู่อาศัยที่เหนือกว่าคู่
-drawing_name_34=.name=ข้าม วิลล่า
-drawing_name_35=.name=เอลฟ์ คอทเทจ
-drawing_name_36=.name=ดุ๊ควิลล่า
-drawing_name_37=.name=บ้านอัศวิน
-drawing_name_38=.name=บ้านพ่อมด
-drawing_name_39=.name=รูปปั้นอัศวิน
-drawing_name_40=.name=สุสาน
-drawing_name_41=.name=ระวัง ทาวเวอร์
-drawing_name_42=.name=เวลาฟรี
-drawing_name_43=.name=วิวสวน
-drawing_name_44=.name=พุ่มไม้เล็ก ๆ
-drawing_name_45=.name=ต้นสนสูง
-drawing_name_46=.name=สวนสาธารณะเล็ก ๆ
-drawing_name_47=.name=rockery
-drawing_name_48=.name=แท่นเพชร
+drawing_name_29.name=บ้านที่อยู่อาศัย คู่
+drawing_name_30.name=ห้องโดยสารเข้าสู่ระบบชั้นเยี่ยม
+drawing_name_31.name=ทับสมบัติ
+drawing_name_32.name=บ้านเดี่ยว หมู่บ้าน
+drawing_name_33.name=บ้านที่อยู่อาศัยที่เหนือกว่าคู่
+drawing_name_34.name=ข้าม วิลล่า
+drawing_name_35.name=เอลฟ์ คอทเทจ
+drawing_name_36.name=ดุ๊ควิลล่า
+drawing_name_37.name=บ้านอัศวิน
+drawing_name_38.name=บ้านพ่อมด
+drawing_name_39.name=รูปปั้นอัศวิน
+drawing_name_40.name=สุสาน
+drawing_name_41.name=ระวัง ทาวเวอร์
+drawing_name_42.name=เวลาฟรี
+drawing_name_43.name=วิวสวน
+drawing_name_44.name=พุ่มไม้เล็ก ๆ
+drawing_name_45.name=ต้นสนสูง
+drawing_name_46.name=สวนสาธารณะเล็ก ๆ
+drawing_name_47.name=rockery
+drawing_name_48.name=แท่นเพชร
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=แก้วสีแดง
 tile.stained_glass.silver.name=สีเทาอ่อนแก้ว
 tile.stained_glass.white.name=แก้วขาว
 tile.stained_glass.yellow.name=แก้วสีเหลือง
+tile.flower.name=yellow flower
 
 language_end:tile
 

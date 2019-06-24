@@ -276,26 +276,26 @@ drawing_name_45=grand pin
 drawing_name_46=petit parc
 drawing_name_47=rocaille
 drawing_name_48=diamond autel
-drawing_name_29=.name=double maison d'habitation
-drawing_name_30=.name=un chalet
-drawing_name_31=.name=trésor hut
-drawing_name_32=.name=maison du village
-drawing_name_33=.name=superior double maison d'habitation
-drawing_name_34=.name=la villa
-drawing_name_35=.name=elf cottage
-drawing_name_36=.name=duke villa
-drawing_name_37=.name=la maison du chevalier
-drawing_name_38=.name=magicien maison
-drawing_name_39=.name=knight statue
-drawing_name_40=.name=cimetière
-drawing_name_41=.name=tour de guet
-drawing_name_42=.name=temps libre
-drawing_name_43=.name=avec vue sur le jardin
-drawing_name_44=.name=petit bush
-drawing_name_45=.name=grand pin
-drawing_name_46=.name=petit parc
-drawing_name_47=.name=rocaille
-drawing_name_48=.name=diamond autel
+drawing_name_29.name=double maison d'habitation
+drawing_name_30.name=un chalet
+drawing_name_31.name=trésor hut
+drawing_name_32.name=maison du village
+drawing_name_33.name=superior double maison d'habitation
+drawing_name_34.name=la villa
+drawing_name_35.name=elf cottage
+drawing_name_36.name=duke villa
+drawing_name_37.name=la maison du chevalier
+drawing_name_38.name=magicien maison
+drawing_name_39.name=knight statue
+drawing_name_40.name=cimetière
+drawing_name_41.name=tour de guet
+drawing_name_42.name=temps libre
+drawing_name_43.name=avec vue sur le jardin
+drawing_name_44.name=petit bush
+drawing_name_45.name=grand pin
+drawing_name_46.name=petit parc
+drawing_name_47.name=rocaille
+drawing_name_48.name=diamond autel
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=le verre de rouge
 tile.stained_glass.silver.name=verre gris
 tile.stained_glass.white.name=verre de blanc
 tile.stained_glass.yellow.name=verre jaune
+tile.flower.name=yellow flower
 
 language_end:tile
 

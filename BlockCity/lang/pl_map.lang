@@ -276,26 +276,26 @@ drawing_name_45=Wysoka sosna
 drawing_name_46=Mały park
 drawing_name_47=rockowy
 drawing_name_48=Diamentowy ołtarz
-drawing_name_29=.name=Dom dwumieszkaniowy
-drawing_name_30=.name=Wspaniała kabina pokładowa
-drawing_name_31=.name=Chata skarbów
-drawing_name_32=.name=Dom wiejski
-drawing_name_33=.name=Domek najwyższej klasy
-drawing_name_34=.name=Skrzyżowanie Villa
-drawing_name_35=.name=Elf Cottage
-drawing_name_36=.name=Duke Villa.
-drawing_name_37=.name=Dom rycerza
-drawing_name_38=.name=Dom czarodzieja
-drawing_name_39=.name=Rycerski posąg
-drawing_name_40=.name=Cmentarz
-drawing_name_41=.name=Wieża obserwacyjna
-drawing_name_42=.name=Wolny czas
-drawing_name_43=.name=Widok ogrodu
-drawing_name_44=.name=Mały krzak
-drawing_name_45=.name=Wysoka sosna
-drawing_name_46=.name=Mały park
-drawing_name_47=.name=rockowy
-drawing_name_48=.name=Diamentowy ołtarz
+drawing_name_29.name=Dom dwumieszkaniowy
+drawing_name_30.name=Wspaniała kabina pokładowa
+drawing_name_31.name=Chata skarbów
+drawing_name_32.name=Dom wiejski
+drawing_name_33.name=Domek najwyższej klasy
+drawing_name_34.name=Skrzyżowanie Villa
+drawing_name_35.name=Elf Cottage
+drawing_name_36.name=Duke Villa.
+drawing_name_37.name=Dom rycerza
+drawing_name_38.name=Dom czarodzieja
+drawing_name_39.name=Rycerski posąg
+drawing_name_40.name=Cmentarz
+drawing_name_41.name=Wieża obserwacyjna
+drawing_name_42.name=Wolny czas
+drawing_name_43.name=Widok ogrodu
+drawing_name_44.name=Mały krzak
+drawing_name_45.name=Wysoka sosna
+drawing_name_46.name=Mały park
+drawing_name_47.name=rockowy
+drawing_name_48.name=Diamentowy ołtarz
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=Szkło czerwone
 tile.stained_glass.silver.name=Lekkie szare szkło
 tile.stained_glass.white.name=Białe szkło
 tile.stained_glass.yellow.name=Szkło żółte
+tile.flower.name=yellow flower
 
 language_end:tile
 

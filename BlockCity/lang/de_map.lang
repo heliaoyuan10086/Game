@@ -276,26 +276,26 @@ drawing_name_45=Tall pine
 drawing_name_46=Kleiner Park
 drawing_name_47=Rocky
 drawing_name_48=Diamant Altar
-drawing_name_29=.name=Haus mit Doppelbett
-drawing_name_30=.name=Exquisite Blockhütte
-drawing_name_31=.name=Hütte der Schätze
-drawing_name_32=.name=Das Dorfhaus
-drawing_name_33=.name=Superior Doppelhaus
-drawing_name_34=.name=Cross Villa
-drawing_name_35=.name=Elf Cottage
-drawing_name_36=.name=Herzog Villa
-drawing_name_37=.name=Knight's House
-drawing_name_38=.name=Haus des Assistenten
-drawing_name_39=.name=Statue des Ritters
-drawing_name_40=.name=Friedhof
-drawing_name_41=.name=Der Aussichtsturm
-drawing_name_42=.name=Freie Zeit
-drawing_name_43=.name=Blick zum Garten
-drawing_name_44=.name=Kleiner Busch
-drawing_name_45=.name=Tall pine
-drawing_name_46=.name=Kleiner Park
-drawing_name_47=.name=Rocky
-drawing_name_48=.name=Diamant Altar
+drawing_name_29.name=Haus mit Doppelbett
+drawing_name_30.name=Exquisite Blockhütte
+drawing_name_31.name=Hütte der Schätze
+drawing_name_32.name=Das Dorfhaus
+drawing_name_33.name=Superior Doppelhaus
+drawing_name_34.name=Cross Villa
+drawing_name_35.name=Elf Cottage
+drawing_name_36.name=Herzog Villa
+drawing_name_37.name=Knight's House
+drawing_name_38.name=Haus des Assistenten
+drawing_name_39.name=Statue des Ritters
+drawing_name_40.name=Friedhof
+drawing_name_41.name=Der Aussichtsturm
+drawing_name_42.name=Freie Zeit
+drawing_name_43.name=Blick zum Garten
+drawing_name_44.name=Kleiner Busch
+drawing_name_45.name=Tall pine
+drawing_name_46.name=Kleiner Park
+drawing_name_47.name=Rocky
+drawing_name_48.name=Diamant Altar
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=Rotes Glas
 tile.stained_glass.silver.name=Helles Grauglas
 tile.stained_glass.white.name=Weißes Glas
 tile.stained_glass.yellow.name=Gelbes Glas
+tile.flower.name=yellow flower
 
 language_end:tile
 

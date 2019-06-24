@@ -276,26 +276,26 @@ drawing_name_45=высокие сосны
 drawing_name_46=маленький парк
 drawing_name_47=скала
 drawing_name_48=алмаз.
-drawing_name_29=.name=двойной жилой дом
-drawing_name_30=.name=изысканный хижине
-drawing_name_31=.name=сокровища хат
-drawing_name_32=.name=деревенский дом
-drawing_name_33=.name=Superior Double жилой дом
-drawing_name_34=.name=кросс - вилла
-drawing_name_35=.name=эльф.
-drawing_name_36=.name=герцог вилла
-drawing_name_37=.name=рыцарь.
-drawing_name_38=.name=мастер дома
-drawing_name_39=.name=рыцарь статуи
-drawing_name_40=.name=кладбище
-drawing_name_41=.name=башня.
-drawing_name_42=.name=свободного времени
-drawing_name_43=.name=с видом на сад
-drawing_name_44=.name=небольшой буша
-drawing_name_45=.name=высокие сосны
-drawing_name_46=.name=маленький парк
-drawing_name_47=.name=скала
-drawing_name_48=.name=алмаз.
+drawing_name_29.name=двойной жилой дом
+drawing_name_30.name=изысканный хижине
+drawing_name_31.name=сокровища хат
+drawing_name_32.name=деревенский дом
+drawing_name_33.name=Superior Double жилой дом
+drawing_name_34.name=кросс - вилла
+drawing_name_35.name=эльф.
+drawing_name_36.name=герцог вилла
+drawing_name_37.name=рыцарь.
+drawing_name_38.name=мастер дома
+drawing_name_39.name=рыцарь статуи
+drawing_name_40.name=кладбище
+drawing_name_41.name=башня.
+drawing_name_42.name=свободного времени
+drawing_name_43.name=с видом на сад
+drawing_name_44.name=небольшой буша
+drawing_name_45.name=высокие сосны
+drawing_name_46.name=маленький парк
+drawing_name_47.name=скала
+drawing_name_48.name=алмаз.
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=красного стекла
 tile.stained_glass.silver.name=светло - серые стекла
 tile.stained_glass.white.name=белое стекло
 tile.stained_glass.yellow.name=желтого стекла
+tile.flower.name=yellow flower
 
 language_end:tile
 

@@ -276,26 +276,26 @@ drawing_name_45=背の高い松
 drawing_name_46=小公園
 drawing_name_47=岩石
 drawing_name_48=ダイアモンド
-drawing_name_29=.name=ダブルハウス
-drawing_name_30=.name=ログキャビン
-drawing_name_31=.name=宝小屋
-drawing_name_32=.name=ビレッジハウス
-drawing_name_33=.name=優良集合住宅
-drawing_name_34=.name=クロスヴィラ
-drawing_name_35=.name=エルフコテージ
-drawing_name_36=.name=デュークビラ
-drawing_name_37=.name=騎士の家
-drawing_name_38=.name=ウィザードハウス
-drawing_name_39=.name=ナイトスタチュー
-drawing_name_40=.name=墓地
-drawing_name_41=.name=見張り塔
-drawing_name_42=.name=自由時間
-drawing_name_43=.name=ガーデンビュー
-drawing_name_44=.name=小さな茂み
-drawing_name_45=.name=背の高い松
-drawing_name_46=.name=小公園
-drawing_name_47=.name=岩石
-drawing_name_48=.name=ダイアモンド
+drawing_name_29.name=ダブルハウス
+drawing_name_30.name=ログキャビン
+drawing_name_31.name=宝小屋
+drawing_name_32.name=ビレッジハウス
+drawing_name_33.name=優良集合住宅
+drawing_name_34.name=クロスヴィラ
+drawing_name_35.name=エルフコテージ
+drawing_name_36.name=デュークビラ
+drawing_name_37.name=騎士の家
+drawing_name_38.name=ウィザードハウス
+drawing_name_39.name=ナイトスタチュー
+drawing_name_40.name=墓地
+drawing_name_41.name=見張り塔
+drawing_name_42.name=自由時間
+drawing_name_43.name=ガーデンビュー
+drawing_name_44.name=小さな茂み
+drawing_name_45.name=背の高い松
+drawing_name_46.name=小公園
+drawing_name_47.name=岩石
+drawing_name_48.name=ダイアモンド
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=赤いガラス
 tile.stained_glass.silver.name=ライトグレー
 tile.stained_glass.white.name=白いガラス
 tile.stained_glass.yellow.name=イエローグラス
+tile.flower.name=yellow flower
 
 language_end:tile
 

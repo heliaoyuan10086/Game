@@ -276,26 +276,26 @@ drawing_name_45=高大松树
 drawing_name_46=小公园
 drawing_name_47=假山
 drawing_name_48=钻石祭坛
-drawing_name_29=.name=双层民居
-drawing_name_30=.name=精致小木屋
-drawing_name_31=.name=宝藏小屋
-drawing_name_32=.name=村民之家
-drawing_name_33=.name=高级双层民居
-drawing_name_34=.name=十字别墅
-drawing_name_35=.name=精灵小屋
-drawing_name_36=.name=公爵别墅
-drawing_name_37=.name=骑士之家
-drawing_name_38=.name=巫师之家
-drawing_name_39=.name=骑士雕像
-drawing_name_40=.name=墓地
-drawing_name_41=.name=瞭望塔
-drawing_name_42=.name=休闲时光
-drawing_name_43=.name=园景
-drawing_name_44=.name=小树丛
-drawing_name_45=.name=高大松树
-drawing_name_46=.name=小公园
-drawing_name_47=.name=假山
-drawing_name_48=.name=钻石祭坛
+drawing_name_29.name=双层民居
+drawing_name_30.name=精致小木屋
+drawing_name_31.name=宝藏小屋
+drawing_name_32.name=村民之家
+drawing_name_33.name=高级双层民居
+drawing_name_34.name=十字别墅
+drawing_name_35.name=精灵小屋
+drawing_name_36.name=公爵别墅
+drawing_name_37.name=骑士之家
+drawing_name_38.name=巫师之家
+drawing_name_39.name=骑士雕像
+drawing_name_40.name=墓地
+drawing_name_41.name=瞭望塔
+drawing_name_42.name=休闲时光
+drawing_name_43.name=园景
+drawing_name_44.name=小树丛
+drawing_name_45.name=高大松树
+drawing_name_46.name=小公园
+drawing_name_47.name=假山
+drawing_name_48.name=钻石祭坛
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=红色玻璃
 tile.stained_glass.silver.name=淡灰色玻璃
 tile.stained_glass.white.name=白色玻璃
 tile.stained_glass.yellow.name=黄色玻璃
+tile.flower.name=黄花
 
 language_end:tile
 

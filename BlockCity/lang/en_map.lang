@@ -276,26 +276,26 @@ drawing_name_45=Tall pine
 drawing_name_46=Small park
 drawing_name_47=rockery
 drawing_name_48=Diamond altar
-drawing_name_29=.name=Double-dwelling house
-drawing_name_30=.name=Exquisite log cabin
-drawing_name_31=.name=Treasure hut
-drawing_name_32=.name=Village house
-drawing_name_33=.name=Superior double-dwelling house
-drawing_name_34=.name=Cross Villa
-drawing_name_35=.name=Elf Cottage
-drawing_name_36=.name=Duke Villa
-drawing_name_37=.name=Knight's House
-drawing_name_38=.name=Wizard House
-drawing_name_39=.name=Knight statue
-drawing_name_40=.name=Cemetery
-drawing_name_41=.name=Lookout tower
-drawing_name_42=.name=Free time
-drawing_name_43=.name=Garden view
-drawing_name_44=.name=Small bush
-drawing_name_45=.name=Tall pine
-drawing_name_46=.name=Small park
-drawing_name_47=.name=rockery
-drawing_name_48=.name=Diamond altar
+drawing_name_29.name=Double-dwelling house
+drawing_name_30.name=Exquisite log cabin
+drawing_name_31.name=Treasure hut
+drawing_name_32.name=Village house
+drawing_name_33.name=Superior double-dwelling house
+drawing_name_34.name=Cross Villa
+drawing_name_35.name=Elf Cottage
+drawing_name_36.name=Duke Villa
+drawing_name_37.name=Knight's House
+drawing_name_38.name=Wizard House
+drawing_name_39.name=Knight statue
+drawing_name_40.name=Cemetery
+drawing_name_41.name=Lookout tower
+drawing_name_42.name=Free time
+drawing_name_43.name=Garden view
+drawing_name_44.name=Small bush
+drawing_name_45.name=Tall pine
+drawing_name_46.name=Small park
+drawing_name_47.name=rockery
+drawing_name_48.name=Diamond altar
 
 language_end:blueprint
 
@@ -953,6 +953,7 @@ tile.stained_glass.red.name=Red Glass
 tile.stained_glass.silver.name=Light Gray Glass
 tile.stained_glass.white.name=White Glass
 tile.stained_glass.yellow.name=Yellow Glass
+tile.flower.name=yellow flower
 
 language_end:tile
 
