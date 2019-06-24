@@ -1,3 +1,3 @@
-id	类型(1.模板, 2.方块, 3.装饰)	手持道具Id	数量	meta
-id	type	itemId	num	meta
-1	2	5	1	0
+id	类型(1.模板, 2.方块, 3.装饰)	唯一id	数量
+id	type	uniqueId	num
+1	2	100100	1
