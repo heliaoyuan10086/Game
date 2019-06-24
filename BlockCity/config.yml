@@ -38,3 +38,6 @@ freeArchiveNum: 2
 
 #存档的默认名字 (后面会自动添加数字递增)
 archiveName: MyRealm
+
+#每天赠送的点赞次数
+praiseNum: 5
