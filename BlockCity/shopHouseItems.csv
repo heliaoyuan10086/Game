@@ -1,27 +1,6 @@
 	物品id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，2.金币)	物品类型（1车，2翅膀，3枪）	物品描述	所属商店	装饰部件名字	装饰部件Id	新图标
 id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindShopId	actorName	actorId	iconNew
-1	2001	g1041_bagpack.actor	set:bird_icon.json image:bagpack_01	bagpack	1	item.backpack.name_01	-642	34	-268	270	1	1	2	item.backpack.describe_01	101001	custom_bag	1	set:bird_icon.json image:bagpackicon_01
-2	1027	g1041_weapon_shovel.actor	set:bird_icon.json image:weapon1	body	1	item.toolGather_01.name	-640	34	-268	270	1	1	1	item.toolGather_01.describe	101001	gun	weapon_22.mesh	set:bird_icon.json image:weaponicon1
-3	2002	g1041_bagpack.actor	set:bird_icon.json image:bagpack_10	bagpack	10	item.backpack.name_10	-709	38	-240	0	1	1	2	item.backpack.describe_10	101001	custom_bag	10	set:bird_icon.json image:bagpackicon_10
-4	1028	g1041_weapon_rake.actor	set:bird_icon.json image:weapon2	body	1	item.toolGather_02.name	-709	40	-245	0	1	1	1	item.toolGather_02.describe	101001	gun	weapon_23.mesh	set:bird_icon.json image:weaponicon2
-5	2003	g1041_bagpack.actor	set:bird_icon.json image:bagpack_11	bagpack	11	item.backpack.name_11	-709	42	-241	0	1	1	2	item.backpack.describe_11	101001	custom_bag	11	set:bird_icon.json image:bagpackicon_11
-6	1029	g1041_weapon_scissors.actor	set:bird_icon.json image:weapon3	body	1	item.toolGather_03.name	-709	44	-239	270	1	1	1	item.toolGather_03.describe	101001	gun	weapon_24.mesh	set:bird_icon.json image:weaponicon3
-7	2004	g1041_bagpack.actor	set:bird_icon.json image:bagpack_12	bagpack	12	item.backpack.name_12	-709	46	-244	90	1	1	2	item.backpack.describe_12	101001	custom_bag	12	set:bird_icon.json image:bagpackicon_12
-8	1030	g1041_weapon_magnet.actor	set:bird_icon.json image:weapon4	body	1	item.toolGather_04.name	-709	48	-240	270	1	1	1	item.toolGather_04.describe	101001	gun	weapon_25.mesh	set:bird_icon.json image:weaponicon4
-9	2005	g1041_bagpack.actor	set:bird_icon.json image:bagpack_13	bagpack	13	item.backpack.name_13	-709	50	-238	90	1	1	2	item.backpack.describe_13	101001	custom_bag	13	set:bird_icon.json image:bagpackicon_13
-10	1031	g1041_weapon_vacuumcleaner.actor	set:bird_icon.json image:weapon5	body	1	item.toolGather_05.name	-709	52	-243	270	1	1	1	item.toolGather_05.describe	101001	gun	weapon_26.mesh	set:bird_icon.json image:weaponicon5
-11	2006	g1041_bagpack.actor	set:bird_icon.json image:bagpack_14	bagpack	14	item.backpack.name_14	-709	54	-239	180	1	1	2	item.backpack.describe_14	101002	custom_bag	14	set:bird_icon.json image:bagpackicon_14
-12	1032	g1041_weapon_magnetshovel.actor	set:bird_icon.json image:weapon6	body	1	item.toolGather_06.name	-709	56	-237	180	1	1	1	item.toolGather_06.describe	101002	gun	weapon_27.mesh	set:bird_icon.json image:weaponicon6
-13	2007	g1041_bagpack.actor	set:bird_icon.json image:bagpack_15	bagpack	15	item.backpack.name_15	-709	58	-242	270	1	1	2	item.backpack.describe_15	101002	custom_bag	15	set:bird_icon.json image:bagpackicon_15
-14	1033	g1041_weapon_atom.actor	set:bird_icon.json image:weapon7	body	1	item.toolGather_07.name	-709	60	-238	270	1	1	1	item.toolGather_07.describe	101002	gun	weapon_28.mesh	set:bird_icon.json image:weaponicon7
-15	2008	g1041_bagpack.actor	set:bird_icon.json image:bagpack_16	bagpack	16	item.backpack.name_16	-709	62	-236	0	1	1	2	item.backpack.describe_16	101002	custom_bag	16	set:bird_icon.json image:bagpackicon_16
-16	1034	g1041_weapon_twinmagnet.actor	set:bird_icon.json image:weapon8	body	1	item.toolGather_08.name	-709	64	-241	0	1	1	1	item.toolGather_08.describe	101002	gun	weapon_29.mesh	set:bird_icon.json image:weaponicon8
-17	2009	g1041_bagpack.actor	set:bird_icon.json image:bagpack_17	bagpack	17	item.backpack.name_17	-709	66	-237	0	1	1	2	item.backpack.describe_17	101002	custom_bag	17	set:bird_icon.json image:bagpackicon_17
-18	2010	g1041_bagpack.actor	set:bird_icon.json image:bagpack_18	bagpack	18	item.backpack.name_18	-709	68	-235	0	1	1	2	item.backpack.describe_18	101005	custom_bag	18	set:bird_icon.json image:bagpackicon_18
-19	1035	g1041_weapon_guns.actor	set:bird_icon.json image:weapon9	body	1	item.toolGather_09.name	-709	70	-240	0	1	1	1	item.toolGather_09.describe	101005	gun	weapon_30.mesh	set:bird_icon.json image:weaponicon9
-20	2011	g1041_bagpack.actor	set:bird_icon.json image:bagpack_09	bagpack	9	item.backpack.name_09	-709	72	-236	0	1	2	2	item.backpack.describe_09	101005	custom_bag	9	set:bird_icon.json image:bagpackicon_09
-21	1036	g1041_weapon_guns.actor	set:bird_icon.json image:weapon10	body	2	item.toolGather_10.name	-709	74	-234	90	1	2	1	item.toolGather_10.describe	101005	gun	weapon_31.mesh	set:bird_icon.json image:weaponicon10
-22	4001	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	1	item.wings_01.name	-709	76	-239	270	1	2	1	item.wings.describe_01	101003	custom_wing	17	set:bird_icon.json image:wing_01
-23	4002	g1041_wings.actor	set:bird_icon.json image:wing_03_307	body	3	item.wings_02.name	-709	78	-235	270	1	2	1	item.wings.describe_02	101002	custom_wing	19	set:bird_icon.json image:wing_03
-24	4003	g1041_wings.actor	set:bird_icon.json image:wing_04_307	body	4	item.wings_04.name	-709	80	-233	270	1	2	1	item.wings.describe_04	101004	custom_wing	20	set:bird_icon.json image:wing_04
-25	4004	g1041_wings.actor	set:bird_icon.json image:wing_02_307	body	2	item.wings_03.name	-709	82	-238	90	1	2	1	item.wings.describe_03	101008	custom_wing	18	set:bird_icon.json image:wing_02
+1	4001	g1041_wings.actor	set:bird_icon.json image:wing_01_307	body	1	item.wings_01.name	-741.5	46	-208	0	10000	2	2	item.wings.describe_01	101002	custom_wing	17	set:bird_icon.json image:wing_01
+2	4002	g1041_wings.actor	set:bird_icon.json image:wing_02_307	body	2	item.wings_02.name	-738.5	46	-208	0	30000	2	2	item.wings.describe_02	101002	custom_wing	19	set:bird_icon.json image:wing_03
+3	4003	g1041_wings.actor	set:bird_icon.json image:wing_03_307	body	3	item.wings_03.name	-735.5	46	-208	0	50000	2	2	item.wings.describe_03	101002	custom_wing	20	set:bird_icon.json image:wing_04
+4	4004	g1041_wings.actor	set:bird_icon.json image:wing_04_307	body	4	item.wings_04.name	-731	46	-218	270	100000	2	2	item.wings.describe_04	101002	custom_wing	18	set:bird_icon.json image:wing_02
