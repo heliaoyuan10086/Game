@@ -986,3 +986,7 @@ dialog_12=当高亮区域变成白色的时候就可以建造了。
 gui_game_elf=游戏精灵
 
 language_end:npc
+
+can_not_praise_you_self=不能给自己点赞
+already_praise_today=已经点过赞了
+not_enough_praise_num=点赞数不够
