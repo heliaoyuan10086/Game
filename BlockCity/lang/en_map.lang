@@ -963,6 +963,7 @@ item.wings_01.name=Sky Wings
 item.wings_02.name=Magic Wings
 item.wings_03.name=Golden Wings
 item.wings_04.name=Future Wings
+item.wings_05.name=Sci-fi wing
 gui_blockcity_sit_down=Sit Down
 gui_blockcity_stand_up=Stand Up
 
