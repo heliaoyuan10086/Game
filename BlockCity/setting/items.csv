@@ -1,4 +1,4 @@
-﻿Id	Name	Desc	Icon	Price	Cube	Score	
+Id	Name	Desc	Icon	Price	Cube	Score	
 物品id	多语言名称	多语言描述	对应Item图标	价格	魔方价格	积分	中文备注
 Id	Name	Desc	Icon	Price	Cube	Score	
 1	drawing_name_1	123	set:blockcity_items.json image:town_100_01	2250	23	2250	town_32_01
@@ -116,3 +116,26 @@ Id	Name	Desc	Icon	Price	Cube	Score
 1100065	红单人床	@@@	set:blockcity_items.json image:g1047_prop_2054	100	2	100	棕色长凳
 1100066	红高低床	@@@	set:blockcity_items.json image:g1047_prop_2055	100	2	100	棕色长凳
 1100067	2056	@@@	set:blockcity_items.json image:g1047_prop_2056	100	2	100	棕色长凳
+4001	item.wings_01.name	@@@	set:blockcity_items.json image:g1047_prop_2057	10000	100	0	蓝天之翼
+4002	item.wings_02.name	@@@	set:blockcity_items.json image:g1047_prop_2058	30000	300	0	魔法之翼
+4003	item.wings_03.name	@@@	set:blockcity_items.json image:g1047_prop_2059	50000	500	0	黄金之翼
+4004	item.wings_04.name	@@@	set:blockcity_items.json image:g1047_prop_2060	100000	1000	0	未来之翼
+4005	item.wings_05.name	@@@	set:blockcity_items.json image:g1047_prop_2061	100000	1000	0	科幻之翼
+5001	M4A1步枪	@@@	set:blockcity_items.json image:g1047_prop_2062	3000	30	0	M4A1步枪
+5002	AK47步枪	@@@	set:blockcity_items.json image:g1047_prop_2063	5000	50	0	AK47步枪
+5003	疾风之翼	@@@	set:blockcity_items.json image:g1047_prop_2064	7000	70	0	疾风之翼
+5004	高压水炮	@@@	set:blockcity_items.json image:g1047_prop_2065	10000	100	0	高压水炮
+5005	耍猴把戏	@@@	set:blockcity_items.json image:g1047_prop_2066	10000	100	0	耍猴把戏
+5006	波斯猫	@@@	set:blockcity_items.json image:g1047_prop_2067	20000	200	0	波斯猫
+5007	柯基	@@@	set:blockcity_items.json image:g1047_prop_2068	20000	200	0	柯基
+5008	猎魂骑士	@@@	set:blockcity_items.json image:g1047_prop_2069	30000	300	0	猎魂骑士
+5009	冰封魔典	@@@	set:blockcity_items.json image:g1047_prop_2070	50000	500	0	冰封魔典
+5010	精准步枪	@@@	set:blockcity_items.json image:g1047_prop_2071	5000	50	0	精准步枪
+5011	便携火箭筒	@@@	set:blockcity_items.json image:g1047_prop_2072	5000	50	0	便携火箭筒
+5012	银弹●毒	@@@	set:blockcity_items.json image:g1047_prop_2073	10000	100	0	银弹●毒
+5013	爆炎旋风	@@@	set:blockcity_items.json image:g1047_prop_2074	10000	100	0	爆炎旋风
+5014	音波枪	@@@	set:blockcity_items.json image:g1047_prop_2075	7000	70	0	音波枪
+5015	雷鸣	@@@	set:blockcity_items.json image:g1047_prop_2076	15000	150	0	雷鸣
+5016	神之瞳	@@@	set:blockcity_items.json image:g1047_prop_2077	20000	200	0	神之瞳
+5017	银色獠牙	@@@	set:blockcity_items.json image:g1047_prop_2078	30000	300	0	银色獠牙
+5018	爆裂魔杖	@@@	set:blockcity_items.json image:g1047_prop_2079	50000	500	0	爆裂魔杖
