@@ -39,5 +39,7 @@ freeArchiveNum: 2
 #存档的默认名字 (后面会自动添加数字递增)
 archiveName: MyRealm
 
-#每天赠送的点赞次数
-praiseNum: 5
+#每天赠送的玫瑰花id
+roseId: 1
+#每天赠送玫瑰花的数量
+roseNum: 5
