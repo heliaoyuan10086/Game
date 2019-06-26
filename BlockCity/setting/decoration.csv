@@ -27,3 +27,43 @@
 绿色长凳	1213025	2625	g1047_prop_27	decoration_name_1213025	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	27	idle		3	1	0.98	magazine.mesh	13	0
 黄色长凳	1213026	2626	g1047_prop_28	decoration_name_1213026	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	28	idle		3	1	0.98	magazine.mesh	13	0
 棕色长凳	1213027	2627	g1047_prop_29	decoration_name_1213027	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	29	idle		3	1	0.98	magazine.mesh	13	0
+棕色长凳	1100028	2628	g1047_prop_2001	欧风床头柜	1		g1047_chairs.actor	body	2001	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100029	2629	g1047_prop_2002	简单柜子	1		g1047_chairs.actor	body	2002	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100030	2630	g1047_prop_2003	三层抽屉柜	1		g1047_chairs.actor	body	2003	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100031	2631	g1047_prop_2004	保险柜	1		g1047_chairs.actor	body	2004	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100032	2633	g1047_prop_2006	2006	1		g1047_chairs.actor	body	2006	idle		1	1	2.98	magazine.mesh	0	0
+棕色长凳	1100033	2634	g1047_prop_2007	2007	1		g1047_chairs.actor	body	2007	idle		2	1	2.98	magazine.mesh	0	0
+棕色长凳	1100034	2635	g1047_prop_2008	2008	1		g1047_chairs.actor	body	2008	idle		1	1	2.98	magazine.mesh	0	0
+棕色长凳	1100035	2636	g1047_prop_2009	2009	1		g1047_chairs.actor	body	2009	idle		1	1	2.98	magazine.mesh	0	0
+棕色长凳	1100036	2638	g1047_prop_2011	2011	1		g1047_chairs.actor	body	2011	idle		1	1	2.98	magazine.mesh	0	0
+棕色长凳	1100037	2640	g1047_prop_2013	2013	1		g1047_chairs.actor	body	2013	idle		2	1	2.98	magazine.mesh	0	0
+棕色长凳	1100038	2641	g1047_prop_2014	2014	1		g1047_chairs.actor	body	2014	idle		2	1	2.98	magazine.mesh	0	0
+棕色长凳	1100039	2642	g1047_prop_2015	2015	1		g1047_chairs.actor	body	2015	idle		3	1	2.98	magazine.mesh	0	0
+棕色长凳	1100040	2643	g1047_prop_2016	2016	1		g1047_chairs.actor	body	2016	idle		2	1	2.98	magazine.mesh	0	0
+棕色长凳	1100041	2644	g1047_prop_2017	2017	1		g1047_chairs.actor	body	2017	idle		2	1	2.98	magazine.mesh	0	0
+棕色长凳	1100042	2645	g1047_prop_2018	2018	1		g1047_chairs.actor	body	2018	idle		3	1	2.98	magazine.mesh	0	0
+棕色长凳	1100043	2649	g1047_prop_2022	音响	1		g1047_chairs.actor	body	2022	idle		1	1	1.98	magazine.mesh	0	0
+棕色长凳	1100044	2650	g1047_prop_2023	空调	1		g1047_chairs.actor	body	2023	idle		1	1	1.98	magazine.mesh	0	0
+棕色长凳	1100045	2651	g1047_prop_2024	蓝光洗衣机	1		g1047_chairs.actor	body	2024	idle		1	1	1.98	magazine.mesh	0	0
+棕色长凳	1100046	2652	g1047_prop_2025	木质矮几	1		g1047_chairs.actor	body	2025	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100047	2653	g1047_prop_2026	白矮柜	1		g1047_chairs.actor	body	2026	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100048	2654	g1047_prop_2027	白矮几	1		g1047_chairs.actor	body	2027	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100049	2656	g1047_prop_2029	淡紫色办公桌	1		g1047_chairs.actor	body	2029	idle		3	1	0.98	magazine.mesh	0	0
+棕色长凳	1100050	2657	g1047_prop_2030	黑白办公桌	1		g1047_chairs.actor	body	2030	idle		2	1	0.98	magazine.mesh	0	0
+棕色长凳	1100051	2661	g1047_prop_2034	电视机	1		g1047_chairs.actor	body	2034	idle		3	1	1.98	magazine.mesh	0	0
+棕色长凳	1100052	2665	g1047_prop_2038	木方桌	1		g1047_chairs.actor	body	2038	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100053	2667	g1047_prop_2040	黑板方桌	1		g1047_chairs.actor	body	2040	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100054	2672	g1047_prop_2045	白落地灯	1		g1047_chairs.actor	body	2045	idle		1	1	1.98	magazine.mesh	0	0
+棕色长凳	1100055	2673	g1047_prop_2046	蓝落地灯	1		g1047_chairs.actor	body	2046	idle		1	1	1.98	magazine.mesh	0	0
+棕色长凳	1100056	2674	g1047_prop_2047	黑落地灯	1		g1047_chairs.actor	body	2047	idle		1	1	1.98	magazine.mesh	0	0
+棕色长凳	1100057	2675	g1047_prop_2048	电风扇	1		g1047_chairs2.actor	body	2048	idle		1	1	1.98	magazine.mesh	0	0
+棕色长凳	1100058	2676	g1047_prop_2049	铁晾衣架	1		g1047_chairs.actor	body	2049	idle		2	1	1.98	magazine.mesh	0	0
+棕色长凳	1100059	2677	g1047_prop_2050	木晾衣架	1		g1047_chairs.actor	body	2050	idle		2	1	0.98	magazine.mesh	0	0
+棕色长凳	1100060	2678	g1047_prop_2051	黄色双人床	1		g1047_chairs.actor	body	2051	idle		2	3	0.98	magazine.mesh	0	0
+棕色长凳	1100061	2679	g1047_prop_2052	蓝色双人床	1		g1047_chairs.actor	body	2052	idle		2	3	0.98	magazine.mesh	0	0
+棕色长凳	1100062	2680	g1047_prop_2053	灰色双人床	1		g1047_chairs.actor	body	2053	idle		2	3	0.98	magazine.mesh	0	0
+棕色长凳	1100063	2681	g1047_prop_2054	红单人床	1		g1047_chairs.actor	body	2054	idle		1	3	0.98	magazine.mesh	0	0
+棕色长凳	1100064	2682	g1047_prop_2055	红高低床	1		g1047_chairs.actor	body	2055	idle		1	3	1.98	magazine.mesh	0	0
+棕色长凳	1100065	2683	g1047_prop_2054	红单人床	1		g1047_chairs.actor	body	2054	idle		1	1	0.98	magazine.mesh	0	0
+棕色长凳	1100066	2684	g1047_prop_2055	红高低床	1		g1047_chairs.actor	body	2055	idle		1	1	1.98	magazine.mesh	0	0
+棕色长凳	1100067	2685	g1047_prop_2056	2056	1		g1048_chairs.actor	body	2056	idle		1	1	1.98	magazine.mesh	0	0
