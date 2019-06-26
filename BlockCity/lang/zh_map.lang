@@ -963,6 +963,7 @@ item.wings_01.name=蓝天之翼
 item.wings_02.name=魔法之翼
 item.wings_03.name=黄金之翼
 item.wings_04.name=未来之翼
+item.wings_05.name=科幻之翼
 gui_blockcity_sit_down=坐下
 gui_blockcity_stand_up=站起
 
@@ -986,7 +987,3 @@ dialog_12=当高亮区域变成白色的时候就可以建造了。
 gui_game_elf=游戏精灵
 
 language_end:npc
-
-can_not_praise_you_self=不能给自己点赞
-already_praise_today=已经点过赞了
-not_enough_praise_num=点赞数不够

@@ -963,6 +963,7 @@ item.wings_01.name=ปีกฟ้า
 item.wings_02.name=ปีกเมจิก
 item.wings_03.name=ปีกสีทอง
 item.wings_04.name=ปีกในอนาคต
+item.wings_05.name=Sci-fi wing
 gui_blockcity_sit_down=นั่งลง
 gui_blockcity_stand_up=ยืนขึ้น
 
