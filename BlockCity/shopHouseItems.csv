@@ -5,10 +5,21 @@ id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice
 3	4003	g1041_wings.actor	set:bird_icon.json image:wing_03_307	body	3	item.wings_03.name	-735.5	46	-208	0	50000	2	2	item.wings.describe_03	101003	custom_wing	20	set:bird_icon.json image:wing_03
 4	4004	g1041_wings.actor	set:bird_icon.json image:wing_04_307	body	4	item.wings_04.name	-731	45	-218	270	100000	2	2	item.wings.describe_04	101003	custom_wing	18	set:bird_icon.json image:wing_04
 5	4005	g1041_wings.actor	set:bird_icon.json image:wing_05_307	body	5	item.wings_05.name	-720	45	-213.5	270	100000	2	2	item.wings.describe_05	101003	custom_wing	24	set:bird_icon.json image:wing_05
-6	5001	cs_gun_53.actor	@@@	body	1	M4A1步枪	-741.5	55	-208	270	5000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_06
+6	5001	cs_gun_53.actor	@@@	body	1	M4A1步枪	-741.5	55	-208	270	3000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_06
 7	5002	cs_gun_49.actor	@@@	body	1	AK47步枪	-739.5	55	-208	270	5000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_07
-8	5003	pixel_gun_93.actor	@@@	body	1	音波枪	-737.5	55	-208	270	8000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_08
+8	5003	pixel_gun_126.actor	@@@	body	1	疾风之翼	-737.5	55	-208	270	7000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_08
 9	5004	pixel_gun_141.actor	@@@	body	1	高压水炮	-735.5	55	-208	270	10000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_08
 10	5005	pixel_gun_125.actor	@@@	body	1	耍猴把戏	-731	55	-216	0	10000	2	3	@@@	101005	custom_wing	18	set:bird_icon.json image:wing_09
 11	5006	pixel_gun_148.actor	@@@	body	1	波斯猫	-731	55	-218	0	20000	2	3	@@@	101005	custom_wing	19	set:bird_icon.json image:wing_10
 12	5007	pixel_gun_149.actor	@@@	body	1	柯基	-731	55	-220	0	20000	2	3	@@@	101005	custom_wing	20	set:bird_icon.json image:wing_11
+13	5008	pixel_gun_131.actor	@@@	body	1	猎魂骑士	-720	55	-212.5	0	30000	2	3	@@@	101005	custom_wing	21	set:bird_icon.json image:wing_12
+14	5009	pixel_gun_145.actor	@@@	body	1	冰封魔典	-720	55	-214.5	270	50000	2	3	@@@	101005	custom_wing	22	set:bird_icon.json image:wing_13
+15	5010	pixel_gun_103.actor	@@@	body	1	精准步枪	-741.5	55	-250	90	5000	2	3	@@@	101006	custom_wing	23	set:bird_icon.json image:wing_14
+16	5011	pixel_gun_76.actor	@@@	body	1	便携火箭筒	-739.5	55	-250	90	5000	2	3	@@@	101006	custom_wing	24	set:bird_icon.json image:wing_15
+17	5012	pixel_gun_64.actor	@@@	body	1	银弹●毒	-737.5	55	-250	90	10000	2	3	@@@	101006	custom_wing	25	set:bird_icon.json image:wing_16
+18	5013	pixel_gun_132.actor	@@@	body	1	爆炎旋风	-735.5	55	-250	90	10000	2	3	@@@	101006	custom_wing	26	set:bird_icon.json image:wing_17
+19	5014	pixel_gun_93.actor	@@@	body	1	音波枪	-731	55	-242	180	7000	2	3	@@@	101006	custom_wing	27	set:bird_icon.json image:wing_18
+20	5015	pixel_gun_137.actor	@@@	body	1	雷鸣	-731	55	-240	180	15000	2	3	@@@	101006	custom_wing	28	set:bird_icon.json image:wing_19
+21	5016	pixel_gun_170.actor	@@@	body	1	神之瞳	-731	55	-238	180	20000	2	3	@@@	101006	custom_wing	29	set:bird_icon.json image:wing_20
+22	5017	pixel_gun_127.actor	@@@	body	1	银色獠牙	-720	55	-245.5	180	30000	2	3	@@@	101006	custom_wing	30	set:bird_icon.json image:wing_21
+23	5018	pixel_gun_153.actor	@@@	body	1	爆裂魔杖	-720	55	-243.5	180	50000	2	3	@@@	101006	custom_wing	31	set:bird_icon.json image:wing_22
