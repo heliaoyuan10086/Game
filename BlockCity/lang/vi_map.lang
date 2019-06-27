@@ -456,6 +456,20 @@ gui_blockcity_buy_fly=Quyền mua máy bay
 gui_block_city_manor_not_load=Lỗi vào vùng không tải
 gui_blockcity_use_platform_money=Mua này sẽ tiêu thụ tiền vàng nền tảng, chắc chắn sẽ tiếp tục?
 gui_blockcity_use_platform_money_not_hint=Đừng nhắc lại lần nữa
+can_not_praise_you_self=Can't like yourself
+already_praise_today=Already liked
+not_enough_praise_num=Not enough rose
+feature_none=None
+feature_halfbrick=Halfbrick
+feature_stair=Stair
+feature_carpet=Carpet
+feature_slowdown=Slowdown
+feature_fence=Fence
+feature_step=Step
+feature_switch=Switch
+feature_illuminate=Illuminate
+feature_climb=Climb
+feature_charge=Charge
 
 language_end:system
 
