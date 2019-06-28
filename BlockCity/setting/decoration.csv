@@ -55,7 +55,7 @@
 白落地灯	2100053	2672	g1047_prop_2045	decoration_name_2100053	2		g1047_chairs.actor	body	2045	idle		1	1	1.98	magazine.mesh	0	0	0
 蓝落地灯	2100054	2673	g1047_prop_2046	decoration_name_2100054	2		g1047_chairs.actor	body	2046	idle		1	1	1.98	magazine.mesh	0	0	0
 黑落地灯	2100055	2674	g1047_prop_2047	decoration_name_2100055	2		g1047_chairs.actor	body	2047	idle		1	1	1.98	magazine.mesh	0	0	0
-电风扇	1100056	2675	g1047_prop_2048	decoration_name_1100056	1		g1047_chairs2.actor	body	2048	idle		1	1	1.98	magazine.mesh	0	0	2
+电风扇	1100056	2675	g1047_prop_2048	decoration_name_1100056	1		g1047_chairs2.actor	body	2048	idle	move	1	1	1.98	magazine.mesh	0	0	2
 铁晾衣架	3100057	2676	g1047_prop_2049	decoration_name_3100057	3		g1047_chairs.actor	body	2049	idle		2	1	1.98	magazine.mesh	0	0	0
 木晾衣架	3100058	2677	g1047_prop_2050	decoration_name_3100058	3		g1047_chairs.actor	body	2050	idle		2	1	0.98	magazine.mesh	0	0	0
 黄色双人床	2100059	2678	g1047_prop_2051	decoration_name_2100059	2		g1047_chairs.actor	body	2051	idle		2	3	0.98	magazine.mesh	0	0	0
