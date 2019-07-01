@@ -108,10 +108,11 @@ Id	Name	Desc	Icon	Price	Cube	Score
 3100057	decoration_name_3100057	@@@	set:blockcity_items.json image:g1047_prop_2049	200	3	200	铁晾衣架
 3100058	decoration_name_3100058	@@@	set:blockcity_items.json image:g1047_prop_2050	200	3	200	木晾衣架
 2100059	decoration_name_2100059	@@@	set:blockcity_items.json image:g1047_prop_2051	300	4	300	黄色双人床
-2100060	decoration_name_2100060	@@@	set:blockcity_items.json image:g1047_prop_2052	300	4	300	蓝色双人床
-2100061	decoration_name_2100061	@@@	set:blockcity_items.json image:g1047_prop_2053	300	4	300	灰色双人床
-2100062	decoration_name_2100062	@@@	set:blockcity_items.json image:g1047_prop_2054	200	3	200	红单人床
-2100063	decoration_name_2100063	@@@	set:blockcity_items.json image:g1047_prop_2055	300	4	300	红高低床
+2114060	decoration_name_2114060	@@@	set:blockcity_items.json image:g1047_prop_2052	300	4	300	蓝色双人床
+2114061	decoration_name_2114061	@@@	set:blockcity_items.json image:g1047_prop_2053	300	4	300	灰色双人床
+2114062	decoration_name_2114062	@@@	set:blockcity_items.json image:g1047_prop_2054	200	3	200	红单人床
+2114063	decoration_name_2114063	@@@	set:blockcity_items.json image:g1047_prop_2055	300	4	300	红高低床
+3215064	decoration_name_3215064	@@@	set:blockcity_items.json image:g1047_prop_1	301	4	301	秋千
 4001	item.wings_01.name	@@@	set:blockcity_items.json image:g1047_prop_2057	10000	100	0	蓝天之翼
 4002	item.wings_02.name	@@@	set:blockcity_items.json image:g1047_prop_2058	30000	300	0	魔法之翼
 4003	item.wings_03.name	@@@	set:blockcity_items.json image:g1047_prop_2059	50000	500	0	黄金之翼
