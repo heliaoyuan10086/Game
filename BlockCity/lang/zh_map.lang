@@ -470,6 +470,7 @@ feature_switch=开关
 feature_illuminate=发光
 feature_climb=攀爬
 feature_charge=充能
+feature_elasticity=弹性
 
 language_end:system
 
