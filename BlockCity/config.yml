@@ -43,3 +43,6 @@ archiveName: MyRealm
 roseId: 1
 #每天赠送玫瑰花的数量
 roseNum: 5
+
+#超市大门位置
+shopPosWithYaw: [-727, 34, -229, 90]
