@@ -1,12 +1,12 @@
-	物品id	手持id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，2.金币)	物品类型（1车，4翅膀，3枪）	物品描述	所属商店	装饰部件名字	装饰部件Id	新图标
-order	ItemId	handId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindShopId	actorName	actorId	iconNew
-1	4001	0	g1047_wings.actor	set:bird_icon.json image:wing_01_307	body	1	item.wings_01.name	-741.5	46	-208	0	10000	2	4	item.wings.describe_01	101003	custom_wing	17	set:bird_icon.json image:wing_01
-2	4002	0	g1047_wings.actor	set:bird_icon.json image:wing_02_307	body	2	item.wings_02.name	-738.5	46	-208	0	30000	2	4	item.wings.describe_02	101003	custom_wing	19	set:bird_icon.json image:wing_02
-3	4003	0	g1047_wings.actor	set:bird_icon.json image:wing_03_307	body	3	item.wings_03.name	-735.5	46	-208	0	50000	2	4	item.wings.describe_03	101003	custom_wing	20	set:bird_icon.json image:wing_03
-4	4004	0	g1047_wings.actor	set:bird_icon.json image:wing_04_307	body	4	item.wings_04.name	-731	46	-218	270	100000	2	4	item.wings.describe_04	101003	custom_wing	18	set:bird_icon.json image:wing_04
-5	4005	0	g1047_wings.actor	set:bird_icon.json image:wing_05_307	body	5	item.wings_05.name	-720	46	-213.5	270	100000	2	4	item.wings.describe_05	101003	custom_wing	24	set:bird_icon.json image:wing_05
+	物品id	手持id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，2.金币)	物品类型（1车，2翅膀，3枪）	物品描述	所属商店	装饰部件名字	装饰部件Id	新图标
+id	ItemId	handId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindShopId	actorName	actorId	iconNew
+1	4001	0	g1047_wings.actor	set:bird_icon.json image:wing_01_307	body	1	item.wings_01.name	-741.5	46	-208	0	10000	2	2	item.wings.describe_01	101003	custom_wing	17	set:bird_icon.json image:wing_01
+2	4002	0	g1047_wings.actor	set:bird_icon.json image:wing_02_307	body	2	item.wings_02.name	-738.5	46	-208	0	30000	2	2	item.wings.describe_02	101003	custom_wing	19	set:bird_icon.json image:wing_02
+3	4003	0	g1047_wings.actor	set:bird_icon.json image:wing_03_307	body	3	item.wings_03.name	-735.5	46	-208	0	50000	2	2	item.wings.describe_03	101003	custom_wing	20	set:bird_icon.json image:wing_03
+4	4004	0	g1047_wings.actor	set:bird_icon.json image:wing_04_307	body	4	item.wings_04.name	-731	46	-218	270	100000	2	2	item.wings.describe_04	101003	custom_wing	18	set:bird_icon.json image:wing_04
+5	4005	0	g1047_wings.actor	set:bird_icon.json image:wing_05_307	body	5	item.wings_05.name	-720	46	-213.5	270	100000	2	2	item.wings.describe_05	101003	custom_wing	24	set:bird_icon.json image:wing_05
 6	5001	775	cs_gun_53.actor	@@@	body	1	M4A1步枪	-741.5	55	-208	270	3000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_06
-7	5002	771	cs_gun_49.actor	@@@	body	1	AK47步枪	-739.5	55	-208	270	5000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_07
+7	5002	805	pixel_gun_82.actor	@@@	body	1	尼尔的回响	-739.5	55	-208	270	5000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_07
 8	5003	841	pixel_gun_126.actor	@@@	body	1	疾风之翼	-737.5	55	-208	270	7000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_08
 9	5004	840	pixel_gun_141.actor	@@@	body	1	高压水炮	-735.5	55	-208	270	10000	2	3	@@@	101005	custom_wing	1	set:bird_icon.json image:wing_08
 10	5005	847	pixel_gun_125.actor	@@@	body	1	耍猴把戏	-731	55	-216	0	10000	2	3	@@@	101005	custom_wing	18	set:bird_icon.json image:wing_09
