@@ -191,6 +191,7 @@ weight	id	blockId	meta	score	level	price	cube	type	feature	isNew	remark
 189	508900	89	0	10	5	10	1	6	feature_illuminate	0	萤石
 190	516800	168	0	10	5	10	1	6	feature_illuminate	0	海晶石
 191	515200	152	0	10	5	10	1	6	feature_charge	0	红石块
-192	613800	138	0	12	6	12	1	6	feature_illuminate	0	信标
-193	602500	25	0	12	6	12	1	6	feature_none	0	音乐盒
-194	612300	123	0	12	6	12	1	6	feature_illuminate	0	红石灯
+192	616500	165	0	12	6	12	1	6	feature_elasticity	1	史莱姆方块
+193	613800	138	0	12	6	12	1	6	feature_illuminate	0	信标
+194	602500	25	0	12	6	12	1	6	feature_none	0	音乐盒
+195	612300	123	0	12	6	12	1	6	feature_illuminate	0	红石灯

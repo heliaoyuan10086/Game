@@ -470,6 +470,7 @@ feature_switch=Switch
 feature_illuminate=Illuminate
 feature_climb=Climb
 feature_charge=Charge
+feature_elasticity=elasticity
 
 language_end:system
 
