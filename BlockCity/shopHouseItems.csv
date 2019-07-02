@@ -21,5 +21,5 @@ id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice
 19	808	g1047_gun14.actor	@@@	body	1	音波枪	-731	55	-242	180	7000	2	5	@@@	101006	custom_wing	27	set:bird_icon.json image:wing_18	1
 20	842	g1047_gun15.actor	@@@	body	1	雷鸣	-731	55	-240	180	15000	2	5	@@@	101006	custom_wing	28	set:bird_icon.json image:wing_19	1
 21	2303	g1047_gun16.actor	@@@	body	1	神之瞳	-731	55	-238	180	20000	2	5	@@@	101006	custom_wing	29	set:bird_icon.json image:wing_20	1
-22	884	pixel_gun_127.actor	@@@	body	1	银色獠牙	-720	55	-245.5	180	30000	2	5	@@@	101006	custom_wing	30	set:bird_icon.json image:wing_21	1
-23	2305	pixel_gun_153.actor	@@@	body	1	爆裂魔杖	-720	55	-243.5	180	50000	2	5	@@@	101006	custom_wing	31	set:bird_icon.json image:wing_22	1
+22	884	g1047_gun17.actor	@@@	body	1	银色獠牙	-720	55	-245.5	90	30000	2	5	@@@	101006	custom_wing	30	set:bird_icon.json image:wing_21	1
+23	2305	g1047_gun18.actor	@@@	body	1	爆裂魔杖	-720	55	-243.5	90	50000	2	5	@@@	101006	custom_wing	31	set:bird_icon.json image:wing_22	1
