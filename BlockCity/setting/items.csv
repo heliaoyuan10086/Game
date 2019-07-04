@@ -112,7 +112,8 @@ Id	Name	Desc	Icon	Price	Cube	Score
 2114061	decoration_name_2114061	@@@	set:blockcity_items.json image:g1047_prop_2053	300	4	300	灰色双人床
 2114062	decoration_name_2114062	@@@	set:blockcity_items.json image:g1047_prop_2054	200	3	200	红单人床
 2114063	decoration_name_2114063	@@@	set:blockcity_items.json image:g1047_prop_2055	300	4	300	红高低床
-3215064	decoration_name_3215064	@@@	set:blockcity_items.json image:g1047_prop_1	301	4	301	秋千
+3215064	decoration_name_3215064	@@@	set:blockcity_items.json image:g1047_prop_1	300	4	300	秋千
+3316065	decoration_name_3316065	@@@	set:blockcity_items.json image:g1047_prop_1	300	4	300	跷跷板
 4001	item.wings_01.name	@@@	set:blockcity_items.json image:g1047_prop_2057	10000	100	0	蓝天之翼
 4002	item.wings_02.name	@@@	set:blockcity_items.json image:g1047_prop_2058	30000	300	0	魔法之翼
 4003	item.wings_03.name	@@@	set:blockcity_items.json image:g1047_prop_2059	50000	500	0	黄金之翼
