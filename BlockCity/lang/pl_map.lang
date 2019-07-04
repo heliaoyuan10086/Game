@@ -969,6 +969,14 @@ tile.stained_glass.silver.name=Lekkie szare szkło
 tile.stained_glass.white.name=Białe szkło
 tile.stained_glass.yellow.name=Szkło żółte
 tile.flower.name=yellow flower
+tile.flower_blue_orchid=Blue Orchid
+tile.flower_allium=Allium
+tile.flower_houstonia=Azure Bluet
+tile.flower_tulip_red=Red Tulip
+tile.flower_tulip_orange=Orange Tulip
+tile.flower_tulip_white=White Tulip
+tile.flower_tulip_pink=Pink Tulip
+tile.flower_oxeye_daisy=Oxeye Daisy
 
 language_end:tile
 
