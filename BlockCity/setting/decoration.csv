@@ -64,7 +64,7 @@
 红单人床	2114062	2681	g1047_prop_2054	decoration_name_2114062	2	s_chair	g1047_chairs.actor	body	2054	idle		1	3	0.98	magazine.mesh	14	0	1
 红高低床	2114063	2682	g1047_prop_2055	decoration_name_2114063	2	s_chair	g1047_chairs.actor	body	2055	idle		1	3	1.98	magazine.mesh	14	0	1
 秋千	3215064	2683	g1047_prop_1	decoration_name_3215064	3	s_guadian_1	g1047_qiuqian.actor	body	1	idle	run	3	3	2.98	magazine.mesh	15	0	3
-																		
+跷跷板	3316065	2684	g1047_prop_1	decoration_name_3316065	3	s_guadian_r#s_guadian_l	g1048_qiaoqiaoban.actor	body	1	idle	run	3	1	1.98	magazine.mesh	16	0	3
 																		
 																		
 																		
