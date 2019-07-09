@@ -1,3 +1,7 @@
 initPos: [-709, 46, -267]
+#领地释放时间
 manorReleaseTime: 300
+#领地默认的名字
 defaultName: "BlockFort"
+#玩家领地释放后用于修复地皮用的模板文件
+groundName: "ground_29x29.schematic"
