@@ -1,0 +1,71 @@
+﻿	Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	MeshName	ActionId	CanCollided	InteractionType
+中文备注	Id	手持道具Id(2201~2255)	对应Item图标	多语言名称	类别	挂点	Actor文件名	默认配置应该是body	部件Id	待机动画	完成使用	长	宽	高	模型	玩家动作id（12是凳子坐下，13是沙发坐下）	是否可以碰撞:1/0	0没有-1可以融合-2改变动作
+洗衣机	3100001	2601	g1047_prop_1	decoration_name_3100001	3		g1047_chairs.actor	body	1	idle		1	1	0.98	magazine.mesh	0	0	0
+书桌	1100002	2602	g1047_prop_2	decoration_name_1100002	1		g1047_chairs.actor	body	2	idle		1	1	0.98	magazine.mesh	0	0	0
+木椅	1212003	2603	g1047_prop_3	decoration_name_1212003	1	s_chair	g1047_chairs.actor	body	3	idle		1	1	0.98	magazine.mesh	12	0	1
+棕色沙发	1213004	2604	g1047_prop_4	decoration_name_1213004	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	4	idle		3	1	0.98	magazine.mesh	13	0	1
+梳妆台	1100005	2605	g1047_prop_5	decoration_name_1100005	1		g1047_chairs.actor	body	5	idle		2	1	1.98	magazine.mesh	0	0	0
+垃圾桶	3200006	2606	g1047_prop_7	decoration_name_3200006	3		g1047_chairs.actor	body	7	idle		1	1	0.98	magazine.mesh	0	0	0
+长椅	1212007	2607	g1047_prop_8	decoration_name_1212007	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	8	idle		3	1	0.98	magazine.mesh	12	0	1
+气球	3200008	2608	g1047_prop_9	decoration_name_3200008	3		g1047_chairs.actor	body	9	idle		2	2	1.98	magazine.mesh	0	0	0
+洗手池	3200009	2609	g1047_prop_10	decoration_name_3200009	3		g1047_chairs.actor	body	10	idle		2	1	1.98	magazine.mesh	0	0	0
+燃气灶	3200010	2610	g1047_prop_11	decoration_name_3200010	3		g1047_chairs.actor	body	11	idle		1	1	0.98	magazine.mesh	0	0	0
+长木椅	1213011	2611	g1047_prop_12	decoration_name_1213011	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	12	idle		3	1	0.98	magazine.mesh	13	0	1
+长扶手椅	1213012	2612	g1047_prop_13	decoration_name_1213012	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	13	idle		3	1	0.98	magazine.mesh	13	0	1
+蓝白沙发	1213013	2613	g1047_prop_14	decoration_name_1213013	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	14	idle		3	1	0.98	magazine.mesh	13	0	1
+白色沙发	1213014	2614	g1047_prop_15	decoration_name_1213014	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	15	idle		2	1	0.98	magazine.mesh	13	0	1
+单人蓝白沙发	1213015	2615	g1047_prop_16	decoration_name_1213015	1	s_chair	g1047_chairs.actor	body	16	idle		1	1	0.98	magazine.mesh	13	0	1
+单人白色沙发	1213016	2616	g1047_prop_17	decoration_name_1213016	1	s_chair	g1047_chairs.actor	body	17	idle		1	1	0.98	magazine.mesh	13	0	1
+绿色椅子	1212017	2617	g1047_prop_18	decoration_name_1212017	1	s_chair	g1047_chairs.actor	body	18	idle		1	1	0.98	magazine.mesh	12	0	1
+马桶	3212018	2618	g1047_prop_19	decoration_name_3212018	3	s_chair	g1047_chairs.actor	body	19	idle		1	1	0.98	magazine.mesh	12	0	1
+格子椅	1212019	2619	g1047_prop_20	decoration_name_1212019	1	s_chair	g1047_chairs.actor	body	20	idle		1	1	0.98	magazine.mesh	12	0	1
+红色椅子	1212020	2620	g1047_prop_21	decoration_name_1212020	1	s_chair	g1047_chairs.actor	body	21	idle		1	1	0.98	magazine.mesh	12	0	1
+黑色沙发	1213021	2621	g1047_prop_23	decoration_name_1213021	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	23	idle		3	1	0.98	magazine.mesh	13	0	1
+棕色椅子	1212022	2622	g1047_prop_24	decoration_name_1212022	1	s_chair	g1047_chairs.actor	body	24	idle		1	1	0.98	magazine.mesh	12	0	1
+黑色椅子	1212023	2623	g1047_prop_25	decoration_name_1212023	1	s_chair	g1047_chairs.actor	body	25	idle		1	1	0.98	magazine.mesh	12	0	1
+爱心沙发	1213024	2624	g1047_prop_26	decoration_name_1213024	1	s_sofa_1#s_sofa_2	g1047_chairs.actor	body	26	idle		3	1	0.98	magazine.mesh	13	0	1
+绿色长凳	1213025	2625	g1047_prop_27	decoration_name_1213025	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	27	idle		3	1	0.98	magazine.mesh	13	0	1
+黄色长凳	1213026	2626	g1047_prop_28	decoration_name_1213026	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	28	idle		3	1	0.98	magazine.mesh	13	0	1
+棕色长凳	1213027	2627	g1047_prop_29	decoration_name_1213027	1	s_bench_1#s_bench_2#s_bench_3	g1047_chairs.actor	body	29	idle		3	1	0.98	magazine.mesh	13	0	1
+欧风床头柜	2100028	2628	g1047_prop_2001	decoration_name_2100028	2		g1047_chairs.actor	body	2001	idle		1	1	0.98	magazine.mesh	0	0	0
+简单柜子	2100029	2629	g1047_prop_2002	decoration_name_2100029	2		g1047_chairs.actor	body	2002	idle		1	1	0.98	magazine.mesh	0	0	0
+三层抽屉柜	2100030	2630	g1047_prop_2003	decoration_name_2100030	2		g1047_chairs.actor	body	2003	idle		1	1	0.98	magazine.mesh	0	0	0
+保险柜	2100031	2631	g1047_prop_2004	decoration_name_2100031	2		g1047_chairs.actor	body	2004	idle		1	1	0.98	magazine.mesh	0	0	0
+白色书柜1	2100032	2633	g1047_prop_2006	decoration_name_2100032	2		g1047_chairs.actor	body	2006	idle		1	1	2.98	magazine.mesh	0	0	0
+白色书柜2	2100033	2635	g1047_prop_2008	decoration_name_2100033	2		g1047_chairs.actor	body	2008	idle		1	1	2.98	magazine.mesh	0	0	0
+木书柜1	2100034	2636	g1047_prop_2009	decoration_name_2100034	2		g1047_chairs.actor	body	2009	idle		1	1	2.98	magazine.mesh	0	0	0
+木书柜2	2100035	2638	g1047_prop_2011	decoration_name_2100035	2		g1047_chairs.actor	body	2011	idle		1	1	2.98	magazine.mesh	0	0	0
+老式衣柜	2100036	2640	g1047_prop_2013	decoration_name_2100036	2		g1047_chairs.actor	body	2013	idle		2	1	2.98	magazine.mesh	0	0	0
+衣柜	2100037	2641	g1047_prop_2014	decoration_name_2100037	2		g1047_chairs.actor	body	2014	idle		2	1	2.98	magazine.mesh	0	0	0
+黑色大衣柜	2100038	2642	g1047_prop_2015	decoration_name_2100038	2		g1047_chairs.actor	body	2015	idle		3	1	2.98	magazine.mesh	0	0	0
+棕色衣柜	2100039	2643	g1047_prop_2016	decoration_name_2100039	2		g1047_chairs.actor	body	2016	idle		2	1	2.98	magazine.mesh	0	0	0
+黑色衣柜	2100040	2644	g1047_prop_2017	decoration_name_2100040	2		g1047_chairs.actor	body	2017	idle		2	1	2.98	magazine.mesh	0	0	0
+白色大衣柜	2100041	2645	g1047_prop_2018	decoration_name_2100041	2		g1047_chairs.actor	body	2018	idle		3	1	2.98	magazine.mesh	0	0	0
+音响	1100042	2649	g1047_prop_2022	decoration_name_1100042	1		g1047_chairs.actor	body	2022	idle		1	1	1.98	magazine.mesh	0	0	0
+空调	1100043	2650	g1047_prop_2023	decoration_name_1100043	1		g1047_chairs.actor	body	2023	idle		1	1	1.98	magazine.mesh	0	0	0
+蓝光洗衣机	3100044	2651	g1047_prop_2024	decoration_name_3100044	3		g1047_chairs.actor	body	2024	idle		1	1	1.98	magazine.mesh	0	0	0
+木质矮几	2100045	2652	g1047_prop_2025	decoration_name_2100045	2		g1047_chairs.actor	body	2025	idle		1	1	0.98	magazine.mesh	0	0	0
+白矮柜	2100046	2653	g1047_prop_2026	decoration_name_2100046	2		g1047_chairs.actor	body	2026	idle		1	1	0.98	magazine.mesh	0	0	0
+白矮几	2100047	2654	g1047_prop_2027	decoration_name_2100047	2		g1047_chairs.actor	body	2027	idle		1	1	0.98	magazine.mesh	0	0	0
+淡紫色办公桌	1100048	2656	g1047_prop_2029	decoration_name_1100048	1		g1047_chairs.actor	body	2029	idle		3	1	0.98	magazine.mesh	0	0	0
+黑白办公桌	1100049	2657	g1047_prop_2030	decoration_name_1100049	1		g1047_chairs.actor	body	2030	idle		2	1	0.98	magazine.mesh	0	0	0
+电视机	1100050	2661	g1047_prop_2034	decoration_name_1100050	1		g1047_chairs.actor	body	2034	idle		3	1	1.98	magazine.mesh	0	0	0
+木方桌	1100051	2665	g1047_prop_2038	decoration_name_1100051	1		g1047_chairs.actor	body	2038	idle		1	1	0.98	magazine.mesh	0	0	0
+黑白方桌	1100052	2667	g1047_prop_2040	decoration_name_1100052	1		g1047_chairs.actor	body	2040	idle		1	1	0.98	magazine.mesh	0	0	0
+白落地灯	2100053	2672	g1047_prop_2045	decoration_name_2100053	2		g1047_chairs.actor	body	2045	idle		1	1	1.98	magazine.mesh	0	0	0
+蓝落地灯	2100054	2673	g1047_prop_2046	decoration_name_2100054	2		g1047_chairs.actor	body	2046	idle		1	1	1.98	magazine.mesh	0	0	0
+黑落地灯	2100055	2674	g1047_prop_2047	decoration_name_2100055	2		g1047_chairs.actor	body	2047	idle		1	1	1.98	magazine.mesh	0	0	0
+电风扇	1100056	2675	g1047_prop_2048	decoration_name_1100056	1		g1047_chairs2.actor	body	2048	idle	run	1	1	1.98	magazine.mesh	0	0	2
+铁晾衣架	3100057	2676	g1047_prop_2049	decoration_name_3100057	3		g1047_chairs.actor	body	2049	idle		2	1	1.98	magazine.mesh	0	0	0
+木晾衣架	3100058	2677	g1047_prop_2050	decoration_name_3100058	3		g1047_chairs.actor	body	2050	idle		2	1	0.98	magazine.mesh	0	0	0
+黄色双人床	2100059	2678	g1047_prop_2051	decoration_name_2100059	2		g1047_chairs.actor	body	2051	idle		2	3	0.98	magazine.mesh	0	0	0
+蓝色双人床	2114060	2679	g1047_prop_2052	decoration_name_2114060	2	s_chair	g1047_chairs.actor	body	2052	idle		2	3	0.98	magazine.mesh	14	0	1
+灰色双人床	2114061	2680	g1047_prop_2053	decoration_name_2114061	2	s_chair	g1047_chairs.actor	body	2053	idle		2	3	0.98	magazine.mesh	14	0	1
+红单人床	2114062	2681	g1047_prop_2054	decoration_name_2114062	2	s_chair	g1047_chairs.actor	body	2054	idle		1	3	0.98	magazine.mesh	14	0	1
+红高低床	2114063	2682	g1047_prop_2055	decoration_name_2114063	2	s_chair	g1047_chairs.actor	body	2055	idle		1	3	1.98	magazine.mesh	14	0	1
+秋千	3115064	2683	g1047_prop_1	decoration_name_3115064	3	s_guadian_1	g1047_qiuqian.actor	body	1	idle	run	3	3	2.98	magazine.mesh	15	0	3
+跷跷板	3116065	2684	g1047_prop_1	decoration_name_3116065	3	s_guadian_r#s_guadian_l	g1047_qiaoqiaoban.actor	body	1	idle	run	3	1	1.98	magazine.mesh	16	0	3
+																		
+																		
+																		
+																		
