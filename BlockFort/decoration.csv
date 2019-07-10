@@ -1,67 +1,67 @@
-id	备注	等级	价格	魔方价格	多语言名称	图标	长	宽	高	是否可交互0:不可以，1可以	排序权重	手持道具Id(2201~2255)
-id	remark	level	price	cube	name	icon	length	width	height	isInteraction	weight	itemId
-3100001	洗衣机	1	100	1	decoration_name_3100001	set:blockcity_items.json image:g1047_prop_1	1	1	1	0	1	2601
-1100002	书桌	1	100	1	decoration_name_1100002	set:blockcity_items.json image:g1047_prop_2	1	1	1	0	2	2602
-1212003	木椅	2	200	2	decoration_name_1212003	set:blockcity_items.json image:g1047_prop_3	1	1	1	1	3	2603
-1213004	棕色沙发	3	300	3	decoration_name_1213004	set:blockcity_items.json image:g1047_prop_4	3	1	1	1	4	2604
-1100005	梳妆台	1	100	1	decoration_name_1100005	set:blockcity_items.json image:g1047_prop_5	2	1	2	0	5	2605
-3200006	垃圾桶	1	100	1	decoration_name_3200006	set:blockcity_items.json image:g1047_prop_7	1	1	1	0	6	2606
-1212007	长椅	3	300	3	decoration_name_1212007	set:blockcity_items.json image:g1047_prop_8	3	1	1	1	7	2607
-3200008	气球	1	100	1	decoration_name_3200008	set:blockcity_items.json image:g1047_prop_9	2	2	2	0	8	2608
-3200009	洗手池	1	100	1	decoration_name_3200009	set:blockcity_items.json image:g1047_prop_10	2	1	2	0	9	2609
-3200010	燃气灶	1	100	1	decoration_name_3200010	set:blockcity_items.json image:g1047_prop_11	1	1	1	0	10	2610
-1213011	长木椅	4	400	4	decoration_name_1213011	set:blockcity_items.json image:g1047_prop_12	3	1	1	1	11	2611
-1213012	长扶手椅	4	400	4	decoration_name_1213012	set:blockcity_items.json image:g1047_prop_13	3	1	1	1	12	2612
-1213013	蓝白沙发	3	300	3	decoration_name_1213013	set:blockcity_items.json image:g1047_prop_14	3	1	1	1	13	2613
-1213014	白色沙发	3	300	3	decoration_name_1213014	set:blockcity_items.json image:g1047_prop_15	2	1	1	1	14	2614
-1213015	单人蓝白沙发	2	200	2	decoration_name_1213015	set:blockcity_items.json image:g1047_prop_16	1	1	1	1	15	2615
-1213016	单人白色沙发	2	200	2	decoration_name_1213016	set:blockcity_items.json image:g1047_prop_17	1	1	1	1	16	2616
-1212017	绿色椅子	2	200	2	decoration_name_1212017	set:blockcity_items.json image:g1047_prop_18	1	1	1	1	17	2617
-3212018	马桶	2	200	2	decoration_name_3212018	set:blockcity_items.json image:g1047_prop_19	1	1	1	1	18	2618
-1212019	格子椅	2	200	2	decoration_name_1212019	set:blockcity_items.json image:g1047_prop_20	1	1	1	1	19	2619
-1212020	红色椅子	2	200	2	decoration_name_1212020	set:blockcity_items.json image:g1047_prop_21	1	1	1	1	20	2620
-1213021	黑色沙发	3	300	3	decoration_name_1213021	set:blockcity_items.json image:g1047_prop_23	3	1	1	1	21	2621
-1212022	棕色椅子	2	200	2	decoration_name_1212022	set:blockcity_items.json image:g1047_prop_24	1	1	1	1	22	2622
-1212023	黑色椅子	2	200	2	decoration_name_1212023	set:blockcity_items.json image:g1047_prop_25	1	1	1	1	23	2623
-1213024	爱心沙发	3	300	3	decoration_name_1213024	set:blockcity_items.json image:g1047_prop_26	3	1	1	1	24	2624
-1213025	绿色长凳	4	400	4	decoration_name_1213025	set:blockcity_items.json image:g1047_prop_27	3	1	1	1	25	2625
-1213026	黄色长凳	4	400	4	decoration_name_1213026	set:blockcity_items.json image:g1047_prop_28	3	1	1	1	26	2626
-1213027	棕色长凳	4	400	4	decoration_name_1213027	set:blockcity_items.json image:g1047_prop_29	3	1	1	1	27	2627
-2100028	欧风床头柜	1	200	2	decoration_name_2100028	set:blockcity_items.json image:g1047_prop_2001	1	1	1	0	28	2628
-2100029	简单柜子	1	200	2	decoration_name_2100029	set:blockcity_items.json image:g1047_prop_2002	1	1	1	0	29	2629
-2100030	三层抽屉柜	1	200	2	decoration_name_2100030	set:blockcity_items.json image:g1047_prop_2003	1	1	1	0	30	2630
-2100031	保险柜	1	300	3	decoration_name_2100031	set:blockcity_items.json image:g1047_prop_2004	1	1	1	0	31	2631
-2100032	白色书柜1	1	300	3	decoration_name_2100032	set:blockcity_items.json image:g1047_prop_2006	1	1	3	0	32	2633
-2100033	白色书柜2	1	300	3	decoration_name_2100033	set:blockcity_items.json image:g1047_prop_2008	1	1	3	0	33	2635
-2100034	木书柜1	1	300	3	decoration_name_2100034	set:blockcity_items.json image:g1047_prop_2009	1	1	3	0	34	2636
-2100035	木书柜2	1	300	3	decoration_name_2100035	set:blockcity_items.json image:g1047_prop_2011	1	1	3	0	35	2638
-2100036	老式衣柜	1	300	3	decoration_name_2100036	set:blockcity_items.json image:g1047_prop_2013	2	1	3	0	36	2640
-2100037	衣柜	1	300	3	decoration_name_2100037	set:blockcity_items.json image:g1047_prop_2014	2	1	3	0	37	2641
-2100038	黑色大衣柜	1	400	4	decoration_name_2100038	set:blockcity_items.json image:g1047_prop_2015	3	1	3	0	38	2642
-2100039	棕色衣柜	1	300	3	decoration_name_2100039	set:blockcity_items.json image:g1047_prop_2016	2	1	3	0	39	2643
-2100040	黑色衣柜	1	300	3	decoration_name_2100040	set:blockcity_items.json image:g1047_prop_2017	2	1	3	0	40	2644
-2100041	白色大衣柜	1	500	5	decoration_name_2100041	set:blockcity_items.json image:g1047_prop_2018	3	1	3	0	41	2645
-1100042	音响	1	500	5	decoration_name_1100042	set:blockcity_items.json image:g1047_prop_2022	1	1	2	0	42	2649
-1100043	空调	1	400	4	decoration_name_1100043	set:blockcity_items.json image:g1047_prop_2023	1	1	2	0	43	2650
-3100044	蓝光洗衣机	1	500	5	decoration_name_3100044	set:blockcity_items.json image:g1047_prop_2024	1	1	2	0	44	2651
-2100045	木质矮几	1	200	2	decoration_name_2100045	set:blockcity_items.json image:g1047_prop_2025	1	1	1	0	45	2652
-2100046	白矮柜	1	200	2	decoration_name_2100046	set:blockcity_items.json image:g1047_prop_2026	1	1	1	0	46	2653
-2100047	白矮几	1	200	2	decoration_name_2100047	set:blockcity_items.json image:g1047_prop_2027	1	1	1	0	47	2654
-1100048	淡紫色办公桌	1	400	4	decoration_name_1100048	set:blockcity_items.json image:g1047_prop_2029	3	1	1	0	48	2656
-1100049	黑白办公桌	1	400	4	decoration_name_1100049	set:blockcity_items.json image:g1047_prop_2030	2	1	1	0	49	2657
-1100050	电视机	1	500	5	decoration_name_1100050	set:blockcity_items.json image:g1047_prop_2034	3	1	2	0	50	2661
-1100051	木方桌	1	200	2	decoration_name_1100051	set:blockcity_items.json image:g1047_prop_2038	1	1	1	0	51	2665
-1100052	黑白方桌	1	300	3	decoration_name_1100052	set:blockcity_items.json image:g1047_prop_2040	1	1	1	0	52	2667
-2100053	白落地灯	1	300	3	decoration_name_2100053	set:blockcity_items.json image:g1047_prop_2045	1	1	2	0	53	2672
-2100054	蓝落地灯	1	300	3	decoration_name_2100054	set:blockcity_items.json image:g1047_prop_2046	1	1	2	0	54	2673
-2100055	黑落地灯	1	300	3	decoration_name_2100055	set:blockcity_items.json image:g1047_prop_2047	1	1	2	0	55	2674
-1100056	电风扇	1	300	3	decoration_name_1100056	set:blockcity_items.json image:g1047_prop_2048	1	1	2	1	56	2675
-3100057	铁晾衣架	1	200	2	decoration_name_3100057	set:blockcity_items.json image:g1047_prop_2049	2	1	2	0	57	2676
-3100058	木晾衣架	1	200	2	decoration_name_3100058	set:blockcity_items.json image:g1047_prop_2050	2	1	1	0	58	2677
-2100059	黄色双人床	1	300	3	decoration_name_2100059	set:blockcity_items.json image:g1047_prop_2051	2	3	1	0	59	2678
-2114060	蓝色双人床	2	300	3	decoration_name_2114060	set:blockcity_items.json image:g1047_prop_2052	2	3	1	1	60	2679
-2114061	灰色双人床	2	300	3	decoration_name_2114061	set:blockcity_items.json image:g1047_prop_2053	2	3	1	1	61	2680
-2114062	红单人床	2	200	2	decoration_name_2114062	set:blockcity_items.json image:g1047_prop_2054	1	3	1	1	62	2681
-2114063	红高低床	2	300	3	decoration_name_2114063	set:blockcity_items.json image:g1047_prop_2055	1	3	2	1	63	2682
-3115064	秋千	2	300	3	decoration_name_3115064	set:blockcity_items.json image:g1047_prop_1	3	3	3	1	64	2683
-3116065	跷跷板	3	300	3	decoration_name_3116065	set:blockcity_items.json image:g1047_prop_1	3	1	2	1	65	2684
+id	备注	等级	价格	魔方价格	多语言名称	图标	长	宽	高	是否可交互0:不可以，1可以	排序权重	手持道具Id(2201~2255)	增加的经验
+id	remark	level	price	cube	name	icon	length	width	height	isInteraction	weight	itemId	exp
+3100001	洗衣机	1	100	1	decoration_name_3100001	set:blockcity_items.json image:g1047_prop_1	1	1	1	0	1	2601	1
+1100002	书桌	1	100	1	decoration_name_1100002	set:blockcity_items.json image:g1047_prop_2	1	1	1	0	2	2602	1
+1212003	木椅	2	200	2	decoration_name_1212003	set:blockcity_items.json image:g1047_prop_3	1	1	1	1	3	2603	1
+1213004	棕色沙发	3	300	3	decoration_name_1213004	set:blockcity_items.json image:g1047_prop_4	3	1	1	1	4	2604	1
+1100005	梳妆台	1	100	1	decoration_name_1100005	set:blockcity_items.json image:g1047_prop_5	2	1	2	0	5	2605	1
+3200006	垃圾桶	1	100	1	decoration_name_3200006	set:blockcity_items.json image:g1047_prop_7	1	1	1	0	6	2606	1
+1212007	长椅	3	300	3	decoration_name_1212007	set:blockcity_items.json image:g1047_prop_8	3	1	1	1	7	2607	1
+3200008	气球	1	100	1	decoration_name_3200008	set:blockcity_items.json image:g1047_prop_9	2	2	2	0	8	2608	1
+3200009	洗手池	1	100	1	decoration_name_3200009	set:blockcity_items.json image:g1047_prop_10	2	1	2	0	9	2609	1
+3200010	燃气灶	1	100	1	decoration_name_3200010	set:blockcity_items.json image:g1047_prop_11	1	1	1	0	10	2610	1
+1213011	长木椅	4	400	4	decoration_name_1213011	set:blockcity_items.json image:g1047_prop_12	3	1	1	1	11	2611	1
+1213012	长扶手椅	4	400	4	decoration_name_1213012	set:blockcity_items.json image:g1047_prop_13	3	1	1	1	12	2612	1
+1213013	蓝白沙发	3	300	3	decoration_name_1213013	set:blockcity_items.json image:g1047_prop_14	3	1	1	1	13	2613	1
+1213014	白色沙发	3	300	3	decoration_name_1213014	set:blockcity_items.json image:g1047_prop_15	2	1	1	1	14	2614	1
+1213015	单人蓝白沙发	2	200	2	decoration_name_1213015	set:blockcity_items.json image:g1047_prop_16	1	1	1	1	15	2615	1
+1213016	单人白色沙发	2	200	2	decoration_name_1213016	set:blockcity_items.json image:g1047_prop_17	1	1	1	1	16	2616	1
+1212017	绿色椅子	2	200	2	decoration_name_1212017	set:blockcity_items.json image:g1047_prop_18	1	1	1	1	17	2617	1
+3212018	马桶	2	200	2	decoration_name_3212018	set:blockcity_items.json image:g1047_prop_19	1	1	1	1	18	2618	1
+1212019	格子椅	2	200	2	decoration_name_1212019	set:blockcity_items.json image:g1047_prop_20	1	1	1	1	19	2619	1
+1212020	红色椅子	2	200	2	decoration_name_1212020	set:blockcity_items.json image:g1047_prop_21	1	1	1	1	20	2620	1
+1213021	黑色沙发	3	300	3	decoration_name_1213021	set:blockcity_items.json image:g1047_prop_23	3	1	1	1	21	2621	1
+1212022	棕色椅子	2	200	2	decoration_name_1212022	set:blockcity_items.json image:g1047_prop_24	1	1	1	1	22	2622	1
+1212023	黑色椅子	2	200	2	decoration_name_1212023	set:blockcity_items.json image:g1047_prop_25	1	1	1	1	23	2623	1
+1213024	爱心沙发	3	300	3	decoration_name_1213024	set:blockcity_items.json image:g1047_prop_26	3	1	1	1	24	2624	1
+1213025	绿色长凳	4	400	4	decoration_name_1213025	set:blockcity_items.json image:g1047_prop_27	3	1	1	1	25	2625	1
+1213026	黄色长凳	4	400	4	decoration_name_1213026	set:blockcity_items.json image:g1047_prop_28	3	1	1	1	26	2626	1
+1213027	棕色长凳	4	400	4	decoration_name_1213027	set:blockcity_items.json image:g1047_prop_29	3	1	1	1	27	2627	1
+2100028	欧风床头柜	1	200	2	decoration_name_2100028	set:blockcity_items.json image:g1047_prop_2001	1	1	1	0	28	2628	1
+2100029	简单柜子	1	200	2	decoration_name_2100029	set:blockcity_items.json image:g1047_prop_2002	1	1	1	0	29	2629	1
+2100030	三层抽屉柜	1	200	2	decoration_name_2100030	set:blockcity_items.json image:g1047_prop_2003	1	1	1	0	30	2630	1
+2100031	保险柜	1	300	3	decoration_name_2100031	set:blockcity_items.json image:g1047_prop_2004	1	1	1	0	31	2631	1
+2100032	白色书柜1	1	300	3	decoration_name_2100032	set:blockcity_items.json image:g1047_prop_2006	1	1	3	0	32	2633	1
+2100033	白色书柜2	1	300	3	decoration_name_2100033	set:blockcity_items.json image:g1047_prop_2008	1	1	3	0	33	2635	1
+2100034	木书柜1	1	300	3	decoration_name_2100034	set:blockcity_items.json image:g1047_prop_2009	1	1	3	0	34	2636	1
+2100035	木书柜2	1	300	3	decoration_name_2100035	set:blockcity_items.json image:g1047_prop_2011	1	1	3	0	35	2638	1
+2100036	老式衣柜	1	300	3	decoration_name_2100036	set:blockcity_items.json image:g1047_prop_2013	2	1	3	0	36	2640	1
+2100037	衣柜	1	300	3	decoration_name_2100037	set:blockcity_items.json image:g1047_prop_2014	2	1	3	0	37	2641	1
+2100038	黑色大衣柜	1	400	4	decoration_name_2100038	set:blockcity_items.json image:g1047_prop_2015	3	1	3	0	38	2642	1
+2100039	棕色衣柜	1	300	3	decoration_name_2100039	set:blockcity_items.json image:g1047_prop_2016	2	1	3	0	39	2643	1
+2100040	黑色衣柜	1	300	3	decoration_name_2100040	set:blockcity_items.json image:g1047_prop_2017	2	1	3	0	40	2644	1
+2100041	白色大衣柜	1	500	5	decoration_name_2100041	set:blockcity_items.json image:g1047_prop_2018	3	1	3	0	41	2645	1
+1100042	音响	1	500	5	decoration_name_1100042	set:blockcity_items.json image:g1047_prop_2022	1	1	2	0	42	2649	1
+1100043	空调	1	400	4	decoration_name_1100043	set:blockcity_items.json image:g1047_prop_2023	1	1	2	0	43	2650	1
+3100044	蓝光洗衣机	1	500	5	decoration_name_3100044	set:blockcity_items.json image:g1047_prop_2024	1	1	2	0	44	2651	1
+2100045	木质矮几	1	200	2	decoration_name_2100045	set:blockcity_items.json image:g1047_prop_2025	1	1	1	0	45	2652	1
+2100046	白矮柜	1	200	2	decoration_name_2100046	set:blockcity_items.json image:g1047_prop_2026	1	1	1	0	46	2653	1
+2100047	白矮几	1	200	2	decoration_name_2100047	set:blockcity_items.json image:g1047_prop_2027	1	1	1	0	47	2654	1
+1100048	淡紫色办公桌	1	400	4	decoration_name_1100048	set:blockcity_items.json image:g1047_prop_2029	3	1	1	0	48	2656	1
+1100049	黑白办公桌	1	400	4	decoration_name_1100049	set:blockcity_items.json image:g1047_prop_2030	2	1	1	0	49	2657	1
+1100050	电视机	1	500	5	decoration_name_1100050	set:blockcity_items.json image:g1047_prop_2034	3	1	2	0	50	2661	1
+1100051	木方桌	1	200	2	decoration_name_1100051	set:blockcity_items.json image:g1047_prop_2038	1	1	1	0	51	2665	1
+1100052	黑白方桌	1	300	3	decoration_name_1100052	set:blockcity_items.json image:g1047_prop_2040	1	1	1	0	52	2667	1
+2100053	白落地灯	1	300	3	decoration_name_2100053	set:blockcity_items.json image:g1047_prop_2045	1	1	2	0	53	2672	1
+2100054	蓝落地灯	1	300	3	decoration_name_2100054	set:blockcity_items.json image:g1047_prop_2046	1	1	2	0	54	2673	1
+2100055	黑落地灯	1	300	3	decoration_name_2100055	set:blockcity_items.json image:g1047_prop_2047	1	1	2	0	55	2674	1
+1100056	电风扇	1	300	3	decoration_name_1100056	set:blockcity_items.json image:g1047_prop_2048	1	1	2	1	56	2675	1
+3100057	铁晾衣架	1	200	2	decoration_name_3100057	set:blockcity_items.json image:g1047_prop_2049	2	1	2	0	57	2676	1
+3100058	木晾衣架	1	200	2	decoration_name_3100058	set:blockcity_items.json image:g1047_prop_2050	2	1	1	0	58	2677	1
+2100059	黄色双人床	1	300	3	decoration_name_2100059	set:blockcity_items.json image:g1047_prop_2051	2	3	1	0	59	2678	1
+2114060	蓝色双人床	2	300	3	decoration_name_2114060	set:blockcity_items.json image:g1047_prop_2052	2	3	1	1	60	2679	1
+2114061	灰色双人床	2	300	3	decoration_name_2114061	set:blockcity_items.json image:g1047_prop_2053	2	3	1	1	61	2680	1
+2114062	红单人床	2	200	2	decoration_name_2114062	set:blockcity_items.json image:g1047_prop_2054	1	3	1	1	62	2681	1
+2114063	红高低床	2	300	3	decoration_name_2114063	set:blockcity_items.json image:g1047_prop_2055	1	3	2	1	63	2682	1
+3115064	秋千	2	300	3	decoration_name_3115064	set:blockcity_items.json image:g1047_prop_1	3	3	3	1	64	2683	1
+3116065	跷跷板	3	300	3	decoration_name_3116065	set:blockcity_items.json image:g1047_prop_1	3	1	2	1	65	2684	1

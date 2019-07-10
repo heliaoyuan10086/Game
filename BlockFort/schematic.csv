@@ -1,8 +1,8 @@
-序号	唯一id	手持id	文件名	解锁等级	长	宽	高
-order	id	itemId	fileName	level	length	width	height
-1	6	2506	build_01_9x9x10-0.schematic	1	9	9	10
-2	18	2518	build_13_11x11x10-0.schematic	1	11	11	10
-3	12	2512	build_07_11x11x8-1.schematic	1	11	11	8
-4	17	2517	build_12_11x11x10-1.schematic	1	11	11	10
-5	8	2508	build_03_9x9x13-1.schematic	1	9	9	13
-6	9	2509	build_04_11x11x12-1.schematic	1	11	11	12
+序号	唯一id	手持id	文件名	解锁等级	长	宽	高	增加的经验
+order	id	itemId	fileName	level	length	width	height	exp
+1	6	2506	build_01_9x9x10-0.schematic	1	9	9	10	1
+2	18	2518	build_13_11x11x10-0.schematic	1	11	11	10	1
+3	12	2512	build_07_11x11x8-1.schematic	1	11	11	8	1
+4	17	2517	build_12_11x11x10-1.schematic	1	11	11	10	1
+5	8	2508	build_03_9x9x13-1.schematic	1	9	9	13	1
+6	9	2509	build_04_11x11x12-1.schematic	1	11	11	12	1
