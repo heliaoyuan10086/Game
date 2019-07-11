@@ -5,3 +5,5 @@ manorReleaseTime: 300
 defaultName: "BlockFort"
 #玩家领地释放后用于修复地皮用的模板文件
 groundName: "ground_29x29.schematic"
+#主城传送点: x, y, z, yaw
+teleportPos: [-709, 46, -267, 0]
