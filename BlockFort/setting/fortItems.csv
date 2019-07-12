@@ -1,4 +1,4 @@
 Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size
-物品id	道具Id	类别（1、2。。。）	多语言名称	多语言描述	对应Item图标	价格	魔方价格	解锁等级	生命值	积分	伤害	大小
+物品id	道具Id	类别（1堡垒、2城墙、3防御塔）	多语言名称	多语言描述	对应Item图标	价格	魔方价格	解锁等级	生命值	积分	伤害	大小
 Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size
 10520001	0	0	drawing_name_1	123	set:blockcity_items.json image:town_100_01	1	1	1	100	100	1	10x10x10
