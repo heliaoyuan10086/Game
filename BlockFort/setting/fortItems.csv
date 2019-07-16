@@ -1,12 +1,12 @@
 Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size	InfoSort
 物品id	道具Id	类别（1:堡垒 2：城墙 3：防御塔）	多语言名称	多语言描述	对应Item图标	价格	魔方价格	解锁等级	生命值	积分	伤害	大小	属性排序
 Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size	InfoSort
-6	2506	1	堡垒1	123	set:blockcity_items.json image:building_100_01	100	1	1	100	100	1	9x9x10	Size#HP#Exp
-18	2518	2	城墙1	124	set:blockcity_items.json image:building_100_13	100	1	1	100	100	2	11x11x10	Size#HP#Exp
-12	2512	1	堡垒2	125	set:blockcity_items.json image:building_100_07	100	1	1	100	100	3	11x11x8	Size#HP#Exp
-17	2517	2	城墙2	126	set:blockcity_items.json image:building_100_12	100	1	1	100	100	4	11x11x10	Size#HP#Exp
-8	2508	1	堡垒3	127	set:blockcity_items.json image:building_100_03	100	1	2	100	100	5	9x9x13	Size#HP#Exp
-9	2509	2	城墙3	128	set:blockcity_items.json image:building_100_04	100	1	2	100	100	6	11x11x12	Size#HP#Exp
-3100001	2601	3	防御塔1	129	set:blockcity_items.json image:g1047_prop_1	100	1	1	100	100	1	10x10x16	Size#HP#Damage#Exp
-1100002	2602	3	防御塔2	130	set:blockcity_items.json image:g1047_prop_2	100	1	1	100	100	2	10x10x17	Size#HP#Damage#Exp
-1212003	2603	3	防御塔3	131	set:blockcity_items.json image:g1047_prop_3	100	1	2	100	100	3	10x10x18	Size#HP#Damage#Exp
+6	2506	1	堡垒1	堡垒1	set:blockcity_items.json image:building_100_01	100	1	1	100	100	1	9x9x10	Size#HP#Exp
+18	2518	2	城墙1	城墙1	set:blockcity_items.json image:building_100_13	100	1	1	100	100	2	11x11x10	Size#HP#Exp
+12	2512	1	堡垒2	堡垒2	set:blockcity_items.json image:building_100_07	100	1	1	100	100	3	11x11x8	Size#HP#Exp
+17	2517	2	城墙2	城墙2	set:blockcity_items.json image:building_100_12	100	1	1	100	100	4	11x11x10	Size#HP#Exp
+8	2508	1	堡垒3	堡垒3	set:blockcity_items.json image:building_100_03	100	1	2	100	100	5	9x9x13	Size#HP#Exp
+9	2509	2	城墙3	城墙3	set:blockcity_items.json image:building_100_04	100	1	2	100	100	6	11x11x12	Size#HP#Exp
+3100001	2601	3	防御塔1	防御塔1	set:blockcity_items.json image:g1047_prop_1	100	1	1	100	100	1	10x10x16	Size#HP#Damage#Exp
+1100002	2602	3	防御塔2	防御塔2	set:blockcity_items.json image:g1047_prop_2	100	1	1	100	100	2	10x10x17	Size#HP#Damage#Exp
+1212003	2603	3	防御塔3	防御塔3	set:blockcity_items.json image:g1047_prop_3	100	1	2	100	100	3	10x10x18	Size#HP#Damage#Exp

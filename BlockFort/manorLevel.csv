@@ -1,5 +1,5 @@
 领地等级	领地可操作范围开始偏移x	领地可操作范围开始偏移y	领地可操作范围开始偏移z	领地可操作范围结束偏移x	领地可操作范围结束偏移y	领地可操作范围结束偏移z	升级需要的金钱类别	升级需要的金钱	BlockId	Meta
 level	offsetStartX	offsetStartY	offsetStartZ	offsetEndX	offsetEndY	offsetEndZ	moneyType	price	repairBlockId	repairBlockMeta
-1	8	0	7	20	50	19	2	1000	2	0
-2	2	0	6	26	50	20	2	4000	2	0
-3	2	0	2	26	50	26	2	0	2	0
+1	15	0	15	34	50	34	2	1000	98	0
+1	10	0	10	39	50	39	2	1000	98	0
+2	0	0	1	49	50	49	2	0	98	0

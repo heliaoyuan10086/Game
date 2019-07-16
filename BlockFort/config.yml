@@ -1,12 +1,12 @@
-initPos: [-709, 46, -267]
+initPos: [292, 71, 282]
 #领地释放时间
 manorReleaseTime: 300
 #领地默认的名字
 defaultName: "BlockFort"
 #玩家领地释放后用于修复地皮用的模板文件
-groundName: "ground_29x29.schematic"
+groundName: "stone_50x50.schematic"
 #主城传送点: x, y, z, yaw
-teleportPos: [-709, 46, -267, 0]
+teleportPos: [292, 71, 282, 0]
 
 #hotBar的图片设置
 barBgImage: "set:blockfort_main.json image:shortcut_panel"
