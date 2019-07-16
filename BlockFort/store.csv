@@ -1,0 +1,11 @@
+权重	唯一id	类别（1堡垒、2城墙、3防御塔）	手持id	文件名	解锁等级	长	宽	高	增加的经验	限购（1限； 0否）	文字描述	分类	首选代币（1魔方；2金币）	备注
+weight	id	type	itemId	fileName	level	length	width	height	exp	limit	desc	groupId	moneyType	remark
+1	6	1	2506	build_01_9x9x10-0.schematic	1	9	9	10	1	0	@@@	1	1	ABC
+2	18	2	2518	build_13_11x11x10-0.schematic	1	11	11	10	1	0	@@@	2	1	ABC
+3	12	1	2512	build_07_11x11x8-1.schematic	1	11	11	8	1	0	@@@	1	1	ABC
+4	17	2	2517	build_12_11x11x10-1.schematic	1	11	11	10	1	0	@@@	1	1	ABC
+5	8	1	2508	build_03_9x9x13-1.schematic	1	9	9	13	1	0	@@@	1	1	ABC
+6	9	2	2509	build_04_11x11x12-1.schematic	1	11	11	12	1	0	@@@	1	1	ABC
+7	3100001	3	2601	@@@	1	1	1	1	1	0	@@@	1	1	洗衣机
+8	1100002	3	2602	@@@	2	1	1	1	1	0	@@@	2	1	书桌
+9	1212003	3	2603	@@@	3	1	1	1	1	0	@@@	3	1	木椅
