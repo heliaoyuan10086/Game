@@ -1,6 +1,6 @@
 id	备注(不能为空)	按钮显示的内容	Npc头上的名字	模型	x坐标	y坐标	z坐标	npc的朝向方位	显示的标题(#为空)	需要显示的消息(#来用分页)
 id	note	sureContent	name	actor	x	y	z	yaw	title	message
-1	铁匠	gui_dialog_tip_btn_sure	npc_name_1	npc101.actor	315.5	71	355.5	0	npc_name_1	message_coming
-2	药水商人	gui_dialog_tip_btn_sure	npc_name_2	npc14.actor	297.5	71	347.5	0	npc_name_2	message_coming
-9	护甲商人	gui_dialog_tip_btn_sure	npc_name_3	npc20.actor	281.5	71	330.5	90	npc_name_3	message_coming
-11	神官	gui_dialog_tip_btn_sure	npc_name_4	npc05.actor	275.5	71	310.5	180	npc_name_4	message_coming
+1	铁匠	gui_dialog_tip_btn_sure	npc_name_1	npc101.actor	315.5	71	355.5	180	npc_name_1	message_coming
+2	药水商人	gui_dialog_tip_btn_sure	npc_name_2	npc14.actor	297.5	71	347.5	180	npc_name_2	message_coming
+9	护甲商人	gui_dialog_tip_btn_sure	npc_name_3	npc20.actor	281.5	71	330.5	270	npc_name_3	message_coming
+11	神官	gui_dialog_tip_btn_sure	npc_name_4	npc05.actor	275.5	71	310.5	0	npc_name_4	message_coming
