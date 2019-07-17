@@ -1,5 +1,5 @@
 	Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	MeshName	ActionId	CanCollided	InteractionType
 中文备注	Id	手持道具Id(2201~2255)	对应Item图标	多语言名称	类别	挂点	Actor文件名	默认配置应该是body	部件Id	待机动画	完成使用	长	宽	高	模型	玩家动作id（12是凳子坐下，13是沙发坐下）	是否可以碰撞:1/0	0没有-1可以融合-2改变动作
-洗衣机	3001	2601	g1047_prop_1	防御塔1	3		g1047_chairs.actor	body	1	idle		1	1	0.98	magazine.mesh	0	0	0
-书桌	3002	2602	g1047_prop_2	防御塔2	1		g1047_chairs.actor	body	2	idle		1	1	0.98	magazine.mesh	0	0	0
-木椅	3003	2603	g1047_prop_3	防御塔3	1	s_chair	g1047_chairs.actor	body	3	idle		1	1	0.98	magazine.mesh	12	0	1
+洗衣机	3001	2601	g1047_prop_1	防御塔1	3		g1052_tower.actor	body	1	idle		1	1	0.98	magazine.mesh	0	0	0
+书桌	3002	2602	g1047_prop_2	防御塔2	1		g1052_tower.actor	body	2	idle		1	1	0.98	magazine.mesh	0	0	0
+木椅	3003	2603	g1047_prop_3	防御塔3	1	s_chair	g1052_tower.actor	body	3	idle		1	1	0.98	magazine.mesh	12	0	1
