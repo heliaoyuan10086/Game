@@ -4,7 +4,7 @@ weight	id	type	itemId	fileName	level	length	width	height	exp	limit	groupId	money
 2	2001	2	2518	build_13_11x11x10-0.schematic	1	11	11	10	1	0	1	1	ABC
 3	1002	1	2512	build_07_11x11x8-1.schematic	1	11	11	8	1	1	1	1	ABC
 4	2002	2	2517	build_12_11x11x10-1.schematic	1	11	11	10	1	0	1	1	ABC
-5	1003	1	2508	build_03_9x9x13-1.schematic	2	9	9	13	1	1	2	1	ABC
+5	1003	2	2508	build_03_9x9x13-1.schematic	2	9	9	13	1	0	2	1	ABC
 6	2003	2	2509	build_04_11x11x12-1.schematic	2	11	11	12	1	0	2	1	ABC
 7	3001	3	2601	@@@	1	1	1	1	1	0	1	1	洗衣机
 8	3002	3	2602	@@@	1	1	1	1	1	0	1	1	书桌
