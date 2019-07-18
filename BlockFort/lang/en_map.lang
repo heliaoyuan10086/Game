@@ -22,3 +22,7 @@ wall_04=wall 4
 wall_05=tower
 inventory_panel_building=Building
 role_pack_back=Backpack
+level_not_enough=You must upgrade to buy this item
+StoreTab_1=Fort
+StoreTab_2=Wall
+StoreTab_3=Defence
