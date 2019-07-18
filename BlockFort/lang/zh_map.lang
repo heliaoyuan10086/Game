@@ -10,3 +10,5 @@ npc_name_2=药水商人
 npc_name_3=护甲商人
 npc_name_4=神官
 message_coming=暂未开放，敬请期待
+inventory_panel_building=建筑
+role_pack_back=角色背包
