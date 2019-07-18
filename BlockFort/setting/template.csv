@@ -1,8 +1,9 @@
 	ItemId	Name	Desc	Icon	Length	Width	Height	Template	MeshName
 中文备注	手持道具Id(2101~2115)	多语言名称	多语言描述	对应Item图标	长	宽	高	房子模板	模型名称
 1	2506	fort_01	123	building_32_01	10	10	16	fort_01_10x10x16.schematic	blueprint.mesh
-	2518	wall_01	123	building_32_13	11	11	25	tower_01_11x11x25.schematic	blueprint.mesh
+	2518	wall_01	123	building_32_13	5	5	6	wall_01_5x5x6.schematic	blueprint.mesh
 	2512	fort_02	123	building_32_07	20	20	19	fort_02_20x20x19.schematic	blueprint.mesh
-	2517	wall_02	123	building_32_12	11	11	10	build_12_11x11x10-1.schematic	blueprint.mesh
-	2508	wall_03	123	building_32_03	9	9	13	build_03_9x9x13-1.schematic	blueprint.mesh
-	2509	wall_04	123	building_32_04	11	11	12	build_04_11x11x12-1.schematic	blueprint.mesh
+	2517	wall_02	123	building_32_12	5	5	7	wall_02_5x5x7.schematic	blueprint.mesh
+	2508	wall_03	123	building_32_03	5	5	7	wall_03_5x5x7.schematic	blueprint.mesh
+	2509	wall_04	123	building_32_04	5	5	6	wall_04_5x5x6.schematic	blueprint.mesh
+	2510	Wall_05	123	building_32_05	11	11	25	tower_01_11x11x25.schematic	blueprint.mesh
