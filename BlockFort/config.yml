@@ -7,10 +7,3 @@ defaultName: "BlockFort"
 groundName: "stone_50x50.schematic"
 #主城传送点: x, y, z, yaw
 teleportPos: [292, 71, 282, 0]
-
-#hotBar的图片设置
-barBgImage: "set:blockfort_main.json image:shortcut_panel"
-inventoryImage: "set:blockfort_main.json image:warehouse"
-playerExpNorImage: "set:blockfort_main.json image:playerExpBg"
-playerExpPreImage: "set:blockfort_main.json image:playerExpValue"
-slotStyle: "7"
