@@ -1,11 +1,13 @@
 	ItemId	Name	Desc	Icon	Length	Width	Height	Template	MeshName
 中文备注	手持道具Id(2101~2115)	多语言名称	多语言描述	对应Item图标	长	宽	高	房子模板	模型名称
-1	2506	fort_01	123	building_32_01	10	10	16	fort_01_10x10x16.schematic	blueprint.mesh
-	2518	wall_01	123	building_32_13	5	5	6	wall_01_5x5x6.schematic	blueprint.mesh
-	2512	fort_02	123	building_32_07	20	20	19	fort_02_20x20x19.schematic	blueprint.mesh
-	2517	wall_02	123	building_32_12	5	5	7	wall_02_5x5x7.schematic	blueprint.mesh
-	2508	wall_03	123	building_32_03	5	5	7	wall_03_5x5x7.schematic	blueprint.mesh
-	2509	wall_04	123	building_32_04	5	5	6	wall_04_5x5x6.schematic	blueprint.mesh
-	2510	gate_01	123	building_32_05	10	10	9	gate_01_10x10x9.schematic	blueprint.mesh
-	2511	gate_02	123	building_32_06	10	10	10	gate_02_10x10x10.schematic	blueprint.mesh
-	2512	wall_05	123	building_32_07	11	11	25	tower_01_11x11x25.schematic	blueprint.mesh
+1	2500	fort_01	123	building_32_01	10	10	16	fort_01_10x10x16.schematic	blueprint.mesh
+	2501	wall_01	123	building_32_13	5	5	6	wall_01_5x5x6.schematic	blueprint.mesh
+	2502	fort_02	123	building_32_07	20	20	19	fort_02_20x20x19.schematic	blueprint.mesh
+	2503	wall_02	123	building_32_12	5	5	7	wall_02_5x5x7.schematic	blueprint.mesh
+	2504	wall_03	123	building_32_03	5	5	7	wall_03_5x5x7.schematic	blueprint.mesh
+	2505	wall_04	123	building_32_04	5	5	6	wall_04_5x5x6.schematic	blueprint.mesh
+	2506	gate_03	123	building_32_05	10	10	7	gate_03_10x10x6.schematic	blueprint.mesh
+	2507	gate_04	123	building_32_06	10	10	7	gate_04_10x10x7.schematic	blueprint.mesh
+	2508	gate_01	123	building_32_07	10	10	9	gate_01_10x10x9.schematic	blueprint.mesh
+	2509	gate_02	123	building_32_08	10	10	10	gate_02_10x10x10.schematic	blueprint.mesh
+	2510	wall_05	123	building_32_09	11	11	25	tower_01_11x11x25.schematic	blueprint.mesh
