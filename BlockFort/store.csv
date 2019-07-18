@@ -1,4 +1,4 @@
-权重	唯一id	类别（1堡垒、2城墙、3防御塔）	手持id	文件名	解锁等级	长	宽	高	增加的经验	限购（1限； 0否）	分类	首选代币（1魔方；2金币）	是否在商店（1在0不在）	备注
+权重	唯一id	类别（1堡垒、2防御塔、3城墙）	手持id	文件名	解锁等级	长	宽	高	增加的经验	限购（1限； 0否）	分类	首选代币（1魔方；2金币）	是否在商店（1在0不在）	备注
 weight	id	type	itemId	fileName	level	length	width	height	exp	limit	groupId	moneyType	inStore	remark
 1	1001	1	2500	fort_01_10x10x16.schematic	1	10	10	16	10	1	1	1	1	ABC
 2	3001	3	2501	wall_01_5x5x6.schematic	1	5	5	6	10	0	1	1	1	ABC
