@@ -6,7 +6,9 @@ weight	id	type	itemId	fileName	level	length	width	height	exp	limit	groupId	money
 4	2002	2	2517	wall_02_5x5x7.schematic	1	5	5	7	10	0	1	1	ABC
 5	2003	2	2508	wall_03_5x5x7.schematic	2	5	5	7	10	0	2	1	ABC
 6	2004	2	2509	wall_04_5x5x6.schematic	2	5	5	6	10	0	2	1	ABC
-7	2005	2	2510	tower_01_11x11x25.schematic	3	11	11	25	10	0	2	1	ABC
-7	3001	3	2601	@@@	1	1	1	1	10	0	1	1	洗衣机
-8	3002	3	2602	@@@	1	1	1	1	10	0	1	1	书桌
-9	3003	3	2603	@@@	2	1	1	1	10	0	2	1	木椅
+7	2005	2	2510	gate_01_10x10x9.schematic	2	10	10	9	10	0	2	1	ABC
+8	2006	2	2511	gate_02_10x10x10.schematic	2	10	10	10	10	0	2	1	ABC
+9	2007	2	2512	tower_01_11x11x25.schematic	3	11	11	25	10	0	2	1	ABC
+10	3001	3	2601	@@@	1	1	1	1	10	0	1	1	洗衣机
+11	3002	3	2602	@@@	1	1	1	1	10	0	1	1	书桌
+12	3003	3	2603	@@@	2	1	1	1	10	0	2	1	木椅
