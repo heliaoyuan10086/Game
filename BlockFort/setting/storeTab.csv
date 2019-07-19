@@ -2,5 +2,5 @@ Id	Icon	Name	Unnamed: 3
 商店TabID	商店Tab图标	商店Tab名称	备注
 Id	Icon	Name	
 1	set:app_shop.json image:app_shop_diamonds_mods	StoreTab_1	堡垒
-2	set:app_shop.json image:app_shop_diamonds_mods	StoreTab_2	城墙
-3	set:app_shop.json image:app_shop_diamonds_mods	StoreTab_3	防御塔
+2	set:app_shop.json image:app_shop_diamonds_mods	StoreTab_2	防御塔
+3	set:app_shop.json image:app_shop_diamonds_mods	StoreTab_3	城墙

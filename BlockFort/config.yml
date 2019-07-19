@@ -7,3 +7,7 @@ defaultName: "BlockFort"
 groundName: "stone_50x50.schematic"
 #主城传送点: x, y, z, yaw
 teleportPos: [292, 71, 282, 0]
+#预设水晶坐标
+initCrystalPos: [24, 0, 24]
+#预设水晶id
+initCrystalId: 2002
