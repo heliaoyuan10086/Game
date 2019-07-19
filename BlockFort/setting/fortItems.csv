@@ -2,8 +2,15 @@ Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size	InfoSort
 物品id	道具Id	类别（1:堡垒 2：防御塔 3：城墙）	多语言名称	多语言描述	对应Item图标	价格	魔方价格	解锁等级	生命值	积分	伤害	大小	属性排序
 Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size	InfoSort
 1001	2501	1	fort_01	fort_01	set:blockcity_items.json image:building_100_01	100	1	1	100	100	1	10x10x16	Size#HP#Exp
-3001	2502	3	wall_01	wall_01	set:blockcity_items.json image:building_100_13	100	1	1	100	100	2	5x5x6	Size#HP#Damage#Exp
 1002	2503	1	fort_02	fort_02	set:blockcity_items.json image:building_100_07	100	1	2	100	100	3	20x20x19	Size#HP#Exp
+2001	2601	2	tower_01	tower_01	set:blockcity_items.json image:g1047_prop_1	0	1	1	100	100	12	1x1x1	Size#HP#Damage#Exp
+2002	2602	2	tower_02	tower_02	set:blockcity_items.json image:g1047_prop_2	100	1	1	100	100	13	1x1x1	Size#HP#Damage#Exp
+2003	2603	2	tower_03	tower_03	set:blockcity_items.json image:g1047_prop_3	100	1	1	100	100	14	1x1x1	Size#HP#Damage#Exp
+2004	2604	2	tower_04	tower_04	set:blockcity_items.json image:g1047_prop_4	100	1	2	100	100	15	3x3x3	Size#HP#Damage#Exp
+2005	2605	2	tower_05	tower_05	set:blockcity_items.json image:g1047_prop_5	100	1	2	100	100	16	3x3x3	Size#HP#Damage#Exp
+2006	2606	2	tower_06	tower_06	set:blockcity_items.json image:g1047_prop_6	100	1	2	100	100	17	3x3x3	Size#HP#Damage#Exp
+2007	2607	2	tower_07	tower_07	set:blockcity_items.json image:g1047_prop_7	100	1	2	100	100	18	3x3x3	Size#HP#Damage#Exp
+3001	2502	3	wall_01	wall_01	set:blockcity_items.json image:building_100_13	100	1	1	100	100	2	5x5x6	Size#HP#Damage#Exp
 3002	2504	3	wall_02	wall_02	set:blockcity_items.json image:building_100_12	100	1	1	100	100	4	5x5x7	Size#HP#Damage#Exp
 3003	2505	3	wall_03	wall_03	set:blockcity_items.json image:building_100_03	100	1	2	100	100	5	5x5x7	Size#HP#Damage#Exp
 3004	2506	3	wall_04	wall_04	set:blockcity_items.json image:building_100_04	100	1	2	100	100	6	5x5x6	Size#HP#Damage#Exp
@@ -12,10 +19,3 @@ Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size	InfoSort
 3101	2509	3	gate_01	gate_01	set:blockcity_items.json image:building_100_07	100	1	2	100	100	9	10x10x9	Size#HP#Damage#Exp
 3102	2510	3	gate_02	gate_02	set:blockcity_items.json image:building_100_08	100	1	2	100	100	10	10x10x10	Size#HP#Damage#Exp
 3201	2511	3	wall_05	wall_05	set:blockcity_items.json image:building_100_09	100	1	3	100	100	11	11x11x25	Size#HP#Damage#Exp
-2001	2601	2	tower_01	tower_01	set:blockcity_items.json image:g1047_prop_1	0	1	1	100	100	12	1x1x1	Size#HP#Damage#Exp
-2002	2602	2	tower_02	tower_02	set:blockcity_items.json image:g1047_prop_2	100	1	1	100	100	13	1x1x1	Size#HP#Damage#Exp
-2003	2603	2	tower_03	tower_03	set:blockcity_items.json image:g1047_prop_3	100	1	2	100	100	14	1x1x1	Size#HP#Damage#Exp
-2004	2604	2	tower_04	tower_04	set:blockcity_items.json image:g1047_prop_4	100	1	2	100	100	15	3x3x3	Size#HP#Damage#Exp
-2005	2605	2	tower_05	tower_05	set:blockcity_items.json image:g1047_prop_5	100	1	2	100	100	16	3x3x3	Size#HP#Damage#Exp
-2006	2606	2	tower_06	tower_06	set:blockcity_items.json image:g1047_prop_6	100	1	2	100	100	17	3x3x3	Size#HP#Damage#Exp
-2007	2607	2	tower_07	tower_07	set:blockcity_items.json image:g1047_prop_7	100	1	2	100	100	18	3x3x3	Size#HP#Damage#Exp
