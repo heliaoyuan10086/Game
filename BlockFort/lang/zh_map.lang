@@ -54,3 +54,4 @@ gui_blockfort_exp=经验值
 gui_blockfort_damage=伤害力
 gui_blockfort_size=体积
 gui_blockfort_desc_tile=文字描述
+buy_limit=限购
