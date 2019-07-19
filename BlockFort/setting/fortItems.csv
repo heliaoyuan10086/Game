@@ -3,7 +3,7 @@ Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size	InfoSort
 Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size	InfoSort
 1001	2501	1	fort_01	fort_01	set:blockcity_items.json image:building_100_01	100	1	1	100	100	1	10x10x16	Size#HP#Exp
 1002	2503	1	fort_02	fort_02	set:blockcity_items.json image:building_100_07	100	1	2	100	100	3	20x20x19	Size#HP#Exp
-2001	2601	2	tower_01	tower_01	set:blockcity_items.json image:g1047_prop_1	0	1	1	100	100	12	1x1x1	Size#HP#Damage#Exp
+2001	2601	2	tower_01	tower_01	set:blockcity_items.json image:g1047_prop_1	100	1	1	100	100	12	1x1x1	Size#HP#Damage#Exp
 2002	2602	2	tower_02	tower_02	set:blockcity_items.json image:g1047_prop_2	100	1	1	100	100	13	1x1x1	Size#HP#Damage#Exp
 2003	2603	2	tower_03	tower_03	set:blockcity_items.json image:g1047_prop_3	100	1	1	100	100	14	1x1x1	Size#HP#Damage#Exp
 2004	2604	2	tower_04	tower_04	set:blockcity_items.json image:g1047_prop_4	100	1	2	100	100	15	3x3x3	Size#HP#Damage#Exp
