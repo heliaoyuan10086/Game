@@ -3,7 +3,7 @@
 弩箭	2001	2601	tower01_32	tower_01	2		g1052_tower.actor	body	1	idle	idle	1	1	0.98	magazine.mesh	0	0	0
 水晶	2002	2602	tower02_32	tower_02	2		g1052_tower.actor	body	2	idle	idle	1	1	0.98	magazine.mesh	0	0	0
 火箭	2003	2603	tower03_32	tower_03	2		g1052_tower.actor	body	3	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-蓝炮	2004	2604	tower04_32	tower_04	2		g1041_cannon.actor	body	1	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-黄炮	2005	2605	tower05_32	tower_05	2		g1041_cannon.actor	body	2	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-绿炮	2006	2606	tower06_32	tower_06	2		g1041_cannon.actor	body	3	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-红炮	2007	2607	tower07_32	tower_07	2		g1041_cannon.actor	body	4	idle	idle	1	1	0.98	magazine.mesh	0	0	0
+蓝炮	2004	2604	tower04_32	tower_04	2		g1041_cannon.actor	body	1	idle	idle	3	3	2.98	magazine.mesh	0	0	0
+黄炮	2005	2605	tower05_32	tower_05	2		g1041_cannon.actor	body	2	idle	idle	3	3	2.98	magazine.mesh	0	0	0
+绿炮	2006	2606	tower06_32	tower_06	2		g1041_cannon.actor	body	3	idle	idle	3	3	2.98	magazine.mesh	0	0	0
+红炮	2007	2607	tower07_32	tower_07	2		g1041_cannon.actor	body	4	idle	idle	3	3	2.98	magazine.mesh	0	0	0
