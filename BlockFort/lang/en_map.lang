@@ -54,3 +54,4 @@ gui_blockfort_exp=Exp
 gui_blockfort_damage=Damage
 gui_blockfort_size=Value
 gui_blockfort_desc_tile=Describe
+buy_limit=Limit
