@@ -1,0 +1,5 @@
+Id	IsCompel	ResetId	SkipId	TriggerId	EventId	CompleteId	Lv	IndieType
+引导ID	是否强制	中断引导（如果在该引导处中断，之前会回到什么引导处，填引导ID）	跳过引导（不跳过：-1；跳过不指定：0；跳过指定：引导id）	触发条件	事件	完成条件	等级（默认0)	游戏类型（0：通用；1：分包；2：像素）
+Id	IsCompel	ResetId	SkipId	TriggerId	EventId	CompleteId	Lv	IndieType
+110	1	110	-1	1100	110	0	1	0
+111	1	111	-1	1110	111	0	1	0
