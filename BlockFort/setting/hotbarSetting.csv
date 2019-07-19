@@ -1,0 +1,4 @@
+BarBgImage	BarBgArea	VisibleBarArea	InventoryImage	InventoryArea	PlayerExpNorImage	PlayerExpPreImage	PlayerExpStretchOffset	SlotStyle	SlotArea	SlotHorizontalInterval	SlotWidth	SlotHeight
+背景图片	背景图区域大小	Hotbar区域大小	背包按钮图片	背包按钮区域大小	经验条背景图	经验条图片	经验条偏移量	item类型	item区域大小	item行间距	item宽度	item高度
+BarBgImage	BarBgArea	VisibleBarArea	InventoryImage	InventoryArea	PlayerExpNorImage	PlayerExpPreImage	PlayerExpStretchOffset	SlotStyle	SlotArea	SlotHorizontalInterval	SlotWidth	SlotHeight
+set:blockfort_main.json image:shortcut_panel	{{0, 0},{0,0},{0,673}, {0,77}}	{{0, 0},{0,0},{0,673}, {0,77}}	set:blockfort_main.json image:pack	 {{1,-80 },{0,2.5},{0,72},{0,72}}	set:blockfort_main.json image:playerExpBg	set:blockfort_main.json image:playerExpValue	3 3 3 3	7	{{0, 12},{0,0},{0,583}, {1,0}}	2	63	66
