@@ -1,9 +1,9 @@
 	Id	ItemId	Icon	Name	Type	Nodes	ActorName	ActorBody	ActorBodyId	AwaitAnimate	UseAnimate	Length	Width	Height	MeshName	ActionId	CanCollided	InteractionType
 中文备注	Id	手持道具Id(2201~2255)	对应Item图标	多语言名称	类别	挂点	Actor文件名	默认配置应该是body	部件Id	待机动画	完成使用	长	宽	高	模型	玩家动作id（12是凳子坐下，13是沙发坐下）	是否可以碰撞:1/0	0没有-1可以融合-2改变动作
-弩箭	2001	2601	g1047_prop_1	tower_01	2		g1052_tower.actor	body	1	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-水晶	2002	2602	g1047_prop_2	tower_02	2		g1052_tower.actor	body	2	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-火箭	2003	2603	g1047_prop_3	tower_03	2		g1052_tower.actor	body	3	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-蓝炮	2004	2604	g1047_prop_4	tower_04	2		g1041_cannon.actor	body	1	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-黄炮	2005	2605	g1047_prop_5	tower_05	2		g1041_cannon.actor	body	2	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-绿炮	2006	2606	g1047_prop_6	tower_06	2		g1041_cannon.actor	body	3	idle	idle	1	1	0.98	magazine.mesh	0	0	0
-红炮	2007	2607	g1047_prop_7	tower_07	2		g1041_cannon.actor	body	4	idle	idle	1	1	0.98	magazine.mesh	0	0	0
+弩箭	2001	2601	tower01_32	tower_01	2		g1052_tower.actor	body	1	idle	idle	1	1	0.98	magazine.mesh	0	0	0
+水晶	2002	2602	tower02_32	tower_02	2		g1052_tower.actor	body	2	idle	idle	1	1	0.98	magazine.mesh	0	0	0
+火箭	2003	2603	tower03_32	tower_03	2		g1052_tower.actor	body	3	idle	idle	1	1	0.98	magazine.mesh	0	0	0
+蓝炮	2004	2604	tower04_32	tower_04	2		g1041_cannon.actor	body	1	idle	idle	1	1	0.98	magazine.mesh	0	0	0
+黄炮	2005	2605	tower05_32	tower_05	2		g1041_cannon.actor	body	2	idle	idle	1	1	0.98	magazine.mesh	0	0	0
+绿炮	2006	2606	tower06_32	tower_06	2		g1041_cannon.actor	body	3	idle	idle	1	1	0.98	magazine.mesh	0	0	0
+红炮	2007	2607	tower07_32	tower_07	2		g1041_cannon.actor	body	4	idle	idle	1	1	0.98	magazine.mesh	0	0	0
