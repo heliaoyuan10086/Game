@@ -13,6 +13,6 @@ initCrystalPos: [24, 0, 24]
 initCrystalId: 2002
 
 #中断引导之后，传进领地的相对坐标
-GuideSuspendTeleportRPos: [14, 1, 21]
+GuideSuspendTeleportRPos: [25, 1, 24]
 
-inGuideLastId: 111
+inGuideLastId: 153
