@@ -19,3 +19,5 @@ Id	ItemId	Type	Name	Desc	Icon	Price	Cube	Level	HP	Exp	Damage	Size	InfoSort
 3101	2509	3	gate_01	gate_01	set:blockfort_items.json image:gate01_100	100	1	2	100	100	9	10x10x9	Size#HP#Damage#Exp
 3102	2510	3	gate_02	gate_02	set:blockfort_items.json image:gate02_100	100	1	2	100	100	10	10x10x10	Size#HP#Damage#Exp
 3201	2511	3	wall_05	wall_05	set:blockfort_items.json image:wall05_100	100	1	3	100	100	11	11x11x25	Size#HP#Damage#Exp
+3301	2512	3	ladder_01	ladder_01	set:blockfort_items.json image:ladder01_100	100	1	1	100	100	12	2x2x6	Size#HP#Damage#Exp
+3302	2513	3	stair_01	stair_01	set:blockfort_items.json image:stair01_100	100	1	2	100	100	13	4x4x6	Size#HP#Damage#Exp

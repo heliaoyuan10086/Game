@@ -18,3 +18,5 @@ weight	id	type	itemId	fileName	level	length	width	height	exp	limit	groupId	money
 16	3101	3	2509	gate_01_10x10x9.schematic	2	10	10	9	10	0	2	2	1	ABC
 17	3102	3	2510	gate_02_10x10x10.schematic	2	10	10	10	10	0	2	2	1	ABC
 18	3201	3	2511	tower_01_11x11x25.schematic	3	11	11	25	10	0	3	2	1	ABC
+19	3301	3	2512	ladder_01_2x2x6.schematic	1	2	2	6	10	0	1	2	1	ABC
+20	3302	3	2513	stair_01_4x4x6.schematic	2	4	4	6	10	0	1	2	1	ABC
