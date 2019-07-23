@@ -71,3 +71,6 @@ dialog_13=You don't have enough [Coin] to upgrade, let's go to the script lobby 
 dialog_14=Click [Transmit] to go to the script lobby.
 dialog_15=You can find lots of scripts in the script lobby, such as battle, parkour, and farming.
 dialog_16=My guidance is over, wish you have a fun time.
+
+
+tip_blockfort_operation_in_manor=You should put your building in the manor.
