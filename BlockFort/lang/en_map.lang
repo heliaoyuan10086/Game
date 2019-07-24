@@ -96,3 +96,10 @@ dialog_16=My guidance is over, wish you have a fun time.
 
 
 tip_blockfort_operation_in_manor=You should put your building in the manor.
+
+gui_blockfort_lock_money=Not enough coins, go to the script lobby to earn some coins?
+gui_blockcity_tip_title=Tips
+gui_blockcity_tip_sure=Sure
+gui_blockcity_friend_list=Friends
+gui_blockcity_apply_list=New Friends
+gui_blockcity_not_open_fun=Coming soon
