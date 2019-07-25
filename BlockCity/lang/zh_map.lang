@@ -471,6 +471,7 @@ feature_illuminate=发光
 feature_climb=攀爬
 feature_charge=充能
 feature_elasticity=弹性
+gui_blockcity_open_shopHouse=打开商店
 
 language_end:system
 
