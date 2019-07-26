@@ -15,7 +15,7 @@ def to_lf(path, isLF, encoding = 'utf-8'):
         str = infile.readlines()
         with open(path, 'w', newline=newline, encoding=encoding) as outfile:
             outfile.writelines(str)
-            #print("文件转换成功，格式：{0} ;编码：{1} ;路径：{2}".format(tp, encoding, path))
+            print("文件转换成功，格式：{0} ;编码：{1} ;路径：{2}".format(tp, encoding, path))
 
 def change_encode(dirName):
     rootPath = os.path.join(os.getcwd(), dirName)
