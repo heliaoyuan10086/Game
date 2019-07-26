@@ -29,7 +29,7 @@ def change_encode(dirName):
 def zip_dir(dirName):
     rootPath = os.path.join(os.getcwd(), dirName)
     outputName = './zips/' + dirName + '.zip'
-    zip = zipfile.ZipFile(outputName, 'w')
+    zip = zipfile.ZipFile(outputName, 'w', zipfile.ZIP_DEFLATED)
     pre_len = len(rootPath)
     for dir, dirs, files in os.walk(rootPath):
         for fs in files:
@@ -55,8 +55,6 @@ if __name__ == "__main__":
     
     for dir in os.listdir(os.getcwd()):
         if os.path.isdir(dir) and dir != 'zips' and dir != '.git' :
-            pre_len = len(os.path.dirname(dir))
-            fileName = dir[pre_len:].strip(os.path.sep)
             change_encode(dir)
             zip_dir(dir)
         
