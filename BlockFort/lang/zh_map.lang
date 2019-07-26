@@ -108,3 +108,7 @@ gui_blockcity_delete=删除
 gui_blockcity_not_open_fun=该功能暂未开放
 gui_blockcity_if_transfer=确认传送？
 gui_blockfort_remove=移入背包
+gui_blockcity_invite=邀请
+gui_blockcity_remove_out=移出领地
+gui_blockcity_delete_friend=是否删除好友
+gui_blockcity_invite_user=%s 邀请您去他家参观
