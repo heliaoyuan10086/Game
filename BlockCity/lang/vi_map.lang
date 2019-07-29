@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=Kho lưu trữ này đang được sử dụng, ch
 gui_blockcity_save_file_if_read=Chắc chắn để tải kho lưu trữ này?
 gui_blockcity_max_num=Lưu trữ tối đa
 gui_blockcity_save_file_change_name_fuse=Đổi tên thất bại, tên lưu trữ không thể để trống
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 

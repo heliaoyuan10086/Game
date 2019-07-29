@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=Dieses Archiv wird verwendet, sicher zu überschre
 gui_blockcity_save_file_if_read=Möchten Sie dieses Archiv wirklich laden?
 gui_blockcity_max_num=Max Archive
 gui_blockcity_save_file_change_name_fuse=Umbenennen fehlgeschlagen, Archivname darf nicht leer sein
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 

@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=Bu arşiv kullanımda, üzerine yazdığınızdan 
 gui_blockcity_save_file_if_read=Bu arşivi yüklemek için emin misiniz?
 gui_blockcity_max_num=Max arşivleri
 gui_blockcity_save_file_change_name_fuse=Yeniden adlandırma başarısız oldu, arşiv adı boş bırakılamaz
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 

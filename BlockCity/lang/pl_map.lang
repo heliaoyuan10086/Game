@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=To archiwum jest w użyciu, na pewno je zastąpić
 gui_blockcity_save_file_if_read=Czy chcesz załadować to archiwum?
 gui_blockcity_max_num=Max archiwów
 gui_blockcity_save_file_change_name_fuse=Niepowodzenie zmiany nazwy, nazwa archiwum nie może być pusta
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 

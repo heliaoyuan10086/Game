@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=Этот архив используется, пе
 gui_blockcity_save_file_if_read=Обязательно загрузить этот архив?
 gui_blockcity_max_num=Макс архив
 gui_blockcity_save_file_change_name_fuse=Переименовать не удалось, имя архива не может быть пустым
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 

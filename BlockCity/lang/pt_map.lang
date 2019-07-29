@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=Este arquivo está em uso, certifique-se de sobres
 gui_blockcity_save_file_if_read=Certifique-se de carregar este arquivo?
 gui_blockcity_max_num=Arquivos máximos
 gui_blockcity_save_file_change_name_fuse=Renomear falha, o nome do arquivo não pode estar vazio
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 

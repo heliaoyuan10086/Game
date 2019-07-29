@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=Este archivo está en uso, seguro de sobrescribir?
 gui_blockcity_save_file_if_read=¿Seguro para cargar este archivo?
 gui_blockcity_max_num=Archivos de max
 gui_blockcity_save_file_change_name_fuse=Renombrar falla, el nombre del archivo no puede estar vacío
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 

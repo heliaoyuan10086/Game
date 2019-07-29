@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=此存档已有记录，是否覆盖？
 gui_blockcity_save_file_if_read=确定读取此条记录？
 gui_blockcity_max_num=当前可存档数量已经达到最大
 gui_blockcity_save_file_change_name_fuse=修改名不能为空，修改失败。
+gui_blockcity_open_shopHouse=打开商店
+gui_blockcity_lie_down=躺下
+gui_blockcity_on=打开
+gui_blockcity_off=关闭
 
 language_end:system
 

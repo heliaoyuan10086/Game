@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=This archive is in use, sure to overwrite?
 gui_blockcity_save_file_if_read=Sure to load this archive?
 gui_blockcity_max_num=Max archives
 gui_blockcity_save_file_change_name_fuse=Rename fail, archive name can't be empty
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 

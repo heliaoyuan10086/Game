@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=มีการใช้งานที่เก�
 gui_blockcity_save_file_if_read=แน่ใจว่าจะโหลดที่เก็บถาวรนี้หรือไม่?
 gui_blockcity_max_num=เก็บถาวรสูงสุด
 gui_blockcity_save_file_change_name_fuse=เปลี่ยนชื่อล้มเหลวชื่อที่เก็บถาวรต้องไม่ว่างเปล่า
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 

@@ -457,6 +457,10 @@ gui_blockcity_save_file_cover=このアーカイブは使用中です。必ず�
 gui_blockcity_save_file_if_read=このアーカイブをロードしてもよろしいですか？
 gui_blockcity_max_num=最大アーカイブ
 gui_blockcity_save_file_change_name_fuse=名前の変更に失敗しました。アーカイブ名は空にできません
+gui_blockcity_open_shopHouse=Open Store
+gui_blockcity_lie_down=Lie Down
+gui_blockcity_on=Turn On
+gui_blockcity_off=Turn Off
 
 language_end:system
 
