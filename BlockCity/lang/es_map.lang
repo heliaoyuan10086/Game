@@ -996,14 +996,20 @@ tile.stained_glass.silver.name=Cristal gris claro
 tile.stained_glass.white.name=Cristal blanco
 tile.stained_glass.yellow.name=Cristal Amarillo
 tile.flower.name=yellow flower
-tile.flower_blue_orchid=Blue Orchid
-tile.flower_allium=Allium
-tile.flower_houstonia=Azure Bluet
-tile.flower_tulip_red=Red Tulip
-tile.flower_tulip_orange=Orange Tulip
-tile.flower_tulip_white=White Tulip
-tile.flower_tulip_pink=Pink Tulip
-tile.flower_oxeye_daisy=Oxeye Daisy
+tile.flower_blue_orchid.name=Blue Orchid
+tile.flower_allium.name=Allium
+tile.flower_houstonia.name=Azure Bluet
+tile.flower_tulip_red.name=Red Tulip
+tile.flower_tulip_orange.name=Orange Tulip
+tile.flower_tulip_white.name=White Tulip
+tile.flower_tulip_pink.name=Pink Tulip
+tile.flower_oxeye_daisy.name=Oxeye Daisy
+tile.stone_1.name=Granite
+tile.stone_2.name=Polished Granite
+tile.stone_3.name=Diorite
+tile.stone_4.name=Polished Diorite
+tile.stone_5.name=Andesite
+tile.stone_6.name=Polished Andesite
 
 language_end:tile
 

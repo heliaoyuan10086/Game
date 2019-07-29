@@ -996,14 +996,20 @@ tile.stained_glass.silver.name=淡灰色玻璃
 tile.stained_glass.white.name=白色玻璃
 tile.stained_glass.yellow.name=黄色玻璃
 tile.flower.name=黄花
-tile.flower_blue_orchid=兰花
-tile.flower_allium=百合
-tile.flower_houstonia=茜草花
-tile.flower_tulip_red=红色郁金香
-tile.flower_tulip_orange=橙色郁金香
-tile.flower_tulip_white=白色郁金香
-tile.flower_tulip_pink=粉色郁金香
-tile.flower_oxeye_daisy=雏菊
+tile.flower_blue_orchid.name=兰花
+tile.flower_allium.name=百合
+tile.flower_houstonia.name=茜草花
+tile.flower_tulip_red.name=红色郁金香
+tile.flower_tulip_orange.name=橙色郁金香
+tile.flower_tulip_white.name=白色郁金香
+tile.flower_tulip_pink.name=粉色郁金香
+tile.flower_oxeye_daisy.name=雏菊
+tile.stone_1.name=花岗岩
+tile.stone_2.name=磨制花岗岩Polished Granite
+tile.stone_3.name=闪长岩
+tile.stone_4.name=磨制闪长岩
+tile.stone_5.name=安山岩
+tile.stone_6.name=磨制安山岩Polished Andesite
 
 language_end:tile
 
