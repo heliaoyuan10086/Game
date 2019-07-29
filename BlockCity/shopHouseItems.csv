@@ -1,5 +1,5 @@
 	物品id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，2.金币)	物品类型（4翅膀，5枪，6车）	物品描述	所属商店	装饰部件名字	装饰部件Id	新图标	放大尺寸
-id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindShopId	actorName	actorId	iconNew	scale
+id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	branchId	actorName	actorId	iconNew	scale
 1	4001	g1047_wings01.actor	set:blockcity_items.json image:wings01	body	1	item.wings_01.name	-741.5	46	-208	0	10000	2	4	item.wings.describe_01	101003	custom_wing	17	set:blockcity_items.json image:wings01	0.3
 2	4002	g1047_wings02.actor	set:blockcity_items.json image:wings02	body	2	item.wings_02.name	-738.5	46	-208	0	30000	2	4	item.wings.describe_02	101003	custom_wing	19	set:blockcity_items.json image:wings02	0.3
 3	4003	g1047_wings03.actor	set:blockcity_items.json image:wings03	body	3	item.wings_03.name	-735.5	46	-208	0	50000	2	4	item.wings.describe_03	101003	custom_wing	20	set:blockcity_items.json image:wings03	0.3

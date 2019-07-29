@@ -1,5 +1,5 @@
 areaPushId	商店ID	最小位置x	最小位置	最小位置	最大位置	最大位置	最大位置	商店名称	商店名称ID	注释
-areaId	ShopId	x1	y1	z1	x2	y2	z2	ShopClassify	ShopClassifyId	ps
+areaId	branchId	x1	y1	z1	x2	y2	z2	classify	classifyId	ps
 101	101001	-745	33	-212	-732	38	-207	车	1	超市一层左
 102	101001	-735	33	-223	-730	38	-214	车	1	超市一层左
 103	101001	-724	33	-217	-719	38	-210	车	1	超市一层左
