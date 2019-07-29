@@ -40,9 +40,9 @@ freeArchiveNum: 2
 archiveName: MyRealm
 
 #每天赠送的玫瑰花id
-roseId: 1
+roseId: 7001
 #每天赠送玫瑰花的数量
-roseNum: 5
+roseNum: 3
 
 #超市大门位置
 shopPosWithYaw: [-727, 34, -229, 90]
