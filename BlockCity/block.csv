@@ -32,7 +32,7 @@ weight	id	blockId	meta	score	level	price	cube	type	feature	isNew	remark
 30	207900	79	0	4	2	4	1	1	feature_none	0	冰
 31	300102	1	2	6	3	6	1	1	feature_none	1	磨制花岗岩
 32	300104	1	4	6	3	6	1	1	feature_none	1	磨制闪长岩
-33	300105	1	5	6	3	6	1	1	feature_none	1	磨制安山岩
+33	300105	1	6	6	3	6	1	1	feature_none	1	磨制安山岩
 34	308700	87	0	6	3	6	1	1	feature_none	1	阴间岩
 35	312100	121	0	6	3	6	1	1	feature_none	1	末地石
 36	300700	7	0	6	3	6	1	1	feature_none	1	基岩
