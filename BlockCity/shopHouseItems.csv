@@ -23,5 +23,5 @@ id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice
 21	2303	g1047_gun16.actor	set:blockcity_items.json image:gun16	body	1	item.gun_16.name	-731	55	-238	180	20000	2	5	item.gun.describe_16	101006	@@@	0	set:blockcity_items.json image:gun16	1	1
 22	884	g1047_gun17.actor	set:blockcity_items.json image:gun17	body	1	item.gun_17.name	-720	55	-245.5	90	30000	2	5	item.gun.describe_17	101006	@@@	0	set:blockcity_items.json image:gun17	1	1
 23	2305	g1047_gun18.actor	set:blockcity_items.json image:gun18	body	1	item.gun_18.name	-720	55	-243.5	90	50000	2	5	item.gun.describe_18	101006	@@@	0	set:blockcity_items.json image:gun18	1	1
-24	7001	g1047_flower.actor	set:blockcity_items.json image:gun18	body	1	item.gun_18.name	-741.5	64	-208	0	100	2	7	item.gun.describe_18	101007	@@@	0	set:blockcity_items.json image:gun18	1	1
-24	7002	g1047_flower.actor	set:blockcity_items.json image:gun18	body	2	item.gun_18.name	-739.5	64	-208	0	2	1	7	item.gun.describe_18	101007	@@@	0	set:blockcity_items.json image:gun18	1	1
+24	7001	g1047_flower.actor	set:blockcity_items.json image:gun18	body	1	item.flower_01.name	-741.5	64	-208	0	100	2	7	item.flower.describe_01	101007	@@@	0	set:blockcity_items.json image:gun18	1	1
+24	7002	g1047_flower.actor	set:blockcity_items.json image:gun18	body	2	item.flower_02.name	-739.5	64	-208	0	2	1	7	item.flower.describe_02	101007	@@@	0	set:blockcity_items.json image:gun18	1	1
