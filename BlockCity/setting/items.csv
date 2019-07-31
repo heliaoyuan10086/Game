@@ -135,5 +135,5 @@ Id	Name	Desc	Icon	Price	Cube	Score
 2303	item.gun_16.name	item.gun.describe_16	set:blockcity_items.json image:g1047_prop_2077	20000	200	0	神之瞳
 884	item.gun_17.name	item.gun.describe_17	set:blockcity_items.json image:g1047_prop_2078	30000	300	0	银色獠牙
 2305	item.gun_18.name	item.gun.describe_18	set:blockcity_items.json image:g1047_prop_2079	50000	500	0	爆裂魔杖
-7001	item.flower_01.name	item.flower.describe_01	set:blockcity_items.json image:g1047_prop_2079	100	1	0	花
-7002	item.flower_02.name	item.flower.describe_02	set:blockcity_items.json image:g1047_prop_2079	200	2	0	花
+2306	item.flower_01.name	item.flower.describe_01	set:blockcity_items.json image:g1047_prop_2079	100	1	0	花
+2307	item.flower_02.name	item.flower.describe_02	set:blockcity_items.json image:g1047_prop_2079	200	2	0	花
