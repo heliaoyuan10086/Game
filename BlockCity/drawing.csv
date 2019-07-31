@@ -1,64 +1,64 @@
-序号	切片唯一id	手持道具Id	解锁等级	切片名称	多语言	图标	长	宽	高	是否假图纸	分类	金币	魔方	新加入(1新。0否)	热门(1热。0否)
-order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	cube	isNew	isHot
-1	6	2506	1	build_01_9x9x10-0.schematic	drawing_name_6	set:blockcity_items.json image:building_100_01	9	9	10	1	1	1072	11	0	1
-2	18	2518	1	build_13_11x11x10-0.schematic	drawing_name_18	set:blockcity_items.json image:building_100_13	11	11	10	1	1	1054	11	0	1
-3	12	2512	1	build_07_11x11x8-1.schematic	drawing_name_12	set:blockcity_items.json image:building_100_07	11	11	8	1	1	706	8	0	1
-4	17	2517	1	build_12_11x11x10-1.schematic	drawing_name_17	set:blockcity_items.json image:building_100_12	11	11	10	1	1	1306	14	0	1
-5	8	2508	1	build_03_9x9x13-1.schematic	drawing_name_8	set:blockcity_items.json image:building_100_03	9	9	13	1	1	1236	13	0	0
-6	9	2509	1	build_04_11x11x12-1.schematic	drawing_name_9	set:blockcity_items.json image:building_100_04	11	11	12	1	1	2298	23	0	1
-7	10	2510	1	build_05_11x11x20-1.schematic	drawing_name_10	set:blockcity_items.json image:building_100_05	11	11	20	1	1	2384	24	0	0
-8	7	2507	1	build_02_11x11x23-0.schematic	drawing_name_7	set:blockcity_items.json image:building_100_02	11	11	23	1	1	1800	19	0	1
-9	13	2513	2	build_08_11x11x13-1.schematic	drawing_name_13	set:blockcity_items.json image:building_100_08	11	11	13	1	1	2184	22	0	0
-10	11	2511	2	build_06_11x11x16-1.schematic	drawing_name_11	set:blockcity_items.json image:building_100_06	11	11	16	1	1	3390	34	0	0
-11	14	2514	2	build_09_11x11x14-1.schematic	drawing_name_14	set:blockcity_items.json image:building_100_09	11	11	14	1	1	1934	20	0	0
-12	1	2501	3	Town_01_16x16x11-1.schematic	drawing_name_1	set:blockcity_items.json image:town_100_01	16	16	11	1	1	2250	23	0	0
-13	15	2515	3	build_10_21x21x10-1.schematic	drawing_name_15	set:blockcity_items.json image:building_100_10	21	21	10	1	1	3830	39	0	0
-14	16	2516	3	build_11_16x16x14-0.schematic	drawing_name_16	set:blockcity_items.json image:building_100_11	16	16	14	1	1	4242	43	0	0
-15	2	2502	3	Town_02_19x19x17-1.schematic	drawing_name_2	set:blockcity_items.json image:town_100_02	19	19	17	1	1	7572	76	0	0
-16	5	2505	3	Town_05_17x17x24-1.schematic	drawing_name_5	set:blockcity_items.json image:town_100_05	17	17	24	1	1	4994	50	0	0
-17	3	2503	3	Town_03_21x21x14-1.schematic	drawing_name_3	set:blockcity_items.json image:town_100_03	21	21	14	1	1	8000	81	0	0
-18	4	2504	3	Town_04_20x20x22-0.schematic	drawing_name_4	set:blockcity_items.json image:town_100_04	20	20	22	1	1	6882	69	0	0
-19	21	2521	1	Landscape_03_1x1x5-0.schematic	drawing_name_21	set:blockcity_items.json image:landscape_100_03	1	1	5	1	3	24	1	0	1
-20	20	2520	1	Landscape_02_3x3x5-0.schematic	drawing_name_20	set:blockcity_items.json image:landscape_100_02	3	3	5	1	3	74	1	0	0
-21	25	2525	1	Landscape_07_2x2x8-0.schematic	drawing_name_25	set:blockcity_items.json image:landscape_100_07	2	2	8	1	3	74	1	0	0
-22	24	2524	1	Landscape_06_3x3x4-0.schematic	drawing_name_24	set:blockcity_items.json image:landscape_100_06	3	3	4	1	3	138	2	0	0
-23	28	2528	1	Landscape_10_5x5x7-0.schematic	drawing_name_28	set:blockcity_items.json image:landscape_100_10	5	5	7	1	3	116	2	0	0
-24	27	2527	1	Landscape_09_5x5x6-0.schematic	drawing_name_27	set:blockcity_items.json image:landscape_100_09	5	5	6	1	3	106	2	0	0
-25	22	2522	1	Landscape_04_5x5x2-1.schematic	drawing_name_22	set:blockcity_items.json image:landscape_100_04	5	5	2	1	3	148	2	0	0
-26	23	2523	1	Landscape_05_5x5x4-0.schematic	drawing_name_23	set:blockcity_items.json image:landscape_100_05	5	5	4	1	3	244	3	0	0
-27	26	2526	1	Landscape_08_7x7x11-1.schematic	drawing_name_26	set:blockcity_items.json image:landscape_100_08	7	7	11	1	3	344	4	0	0
-28	19	2519	1	Landscape_01_9x9x15-0.schematic	drawing_name_19	set:blockcity_items.json image:landscape_100_01	9	9	15	1	3	890	9	0	0
-29	29	2529	1	2build_01_12x12x11-1.schematic	drawing_name_29	set:blockcity_items.json image:2building_100_01	12	12	11	1	2	2938	30	1	0
-30	30	2530	1	2build_02_13x13x15-1.schematic	drawing_name_30	set:blockcity_items.json image:2building_100_02	13	13	15	1	2	2970	30	1	0
-31	31	2531	1	2build_03_13x13x8-0.schematic	drawing_name_31	set:blockcity_items.json image:2building_100_03	13	13	8	1	2	1910	20	1	0
-32	32	2532	2	2build_04_13x13x8-0.schematic	drawing_name_32	set:blockcity_items.json image:2building_100_04	13	13	8	1	2	2138	22	1	0
-33	33	2533	2	2build_05_15x15x18-0.schematic	drawing_name_33	set:blockcity_items.json image:2building_100_05	15	15	18	1	2	4152	42	1	0
-34	34	2534	2	2build_06_15x15x25-0.schematic	drawing_name_34	set:blockcity_items.json image:2building_100_06	15	15	25	1	2	7856	79	1	0
-35	35	2535	3	2build_07_18x18x23-0.schematic	drawing_name_35	set:blockcity_items.json image:2building_100_07	18	18	23	1	2	5888	59	1	0
-36	36	2536	3	2build_08_23x23x23-0.schematic	drawing_name_36	set:blockcity_items.json image:2building_100_08	23	23	23	1	2	12454	125	1	0
-37	37	2537	3	2build_09_23x23x27-1.schematic	drawing_name_37	set:blockcity_items.json image:2building_100_09	23	23	27	1	2	9442	95	1	0
-38	38	2538	3	2build_10_23x23x34-1.schematic	drawing_name_38	set:blockcity_items.json image:2building_100_10	23	23	34	1	2	12696	127	1	0
-39	39	2539	1	2landscape_01_6x6x12-0.schematic	drawing_name_39	set:blockcity_items.json image:2landscape_100_01	6	6	12	1	3	312	4	1	0
-40	40	2540	1	2landscape_02_5x5x3-1.schematic	drawing_name_40	set:blockcity_items.json image:2landscape_100_02	5	5	3	1	3	124	2	1	0
-41	41	2541	1	2landscape_03_5x5x12-0.schematic	drawing_name_41	set:blockcity_items.json image:2landscape_100_03	5	5	12	1	3	656	7	1	0
-42	42	2542	2	2landscape_04_7x7x7-0.schematic	drawing_name_42	set:blockcity_items.json image:2landscape_100_04	7	7	7	1	3	394	4	1	0
-43	43	2543	2	2landscape_05_7x7x4-0.schematic	drawing_name_43	set:blockcity_items.json image:2landscape_100_05	7	7	4	1	3	178	2	1	0
-44	44	2544	2	2landscape_06_7x7x9-0.schematic	drawing_name_44	set:blockcity_items.json image:2landscape_100_06	7	7	9	1	3	664	7	1	0
-45	45	2545	3	2landscape_07_11x11x28-0.schematic	drawing_name_45	set:blockcity_items.json image:2landscape_100_07	11	11	28	1	3	1716	18	1	0
-46	46	2546	3	2landscape_08_13x13x8-0.schematic	drawing_name_46	set:blockcity_items.json image:2landscape_100_08	13	13	8	1	3	1172	12	1	0
-47	47	2547	3	2landscape_09_12x12x9-0.schematic	drawing_name_47	set:blockcity_items.json image:2landscape_100_09	12	12	9	1	3	516	6	1	0
-48	48	2548	3	2landscape_10_12x12x9-1.schematic	drawing_name_48	set:blockcity_items.json image:2landscape_100_10	12	12	9	1	3	1542	16	1	0
-49	901	0	1	@@@	drawing_name_901	set:blockcity_items.json image:0	0	0	0	0	2	240	3	0	0
-50	902	0	1	@@@	drawing_name_902	set:blockcity_items.json image:0	0	0	0	0	2	360	4	0	0
-51	903	0	1	@@@	drawing_name_903	set:blockcity_items.json image:0	0	0	0	0	2	600	7	0	0
-52	904	0	1	@@@	drawing_name_904	set:blockcity_items.json image:0	0	0	0	0	2	40	1	0	0
-53	905	0	1	@@@	drawing_name_905	set:blockcity_items.json image:0	0	0	0	0	2	60	1	0	0
-54	906	0	1	@@@	drawing_name_906	set:blockcity_items.json image:0	0	0	0	0	2	140	2	0	0
-55	907	0	1	@@@	drawing_name_907	set:blockcity_items.json image:0	0	0	0	0	2	80	1	0	0
-56	908	0	1	@@@	drawing_name_908	set:blockcity_items.json image:0	0	0	0	0	2	160	2	0	0
-57	909	0	1	@@@	drawing_name_909	set:blockcity_items.json image:0	0	0	0	0	2	240	3	0	0
-58	910	0	1	@@@	drawing_name_910	set:blockcity_items.json image:0	0	0	0	0	2	240	3	0	0
-59	911	0	1	@@@	drawing_name_911	set:blockcity_items.json image:0	0	0	0	0	2	160	2	0	0
-60	912	0	1	@@@	drawing_name_912	set:blockcity_items.json image:0	0	0	0	0	2	320	4	0	0
-61	913	0	1	@@@	drawing_name_913	set:blockcity_items.json image:0	0	0	0	0	2	480	5	0	0
-62	914	0	1	Guide_100_11x11x5-0.schematic	drawing_name_914	set:blockcity_items.json image:guide_100_100	0	11	5	0	3	400	5	0	0
+序号	切片唯一id	手持道具Id	解锁等级	切片名称	多语言	图标	长	宽	高	是否假图纸	分类	金币	魔方	新加入(1新。0否)	热门(1热。0否)	代币类型(1cube \ 2gold)
+order	id	itemId	level	fileName	name	icon	length	width	height	isFake	type	price	cube	isNew	isHot	moneyType
+1	6	2506	1	build_01_9x9x10-0.schematic	drawing_name_6	set:blockcity_items.json image:building_100_01	9	9	10	1	1	1072	11	0	1	2
+2	18	2518	1	build_13_11x11x10-0.schematic	drawing_name_18	set:blockcity_items.json image:building_100_13	11	11	10	1	1	1054	11	0	1	2
+3	12	2512	1	build_07_11x11x8-1.schematic	drawing_name_12	set:blockcity_items.json image:building_100_07	11	11	8	1	1	706	8	0	1	2
+4	17	2517	1	build_12_11x11x10-1.schematic	drawing_name_17	set:blockcity_items.json image:building_100_12	11	11	10	1	1	1306	14	0	1	2
+5	8	2508	1	build_03_9x9x13-1.schematic	drawing_name_8	set:blockcity_items.json image:building_100_03	9	9	13	1	1	1236	13	0	0	2
+6	9	2509	1	build_04_11x11x12-1.schematic	drawing_name_9	set:blockcity_items.json image:building_100_04	11	11	12	1	1	2298	23	0	1	2
+7	10	2510	1	build_05_11x11x20-1.schematic	drawing_name_10	set:blockcity_items.json image:building_100_05	11	11	20	1	1	2384	24	0	0	2
+8	7	2507	1	build_02_11x11x23-0.schematic	drawing_name_7	set:blockcity_items.json image:building_100_02	11	11	23	1	1	1800	19	0	1	2
+9	13	2513	2	build_08_11x11x13-1.schematic	drawing_name_13	set:blockcity_items.json image:building_100_08	11	11	13	1	1	2184	22	0	0	2
+10	11	2511	2	build_06_11x11x16-1.schematic	drawing_name_11	set:blockcity_items.json image:building_100_06	11	11	16	1	1	3390	34	0	0	2
+11	14	2514	2	build_09_11x11x14-1.schematic	drawing_name_14	set:blockcity_items.json image:building_100_09	11	11	14	1	1	1934	20	0	0	2
+12	1	2501	3	Town_01_16x16x11-1.schematic	drawing_name_1	set:blockcity_items.json image:town_100_01	16	16	11	1	1	2250	23	0	0	2
+13	15	2515	3	build_10_21x21x10-1.schematic	drawing_name_15	set:blockcity_items.json image:building_100_10	21	21	10	1	1	3830	39	0	0	2
+14	16	2516	3	build_11_16x16x14-0.schematic	drawing_name_16	set:blockcity_items.json image:building_100_11	16	16	14	1	1	4242	43	0	0	2
+15	2	2502	3	Town_02_19x19x17-1.schematic	drawing_name_2	set:blockcity_items.json image:town_100_02	19	19	17	1	1	7572	76	0	0	2
+16	5	2505	3	Town_05_17x17x24-1.schematic	drawing_name_5	set:blockcity_items.json image:town_100_05	17	17	24	1	1	4994	50	0	0	2
+17	3	2503	3	Town_03_21x21x14-1.schematic	drawing_name_3	set:blockcity_items.json image:town_100_03	21	21	14	1	1	8000	81	0	0	2
+18	4	2504	3	Town_04_20x20x22-0.schematic	drawing_name_4	set:blockcity_items.json image:town_100_04	20	20	22	1	1	6882	69	0	0	2
+19	21	2521	1	Landscape_03_1x1x5-0.schematic	drawing_name_21	set:blockcity_items.json image:landscape_100_03	1	1	5	1	3	24	1	0	1	2
+20	20	2520	1	Landscape_02_3x3x5-0.schematic	drawing_name_20	set:blockcity_items.json image:landscape_100_02	3	3	5	1	3	74	1	0	0	2
+21	25	2525	1	Landscape_07_2x2x8-0.schematic	drawing_name_25	set:blockcity_items.json image:landscape_100_07	2	2	8	1	3	74	1	0	0	2
+22	24	2524	1	Landscape_06_3x3x4-0.schematic	drawing_name_24	set:blockcity_items.json image:landscape_100_06	3	3	4	1	3	138	2	0	0	2
+23	28	2528	1	Landscape_10_5x5x7-0.schematic	drawing_name_28	set:blockcity_items.json image:landscape_100_10	5	5	7	1	3	116	2	0	0	2
+24	27	2527	1	Landscape_09_5x5x6-0.schematic	drawing_name_27	set:blockcity_items.json image:landscape_100_09	5	5	6	1	3	106	2	0	0	2
+25	22	2522	1	Landscape_04_5x5x2-1.schematic	drawing_name_22	set:blockcity_items.json image:landscape_100_04	5	5	2	1	3	148	2	0	0	2
+26	23	2523	1	Landscape_05_5x5x4-0.schematic	drawing_name_23	set:blockcity_items.json image:landscape_100_05	5	5	4	1	3	244	3	0	0	2
+27	26	2526	1	Landscape_08_7x7x11-1.schematic	drawing_name_26	set:blockcity_items.json image:landscape_100_08	7	7	11	1	3	344	4	0	0	2
+28	19	2519	1	Landscape_01_9x9x15-0.schematic	drawing_name_19	set:blockcity_items.json image:landscape_100_01	9	9	15	1	3	890	9	0	0	2
+29	29	2529	1	2build_01_12x12x11-1.schematic	drawing_name_29	set:blockcity_items.json image:2building_100_01	12	12	11	1	2	2938	30	1	0	2
+30	30	2530	1	2build_02_13x13x15-1.schematic	drawing_name_30	set:blockcity_items.json image:2building_100_02	13	13	15	1	2	2970	30	1	0	2
+31	31	2531	1	2build_03_13x13x8-0.schematic	drawing_name_31	set:blockcity_items.json image:2building_100_03	13	13	8	1	2	1910	20	1	0	2
+32	32	2532	2	2build_04_13x13x8-0.schematic	drawing_name_32	set:blockcity_items.json image:2building_100_04	13	13	8	1	2	2138	22	1	0	2
+33	33	2533	2	2build_05_15x15x18-0.schematic	drawing_name_33	set:blockcity_items.json image:2building_100_05	15	15	18	1	2	4152	42	1	0	2
+34	34	2534	2	2build_06_15x15x25-0.schematic	drawing_name_34	set:blockcity_items.json image:2building_100_06	15	15	25	1	2	7856	79	1	0	2
+35	35	2535	3	2build_07_18x18x23-0.schematic	drawing_name_35	set:blockcity_items.json image:2building_100_07	18	18	23	1	2	5888	59	1	0	2
+36	36	2536	3	2build_08_23x23x23-0.schematic	drawing_name_36	set:blockcity_items.json image:2building_100_08	23	23	23	1	2	12454	125	1	0	2
+37	37	2537	3	2build_09_23x23x27-1.schematic	drawing_name_37	set:blockcity_items.json image:2building_100_09	23	23	27	1	2	9442	95	1	0	2
+38	38	2538	3	2build_10_23x23x34-1.schematic	drawing_name_38	set:blockcity_items.json image:2building_100_10	23	23	34	1	2	12696	127	1	0	2
+39	39	2539	1	2landscape_01_6x6x12-0.schematic	drawing_name_39	set:blockcity_items.json image:2landscape_100_01	6	6	12	1	3	312	4	1	0	2
+40	40	2540	1	2landscape_02_5x5x3-1.schematic	drawing_name_40	set:blockcity_items.json image:2landscape_100_02	5	5	3	1	3	124	2	1	0	2
+41	41	2541	1	2landscape_03_5x5x12-0.schematic	drawing_name_41	set:blockcity_items.json image:2landscape_100_03	5	5	12	1	3	656	7	1	0	2
+42	42	2542	2	2landscape_04_7x7x7-0.schematic	drawing_name_42	set:blockcity_items.json image:2landscape_100_04	7	7	7	1	3	394	4	1	0	2
+43	43	2543	2	2landscape_05_7x7x4-0.schematic	drawing_name_43	set:blockcity_items.json image:2landscape_100_05	7	7	4	1	3	178	2	1	0	2
+44	44	2544	2	2landscape_06_7x7x9-0.schematic	drawing_name_44	set:blockcity_items.json image:2landscape_100_06	7	7	9	1	3	664	7	1	0	2
+45	45	2545	3	2landscape_07_11x11x28-0.schematic	drawing_name_45	set:blockcity_items.json image:2landscape_100_07	11	11	28	1	3	1716	18	1	0	2
+46	46	2546	3	2landscape_08_13x13x8-0.schematic	drawing_name_46	set:blockcity_items.json image:2landscape_100_08	13	13	8	1	3	1172	12	1	0	2
+47	47	2547	3	2landscape_09_12x12x9-0.schematic	drawing_name_47	set:blockcity_items.json image:2landscape_100_09	12	12	9	1	3	516	6	1	0	2
+48	48	2548	3	2landscape_10_12x12x9-1.schematic	drawing_name_48	set:blockcity_items.json image:2landscape_100_10	12	12	9	1	3	1542	16	1	0	2
+49	901	0	1	@@@	drawing_name_901	set:blockcity_items.json image:0	0	0	0	0	2	240	3	0	0	2
+50	902	0	1	@@@	drawing_name_902	set:blockcity_items.json image:0	0	0	0	0	2	360	4	0	0	2
+51	903	0	1	@@@	drawing_name_903	set:blockcity_items.json image:0	0	0	0	0	2	600	7	0	0	2
+52	904	0	1	@@@	drawing_name_904	set:blockcity_items.json image:0	0	0	0	0	2	40	1	0	0	2
+53	905	0	1	@@@	drawing_name_905	set:blockcity_items.json image:0	0	0	0	0	2	60	1	0	0	2
+54	906	0	1	@@@	drawing_name_906	set:blockcity_items.json image:0	0	0	0	0	2	140	2	0	0	2
+55	907	0	1	@@@	drawing_name_907	set:blockcity_items.json image:0	0	0	0	0	2	80	1	0	0	2
+56	908	0	1	@@@	drawing_name_908	set:blockcity_items.json image:0	0	0	0	0	2	160	2	0	0	2
+57	909	0	1	@@@	drawing_name_909	set:blockcity_items.json image:0	0	0	0	0	2	240	3	0	0	2
+58	910	0	1	@@@	drawing_name_910	set:blockcity_items.json image:0	0	0	0	0	2	240	3	0	0	2
+59	911	0	1	@@@	drawing_name_911	set:blockcity_items.json image:0	0	0	0	0	2	160	2	0	0	2
+60	912	0	1	@@@	drawing_name_912	set:blockcity_items.json image:0	0	0	0	0	2	320	4	0	0	2
+61	913	0	1	@@@	drawing_name_913	set:blockcity_items.json image:0	0	0	0	0	2	480	5	0	0	2
+62	914	0	1	Guide_100_11x11x5-0.schematic	drawing_name_914	set:blockcity_items.json image:guide_100_100	0	11	5	0	3	400	5	0	0	2
