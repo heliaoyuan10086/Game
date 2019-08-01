@@ -117,9 +117,9 @@ Id	Name	Desc	Icon	Price	Cube	Score
 4003	item.wings_03.name	item.wings.describe_03	set:blockcity_items.json image:wing_03	50000	500	0	黄金之翼
 4004	item.wings_04.name	item.wings.describe_04	set:blockcity_items.json image:wing_04	100000	1000	0	未来之翼
 4005	item.wings_05.name	item.wings.describe_05	set:blockcity_items.json image:wing_05	100000	1000	0	科幻之翼
-4006	item.wings_06.name	item.wings.describe_06	set:blockcity_items.json image:wing_05	0	0	0	猩红之翼
-4007	item.wings_07.name	item.wings.describe_07	set:blockcity_items.json image:wing_05	0	0	0	辉煌之翼
-4008	item.wings_08.name	item.wings.describe_08	set:blockcity_items.json image:wing_05	0	0	0	神圣之翼
+4006	item.wings_06.name	item.wings.describe_06	set:blockcity_items.json image:wing_05	100000	1000	0	猩红之翼
+4007	item.wings_07.name	item.wings.describe_07	set:blockcity_items.json image:wing_05	100000	1000	0	辉煌之翼
+4008	item.wings_08.name	item.wings.describe_08	set:blockcity_items.json image:wing_05	100000	1000	0	神圣之翼
 775	item.gun_01.name	item.gun.describe_01	set:blockcity_items.json image:gun_75	3000	30	0	M4A1步枪
 805	item.gun_02.name	item.gun.describe_02	set:blockcity_items.json image:gun_82	5000	50	0	尼尔的回响
 841	item.gun_03.name	item.gun.describe_03	set:blockcity_items.json image:gun_126	7000	70	0	疾风之翼
