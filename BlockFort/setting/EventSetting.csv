@@ -2,7 +2,7 @@ Id	Type	Pos	Remark
 事件Id	类型	坐标	控件特效
 Id	Type	Pos	Remark
 110	2	24.5#1#28.5	#
-111	6	#	dialog_1#dialog_2#dialog_17
+111	6	#	dialog_17#dialog_1#dialog_2
 120	3	0.3#0.3	guide3.effect
 121	6	#	dialog_3
 122	3	0.3#0.3	guide3.effect
