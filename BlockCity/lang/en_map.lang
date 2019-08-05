@@ -280,9 +280,9 @@ item.wings.describe_02=Drop deceleration: -30%\\nFlying speed: +60%
 item.wings.describe_03=Drop deceleration: -40%\\nFlying speed: +90%
 item.wings.describe_04=Drop deceleration: -50%\\nFlying speed: +120%
 item.wings.describe_05=Drop deceleration: -50%\\nFlying speed: +120%
-item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +150%
-item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +170%
-item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +200%
+item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +150%\\nThe 1st price of Charm Week Rank
+item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +170%\\nThe 2nd price of Charm Week Rank
+item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +200%\\nThe 3rd price of Charm Week Rank
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -305,6 +305,24 @@ item.flower_01.name=Rose
 item.flower_02.name=Blue Rose
 item.flower.describe_01=Increase the other person's charm value by 1 when giving away
 item.flower.describe_02=Increase the other person's charm value by 5 when giving away
+gui_gun_name_53.name=M4A1 rifle
+gui_gun_name_82.name=Neil's reverberation
+gui_gun_name_126.name=Wing of the wind
+gui_gun_name_141.name=High pressure water cannon
+gui_gun_name_125.name=Monkey trick
+gui_gun_name_148.name=Persian cat
+gui_gun_name_149.name=Kirky
+gui_gun_name_131.name=Hunting Knight
+gui_gun_name_145.name=Icebound magic
+gui_gun_name_103.name=Precision rifle
+gui_gun_name_76.name=Portable rocket launcher
+gui_gun_name_64.name=Silver●bullet
+gui_gun_name_132.name=Explosive whirlwind
+gui_gun_name_93.name=Sonic gun
+gui_gun_name_137.name=Thunder
+gui_gun_name_170.name=God's eyes
+gui_gun_name_127.name=Silver fangs
+gui_gun_name_153.name=Burst wand
 
 language_end:item
 
@@ -471,6 +489,9 @@ gui_blockcity_open_shopHouse=Open Store
 gui_blockcity_lie_down=Lie Down
 gui_blockcity_on=Turn On
 gui_blockcity_off=Turn Off
+gui_blockcity_rank_award=Rank Award
+gui_blockcity_rank_award_rank=▢FF000000Last Week Ranking▢FFFF0000NO.%d
+gui_blockcity_rank_award_cash_prize=Rank Award
 
 language_end:system
 
@@ -983,5 +1004,6 @@ tile.stone_3.name=Diorite
 tile.stone_4.name=Polished Diorite
 tile.stone_5.name=Andesite
 tile.stone_6.name=Polished Andesite
+tile.pressureStone.name=Stone Pressure Plate
 
 language_end:tile

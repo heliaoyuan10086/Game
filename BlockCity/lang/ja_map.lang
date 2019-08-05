@@ -280,9 +280,9 @@ item.wings.describe_02=落下減速度：-30％\\n飛行速度：+60％
 item.wings.describe_03=落下減速度：-40％\\n飛行速度：+90％
 item.wings.describe_04=落下減速度：-50％\\n飛行速度：+120％
 item.wings.describe_05=落下減速度：-50％\\n飛行速度：+120％
-item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +158%
-item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +178%
-item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +208%
+item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +150%\\nThe 9st price of Charm Week Rank
+item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +170%\\nThe 10nd price of Charm Week Rank
+item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +200%\\nThe 11rd price of Charm Week Rank
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -305,6 +305,24 @@ item.flower_01.name=Rose
 item.flower_02.name=Blue Rose
 item.flower.describe_01=Increase the other person's charm value by 1 when giving away
 item.flower.describe_02=Increase the other person's charm value by 5 when giving away
+gui_gun_name_53.name=M4A1ライフル
+gui_gun_name_82.name=ニールの残響
+gui_gun_name_126.name=風の翼
+gui_gun_name_141.name=高圧水大砲
+gui_gun_name_125.name=モンキートリック
+gui_gun_name_148.name=ペルシャ猫
+gui_gun_name_149.name=Kirky
+gui_gun_name_131.name=ハンティングナイト
+gui_gun_name_145.name=アイスバウンドマジック
+gui_gun_name_103.name=精密ライフル
+gui_gun_name_76.name=ポータブルロケットランチャー
+gui_gun_name_64.name=銀爆弾●毒
+gui_gun_name_132.name=爆発的な旋風
+gui_gun_name_93.name=ソニックガン
+gui_gun_name_137.name=サンダー
+gui_gun_name_170.name=神の目
+gui_gun_name_127.name=銀の牙
+gui_gun_name_153.name=バーストワンド
 
 language_end:item
 
@@ -471,6 +489,9 @@ gui_blockcity_open_shopHouse=Open Store
 gui_blockcity_lie_down=Lie Down
 gui_blockcity_on=Turn On
 gui_blockcity_off=Turn Off
+gui_blockcity_rank_award=Rank Award
+gui_blockcity_rank_award_rank=▢FF000000Last Week Ranking▢FFFF0008NO.%d
+gui_blockcity_rank_award_cash_prize=Rank Award
 
 language_end:system
 
@@ -983,5 +1004,6 @@ tile.stone_3.name=閃緑岩
 tile.stone_4.name=洗練された閃緑岩
 tile.stone_5.name=安山岩
 tile.stone_6.name=磨かれた安山岩
+tile.pressureStone.name=ストーンプレッシャープレート
 
 language_end:tile

@@ -280,9 +280,9 @@ item.wings.describe_02=Düşüş yavaşlaması: -30% \\nUçuş hızı: +60%
 item.wings.describe_03=Düşüş yavaşlaması: -40% \\nUçuş hızı: +90%
 item.wings.describe_04=Düşüş yavaşlaması: -50% \\nUçuş hızı: +120%
 item.wings.describe_05=Düşüş yavaşlaması: -50% \\nUçuş hızı: +120%
-item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +163%
-item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +183%
-item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +213%
+item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +150%\\nThe 14st price of Charm Week Rank
+item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +170%\\nThe 15nd price of Charm Week Rank
+item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +200%\\nThe 16rd price of Charm Week Rank
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -305,6 +305,24 @@ item.flower_01.name=Rose
 item.flower_02.name=Blue Rose
 item.flower.describe_01=Increase the other person's charm value by 1 when giving away
 item.flower.describe_02=Increase the other person's charm value by 5 when giving away
+gui_gun_name_53.name=M4A1 tüfek
+gui_gun_name_82.name=Neil'in yankılanması
+gui_gun_name_126.name=Rüzgarın kanat
+gui_gun_name_141.name=Yüksek basınçlı su topu
+gui_gun_name_125.name=Maymun hüner
+gui_gun_name_148.name=Iran kedisi
+gui_gun_name_149.name=Kirky
+gui_gun_name_131.name=Av şövalye
+gui_gun_name_145.name=Buz büyü
+gui_gun_name_103.name=Hassas tüfek
+gui_gun_name_76.name=Taşınabilir roketatar
+gui_gun_name_64.name=Gümüş●madde işareti
+gui_gun_name_132.name=Patlayıcı kasırga
+gui_gun_name_93.name=Sonic tabancası
+gui_gun_name_137.name=gök gürültüsü
+gui_gun_name_170.name=Tanrı'nın gözleri
+gui_gun_name_127.name=Gümüş dişler
+gui_gun_name_153.name=Patlama değnek
 
 language_end:item
 
@@ -471,6 +489,9 @@ gui_blockcity_open_shopHouse=Open Store
 gui_blockcity_lie_down=Lie Down
 gui_blockcity_on=Turn On
 gui_blockcity_off=Turn Off
+gui_blockcity_rank_award=Rank Award
+gui_blockcity_rank_award_rank=▢FF000000Last Week Ranking▢FFFF0013NO.%d
+gui_blockcity_rank_award_cash_prize=Rank Award
 
 language_end:system
 
@@ -983,5 +1004,6 @@ tile.stone_3.name=diyorit
 tile.stone_4.name=Cilalı Diorite
 tile.stone_5.name=Andezit
 tile.stone_6.name=Cilalı Andezit
+tile.pressureStone.name=Taş Basınç Plakası
 
 language_end:tile

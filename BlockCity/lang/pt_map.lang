@@ -280,9 +280,9 @@ item.wings.describe_02=Queda de desaceleração: -30% \\nVelocidade de vôo: +60
 item.wings.describe_03=Queda de desaceleração: -40% \\nVelocidade de vôo: +90%
 item.wings.describe_04=Queda de desaceleração: -50% \\nVelocidade de vôo: +120%
 item.wings.describe_05=Queda de desaceleração: -50% \\nVelocidade de vôo: +120%
-item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +156%
-item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +176%
-item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +206%
+item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +150%\\nThe 7st price of Charm Week Rank
+item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +170%\\nThe 8nd price of Charm Week Rank
+item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +200%\\nThe 9rd price of Charm Week Rank
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -305,6 +305,24 @@ item.flower_01.name=Rose
 item.flower_02.name=Blue Rose
 item.flower.describe_01=Increase the other person's charm value by 1 when giving away
 item.flower.describe_02=Increase the other person's charm value by 5 when giving away
+gui_gun_name_53.name=Rifle M4A1
+gui_gun_name_82.name=Reverberação de Neil
+gui_gun_name_126.name=Asa do vento
+gui_gun_name_141.name=Canhão de água de alta pressão
+gui_gun_name_125.name=Truque de Macaco
+gui_gun_name_148.name=gato persa
+gui_gun_name_149.name=Kirky
+gui_gun_name_131.name=Cavaleiro de caça
+gui_gun_name_145.name=Magia de gelo
+gui_gun_name_103.name=Rifle de precisão
+gui_gun_name_76.name=Lançador de foguetes portátil
+gui_gun_name_64.name=Prata●bala
+gui_gun_name_132.name=Turbilhão explosivo
+gui_gun_name_93.name=Arma sonora
+gui_gun_name_137.name=Trovão
+gui_gun_name_170.name=Os olhos de Deus
+gui_gun_name_127.name=Presas de prata
+gui_gun_name_153.name=Varinha de ruptura
 
 language_end:item
 
@@ -471,6 +489,9 @@ gui_blockcity_open_shopHouse=Open Store
 gui_blockcity_lie_down=Lie Down
 gui_blockcity_on=Turn On
 gui_blockcity_off=Turn Off
+gui_blockcity_rank_award=Rank Award
+gui_blockcity_rank_award_rank=▢FF000000Last Week Ranking▢FFFF0006NO.%d
+gui_blockcity_rank_award_cash_prize=Rank Award
 
 language_end:system
 
@@ -983,5 +1004,6 @@ tile.stone_3.name=Diorito
 tile.stone_4.name=Diorito Polido
 tile.stone_5.name=Andesito
 tile.stone_6.name=Andesito Polido
+tile.pressureStone.name=Plataforma de Pressão Stone
 
 language_end:tile

@@ -280,9 +280,9 @@ item.wings.describe_02=낙하 감속 : -30 % \\n비행 속도 : +60 %
 item.wings.describe_03=낙하 감속 : -40 % \\n비행 속도 : +90 %
 item.wings.describe_04=낙하 감속 : -50 % \\n비행 속도 : +120 %
 item.wings.describe_05=낙하 감속 : -50 % \\n비행 속도 : +120 %
-item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +155%
-item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +175%
-item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +205%
+item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +150%\\nThe 6st price of Charm Week Rank
+item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +170%\\nThe 7nd price of Charm Week Rank
+item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +200%\\nThe 8rd price of Charm Week Rank
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -305,6 +305,24 @@ item.flower_01.name=Rose
 item.flower_02.name=Blue Rose
 item.flower.describe_01=Increase the other person's charm value by 1 when giving away
 item.flower.describe_02=Increase the other person's charm value by 5 when giving away
+gui_gun_name_53.name=소총 M4A1
+gui_gun_name_82.name=닐의 잔향
+gui_gun_name_126.name=바람의 날개
+gui_gun_name_141.name=고압의 물 캐논
+gui_gun_name_125.name=원숭이 트릭
+gui_gun_name_148.name=페르시아 고양이
+gui_gun_name_149.name=커키
+gui_gun_name_131.name=사냥 기사
+gui_gun_name_145.name=아이스 버스 마술
+gui_gun_name_103.name=정밀 소총
+gui_gun_name_76.name=휴대용 로켓 발사기
+gui_gun_name_64.name=실버●총알
+gui_gun_name_132.name=폭발적인 회오리 바람
+gui_gun_name_93.name=음 총
+gui_gun_name_137.name=우뢰
+gui_gun_name_170.name=하느님의 눈
+gui_gun_name_127.name=실버 송곳니
+gui_gun_name_153.name=버스트 지팡이
 
 language_end:item
 
@@ -471,6 +489,9 @@ gui_blockcity_open_shopHouse=Open Store
 gui_blockcity_lie_down=Lie Down
 gui_blockcity_on=Turn On
 gui_blockcity_off=Turn Off
+gui_blockcity_rank_award=Rank Award
+gui_blockcity_rank_award_rank=▢FF000000Last Week Ranking▢FFFF0005NO.%d
+gui_blockcity_rank_award_cash_prize=Rank Award
 
 language_end:system
 
@@ -983,5 +1004,6 @@ tile.stone_3.name=디올 라이트
 tile.stone_4.name=세련된 Diorite
 tile.stone_5.name=안산암
 tile.stone_6.name=세련 된 안산암
+tile.pressureStone.name=돌 접시
 
 language_end:tile

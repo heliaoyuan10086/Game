@@ -280,9 +280,9 @@ item.wings.describe_02=Fallverzögerung: -30% \\nFluggeschwindigkeit: +60%
 item.wings.describe_03=Fallverzögerung: -40% \\nFluggeschwindigkeit: +90%
 item.wings.describe_04=Fallverzögerung: -50% \\nFluggeschwindigkeit: +120%
 item.wings.describe_05=Fallverzögerung: -50% \\nFluggeschwindigkeit: +120%
-item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +153%
-item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +173%
-item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +203%
+item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +150%\\nThe 4st price of Charm Week Rank
+item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +170%\\nThe 5nd price of Charm Week Rank
+item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +200%\\nThe 6rd price of Charm Week Rank
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -305,6 +305,24 @@ item.flower_01.name=Rose
 item.flower_02.name=Blue Rose
 item.flower.describe_01=Increase the other person's charm value by 1 when giving away
 item.flower.describe_02=Increase the other person's charm value by 5 when giving away
+gui_gun_name_53.name=M4A1 Gewehr
+gui_gun_name_82.name=Neils Nachhall
+gui_gun_name_126.name=Flügel des Windes
+gui_gun_name_141.name=Hochdruck-Wasserwerfer
+gui_gun_name_125.name=Affentrick
+gui_gun_name_148.name=Persische Katze
+gui_gun_name_149.name=Kirky
+gui_gun_name_131.name=Jagdritter
+gui_gun_name_145.name=Eisgebundene Magie
+gui_gun_name_103.name=Präzisionsgewehr
+gui_gun_name_76.name=Tragbarer Raketenwerfer
+gui_gun_name_64.name=Silber●kugel
+gui_gun_name_132.name=Explosiver Wirbelwind
+gui_gun_name_93.name=Schallpistole
+gui_gun_name_137.name=Donner
+gui_gun_name_170.name=Gottes Augen
+gui_gun_name_127.name=Silberzähne
+gui_gun_name_153.name=Zauberstab platzen
 
 language_end:item
 
@@ -471,6 +489,9 @@ gui_blockcity_open_shopHouse=Open Store
 gui_blockcity_lie_down=Lie Down
 gui_blockcity_on=Turn On
 gui_blockcity_off=Turn Off
+gui_blockcity_rank_award=Rank Award
+gui_blockcity_rank_award_rank=▢FF000000Last Week Ranking▢FFFF0003NO.%d
+gui_blockcity_rank_award_cash_prize=Rank Award
 
 language_end:system
 
@@ -983,5 +1004,6 @@ tile.stone_3.name=Diorit
 tile.stone_4.name=Polierter Diorit
 tile.stone_5.name=Andesit
 tile.stone_6.name=Polierter Andesit
+tile.pressureStone.name=Druckplatte aus Stein
 
 language_end:tile

@@ -280,9 +280,9 @@ item.wings.describe_02=下落减速：-30%\\n飞行加速：+60%
 item.wings.describe_03=下落减速：-40%\\n飞行加速：+90%
 item.wings.describe_04=下落减速：-50%\\n飞行加速：+120%
 item.wings.describe_05=下落减速：-50%\\n飞行加速：+120%
-item.wings.describe_06=下落减速：-50%\\n飞行加速：+150%
-item.wings.describe_07=下落减速：-60%\\n飞行加速：+170%
-item.wings.describe_08=下落减速：-70%\\n飞行加速：+200%
+item.wings.describe_06=下落减速：-50%\\n飞行加速：+150%\\n魅力周排行榜第一名奖品
+item.wings.describe_07=下落减速：-60%\\n飞行加速：+170%\\n魅力周排行榜第二名奖品
+item.wings.describe_08=下落减速：-70%\\n飞行加速：+200%\\n魅力周排行榜第三名奖品
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -305,6 +305,24 @@ item.flower_01.name=红玫瑰
 item.flower_02.name=蓝玫瑰
 item.flower.describe_01=赠送可增加对方1点魅力值
 item.flower.describe_02=赠送可增加对方5点魅力值
+gui_gun_name_53.name=M4A1步枪
+gui_gun_name_82.name=尼尔的回响
+gui_gun_name_126.name=疾风之翼
+gui_gun_name_141.name=高压水炮
+gui_gun_name_125.name=耍猴把戏
+gui_gun_name_148.name=波斯猫
+gui_gun_name_149.name=柯基
+gui_gun_name_131.name=猎魂骑士
+gui_gun_name_145.name=冰封魔典
+gui_gun_name_103.name=精准步枪
+gui_gun_name_76.name=便携火箭筒
+gui_gun_name_64.name=银弹●毒
+gui_gun_name_132.name=爆炎旋风
+gui_gun_name_93.name=音波枪
+gui_gun_name_137.name=雷鸣
+gui_gun_name_170.name=神之瞳
+gui_gun_name_127.name=银色獠牙
+gui_gun_name_153.name=爆裂魔杖
 
 language_end:item
 
@@ -471,6 +489,9 @@ gui_blockcity_open_shopHouse=打开商店
 gui_blockcity_lie_down=躺下
 gui_blockcity_on=打开
 gui_blockcity_off=关闭
+gui_blockcity_rank_award=排行奖励
+gui_blockcity_rank_award_rank=▢FF000000上周排名：▢FFFF0000NO.%d
+gui_blockcity_rank_award_cash_prize=领取奖励
 
 language_end:system
 
@@ -912,7 +933,7 @@ item.doorWood.name=木门
 item.doorWood=木门
 tile.leaves..name=树叶
 tile.iron_block.name=铁块
-tile.pressurePlate.name=压力板
+tile.pressurePlate.name=木质压力板
 tile.stainedglass.black.name=黑色玻璃
 tile.stainedglass.blue.name=蓝色玻璃
 tile.stainedglass.brown.name=棕色玻璃
@@ -983,5 +1004,6 @@ tile.stone_3.name=闪长岩
 tile.stone_4.name=磨制闪长岩
 tile.stone_5.name=安山岩
 tile.stone_6.name=磨制安山岩Polished Andesite
+tile.pressureStone.name=石质压力板
 
 language_end:tile

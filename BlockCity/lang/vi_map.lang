@@ -280,9 +280,9 @@ item.wings.describe_02=Giảm tốc độ giảm: -30% \\nTốc độ bay: +60%
 item.wings.describe_03=Giảm tốc độ giảm: -40% \\nTốc độ bay: +90%
 item.wings.describe_04=Giảm tốc độ giảm: -50% \\nTốc độ bay: +120%
 item.wings.describe_05=Giảm tốc độ giảm: -50% \\nTốc độ bay: +120%
-item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +160%
-item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +180%
-item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +210%
+item.wings.describe_06=Drop deceleration: -50%\\nFlying speed: +150%\\nThe 11st price of Charm Week Rank
+item.wings.describe_07=Drop deceleration: -60%\\nFlying speed: +170%\\nThe 12nd price of Charm Week Rank
+item.wings.describe_08=Drop deceleration: -70%\\nFlying speed: +200%\\nThe 13rd price of Charm Week Rank
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -305,6 +305,24 @@ item.flower_01.name=Rose
 item.flower_02.name=Blue Rose
 item.flower.describe_01=Increase the other person's charm value by 1 when giving away
 item.flower.describe_02=Increase the other person's charm value by 5 when giving away
+gui_gun_name_53.name=Súng trường M4A1
+gui_gun_name_82.name=Tiếng vang của Neil
+gui_gun_name_126.name=Cánh gió
+gui_gun_name_141.name=Pháo nước áp lực cao
+gui_gun_name_125.name=Khỉ lừa
+gui_gun_name_148.name=mèo Ba Tư
+gui_gun_name_149.name=Kirky
+gui_gun_name_131.name=Hiệp sĩ săn bắn
+gui_gun_name_145.name=Phép thuật băng
+gui_gun_name_103.name=Súng trường chính xác
+gui_gun_name_76.name=Bệ phóng tên lửa di động
+gui_gun_name_64.name=Bạc●đạn
+gui_gun_name_132.name=Cơn lốc bùng nổ
+gui_gun_name_93.name=Súng thần công
+gui_gun_name_137.name=sấm sét
+gui_gun_name_170.name=Đôi mắt của Chúa
+gui_gun_name_127.name=Răng nanh bạc
+gui_gun_name_153.name=Cây đũa phép
 
 language_end:item
 
@@ -471,6 +489,9 @@ gui_blockcity_open_shopHouse=Open Store
 gui_blockcity_lie_down=Lie Down
 gui_blockcity_on=Turn On
 gui_blockcity_off=Turn Off
+gui_blockcity_rank_award=Rank Award
+gui_blockcity_rank_award_rank=▢FF000000Last Week Ranking▢FFFF0010NO.%d
+gui_blockcity_rank_award_cash_prize=Rank Award
 
 language_end:system
 
@@ -983,5 +1004,6 @@ tile.stone_3.name=Diorite
 tile.stone_4.name=Đánh bóng Diorite
 tile.stone_5.name=Andesite
 tile.stone_6.name=Andesite đánh bóng
+tile.pressureStone.name=Biển áp suất Đá
 
 language_end:tile

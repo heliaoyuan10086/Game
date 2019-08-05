@@ -1,7 +1,7 @@
 	ItemId	Icon	Name	MeshName	RenderType
 中文备注	手持道具Id(2801~2900)	对应Item图标	多语言名称	模型	渲染类别0方块1纹理4模型
-玫瑰1	2801	g1047_prop_1	item.flower_01.name	g1052_flower_1.mesh	4
-玫瑰2	2802	g1047_prop_2	item.flower_02.name	g1052_flower_2.mesh	4
+玫瑰1	2801	flower01_32	item.flower_01.name	g1052_flower_1.mesh	4
+玫瑰2	2802	flower02_32	item.flower_02.name	g1052_flower_2.mesh	4
 玫瑰3	2803	g1047_prop_3	decoration_name_1212003	magazine.mesh	4
 玫瑰4	2804	g1047_prop_4	decoration_name_1213004	magazine.mesh	4
 玫瑰5	2805	g1047_prop_5	decoration_name_1100005	magazine.mesh	4
