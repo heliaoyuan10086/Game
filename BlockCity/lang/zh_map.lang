@@ -288,8 +288,8 @@ item.gun.describe_02=\\n
 item.gun.describe_03=\\n
 item.gun.describe_04=\\n
 item.gun.describe_05=\\n
-item.gun.describe_06=\\n
-item.gun.describe_07=\\n
+item.gun.describe_06=即将开放
+item.gun.describe_07=即将开放
 item.gun.describe_08=\\n
 item.gun.describe_09=\\n
 item.gun.describe_10=\\n
@@ -298,9 +298,9 @@ item.gun.describe_12=\\n
 item.gun.describe_13=\\n
 item.gun.describe_14=\\n
 item.gun.describe_15=\\n
-item.gun.describe_16=\\n
+item.gun.describe_16=即将开放
 item.gun.describe_17=\\n
-item.gun.describe_18=\\n
+item.gun.describe_18=即将开放
 item.flower_01.name=红玫瑰
 item.flower_02.name=蓝玫瑰
 item.flower.describe_01=赠送可增加对方1点魅力值
@@ -493,6 +493,8 @@ gui_blockcity_rank_award=排行奖励
 gui_blockcity_rank_award_rank=▢FF000000上周排名：▢FFFF0000NO.%d
 gui_blockcity_rank_award_cash_prize=领取奖励
 gui_blockcity_timed_tip= %s 天     %s:%s:%s
+gui_blockcity_store_feature=特性
+gui_blockCity_store_interact=交互
 
 language_end:system
 

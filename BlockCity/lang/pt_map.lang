@@ -288,8 +288,8 @@ item.gun.describe_02=\\n
 item.gun.describe_03=\\n
 item.gun.describe_04=\\n
 item.gun.describe_05=\\n
-item.gun.describe_06=\\n
-item.gun.describe_07=\\n
+item.gun.describe_06=Coming Soon
+item.gun.describe_07=Coming Soon
 item.gun.describe_08=\\n
 item.gun.describe_09=\\n
 item.gun.describe_10=\\n
@@ -298,9 +298,9 @@ item.gun.describe_12=\\n
 item.gun.describe_13=\\n
 item.gun.describe_14=\\n
 item.gun.describe_15=\\n
-item.gun.describe_16=\\n
+item.gun.describe_16=Coming Soon
 item.gun.describe_17=\\n
-item.gun.describe_18=\\n
+item.gun.describe_18=Coming Soon
 item.flower_01.name=Rosa
 item.flower_02.name=Rosa Azul
 item.flower.describe_01=Aumenta em 1 o valor de charme da outra pessoa quando doar fora
@@ -493,6 +493,8 @@ gui_blockcity_rank_award=Prêmio Rank
 gui_blockcity_rank_award_rank=▢FF000000 Ranking da Última Semana ▢FFFF0000 NÃO.%d
 gui_blockcity_rank_award_cash_prize=Prêmio Rank
 gui_blockcity_timed_tip= %s dia     %s:%s:%s
+gui_blockcity_store_feature=Feature
+gui_blockCity_store_interact=Interact
 
 language_end:system
 
