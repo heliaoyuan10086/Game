@@ -280,9 +280,9 @@ item.wings.describe_02=下落减速：-30%\\n飞行加速：+60%
 item.wings.describe_03=下落减速：-40%\\n飞行加速：+90%
 item.wings.describe_04=下落减速：-50%\\n飞行加速：+120%
 item.wings.describe_05=下落减速：-50%\\n飞行加速：+120%
-item.wings.describe_06=下落减速：-50%\\n飞行加速：+150%\\n魅力周排行榜第一名奖品
+item.wings.describe_06=下落减速：-50%\\n飞行加速：+150%\\n魅力周排行榜第三名奖品
 item.wings.describe_07=下落减速：-60%\\n飞行加速：+170%\\n魅力周排行榜第二名奖品
-item.wings.describe_08=下落减速：-70%\\n飞行加速：+200%\\n魅力周排行榜第三名奖品
+item.wings.describe_08=下落减速：-70%\\n飞行加速：+200%\\n魅力周排行榜第一名奖品
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -492,6 +492,7 @@ gui_blockcity_off=关闭
 gui_blockcity_rank_award=排行奖励
 gui_blockcity_rank_award_rank=▢FF000000上周排名：▢FFFF0000NO.%d
 gui_blockcity_rank_award_cash_prize=领取奖励
+gui_blockcity_timed_tip= %s 天     %s:%s:%s
 
 language_end:system
 
