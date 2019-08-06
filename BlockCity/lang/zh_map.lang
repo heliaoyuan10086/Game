@@ -494,7 +494,11 @@ gui_blockcity_rank_award_rank=▢FF000000上周排名：▢FFFF0000NO.%d
 gui_blockcity_rank_award_cash_prize=领取奖励
 gui_blockcity_timed_tip= %s 天     %s:%s:%s
 gui_blockcity_store_feature=特性
-gui_blockCity_store_interact=交互
+gui_blockcity_store_interact=交互
+gui_blockcity_store_vehicle=车辆
+gui_blockcity_store_wings=翅膀
+gui_blockcity_store_gun=枪
+gui_blockcity_store_gift=礼物
 
 language_end:system
 

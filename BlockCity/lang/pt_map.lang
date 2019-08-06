@@ -494,7 +494,11 @@ gui_blockcity_rank_award_rank=▢FF000000 Ranking da Última Semana ▢FFFF0000 
 gui_blockcity_rank_award_cash_prize=Prêmio Rank
 gui_blockcity_timed_tip= %s dia     %s:%s:%s
 gui_blockcity_store_feature=Feature
-gui_blockCity_store_interact=Interact
+gui_blockcity_store_interact=Interact
+gui_blockcity_store_vehicle=Vehicle
+gui_blockcity_store_wings=Wings
+gui_blockcity_store_gun=Gun
+gui_blockcity_store_gift=Gift
 
 language_end:system
 
