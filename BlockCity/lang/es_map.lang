@@ -242,6 +242,18 @@ decoration_name_2114060.name=Cama azul
 decoration_name_2114061.name=Cama gris
 decoration_name_3115062.name=Oscilación
 decoration_name_3116063.name=Balancín
+decoration_name_3100064=Black King
+decoration_name_3100065=Black Queen
+decoration_name_3100066=Black Bishop
+decoration_name_3100067=Black Rook
+decoration_name_3100068=Black Knight
+decoration_name_3100069=Black Pawn
+decoration_name_3100070=White King
+decoration_name_3100071=White Queen
+decoration_name_3100072=White Bishop
+decoration_name_3100073=White Rook
+decoration_name_3100074=White Knight
+decoration_name_3100075=White Pawn
 
 language_end:decoration
 
@@ -277,12 +289,12 @@ item.gun_17.name=Colmillos de plata
 item.gun_18.name=Varita de ráfaga
 item.wings.describe_01=Desaceleración de caída: -30% \\nVelocidad de vuelo: +30%
 item.wings.describe_02=Desaceleración de caída: -30% \\nVelocidad de vuelo: +60%
-item.wings.describe_03=Desaceleración de caída: -40% \\nVelocidad de vuelo: +90%
-item.wings.describe_04=Desaceleración de caída: -50% \\nVelocidad de vuelo: +120%
-item.wings.describe_05=Desaceleración de caída: -50% \\nVelocidad de vuelo: +120%
-item.wings.describe_06=Desaceleración de caída: -50% \\n Velocidad de vuelo: +150% \\nEl tercer precio del rango de semana de encanto
-item.wings.describe_07=Desaceleración de caída: -60% \\n Velocidad de vuelo: +170% \\nEl segundo precio del rango de semana de encanto
-item.wings.describe_08=Desaceleración de caída: -70% \\n Velocidad de vuelo: +200% \\nEl primer precio del rango de semana de encanto
+item.wings.describe_03=Desaceleración de caída: -40% \\nVelocidad de vuelo: +60%
+item.wings.describe_04=Desaceleración de caída: -50% \\nVelocidad de vuelo: +90%
+item.wings.describe_05=Desaceleración de caída: -50% \\nVelocidad de vuelo: +90%
+item.wings.describe_06=Desaceleración de caída: -50% \\n Velocidad de vuelo: +110% \\nEl tercer precio del rango de semana de encanto
+item.wings.describe_07=Desaceleración de caída: -60% \\n Velocidad de vuelo: +130% \\nEl segundo precio del rango de semana de encanto
+item.wings.describe_08=Desaceleración de caída: -70% \\n Velocidad de vuelo: +150% \\nEl primer precio del rango de semana de encanto
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -493,12 +505,13 @@ gui_blockcity_rank_award=Premio de rango
 gui_blockcity_rank_award_rank=▢FF000000 Clasificación de la semana pasada ▢FFFF0000 NO.%d
 gui_blockcity_rank_award_cash_prize=Premio de rango
 gui_blockcity_timed_tip= %s día     %s:%s:%s
-gui_blockcity_store_feature=Feature
-gui_blockcity_store_interact=Interact
+gui_blockCity_store_feature=Feature
+gui_blockCity_store_interact=Interact
 gui_blockcity_store_vehicle=Vehicle
 gui_blockcity_store_wings=Wings
 gui_blockcity_store_gun=Gun
 gui_blockcity_store_gift=Gift
+praise_manor_success=Praise Success
 
 language_end:system
 

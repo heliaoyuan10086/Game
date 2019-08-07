@@ -242,6 +242,18 @@ decoration_name_2114060.name=Giường màu xanh
 decoration_name_2114061.name=Giường màu xám
 decoration_name_3115062.name=Lung lay
 decoration_name_3116063.name=Chơi đu
+decoration_name_3100064=Black King
+decoration_name_3100065=Black Queen
+decoration_name_3100066=Black Bishop
+decoration_name_3100067=Black Rook
+decoration_name_3100068=Black Knight
+decoration_name_3100069=Black Pawn
+decoration_name_3100070=White King
+decoration_name_3100071=White Queen
+decoration_name_3100072=White Bishop
+decoration_name_3100073=White Rook
+decoration_name_3100074=White Knight
+decoration_name_3100075=White Pawn
 
 language_end:decoration
 
@@ -277,12 +289,12 @@ item.gun_17.name=Răng nanh bạc
 item.gun_18.name=Cây đũa phép
 item.wings.describe_01=Giảm tốc độ giảm: -30% \\nTốc độ bay: +30%
 item.wings.describe_02=Giảm tốc độ giảm: -30% \\nTốc độ bay: +60%
-item.wings.describe_03=Giảm tốc độ giảm: -40% \\nTốc độ bay: +90%
-item.wings.describe_04=Giảm tốc độ giảm: -50% \\nTốc độ bay: +120%
-item.wings.describe_05=Giảm tốc độ giảm: -50% \\nTốc độ bay: +120%
-item.wings.describe_06=Giảm tốc độ giảm: -50% \\n Tốc độ theo dõi: +150% \\n Giá thứ 3 của Xếp hạng Tuần lễ quyến rũ
-item.wings.describe_07=Giảm tốc độ giảm: -60% \\n Tốc độ theo dõi: +170% \\n Giá thứ 2 của Xếp hạng Tuần lễ quyến rũ
-item.wings.describe_08=Giảm tốc độ giảm: -70% \\n Tốc độ theo dõi: +200% \\n Giá đầu tiên của Xếp hạng Tuần lễ quyến rũ
+item.wings.describe_03=Giảm tốc độ giảm: -40% \\nTốc độ bay: +60%
+item.wings.describe_04=Giảm tốc độ giảm: -50% \\nTốc độ bay: +90%
+item.wings.describe_05=Giảm tốc độ giảm: -50% \\nTốc độ bay: +90%
+item.wings.describe_06=Giảm tốc độ giảm: -50% \\n Tốc độ theo dõi: +110% \\n Giá thứ 3 của Xếp hạng Tuần lễ quyến rũ
+item.wings.describe_07=Giảm tốc độ giảm: -60% \\n Tốc độ theo dõi: +130% \\n Giá thứ 2 của Xếp hạng Tuần lễ quyến rũ
+item.wings.describe_08=Giảm tốc độ giảm: -70% \\n Tốc độ theo dõi: +150% \\n Giá đầu tiên của Xếp hạng Tuần lễ quyến rũ
 item.gun.describe_01=\\n
 item.gun.describe_02=\\n
 item.gun.describe_03=\\n
@@ -493,12 +505,13 @@ gui_blockcity_rank_award=Giải thưởng xếp hạng
 gui_blockcity_rank_award_rank=▢FF000000 Xếp hạng tuần trước ▢FFFF0000 KHÔNG.%d
 gui_blockcity_rank_award_cash_prize=Giải thưởng xếp hạng
 gui_blockcity_timed_tip= %s ngày     %s:%s:%s
-gui_blockcity_store_feature=Feature
-gui_blockcity_store_interact=Interact
+gui_blockCity_store_feature=Feature
+gui_blockCity_store_interact=Interact
 gui_blockcity_store_vehicle=Vehicle
 gui_blockcity_store_wings=Wings
 gui_blockcity_store_gun=Gun
 gui_blockcity_store_gift=Gift
+praise_manor_success=Praise Success
 
 language_end:system
 
