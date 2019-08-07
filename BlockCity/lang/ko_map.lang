@@ -512,6 +512,9 @@ gui_blockcity_store_wings=Wings
 gui_blockcity_store_gun=Gun
 gui_blockcity_store_gift=Gift
 praise_manor_success=Praise Success
+gui_call_on_in_glide=You can only be transmitted after landing
+gui_call_on_use_elevator=You can't be transferred while using elevator
+gui_call_on_in_glide_use_elevator=You can use the elevator only after landing
 
 language_end:system
 

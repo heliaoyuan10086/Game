@@ -512,6 +512,9 @@ gui_blockcity_store_wings=翅膀
 gui_blockcity_store_gun=枪
 gui_blockcity_store_gift=礼物
 praise_manor_success=点赞成功
+gui_call_on_in_glide=传送失败，降落后方可传送！
+gui_call_on_use_elevator=传送失败，下电梯后方可传送！
+gui_call_on_in_glide_use_elevator=使用电梯失败，降落后方可使用电梯！
 
 language_end:system
 
