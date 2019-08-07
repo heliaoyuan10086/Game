@@ -242,6 +242,18 @@ decoration_name_2114060.name=블루 베드
 decoration_name_2114061.name=회색 침대
 decoration_name_3115062.name=그네
 decoration_name_3116063.name=시소
+decoration_name_3100064=Black King
+decoration_name_3100065=Black Queen
+decoration_name_3100066=Black Bishop
+decoration_name_3100067=Black Rook
+decoration_name_3100068=Black Knight
+decoration_name_3100069=Black Pawn
+decoration_name_3100070=White King
+decoration_name_3100071=White Queen
+decoration_name_3100072=White Bishop
+decoration_name_3100073=White Rook
+decoration_name_3100074=White Knight
+decoration_name_3100075=White Pawn
 
 language_end:decoration
 
@@ -493,8 +505,8 @@ gui_blockcity_rank_award=랭크 상
 gui_blockcity_rank_award_rank=▢FF000000마지막 주 랭킹 ▢FFFF0000 NO.%d
 gui_blockcity_rank_award_cash_prize=랭크 상
 gui_blockcity_timed_tip= %s 일     %s:%s:%s
-gui_blockcity_store_feature=Feature
-gui_blockcity_store_interact=Interact
+gui_blockCity_store_feature=Feature
+gui_blockCity_store_interact=Interact
 gui_blockcity_store_vehicle=Vehicle
 gui_blockcity_store_wings=Wings
 gui_blockcity_store_gun=Gun

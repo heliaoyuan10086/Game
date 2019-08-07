@@ -242,6 +242,18 @@ decoration_name_2114060.name=Niebieskie łóżko
 decoration_name_2114061.name=Szare łóżko
 decoration_name_3115062.name=Huśtawka
 decoration_name_3116063.name=Huśtać się
+decoration_name_3100064=Black King
+decoration_name_3100065=Black Queen
+decoration_name_3100066=Black Bishop
+decoration_name_3100067=Black Rook
+decoration_name_3100068=Black Knight
+decoration_name_3100069=Black Pawn
+decoration_name_3100070=White King
+decoration_name_3100071=White Queen
+decoration_name_3100072=White Bishop
+decoration_name_3100073=White Rook
+decoration_name_3100074=White Knight
+decoration_name_3100075=White Pawn
 
 language_end:decoration
 
@@ -493,8 +505,8 @@ gui_blockcity_rank_award=Nagroda rangi
 gui_blockcity_rank_award_rank=▢FF000000Ranking z ostatniego tygodnia ▢FFFF0000 NO.%d
 gui_blockcity_rank_award_cash_prize=Nagroda rangi
 gui_blockcity_timed_tip= %s dzień     %s:%s:%s
-gui_blockcity_store_feature=Feature
-gui_blockcity_store_interact=Interact
+gui_blockCity_store_feature=Feature
+gui_blockCity_store_interact=Interact
 gui_blockcity_store_vehicle=Vehicle
 gui_blockcity_store_wings=Wings
 gui_blockcity_store_gun=Gun

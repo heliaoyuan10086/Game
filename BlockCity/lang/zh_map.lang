@@ -242,6 +242,18 @@ decoration_name_2114060.name=蓝色床
 decoration_name_2114061.name=灰色床
 decoration_name_3115062.name=秋千
 decoration_name_3116063.name=跷跷板
+decoration_name_3100064=黑王
+decoration_name_3100065=黑皇后
+decoration_name_3100066=黑主教
+decoration_name_3100067=黑车
+decoration_name_3100068=黑骑士
+decoration_name_3100069=黑兵
+decoration_name_3100070=白木王
+decoration_name_3100071=白木皇后
+decoration_name_3100072=白木主教
+decoration_name_3100073=白木车
+decoration_name_3100074=白木骑士
+decoration_name_3100075=白木兵
 
 language_end:decoration
 
@@ -493,8 +505,8 @@ gui_blockcity_rank_award=排行奖励
 gui_blockcity_rank_award_rank=▢FF000000上周排名：▢FFFF0000NO.%d
 gui_blockcity_rank_award_cash_prize=领取奖励
 gui_blockcity_timed_tip= %s 天     %s:%s:%s
-gui_blockcity_store_feature=特性
-gui_blockcity_store_interact=交互
+gui_blockCity_store_feature=特性
+gui_blockCity_store_interact=交互
 gui_blockcity_store_vehicle=车辆
 gui_blockcity_store_wings=翅膀
 gui_blockcity_store_gun=枪
