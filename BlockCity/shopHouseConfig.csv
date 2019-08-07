@@ -1,21 +1,21 @@
-areaPushId	商店ID	最小位置x	最小位置	最小位置	最大位置	最大位置	最大位置	商店名称	商店名称ID	注释
-areaId	branchId	x1	y1	z1	x2	y2	z2	classify	classifyId	ps
-9101	101001	-745	33	-212	-732	38	-207	gui_blockcity_store_wings	4	超市一层左
-9102	101002	-735	33	-223	-730	38	-214	gui_blockcity_store_wings	4	超市一层左
-9103	101003	-724	33	-217	-719	38	-210	gui_blockcity_store_wings	4	超市一层左
-9104	101004	-745	33	-251	-732	38	-246	gui_blockcity_store_wings	4	超市一层右
-9105	101005	-735	33	-244	-730	38	-235	gui_blockcity_store_wings	4	超市一层右
-9106	101006	-724	33	-248	-719	38	-241	gui_blockcity_store_wings	4	超市一层右
-9107	101007	-745	43	-212	-732	48	-207	gui_blockcity_store_wings	4	超市二层左
-9108	101008	-735	43	-223	-730	48	-214	gui_blockcity_store_wings	4	超市二层左
-9109	101009	-724	43	-217	-719	48	-210	gui_blockcity_store_wings	4	超市二层左
-9110	101010	-745	43	-251	-732	48	-246	gui_blockcity_store_wings	4	超市二层右
-9111	101011	-735	43	-244	-730	48	-235	gui_blockcity_store_wings	4	超市二层右
-9112	101012	-724	43	-248	-719	48	-241	gui_blockcity_store_wings	4	超市二层右
-9113	101013	-745	52	-212	-732	57	-207	gui_blockcity_store_gun	5	超市三层左
-9114	101014	-735	52	-223	-730	57	-214	gui_blockcity_store_gun	5	超市三层左
-9115	101015	-724	52	-217	-719	57	-210	gui_blockcity_store_gun	5	超市三层左
-9116	101016	-745	52	-251	-732	57	-246	gui_blockcity_store_gun	5	超市三层右
-9117	101017	-735	52	-244	-730	57	-235	gui_blockcity_store_gun	5	超市三层右
-9118	101018	-724	52	-248	-719	57	-241	gui_blockcity_store_gun	5	超市三层右
-9119	101019	-745	61	-212	-732	66	-207	gui_blockcity_store_gift	7	超市四层左
+areaPushId	商店ID	最小位置x	最小位置	最小位置	最大位置	最大位置	最大位置	商店名称	商店名称ID	商店图片	注释
+areaId	branchId	x1	y1	z1	x2	y2	z2	classify	classifyId	classifyImage	ps
+9101	101001	-745	33	-212	-732	38	-207	gui_blockcity_store_wings	4	11111	超市一层左
+9102	101002	-735	33	-223	-730	38	-214	gui_blockcity_store_wings	4	11111	超市一层左
+9103	101003	-724	33	-217	-719	38	-210	gui_blockcity_store_wings	4	11111	超市一层左
+9104	101004	-745	33	-251	-732	38	-246	gui_blockcity_store_wings	4	11111	超市一层右
+9105	101005	-735	33	-244	-730	38	-235	gui_blockcity_store_wings	4	11111	超市一层右
+9106	101006	-724	33	-248	-719	38	-241	gui_blockcity_store_wings	4	11111	超市一层右
+9107	101007	-745	43	-212	-732	48	-207	gui_blockcity_store_wings	4	11111	超市二层左
+9108	101008	-735	43	-223	-730	48	-214	gui_blockcity_store_wings	4	11111	超市二层左
+9109	101009	-724	43	-217	-719	48	-210	gui_blockcity_store_wings	4	11111	超市二层左
+9110	101010	-745	43	-251	-732	48	-246	gui_blockcity_store_wings	4	11111	超市二层右
+9111	101011	-735	43	-244	-730	48	-235	gui_blockcity_store_wings	4	11111	超市二层右
+9112	101012	-724	43	-248	-719	48	-241	gui_blockcity_store_wings	4	11111	超市二层右
+9113	101013	-745	52	-212	-732	57	-207	gui_blockcity_store_gun	5	11111	超市三层左
+9114	101014	-735	52	-223	-730	57	-214	gui_blockcity_store_gun	5	11111	超市三层左
+9115	101015	-724	52	-217	-719	57	-210	gui_blockcity_store_gun	5	11111	超市三层左
+9116	101016	-745	52	-251	-732	57	-246	gui_blockcity_store_gun	5	11111	超市三层右
+9117	101017	-735	52	-244	-730	57	-235	gui_blockcity_store_gun	5	11111	超市三层右
+9118	101018	-724	52	-248	-719	57	-241	gui_blockcity_store_gun	5	11111	超市三层右
+9119	101019	-745	61	-212	-732	66	-207	gui_blockcity_store_gift	7	11111	超市四层左
