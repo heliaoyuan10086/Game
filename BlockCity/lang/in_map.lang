@@ -499,6 +499,7 @@ gui_blockcity_store_vehicle=Vehicle
 gui_blockcity_store_wings=Wings
 gui_blockcity_store_gun=Gun
 gui_blockcity_store_gift=Gift
+praise_manor_success=Praise Success
 
 language_end:system
 

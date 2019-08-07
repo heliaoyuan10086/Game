@@ -443,8 +443,8 @@ gui_blockcity_buy_fly=Purchase flying privilege
 gui_block_city_manor_not_load=Entering fail, realm not loaded
 gui_blockcity_use_platform_money=This purchase will consume platform gold coins, sure to continue?
 gui_blockcity_use_platform_money_not_hint=Do not remind again
-can_not_praise_you_self=Can't like yourself
-already_praise_today=Already liked
+can_not_praise_you_self=Can't praise yourself
+already_praise_today=Already praised
 not_enough_praise_num=Not enough rose
 feature_none=None
 feature_halfbrick=Halfbrick
@@ -499,6 +499,7 @@ gui_blockcity_store_vehicle=Vehicle
 gui_blockcity_store_wings=Wings
 gui_blockcity_store_gun=Gun
 gui_blockcity_store_gift=Gift
+praise_manor_success=Praise success
 
 language_end:system
 
