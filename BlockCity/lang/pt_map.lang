@@ -254,6 +254,18 @@ decoration_name_3100072=White Bishop
 decoration_name_3100073=White Rook
 decoration_name_3100074=White Knight
 decoration_name_3100075=White Pawn
+decoration_name_3100064.name=Black King
+decoration_name_3100065.name=Black Queen
+decoration_name_3100066.name=Black Bishop
+decoration_name_3100067.name=Black Rook
+decoration_name_3100068.name=Black Knight
+decoration_name_3100069.name=Black Pawn
+decoration_name_3100070.name=White King
+decoration_name_3100071.name=White Queen
+decoration_name_3100072.name=White Bishop
+decoration_name_3100073.name=White Rook
+decoration_name_3100074.name=White Knight
+decoration_name_3100075.name=White Pawn
 
 language_end:decoration
 
