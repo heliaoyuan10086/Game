@@ -110,8 +110,8 @@ Id	Name	Desc	Icon	Price	Cube	Score
 2114059	decoration_name_2114059	gui_blockcity_lie_down	set:blockcity_items.json image:g1047_prop_2051	300	3	300	黄色双人床
 2114060	decoration_name_2114060	gui_blockcity_lie_down	set:blockcity_items.json image:g1047_prop_2052	300	3	300	蓝色双人床
 2114061	decoration_name_2114061	gui_blockcity_lie_down	set:blockcity_items.json image:g1047_prop_2053	300	3	300	灰色双人床
-3115062	decoration_name_3115062	gui_blockcity_sit_down	set:blockcity_items.json image:g1047_qiuqian	800	8	800	秋千
-3116063	decoration_name_3116063	gui_blockcity_sit_down	set:blockcity_items.json image:g1047_qiaoqiaoban	1000	10	1000	跷跷板
+3115062	decoration_name_3115062	gui_blockcity_sit_down	set:blockcity_items.json image:g1047_qiuqian	1500	15	1500	秋千
+3116063	decoration_name_3116063	gui_blockcity_sit_down	set:blockcity_items.json image:g1047_qiaoqiaoban	6000	60	6000	跷跷板
 3100064	decoration_name_3100064	feature_none	set:blockcity_items.json image:g1047_chess_11	500	5	500	黑王
 3100065	decoration_name_3100065	feature_none	set:blockcity_items.json image:g1047_chess_12	500	5	500	黑皇后
 3100066	decoration_name_3100066	feature_none	set:blockcity_items.json image:g1047_chess_13	400	4	400	黑主教
