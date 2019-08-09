@@ -527,6 +527,7 @@ praise_manor_success=Praise Success
 gui_call_on_in_glide=You can only be transmitted after landing
 gui_call_on_use_elevator=You can't be transferred while using elevator
 gui_call_on_in_glide_use_elevator=You can use the elevator only after landing
+gui_blockcity_save_file_success=Realm Saved
 
 language_end:system
 
