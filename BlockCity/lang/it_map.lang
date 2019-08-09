@@ -1040,5 +1040,6 @@ tile.stone_4.name=Diorite Lucida
 tile.stone_5.name=andesite
 tile.stone_6.name=Andesite lucido
 tile.pressureStone.name=Piastrella a pressione di pietra
+tile.brich_fence_gate.name=Porta Birch Fence
 
 language_end:tile

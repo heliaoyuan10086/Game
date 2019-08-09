@@ -1040,5 +1040,6 @@ tile.stone_4.name=Polished Diorite
 tile.stone_5.name=Andesite
 tile.stone_6.name=Polished Andesite
 tile.pressureStone.name=Stone Pressure Plate
+tile.brich_fence_gate.name=Birch Fence Gate
 
 language_end:tile

@@ -1040,5 +1040,6 @@ tile.stone_4.name=Cilalı Diorite
 tile.stone_5.name=Andezit
 tile.stone_6.name=Cilalı Andezit
 tile.pressureStone.name=Taş Basınç Plakası
+tile.brich_fence_gate.name=Huş ağacı çit kapısı
 
 language_end:tile

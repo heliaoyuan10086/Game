@@ -1040,5 +1040,6 @@ tile.stone_4.name=ขัดดิออร์
 tile.stone_5.name=andesite
 tile.stone_6.name=ขัด Andesite
 tile.pressureStone.name=แผ่นหิน
+tile.brich_fence_gate.name=ประตู รั้ว เบิร์ช
 
 language_end:tile

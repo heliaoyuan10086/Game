@@ -1040,5 +1040,6 @@ tile.stone_4.name=Đánh bóng Diorite
 tile.stone_5.name=Andesite
 tile.stone_6.name=Andesite đánh bóng
 tile.pressureStone.name=Biển áp suất Đá
+tile.brich_fence_gate.name=Cổng Birch Fence
 
 language_end:tile

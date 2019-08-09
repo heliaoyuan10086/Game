@@ -1040,5 +1040,6 @@ tile.stone_4.name=Diorita Pulida
 tile.stone_5.name=Andesita
 tile.stone_6.name=Andresita pulida
 tile.pressureStone.name=Stone placa de presión
+tile.brich_fence_gate.name=Birch Fence Gate
 
 language_end:tile
