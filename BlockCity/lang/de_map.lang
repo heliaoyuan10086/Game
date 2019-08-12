@@ -1042,5 +1042,6 @@ tile.stone_5.name=Andesit
 tile.stone_6.name=Polierter Andesit
 tile.pressureStone.name=Druckplatte aus Stein
 tile.brich_fence_gate.name=Tor der Birkenzäune
+tile.brich_fence_gate=Tor der Birkenzäune
 
 language_end:tile

@@ -1042,5 +1042,6 @@ tile.stone_5.name=안산암
 tile.stone_6.name=세련 된 안산암
 tile.pressureStone.name=돌 접시
 tile.brich_fence_gate.name=자작나무 울타리 문은
+tile.brich_fence_gate=자작나무 울타리 문은
 
 language_end:tile

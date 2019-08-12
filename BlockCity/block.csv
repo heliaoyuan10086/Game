@@ -183,7 +183,7 @@ weight	id	blockId	meta	score	level	price	cube	type	feature	moneyType	isNew	remar
 181	410300	103	0	8	4	8	1	6	feature_none	2	1	西瓜
 182	409600	96	0	8	4	8	1	6	feature_switch	2	1	活板门
 183	410700	107	0	8	4	8	1	6	feature_switch	2	1	木质栅栏门
-184	418400	184	0	8	4	8	1	6	feature_switch	3	1	桦木栅栏门
+184	418400	184	0	8	4	8	1	6	feature_switch	2	1	桦木栅栏门
 185	403700	37	0	8	4	8	1	6	feature_none	2	1	黄花
 186	403800	38	0	8	4	8	1	6	feature_none	2	0	红花
 187	403801	38	1	8	4	8	1	6	feature_none	2	1	兰花

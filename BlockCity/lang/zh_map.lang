@@ -1042,5 +1042,6 @@ tile.stone_5.name=安山岩
 tile.stone_6.name=磨制安山岩Polished Andesite
 tile.pressureStone.name=石质压力板
 tile.brich_fence_gate.name=白桦木栅栏门
+tile.brich_fence_gate=白桦木栅栏门
 
 language_end:tile

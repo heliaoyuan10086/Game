@@ -484,7 +484,7 @@ feature_charge=Battery
 feature_elasticity=elasticity
 gui_blockcity_pack=Backpack
 gui_blockCity_free_fly_time=Received 10 min flying
-gui_blockcity_house_shop=Supermarket
+gui_blockcity_house_shop=Market
 gui_blockcity_house_shop_detail=Detail
 gui_blockcity_house_shop_classify=Classify
 gui_blockcity_pack_use=Use
@@ -1042,5 +1042,6 @@ tile.stone_5.name=Andesite
 tile.stone_6.name=Polished Andesite
 tile.pressureStone.name=Stone Pressure Plate
 tile.brich_fence_gate.name=Birch Fence Gate
+tile.brich_fence_gate=Birch Fence Gate
 
 language_end:tile

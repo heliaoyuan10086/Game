@@ -1042,5 +1042,6 @@ tile.stone_5.name=安山岩
 tile.stone_6.name=磨かれた安山岩
 tile.pressureStone.name=ストーンプレッシャープレート
 tile.brich_fence_gate.name=バーチフェンスゲート
+tile.brich_fence_gate=バーチフェンスゲート
 
 language_end:tile

@@ -1042,5 +1042,6 @@ tile.stone_5.name=Andesito
 tile.stone_6.name=Andesito Polido
 tile.pressureStone.name=Plataforma de Pressão Stone
 tile.brich_fence_gate.name=Portão de vedação Birch
+tile.brich_fence_gate=Portão de vedação Birch
 
 language_end:tile
