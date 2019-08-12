@@ -1041,7 +1041,6 @@ tile.stone_4.name=Diorit yang dipoles
 tile.stone_5.name=Andesit
 tile.stone_6.name=Andesit yang dipoles
 tile.pressureStone.name=Pelat Tekanan Batu
-tile.brich_fence_gate.name=Gerbang Pagar Birch
-tile.brich_fence_gate=Gerbang Pagar Birch
+tile.birch_fence_gate.name=Gerbang Pagar Birch
 
 language_end:tile

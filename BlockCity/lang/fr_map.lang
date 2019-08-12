@@ -1041,7 +1041,6 @@ tile.stone_4.name=Diorite polie
 tile.stone_5.name=Andésite
 tile.stone_6.name=Andésite poli
 tile.pressureStone.name=pierre plaque de pression
-tile.brich_fence_gate.name=birch clôture barrière
-tile.brich_fence_gate=birch clôture barrière
+tile.birch_fence_gate.name=birch clôture barrière
 
 language_end:tile

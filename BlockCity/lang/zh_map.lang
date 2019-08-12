@@ -248,24 +248,24 @@ decoration_name_3100066=黑主教
 decoration_name_3100067=黑车
 decoration_name_3100068=黑骑士
 decoration_name_3100069=黑兵
-decoration_name_3100070=白木王
-decoration_name_3100071=白木皇后
-decoration_name_3100072=白木主教
-decoration_name_3100073=白木车
-decoration_name_3100074=白木骑士
-decoration_name_3100075=白木兵
+decoration_name_3100070=白王
+decoration_name_3100071=白皇后
+decoration_name_3100072=白主教
+decoration_name_3100073=白车
+decoration_name_3100074=白骑士
+decoration_name_3100075=白兵
 decoration_name_3100064.name=黑王
 decoration_name_3100065.name=黑皇后
 decoration_name_3100066.name=黑主教
 decoration_name_3100067.name=黑车
 decoration_name_3100068.name=黑骑士
 decoration_name_3100069.name=黑兵
-decoration_name_3100070.name=白木王
-decoration_name_3100071.name=白木皇后
-decoration_name_3100072.name=白木主教
-decoration_name_3100073.name=白木车
-decoration_name_3100074.name=白木骑士
-decoration_name_3100075.name=白木兵
+decoration_name_3100070.name=白王
+decoration_name_3100071.name=白皇后
+decoration_name_3100072.name=白主教
+decoration_name_3100073.name=白车
+decoration_name_3100074.name=白骑士
+decoration_name_3100075.name=白兵
 
 language_end:decoration
 
@@ -1041,7 +1041,6 @@ tile.stone_4.name=磨制闪长岩
 tile.stone_5.name=安山岩
 tile.stone_6.name=磨制安山岩Polished Andesite
 tile.pressureStone.name=石质压力板
-tile.brich_fence_gate.name=白桦木栅栏门
-tile.brich_fence_gate=白桦木栅栏门
+tile.birch_fence_gate.name=白桦木栅栏门
 
 language_end:tile

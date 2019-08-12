@@ -1041,7 +1041,6 @@ tile.stone_4.name=Polerowany Dioryt
 tile.stone_5.name=Andezyt
 tile.stone_6.name=Polerowany Andezyt
 tile.pressureStone.name=Płyta ciśnienia kamiennego
-tile.brich_fence_gate.name=Brama ogrodzenia Birch
-tile.brich_fence_gate=Brama ogrodzenia Birch
+tile.birch_fence_gate.name=Brama ogrodzenia Birch
 
 language_end:tile

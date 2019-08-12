@@ -1041,7 +1041,6 @@ tile.stone_4.name=Полированный диорит
 tile.stone_5.name=андезит
 tile.stone_6.name=Полированный андезит
 tile.pressureStone.name=камень, датчик давления
-tile.brich_fence_gate.name=береза забор ворота
-tile.brich_fence_gate=береза забор ворота
+tile.birch_fence_gate.name=береза забор ворота
 
 language_end:tile
