@@ -48,7 +48,7 @@ Id	Name	Desc	Icon	Price	Cube	Score
 45	drawing_name_45	123	set:blockcity_items.json image:2landscape_100_07	1716	17	1716	2landscape_32_07
 46	drawing_name_46	123	set:blockcity_items.json image:2landscape_100_08	1172	11	1172	2landscape_32_08
 47	drawing_name_47	123	set:blockcity_items.json image:2landscape_100_09	516	5	516	2landscape_32_09
-48	drawing_name_48	123	set:blockcity_items.json image:2landscape_100_10	1542	15	1542	2landscape_32_10
+48	drawing_name_48	123	set:blockcity_items.json image:2landscape_100_10	1172	11	1172	2landscape_32_10
 3100001	decoration_name_3100001	feature_none	set:blockcity_items.json image:g1047_prop_1	100	1	100	洗衣机
 1100002	decoration_name_1100002	feature_none	set:blockcity_items.json image:g1047_prop_2	100	1	100	书桌
 1212003	decoration_name_1212003	gui_blockcity_sit_down	set:blockcity_items.json image:g1047_prop_3	200	2	200	木椅
