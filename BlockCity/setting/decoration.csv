@@ -58,11 +58,11 @@
 电风扇	1100056	2656	g1047_prop_2048	decoration_name_1100056	1		g1047_chairs2.actor	body	2048	idle	run	1	1	1.98	magazine.mesh	0	1	2
 铁晾衣架	3100057	2657	g1047_prop_2049	decoration_name_3100057	3		g1047_chairs.actor	body	2049	idle		2	1	1.98	magazine.mesh	0	1	0
 木晾衣架	3100058	2658	g1047_prop_2050	decoration_name_3100058	3		g1047_chairs.actor	body	2050	idle		2	1	0.98	magazine.mesh	0	1	0
-黄色双人床	2114059	2659	g1047_prop_2051	decoration_name_2114059	2	s_chair	g1047_chairs.actor	body	2051	idle		2	3	0.98	magazine.mesh	14	0	1
-蓝色双人床	2114060	2660	g1047_prop_2052	decoration_name_2114060	2	s_chair	g1047_chairs.actor	body	2052	idle		2	3	0.98	magazine.mesh	14	0	1
-灰色双人床	2114061	2661	g1047_prop_2053	decoration_name_2114061	2	s_chair	g1047_chairs.actor	body	2053	idle		2	3	0.98	magazine.mesh	14	0	1
-秋千	3115062	2664	g1047_qiuqian	decoration_name_3115062	3	s_guadian_1	g1047_qiuqian.actor	body	1	idle	run	3	3	2.98	magazine.mesh	15	0	3
-跷跷板	3116063	2665	g1047_qiaoqiaoban	decoration_name_3116063	3	s_guadian_l#s_guadian_r	g1047_qiaoqiaoban.actor	body	1	idle#idle2	run	3	1	1.98	magazine.mesh	16	0	4
+黄色双人床	2100059	2659	g1047_prop_2051	decoration_name_2100059	2	s_chair	g1047_chairs.actor	body	2051	idle		2	3	0.98	magazine.mesh	15	0	1
+蓝色双人床	2100060	2660	g1047_prop_2052	decoration_name_2100060	2	s_chair	g1047_chairs.actor	body	2052	idle		2	3	0.98	magazine.mesh	15	0	1
+灰色双人床	2100061	2661	g1047_prop_2053	decoration_name_2100061	2	s_chair	g1047_chairs.actor	body	2053	idle		2	3	0.98	magazine.mesh	15	0	1
+秋千	3100062	2664	g1047_qiuqian	decoration_name_3100062	3	s_guadian_1	g1047_qiuqian.actor	body	1	idle	run	3	3	2.98	magazine.mesh	16	0	3
+跷跷板	3100063	2665	g1047_qiaoqiaoban	decoration_name_3100063	3	s_guadian_l#s_guadian_r	g1047_qiaoqiaoban.actor	body	1	idle#idle2	run	3	1	1.98	magazine.mesh	17	0	4
 黑王	3100064	2666	g1047_chess_11	decoration_name_3100064	3		g1047_chess.actor	body	11	idle		1	1	1.98	magazine.mesh	0	1	0
 黑皇后	3100065	2667	g1047_chess_12	decoration_name_3100065	3		g1047_chess.actor	body	12	idle		1	1	1.98	magazine.mesh	0	1	0
 黑主教	3100066	2668	g1047_chess_13	decoration_name_3100066	3		g1047_chess.actor	body	13	idle		1	1	1.98	magazine.mesh	0	1	0
