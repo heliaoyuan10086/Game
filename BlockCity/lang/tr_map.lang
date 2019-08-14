@@ -528,6 +528,7 @@ gui_call_on_in_glide=Sadece indikten sonra bulaşabilirsin
 gui_call_on_use_elevator=Asansör kullanırken transfer edilemez
 gui_call_on_in_glide_use_elevator=Asansörü ancak indikten sonra kullanabilirsiniz.
 gui_blockcity_save_file_success=Bölge kaydedildi
+gui_on_ground_can_use_elevator=Asansörleri sadece yerdeyken kullanabilirsiniz
 
 language_end:system
 

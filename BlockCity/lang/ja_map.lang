@@ -528,6 +528,7 @@ gui_call_on_in_glide=着陸後にのみ送信できます
 gui_call_on_use_elevator=エレベーター使用中は乗り換えできません
 gui_call_on_in_glide_use_elevator=エレベーターは着陸後にのみ使用できます
 gui_blockcity_save_file_success=保存されたレルム
+gui_on_ground_can_use_elevator=地上でのみエレベーターを使用できます
 
 language_end:system
 

@@ -528,6 +528,7 @@ gui_call_on_in_glide=Вы можете быть переданы только п
 gui_call_on_use_elevator=Вы не можете быть переведены во время использования лифта
 gui_call_on_in_glide_use_elevator=Вы можете использовать лифт только после приземления
 gui_blockcity_save_file_success=Царство сохранено
+gui_on_ground_can_use_elevator=Вы можете использовать лифт только на земле
 
 language_end:system
 

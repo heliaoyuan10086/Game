@@ -528,6 +528,7 @@ gui_call_on_in_glide=Anda hanya dapat dikirim setelah mendarat
 gui_call_on_use_elevator=Anda tidak dapat ditransfer saat menggunakan lift
 gui_call_on_in_glide_use_elevator=Anda dapat menggunakan lift hanya setelah mendarat
 gui_blockcity_save_file_success=Realm Disimpan
+gui_on_ground_can_use_elevator=Anda hanya dapat menggunakan lift saat berada di tanah
 
 language_end:system
 

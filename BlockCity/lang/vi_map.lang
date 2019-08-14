@@ -528,6 +528,7 @@ gui_call_on_in_glide=Bạn chỉ có thể được truyền đi sau khi hạ c�
 gui_call_on_use_elevator=Bạn không thể được chuyển trong khi sử dụng thang máy
 gui_call_on_in_glide_use_elevator=Bạn chỉ có thể sử dụng thang máy sau khi hạ cánh
 gui_blockcity_save_file_success=Cõi được lưu
+gui_on_ground_can_use_elevator=Bạn chỉ có thể sử dụng thang máy khi ở trên mặt đất
 
 language_end:system
 

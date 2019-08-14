@@ -528,6 +528,7 @@ gui_call_on_in_glide=Vous ne pouvez être transmis qu'après l'atterrissage
 gui_call_on_use_elevator=Vous ne pouvez pas être transféré en utilisant l'ascenseur
 gui_call_on_in_glide_use_elevator=Vous pouvez utiliser l'ascenseur seulement après l'atterrissage
 gui_blockcity_save_file_success=Domaine sauvegardé
+gui_on_ground_can_use_elevator=Vous ne pouvez utiliser l'ascenseur que sur le sol
 
 language_end:system
 

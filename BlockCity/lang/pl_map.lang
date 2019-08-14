@@ -528,6 +528,7 @@ gui_call_on_in_glide=Możesz zostać przekazany dopiero po wylądowaniu
 gui_call_on_use_elevator=Nie możesz zostać przeniesiony podczas korzystania z windy
 gui_call_on_in_glide_use_elevator=Z windy można korzystać dopiero po wylądowaniu
 gui_blockcity_save_file_success=Królestwo zapisane
+gui_on_ground_can_use_elevator=Z windy można korzystać tylko na ziemi
 
 language_end:system
 

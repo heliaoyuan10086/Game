@@ -528,6 +528,7 @@ gui_call_on_in_glide=Solo puedes ser transmitido después de aterrizar
 gui_call_on_use_elevator=No puede ser transferido mientras usa el elevador
 gui_call_on_in_glide_use_elevator=Puedes usar el ascensor solo después de aterrizar
 gui_blockcity_save_file_success=Reino salvado
+gui_on_ground_can_use_elevator=Solo puedes usar el elevador mientras estás en el suelo
 
 language_end:system
 

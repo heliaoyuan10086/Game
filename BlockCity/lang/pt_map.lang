@@ -528,6 +528,7 @@ gui_call_on_in_glide=Você só pode ser transmitido após o pouso
 gui_call_on_use_elevator=Você não pode ser transferido enquanto estiver usando o elevador
 gui_call_on_in_glide_use_elevator=Você pode usar o elevador somente após o pouso
 gui_blockcity_save_file_success=Domínio salvo
+gui_on_ground_can_use_elevator=Você só pode usar o elevador enquanto estiver no chão
 
 language_end:system
 

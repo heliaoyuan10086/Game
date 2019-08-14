@@ -528,6 +528,7 @@ gui_call_on_in_glide=Sie können erst nach der Landung übertragen werden
 gui_call_on_use_elevator=Sie können nicht übertragen werden, während Sie den Aufzug benutzen
 gui_call_on_in_glide_use_elevator=Sie können den Aufzug erst nach der Landung benutzen
 gui_blockcity_save_file_success=Bereich gespeichert
+gui_on_ground_can_use_elevator=Sie können den Aufzug nur am Boden benutzen
 
 language_end:system
 
