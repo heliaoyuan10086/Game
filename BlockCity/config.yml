@@ -46,3 +46,5 @@ roseNum: 3
 
 #超市大门位置
 shopPosWithYaw: [-723, 34, -229, 90]
+
+ADRefreshTime: ["20:23", "20:24"]
