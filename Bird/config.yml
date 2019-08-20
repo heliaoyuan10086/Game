@@ -72,3 +72,18 @@ addCarryTo4TaskId: 1040501
 
 #喂食引导任务ID
 feedTaskId: 2040701
+
+#果币广告刷新时间间隔(单位：秒)
+moneyAdRefreshTime: 900
+
+#抽蛋票广告刷新时间间隔(单位：秒)
+eggTicketAdRefreshTime: 900
+
+#宝箱冷却广告刷新时间间隔(单位：秒)
+chestCDAdRefreshTime: 900
+
+#vip果币宝箱广告刷新时间点
+vipChestADRefreshTime: ["00:00", "12:00"]
+
+#喂养广告刷新时间间隔(单位：秒)
+feedAdRefreshTime: 300
