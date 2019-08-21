@@ -87,3 +87,12 @@ vipChestADRefreshTime: ["00:00", "12:00"]
 
 #喂养广告刷新时间间隔(单位：秒)
 feedAdRefreshTime: 300
+
+#果币广告收益(单位：果币)
+moneyAdReward: 1500
+
+#抽蛋票广告收益(单位：抽蛋票)
+eggTicketAdReward: 3
+
+#喂养广告收益(单位： 目前等级需要经验的百分比)
+feedAdReward: 5
