@@ -1,4 +1,4 @@
-	物品id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，3.金币)	物品类型（4翅膀，5枪，6车）	物品描述	所属商店	装饰部件名字	装饰部件Id	新图标	放大尺寸	是否可购买（1可。0否）	限购	可用时间(单位：秒)(目前只用于排行榜奖励)
+	物品id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，3.绿钞)	物品类型（4翅膀，5枪，6车）	物品描述	所属商店	装饰部件名字	装饰部件Id	新图标	放大尺寸	是否可购买（1可。0否）	限购	可用时间(单位：秒)(目前只用于排行榜奖励)
 id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	branchId	actorName	actorId	iconNew	scale	isCanBuy	limit	availableTime
 1	4001	g1047_wings01.actor	set:blockcity_items.json image:wing_01	body	1	item.wings_01.name	-741.5	36	-208	0	3000	3	4	item.wings.describe_01	101001	custom_wing	17	set:blockcity_items.json image:wing_01	0.3	1	1	0
 2	4002	g1047_wings02.actor	set:blockcity_items.json image:wing_02	body	2	item.wings_02.name	-738.5	36	-208	0	5000	3	4	item.wings.describe_02	101001	custom_wing	19	set:blockcity_items.json image:wing_02	0.3	0	1	0

@@ -1,4 +1,4 @@
-排序权重	唯一id	id1	id2	分数	等级	价格	魔方价格	类型	特性(多语言)	代币类型(1魔方，2金币)	新加入（1新。0否）	备注
+排序权重	唯一id	id1	id2	分数	等级	价格	魔方价格	类型	特性(多语言)	代币类型(1魔方，3绿钞)	新加入（1新。0否）	备注
 weight	id	blockId	meta	score	level	price	cube	type	feature	moneyType	isNew	remark
 1	100100	1	0	0	1	0	0	1	feature_none	3	0	石头
 2	101200	12	0	0	1	0	0	1	feature_none	3	0	沙子
