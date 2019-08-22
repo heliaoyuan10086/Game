@@ -46,3 +46,9 @@ roseNum: 3
 
 #超市大门位置
 shopPosWithYaw: [-723, 34, -229, 90]
+
+#广告刷新时间点(目前两个广告公用一个时间点)
+ADRefreshTime: ["00:00", "12:00"]
+
+#飞行广告奖励飞行时间(单位：秒)
+flyingAdReward: 300

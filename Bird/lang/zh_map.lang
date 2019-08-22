@@ -1527,3 +1527,13 @@ fightPoint=战斗点数榜
 gui_bird_pack_use_tool=使用
 
 gui_bird_capacity_full_expenditure=背包容量达到上限
+
+gui_bird_ad_lack_fruit_coin_text=或观看广告立即获得
+gui_bird_ad_lack_fruit_coin_btn_text=立即获得
+gui_bird_ad_lack_egg_ticket_text=或观看广告立即抽奖
+gui_bird_ad_lack_egg_ticket_btn_text=立即抽奖
+gui_bird_ad_skip_chest_cd_text=或观看广告免费打开
+gui_bird_ad_skip_chest_cd_btn_text=免费打开
+gui_bird_ad_open_vip_chest_text=还没有果币宝箱的权限，是否前往商店购买？\\n或观看广告免费体验
+gui_bird_ad_open_vip_chest_btn_text=免费体验
+gui_bird_ad_add_bird_exp=为你的小鸟免费增加%d个经验
