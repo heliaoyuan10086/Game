@@ -1,5 +1,5 @@
 领地等级	领地可操作范围开始偏移x	领地可操作范围开始偏移y	领地可操作范围开始偏移z	领地可操作范围结束偏移x	领地可操作范围结束偏移y	领地可操作范围结束偏移z	等级积分	升级需要的金钱类别	升级需要的金钱	当前等级一键删除所需的金币类型	当前等级一键删除所需要的钱	BlockId	Meta	管家x坐标1	管家y坐标1	管家z坐标1	管家朝向1	管家x坐标2	管家y坐标2	管家z坐标2	管家朝向2	UI显示的文字（点击前）	UI显示的文字（点击后）	UI显示的图片（点击前）	UI显示的图片（点击后）	body	bodyId	name	actor
 level	offsetStartX	offsetStartY	offsetStartZ	offsetEndX	offsetEndY	offsetEndZ	score	moneyType	price	moneyTypeToDelete	priceToDelete	repairBlockId	repairBlockMeta	singx1	singy1	singz1	yaw1	singx2	singy2	singz2	yaw2	tipNor	tipPre	imageNor	imagePre	body	bodyId	name	actor
-1	8	0	7	20	50	19	1000	2	1000	2	0	2	0	4	1	13	0	24	1	13	0	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@	1	1	npc_name_1	ranchers_selling_brand.actor
-2	2	0	6	26	50	20	2000	2	4000	2	0	2	0	4	1	23	0	24	1	23	0	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@	1	1	npc_name_1	ranchers_selling_brand.actor
-3	2	0	2	26	50	26	5000	2	0	2	0	2	0	@@@	@@@	@@@	0	@@@	@@@	@@@	0	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@	1	1	npc_name_1	ranchers_selling_brand.actor
+1	8	0	7	20	50	19	1000	3	1000	2	0	2	0	4	1	13	0	24	1	13	0	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@	1	1	npc_name_1	ranchers_selling_brand.actor
+2	2	0	6	26	50	20	2000	3	4000	2	0	2	0	4	1	23	0	24	1	23	0	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@	1	1	npc_name_1	ranchers_selling_brand.actor
+3	2	0	2	26	50	26	5000	3	0	2	0	2	0	@@@	@@@	@@@	0	@@@	@@@	@@@	0	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@	1	1	npc_name_1	ranchers_selling_brand.actor
