@@ -52,3 +52,6 @@ ADRefreshTime: ["00:00", "12:00"]
 
 #飞行广告奖励飞行时间(单位：秒)
 flyingAdReward: 300
+
+#玩家第一次进入游戏免费赠送的绿钞
+freeR_Currency: 3000
