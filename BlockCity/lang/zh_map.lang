@@ -529,7 +529,7 @@ gui_call_on_use_elevator=传送失败，下电梯后方可传送！
 gui_call_on_in_glide_use_elevator=使用电梯失败，降落后方可使用电梯！
 gui_blockcity_save_file_success=领地已保存
 gui_on_ground_can_use_elevator=使用电梯失败，只能在地面上使用电梯！
-
+fly_msg_ad=5分钟
 language_end:system
 
 language_start:tile
