@@ -529,6 +529,13 @@ gui_call_on_use_elevator=No puede ser transferido mientras usa el elevador
 gui_call_on_in_glide_use_elevator=Puedes usar el ascensor solo después de aterrizar
 gui_blockcity_save_file_success=Reino salvado
 gui_on_ground_can_use_elevator=Solo puedes usar el elevador mientras estás en el suelo
+gui_blockcity_shop_tab=Realm Coins
+gui_blockcity_shop_coin1=100 Realm Coins
+gui_blockcity_shop_coin2=1100 Realm Coins
+gui_blockcity_shop_coin3=6000 Realm Coins
+gui_blockcity_shop_coin4=12000 Realm Coins
+gui_blockcity_shop_coin5=65000 Realm Coins
+gui_blockcity_shop_coin6=150000 Realm Coins
 
 language_end:system
 

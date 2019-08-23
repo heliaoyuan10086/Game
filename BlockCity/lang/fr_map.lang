@@ -529,6 +529,13 @@ gui_call_on_use_elevator=Vous ne pouvez pas être transféré en utilisant l'asc
 gui_call_on_in_glide_use_elevator=Vous pouvez utiliser l'ascenseur seulement après l'atterrissage
 gui_blockcity_save_file_success=Domaine sauvegardé
 gui_on_ground_can_use_elevator=Vous ne pouvez utiliser l'ascenseur que sur le sol
+gui_blockcity_shop_tab=Realm Coins
+gui_blockcity_shop_coin1=100 Realm Coins
+gui_blockcity_shop_coin2=1100 Realm Coins
+gui_blockcity_shop_coin3=6000 Realm Coins
+gui_blockcity_shop_coin4=12000 Realm Coins
+gui_blockcity_shop_coin5=65000 Realm Coins
+gui_blockcity_shop_coin6=150000 Realm Coins
 
 language_end:system
 

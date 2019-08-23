@@ -529,6 +529,13 @@ gui_call_on_use_elevator=Bạn không thể được chuyển trong khi sử d�
 gui_call_on_in_glide_use_elevator=Bạn chỉ có thể sử dụng thang máy sau khi hạ cánh
 gui_blockcity_save_file_success=Cõi được lưu
 gui_on_ground_can_use_elevator=Bạn chỉ có thể sử dụng thang máy khi ở trên mặt đất
+gui_blockcity_shop_tab=Realm Coins
+gui_blockcity_shop_coin1=100 Realm Coins
+gui_blockcity_shop_coin2=1100 Realm Coins
+gui_blockcity_shop_coin3=6000 Realm Coins
+gui_blockcity_shop_coin4=12000 Realm Coins
+gui_blockcity_shop_coin5=65000 Realm Coins
+gui_blockcity_shop_coin6=150000 Realm Coins
 
 language_end:system
 

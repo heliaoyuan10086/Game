@@ -529,6 +529,13 @@ gui_call_on_use_elevator=Sie können nicht übertragen werden, während Sie den 
 gui_call_on_in_glide_use_elevator=Sie können den Aufzug erst nach der Landung benutzen
 gui_blockcity_save_file_success=Bereich gespeichert
 gui_on_ground_can_use_elevator=Sie können den Aufzug nur am Boden benutzen
+gui_blockcity_shop_tab=Realm Coins
+gui_blockcity_shop_coin1=100 Realm Coins
+gui_blockcity_shop_coin2=1100 Realm Coins
+gui_blockcity_shop_coin3=6000 Realm Coins
+gui_blockcity_shop_coin4=12000 Realm Coins
+gui_blockcity_shop_coin5=65000 Realm Coins
+gui_blockcity_shop_coin6=150000 Realm Coins
 
 language_end:system
 

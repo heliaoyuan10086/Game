@@ -529,6 +529,13 @@ gui_call_on_use_elevator=Nie możesz zostać przeniesiony podczas korzystania z 
 gui_call_on_in_glide_use_elevator=Z windy można korzystać dopiero po wylądowaniu
 gui_blockcity_save_file_success=Królestwo zapisane
 gui_on_ground_can_use_elevator=Z windy można korzystać tylko na ziemi
+gui_blockcity_shop_tab=Realm Coins
+gui_blockcity_shop_coin1=100 Realm Coins
+gui_blockcity_shop_coin2=1100 Realm Coins
+gui_blockcity_shop_coin3=6000 Realm Coins
+gui_blockcity_shop_coin4=12000 Realm Coins
+gui_blockcity_shop_coin5=65000 Realm Coins
+gui_blockcity_shop_coin6=150000 Realm Coins
 
 language_end:system
 

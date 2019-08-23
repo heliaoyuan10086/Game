@@ -529,6 +529,13 @@ gui_call_on_use_elevator=Anda tidak dapat ditransfer saat menggunakan lift
 gui_call_on_in_glide_use_elevator=Anda dapat menggunakan lift hanya setelah mendarat
 gui_blockcity_save_file_success=Realm Disimpan
 gui_on_ground_can_use_elevator=Anda hanya dapat menggunakan lift saat berada di tanah
+gui_blockcity_shop_tab=Realm Coins
+gui_blockcity_shop_coin1=100 Realm Coins
+gui_blockcity_shop_coin2=1100 Realm Coins
+gui_blockcity_shop_coin3=6000 Realm Coins
+gui_blockcity_shop_coin4=12000 Realm Coins
+gui_blockcity_shop_coin5=65000 Realm Coins
+gui_blockcity_shop_coin6=150000 Realm Coins
 
 language_end:system
 
