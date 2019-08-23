@@ -1,0 +1,4 @@
+等级	标签页	标签页图标	标签页名字	商品名称	货品类型	货品子ID	货币数量	货币类型	售卖价格	联机平台价格（0即可）	默认-1
+level	type	icon	name	desc	itemId	itemMeta	itemNum	coinId	blockmodsPrice	blockmanPrice	limit
+1	0	set:items_gui.json image:diamond	gui.shop.tab.diamond	jail_item_name_cash5000	10000	0	5000	1	80	0	-1
+2	0	set:items_gui.json image:diamond	gui.shop.tab.diamond	jail_item_name_cash1000	10000	0	1000	1	20	0	-1
