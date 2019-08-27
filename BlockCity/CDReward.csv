@@ -1,8 +1,8 @@
 序号	等级	数量	时间：秒	图片
 id	level	cash	cdTime	image
-1	1	1111	111	set:blockcity_main_ui.json image:level1
-2	2	2222	222	set:blockcity_main_ui.json image:level2
-3	3	3333	333	set:blockcity_main_ui.json image:level3
-4	4	4444	444	set:blockcity_main_ui.json image:level4
-5	5	5555	555	set:blockcity_main_ui.json image:level5
-6	6	6666	666	set:blockcity_main_ui.json image:level6
+1	1	100	300	set:blockcity_main_ui.json image:level1
+2	2	120	300	set:blockcity_main_ui.json image:level2
+3	3	140	300	set:blockcity_main_ui.json image:level3
+4	4	160	300	set:blockcity_main_ui.json image:level4
+5	5	180	300	set:blockcity_main_ui.json image:level5
+6	6	200	300	set:blockcity_main_ui.json image:level6
