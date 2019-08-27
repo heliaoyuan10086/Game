@@ -536,6 +536,7 @@ gui_blockcity_shop_coin3=6000 Realm Coins
 gui_blockcity_shop_coin4=12000 Realm Coins
 gui_blockcity_shop_coin5=65000 Realm Coins
 gui_blockcity_shop_coin6=150000 Realm Coins
+fly_msg_ad=5 minutes
 
 language_end:system
 
