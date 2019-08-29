@@ -5,4 +5,12 @@ id	level	cash	cdTime	image
 3	3	150	360	set:blockcity_main_ui.json image:level3
 4	4	200	480	set:blockcity_main_ui.json image:level4
 5	5	250	600	set:blockcity_main_ui.json image:level5
-6	6	300	1800	set:blockcity_main_ui.json image:level6
+6	6	300	900	set:blockcity_main_ui.json image:level6
+7	7	300	1800	set:blockcity_main_ui.json image:level6
+8	8	300	1800	set:blockcity_main_ui.json image:level6
+9	9	300	1800	set:blockcity_main_ui.json image:level6
+10	10	300	1800	set:blockcity_main_ui.json image:level6
+11	11	300	1800	set:blockcity_main_ui.json image:level6
+12	12	300	1800	set:blockcity_main_ui.json image:level6
+13	13	300	1800	set:blockcity_main_ui.json image:level6
+14	14	300	1800	set:blockcity_main_ui.json image:level6
