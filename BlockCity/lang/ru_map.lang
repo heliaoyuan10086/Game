@@ -529,15 +529,16 @@ gui_call_on_use_elevator=Вы не можете быть переведены в
 gui_call_on_in_glide_use_elevator=Вы можете использовать лифт только после приземления
 gui_blockcity_save_file_success=Царство сохранено
 gui_on_ground_can_use_elevator=Вы можете использовать лифт только на земле
-gui_blockcity_shop_tab=Realm Coins
-gui_blockcity_shop_coin1=100 Realm Coins
-gui_blockcity_shop_coin2=1100 Realm Coins
-gui_blockcity_shop_coin3=6000 Realm Coins
-gui_blockcity_shop_coin4=12000 Realm Coins
-gui_blockcity_shop_coin5=65000 Realm Coins
-gui_blockcity_shop_coin6=150000 Realm Coins
-fly_msg_ad=5 minutes
+gui_blockcity_shop_tab=поле валюта
+gui_blockcity_shop_coin1=100 поле валюта
+gui_blockcity_shop_coin2=1100 поле валюта
+gui_blockcity_shop_coin3=6000 поле валюта
+gui_blockcity_shop_coin4=12000 поле валюта
+gui_blockcity_shop_coin5=65000 поле валюта
+gui_blockcity_shop_coin6=150000 поле валюта
 gui_blockcity_use_realm_coin_tip=«Дорогие игроки Realm City:\\nЧтобы предложить вам лучший игровой опыт, мы заменили в игре Gold Coin на Realm Coin, чтобы ваше потребление в Realm City не уменьшало количество Gold Coins на платформе Blockman Go.\\nВ то же время мы расширим доступ к монетам Царства в игре, чтобы вы могли легко получать деньги в игре.\\nЖелаю вам счастливой игры.
+fly_msg_ad=5 min
+gui_cd_free=смотреть AD, чтобы открыть
 
 language_end:system
 

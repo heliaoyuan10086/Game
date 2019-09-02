@@ -529,15 +529,16 @@ gui_call_on_use_elevator=エレベーター使用中は乗り換えできませ�
 gui_call_on_in_glide_use_elevator=エレベーターは着陸後にのみ使用できます
 gui_blockcity_save_file_success=保存されたレルム
 gui_on_ground_can_use_elevator=地上でのみエレベーターを使用できます
-gui_blockcity_shop_tab=Realm Coins
-gui_blockcity_shop_coin1=100 Realm Coins
-gui_blockcity_shop_coin2=1100 Realm Coins
-gui_blockcity_shop_coin3=6000 Realm Coins
-gui_blockcity_shop_coin4=12000 Realm Coins
-gui_blockcity_shop_coin5=65000 Realm Coins
-gui_blockcity_shop_coin6=150000 Realm Coins
-fly_msg_ad=5 minutes
+gui_blockcity_shop_tab=フィールドコイン
+gui_blockcity_shop_coin1=100 フィールドコイン
+gui_blockcity_shop_coin2=1100 フィールドコイン
+gui_blockcity_shop_coin3=6000 フィールドコイン
+gui_blockcity_shop_coin4=12000 フィールドコイン
+gui_blockcity_shop_coin5=65000 フィールドコイン
+gui_blockcity_shop_coin6=150000 フィールドコイン
 gui_blockcity_use_realm_coin_tip=親愛なるフィールドシティプレイヤー：\\nより良いゲーム体験を提供するために、ゲームの通貨を通貨に変更しました。これにより、フィールドの街で消費してもプラットフォーム内の金貨が減らないようになっています。\\n同時に、ゲーム内のドメイン通貨へのアクセスを増やして、ゲーム内でゲーム通貨を簡単に取得できるようにします。\\n幸せなゲームをお祈りします。 」
+fly_msg_ad=5 min
+gui_cd_free=ADが開くのを見る
 
 language_end:system
 

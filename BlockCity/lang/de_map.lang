@@ -529,15 +529,16 @@ gui_call_on_use_elevator=Sie können nicht übertragen werden, während Sie den 
 gui_call_on_in_glide_use_elevator=Sie können den Aufzug erst nach der Landung benutzen
 gui_blockcity_save_file_success=Bereich gespeichert
 gui_on_ground_can_use_elevator=Sie können den Aufzug nur am Boden benutzen
-gui_blockcity_shop_tab=Realm Coins
-gui_blockcity_shop_coin1=100 Realm Coins
-gui_blockcity_shop_coin2=1100 Realm Coins
-gui_blockcity_shop_coin3=6000 Realm Coins
-gui_blockcity_shop_coin4=12000 Realm Coins
-gui_blockcity_shop_coin5=65000 Realm Coins
-gui_blockcity_shop_coin6=150000 Realm Coins
-fly_msg_ad=5 minutes
+gui_blockcity_shop_tab=Feld münze
+gui_blockcity_shop_coin1=100 Feld münze
+gui_blockcity_shop_coin2=1100 Feld münze
+gui_blockcity_shop_coin3=6000 Feld münze
+gui_blockcity_shop_coin4=12000 Feld münze
+gui_blockcity_shop_coin5=65000 Feld münze
+gui_blockcity_shop_coin6=150000 Feld münze
 gui_blockcity_use_realm_coin_tip=Liebe Realm City Spieler:\\nUm Ihnen ein besseres Spielerlebnis zu bieten, haben wir die Goldmünze im Spiel durch Realm Coin ersetzt, sodass Ihr Verbrauch in Realm City die Goldmünzen auf der Blockman Go-Plattform nicht verringert.\\nGleichzeitig erhöhen wir den Zugang zu den Reichsmünzen im Spiel, so dass Sie leicht Geld im Spiel bekommen können.\\nWünsche dir ein frohes Spiel. 
+fly_msg_ad=5 min
+gui_cd_free=Sieh dir AD an, um es zu öffnen
 
 language_end:system
 
