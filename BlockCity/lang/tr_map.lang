@@ -537,6 +537,7 @@ gui_blockcity_shop_coin4=12000 Realm Coins
 gui_blockcity_shop_coin5=65000 Realm Coins
 gui_blockcity_shop_coin6=150000 Realm Coins
 fly_msg_ad=5 minutes
+gui_blockcity_use_realm_coin_tip=Sevgili Bölge Şehir Oyuncuları:\\nSize daha iyi bir oyun deneyimi sunmak için oyun içi Altın Madeni Parayı Realm Coin ile değiştirdik, böylece Realm City'deki tüketiminiz Blockman Go platformundaki Gold Coin'leri azaltmayacak.\\nAynı zamanda, oyunda kolayca para kazanabilmeniz için oyundaki krallık paralarına erişimi de artıracağız.\\nSize mutlu bir oyun diliyorum. 
 
 language_end:system
 

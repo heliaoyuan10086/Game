@@ -537,6 +537,7 @@ gui_blockcity_shop_coin4=12000 Realm Coins
 gui_blockcity_shop_coin5=65000 Realm Coins
 gui_blockcity_shop_coin6=150000 Realm Coins
 fly_msg_ad=5 minutes
+gui_blockcity_use_realm_coin_tip=Liebe Realm City Spieler:\\nUm Ihnen ein besseres Spielerlebnis zu bieten, haben wir die Goldmünze im Spiel durch Realm Coin ersetzt, sodass Ihr Verbrauch in Realm City die Goldmünzen auf der Blockman Go-Plattform nicht verringert.\\nGleichzeitig erhöhen wir den Zugang zu den Reichsmünzen im Spiel, so dass Sie leicht Geld im Spiel bekommen können.\\nWünsche dir ein frohes Spiel. 
 
 language_end:system
 

@@ -537,6 +537,7 @@ gui_blockcity_shop_coin4=12000 Realm Coins
 gui_blockcity_shop_coin5=65000 Realm Coins
 gui_blockcity_shop_coin6=150000 Realm Coins
 fly_msg_ad=5 minutes
+gui_blockcity_use_realm_coin_tip=Estimados jugadores de Realm City:\\nPara ofrecerte una mejor experiencia de juego, hemos reemplazado la Moneda de oro en el juego con Moneda de reino, para que tu consumo en Ciudad de reino no reduzca las Monedas de oro en la plataforma Blockman Go.\\nAl mismo tiempo, aumentaremos el acceso a Realm Coins en el juego, para que puedas obtener dinero fácilmente en el juego.\\nTe deseo un juego feliz .
 
 language_end:system
 

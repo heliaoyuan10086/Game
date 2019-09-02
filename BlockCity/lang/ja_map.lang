@@ -537,6 +537,7 @@ gui_blockcity_shop_coin4=12000 Realm Coins
 gui_blockcity_shop_coin5=65000 Realm Coins
 gui_blockcity_shop_coin6=150000 Realm Coins
 fly_msg_ad=5 minutes
+gui_blockcity_use_realm_coin_tip=親愛なるフィールドシティプレイヤー：\\nより良いゲーム体験を提供するために、ゲームの通貨を通貨に変更しました。これにより、フィールドの街で消費してもプラットフォーム内の金貨が減らないようになっています。\\n同時に、ゲーム内のドメイン通貨へのアクセスを増やして、ゲーム内でゲーム通貨を簡単に取得できるようにします。\\n幸せなゲームをお祈りします。 」
 
 language_end:system
 

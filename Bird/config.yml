@@ -92,7 +92,7 @@ feedAdRefreshTime: 300
 moneyAdReward: 1500
 
 #抽蛋票广告收益(单位：抽蛋票)
-eggTicketAdReward: 3
+eggTicketAdReward: 2
 
 #喂养广告收益(单位： 目前等级需要经验的百分比)
-feedAdReward: 5
+feedAdReward: 10

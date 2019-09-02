@@ -537,6 +537,7 @@ gui_blockcity_shop_coin4=12000 Realm Coins
 gui_blockcity_shop_coin5=65000 Realm Coins
 gui_blockcity_shop_coin6=150000 Realm Coins
 fly_msg_ad=5 minutes
+gui_blockcity_use_realm_coin_tip=„Drodzy Gracze Miasta Królestwa:\\nAby zapewnić lepszą rozgrywkę, wymieniliśmy złotą monetę w grze na Realm Coin, aby twoje zużycie w Realm City nie zmniejszyło złotych monet na platformie Blockman Go.\\nJednocześnie zwiększymy dostęp do Monet Królestwa w grze, abyś mógł łatwo zdobyć pieniądze w grze.\\nŻyczę szczęśliwej gry. ”
 
 language_end:system
 

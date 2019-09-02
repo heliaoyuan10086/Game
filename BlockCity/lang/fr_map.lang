@@ -537,6 +537,7 @@ gui_blockcity_shop_coin4=12000 Realm Coins
 gui_blockcity_shop_coin5=65000 Realm Coins
 gui_blockcity_shop_coin6=150000 Realm Coins
 fly_msg_ad=5 minutes
+gui_blockcity_use_realm_coin_tip=Chers joueurs de Realm City,\\nAfin de vous offrir une meilleure expérience de jeu, nous avons remplacé la pièce en or du jeu par la pièce du royaume, afin que votre consommation dans la ville du royaume ne réduise pas le nombre de pièces en or de la plate-forme Blockman Go.\\nEn même temps, nous augmenterons l’accès aux pièces de royaume dans le jeu, afin que vous puissiez facilement obtenir de l’argent dans le jeu.\\nJe vous souhaite un bon jeu. 
 
 language_end:system
 
