@@ -1870,3 +1870,15 @@ totalCollect=Total Collect
 dailyCollect=Daily Collect
 fightPoint=Fight Point
 gui_bird_pack_use_tool=Use
+
+gui_bird_capacity_full_expenditure=Max capacity.
+
+gui_bird_ad_lack_fruit_coin_text=아니면 즉시 광고를보십시오
+gui_bird_ad_lack_fruit_coin_btn_text=광고보기
+gui_bird_ad_lack_egg_ticket_text=아니면 광고를보고 즉시 그립니다
+gui_bird_ad_lack_egg_ticket_btn_text=광고보기
+gui_bird_ad_skip_chest_cd_text=또는 무료로 광고를보십시오
+gui_bird_ad_skip_chest_cd_btn_text=광고보기
+gui_bird_ad_open_vip_chest_text=보물 상자에 대한 권한이 없습니까?\\n 또는 광고없는 경험을보십시오
+gui_bird_ad_open_vip_chest_btn_text=광고보기
+gui_bird_ad_add_bird_exp=조류에 %d 가지 경험을 추가 할 수있는 광고를 무료로 시청하십시오.

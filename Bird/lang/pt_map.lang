@@ -1584,3 +1584,15 @@ totalCollect=Total Collect
 dailyCollect=Daily Collect
 fightPoint=Fight Point
 gui_bird_pack_use_tool=Use
+
+gui_bird_capacity_full_expenditure=Mochila cheia
+
+gui_bird_ad_lack_fruit_coin_text=Ou assista ao anúncio imediatamente
+gui_bird_ad_lack_fruit_coin_btn_text=Assistir a anúncios
+gui_bird_ad_lack_egg_ticket_text=Ou assista a um anúncio e desenhe imediatamente
+gui_bird_ad_lack_egg_ticket_btn_text=Assistir a anúncios
+gui_bird_ad_skip_chest_cd_text=Ou assista a anúncios gratuitamente
+gui_bird_ad_skip_chest_cd_btn_text=Assistir a anúncios
+gui_bird_ad_open_vip_chest_text=Não há permissão para o baú do tesouro, ou ir à loja para comprar?\\n Ou assista à experiência sem anúncios
+gui_bird_ad_open_vip_chest_btn_text=Assistir a anúncios
+gui_bird_ad_add_bird_exp=Assista gratuitamente ao anúncio para adicionar %d experiências para o pássaro

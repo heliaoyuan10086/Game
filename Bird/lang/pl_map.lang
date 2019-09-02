@@ -1527,3 +1527,13 @@ fightPoint=Lista punktów walki
 gui_bird_pack_use_tool=Użyj
 
 gui_bird_capacity_full_expenditure=Pojemność plecaka osiąga górny limit
+
+gui_bird_ad_lack_fruit_coin_text=Lub obejrzyj reklamę natychmiast
+gui_bird_ad_lack_fruit_coin_btn_text=Oglądaj reklamy
+gui_bird_ad_lack_egg_ticket_text=Lub obejrzyj reklamę i narysuj natychmiast
+gui_bird_ad_lack_egg_ticket_btn_text=Oglądaj reklamy
+gui_bird_ad_skip_chest_cd_text=Lub oglądaj reklamy za darmo
+gui_bird_ad_skip_chest_cd_btn_text=Oglądaj reklamy
+gui_bird_ad_open_vip_chest_text=Nie ma pozwolenia na skrzynię skarbów lub iść do sklepu, aby kupić?\\n Lub obejrzyj reklamę bez reklam
+gui_bird_ad_open_vip_chest_btn_text=Oglądaj reklamy
+gui_bird_ad_add_bird_exp=Obejrzyj reklamę za darmo, aby dodać %d doświadczeń dla ptaka
