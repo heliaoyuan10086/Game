@@ -1522,11 +1522,11 @@ gui_bird_pack_use_tool=Use
 gui_bird_capacity_full_expenditure=Max capacity.
 
 gui_bird_ad_lack_fruit_coin_text=or watch AD to get it now
-gui_bird_ad_lack_fruit_coin_btn_text=Watch AD
+gui_bird_ad_lack_fruit_coin_btn_text=watch AD
 gui_bird_ad_lack_egg_ticket_text=or watch AD to get it now
-gui_bird_ad_lack_egg_ticket_btn_text=Watch AD
+gui_bird_ad_lack_egg_ticket_btn_text=watch AD
 gui_bird_ad_skip_chest_cd_text=or watch AD to open for free
-gui_bird_ad_skip_chest_cd_btn_text=Watch AD
+gui_bird_ad_skip_chest_cd_btn_text=watch AD
 gui_bird_ad_open_vip_chest_text=No authority to open the fruit coin chest, purchase in the store?\\n or watch AD to try for free
-gui_bird_ad_open_vip_chest_btn_text=Watch AD
-gui_bird_ad_add_bird_exp=Watch AD to increase %d exp for your bird
+gui_bird_ad_open_vip_chest_btn_text=watch AD
+gui_bird_ad_add_bird_exp=watch AD to increase %d exp for your bird

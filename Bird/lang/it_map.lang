@@ -1528,12 +1528,12 @@ gui_bird_pack_use_tool=uso
 
 gui_bird_capacity_full_expenditure=Zaino pieno
 
-gui_bird_ad_lack_fruit_coin_text=Oppure guarda l'annuncio immediatamente
-gui_bird_ad_lack_fruit_coin_btn_text=Guarda gli annunci
-gui_bird_ad_lack_egg_ticket_text=Oppure guarda un annuncio e disegna immediatamente
-gui_bird_ad_lack_egg_ticket_btn_text=Guarda gli annunci
-gui_bird_ad_skip_chest_cd_text=O guarda gli annunci gratuitamente
-gui_bird_ad_skip_chest_cd_btn_text=Guarda gli annunci
-gui_bird_ad_open_vip_chest_text=Non c'è permesso per il forziere o vai al negozio per comprare?\\n Oppure guarda l'esperienza gratuita dell'annuncio
-gui_bird_ad_open_vip_chest_btn_text=Guarda gli annunci
-gui_bird_ad_add_bird_exp=Guarda l'annuncio gratuitamente per aggiungere %d esperienze per l'uccello
+gui_bird_ad_lack_fruit_coin_text=o guarda AD per ottenerlo ora
+gui_bird_ad_lack_fruit_coin_btn_text=Guarda AD
+gui_bird_ad_lack_egg_ticket_text=o guarda AD per ottenerlo ora
+gui_bird_ad_lack_egg_ticket_btn_text=Guarda AD
+gui_bird_ad_skip_chest_cd_text=oppure guarda AD per aprire gratuitamente
+gui_bird_ad_skip_chest_cd_btn_text=Guarda AD
+gui_bird_ad_open_vip_chest_text=Nessuna autorità per aprire la cassa della moneta della frutta, acquistarla nel negozio?\\n oppure guarda AD per provare gratuitamente
+gui_bird_ad_open_vip_chest_btn_text=Guarda AD
+gui_bird_ad_add_bird_exp=guarda AD per aumentare di %d exp il tuo uccello

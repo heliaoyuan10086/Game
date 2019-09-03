@@ -1585,12 +1585,12 @@ gui_bird_pack_use_tool=Use
 
 gui_bird_capacity_full_expenditure=Mochila llena
 
-gui_bird_ad_lack_fruit_coin_text=O mira el anuncio de inmediato
-gui_bird_ad_lack_fruit_coin_btn_text=Ver anuncios
-gui_bird_ad_lack_egg_ticket_text=O mira un anuncio y dibuja de inmediato
-gui_bird_ad_lack_egg_ticket_btn_text=Ver anuncios
-gui_bird_ad_skip_chest_cd_text=O mira anuncios gratis
-gui_bird_ad_skip_chest_cd_btn_text=Ver anuncios
-gui_bird_ad_open_vip_chest_text=No hay permiso para el Cofre del Tesoro, o ir a la tienda a comprar?\\n O mira la experiencia sin anuncios
-gui_bird_ad_open_vip_chest_btn_text=Ver anuncios
-gui_bird_ad_add_bird_exp=Mira el anuncio gratis para agregar %d experiencias para el pájaro
+gui_bird_ad_lack_fruit_coin_text=o mira AD para obtenerlo ahora
+gui_bird_ad_lack_fruit_coin_btn_text=Ver AD
+gui_bird_ad_lack_egg_ticket_text=o mira AD para obtenerlo ahora
+gui_bird_ad_lack_egg_ticket_btn_text=Ver AD
+gui_bird_ad_skip_chest_cd_text=o mira AD para abrir gratis
+gui_bird_ad_skip_chest_cd_btn_text=Ver AD
+gui_bird_ad_open_vip_chest_text=No tiene autoridad para abrir el cofre de monedas de frutas, comprar en la tienda?\\n o mira AD para probar gratis
+gui_bird_ad_open_vip_chest_btn_text=Ver AD
+gui_bird_ad_add_bird_exp=mira AD para aumentar %d exp para tu pájaro

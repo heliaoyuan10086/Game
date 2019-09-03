@@ -1588,12 +1588,12 @@ gui_bird_pack_use_tool=Benutzen
 
 gui_bird_capacity_full_expenditure=Rucksack voll
 
-gui_bird_ad_lack_fruit_coin_text=Oder schauen Sie sich die Anzeige sofort an
-gui_bird_ad_lack_fruit_coin_btn_text=Anzeigen ansehen
-gui_bird_ad_lack_egg_ticket_text=Oder schauen Sie sich eine Anzeige an und zeichnen Sie sofort
-gui_bird_ad_lack_egg_ticket_btn_text=Anzeigen ansehen
-gui_bird_ad_skip_chest_cd_text=Oder schauen Sie sich kostenlos Werbung an
-gui_bird_ad_skip_chest_cd_btn_text=Anzeigen ansehen
-gui_bird_ad_open_vip_chest_text=Gibt es keine Erlaubnis für die Schatzkiste, oder in den Laden zu gehen, um sie zu kaufen?\\n Oder schauen Sie sich das werbefreie Erlebnis an
-gui_bird_ad_open_vip_chest_btn_text=Anzeigen ansehen
-gui_bird_ad_add_bird_exp=Sehen Sie sich die Anzeige kostenlos an, um %d Erlebnisse für den Vogel hinzuzufügen
+gui_bird_ad_lack_fruit_coin_text=oder schau dir AD an, um es jetzt zu bekommen
+gui_bird_ad_lack_fruit_coin_btn_text=AD ansehen
+gui_bird_ad_lack_egg_ticket_text=oder schau dir AD an, um es jetzt zu bekommen
+gui_bird_ad_lack_egg_ticket_btn_text=AD ansehen
+gui_bird_ad_skip_chest_cd_text=oder schauen Sie sich AD an, um es kostenlos zu öffnen
+gui_bird_ad_skip_chest_cd_btn_text=AD ansehen
+gui_bird_ad_open_vip_chest_text=Keine Berechtigung zum Öffnen der Obstkassette, Kauf im Laden?\\n oder schauen Sie sich AD an, um es kostenlos zu versuchen
+gui_bird_ad_open_vip_chest_btn_text=AD ansehen
+gui_bird_ad_add_bird_exp=Achte auf AD, um die Belichtung für deinen Vogel um %d zu erhöhen

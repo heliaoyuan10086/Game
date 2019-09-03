@@ -1588,12 +1588,12 @@ gui_bird_pack_use_tool=Use
 
 gui_bird_capacity_full_expenditure=Ba lô đầy đủ
 
-gui_bird_ad_lack_fruit_coin_text=Hoặc xem quảng cáo ngay lập tức
-gui_bird_ad_lack_fruit_coin_btn_text=Xem quảng cáo
-gui_bird_ad_lack_egg_ticket_text=Hoặc xem quảng cáo và vẽ ngay lập tức
-gui_bird_ad_lack_egg_ticket_btn_text=Xem quảng cáo
-gui_bird_ad_skip_chest_cd_text=Hoặc xem quảng cáo miễn phí
-gui_bird_ad_skip_chest_cd_btn_text=Xem quảng cáo
-gui_bird_ad_open_vip_chest_text=Không có sự cho phép của Rương kho báu, hay đến cửa hàng để mua?\\n or Hoặc xem trải nghiệm quảng cáo miễn phí
-gui_bird_ad_open_vip_chest_btn_text=Xem quảng cáo
-gui_bird_ad_add_bird_exp=Xem quảng cáo miễn phí để thêm %d trải nghiệm cho chim
+gui_bird_ad_lack_fruit_coin_text=hoặc xem AD để lấy ngay
+gui_bird_ad_lack_fruit_coin_btn_text=Xem AD
+gui_bird_ad_lack_egg_ticket_text=hoặc xem AD để lấy ngay
+gui_bird_ad_lack_egg_ticket_btn_text=Xem AD
+gui_bird_ad_skip_chest_cd_text=hoặc xem AD để mở miễn phí
+gui_bird_ad_skip_chest_cd_btn_text=Xem AD
+gui_bird_ad_open_vip_chest_text=Không có thẩm quyền để mở rương trái cây, mua trong cửa hàng?\\n hoặc xem AD để dùng thử miễn phí
+gui_bird_ad_open_vip_chest_btn_text=Xem AD
+gui_bird_ad_add_bird_exp=xem AD để tăng %d điểm kinh nghiệm cho chú chim của bạn

@@ -1588,12 +1588,12 @@ gui_bird_pack_use_tool=Use
 
 gui_bird_capacity_full_expenditure=Ransel penuh
 
-gui_bird_ad_lack_fruit_coin_text=Atau segera tonton iklannya
-gui_bird_ad_lack_fruit_coin_btn_text=Tonton iklan
-gui_bird_ad_lack_egg_ticket_text=Atau tonton iklan dan gambarlah dengan segera
-gui_bird_ad_lack_egg_ticket_btn_text=Tonton iklan
-gui_bird_ad_skip_chest_cd_text=Atau tonton iklan gratis
-gui_bird_ad_skip_chest_cd_btn_text=Tonton iklan
-gui_bird_ad_open_vip_chest_text=Tidak ada izin untuk Peti Harta Karun, atau pergi ke toko untuk membeli?\\n Atau saksikan pengalaman bebas iklan
-gui_bird_ad_open_vip_chest_btn_text=Tonton iklan
-gui_bird_ad_add_bird_exp=Tonton iklan gratis untuk menambahkan %d pengalaman untuk burung
+gui_bird_ad_lack_fruit_coin_text=atau tonton AD untuk mendapatkannya sekarang
+gui_bird_ad_lack_fruit_coin_btn_text=menonton AD
+gui_bird_ad_lack_egg_ticket_text=atau tonton AD untuk mendapatkannya sekarang
+gui_bird_ad_lack_egg_ticket_btn_text=menonton AD
+gui_bird_ad_skip_chest_cd_text=atau tonton AD untuk dibuka secara gratis
+gui_bird_ad_skip_chest_cd_btn_text=menonton AD
+gui_bird_ad_open_vip_chest_text=Tidak ada otoritas untuk membuka peti koin buah, beli di toko?\\n atau tonton AD untuk mencoba secara gratis
+gui_bird_ad_open_vip_chest_btn_text=menonton AD
+gui_bird_ad_add_bird_exp=tonton AD untuk menambah %d exp untuk burung Anda

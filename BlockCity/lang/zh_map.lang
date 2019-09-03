@@ -536,8 +536,7 @@ gui_blockcity_shop_coin3=6000领域币
 gui_blockcity_shop_coin4=12000领域币
 gui_blockcity_shop_coin5=65000领域币
 gui_blockcity_shop_coin6=150000领域币
-gui_blockcity_use_realm_coin_tip=
-尊敬的领域之城玩家：\\n为了给您更好的游戏体验，我们已把游戏内的货币更换为领域币，让您在领域之城内的消费不会减少平台内的金币。\\n同时我们会增加游戏内的领域币获取途径，让您可以在游戏中轻松获得游戏币。\\n祝您游戏愉快。
+gui_blockcity_use_realm_coin_tip=尊敬的领域之城玩家：\\n为了给您更好的游戏体验，我们已把游戏内的货币更换为领域币，让您在领域之城内的消费不会减少平台内的金币。\\n同时我们会增加游戏内的领域币获取途径，让您可以在游戏中轻松获得游戏币。\\n祝您游戏愉快。
 fly_msg_ad=5分钟
 gui_cd_free=观看广告抽奖
 

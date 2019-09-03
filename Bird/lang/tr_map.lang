@@ -1588,12 +1588,12 @@ gui_bird_pack_use_tool=Use
 
 gui_bird_capacity_full_expenditure=Sırt çantası dolu
 
-gui_bird_ad_lack_fruit_coin_text=Veya hemen reklamı izleyin
-gui_bird_ad_lack_fruit_coin_btn_text=Reklamları izle
-gui_bird_ad_lack_egg_ticket_text=Veya bir reklam izleyin ve hemen çizin
-gui_bird_ad_lack_egg_ticket_btn_text=Reklamları izle
-gui_bird_ad_skip_chest_cd_text=Veya ücretsiz reklamları izleyin
-gui_bird_ad_skip_chest_cd_btn_text=Reklamları izle
-gui_bird_ad_open_vip_chest_text=Treasure Chest için izin yok veya satın almak için dükkana gidiyorum?\\n Veya reklam ücretsiz deneyimini izleyin
-gui_bird_ad_open_vip_chest_btn_text=Reklamları izle
-gui_bird_ad_add_bird_exp=Kuşa %d deneyim eklemek için reklamı ücretsiz izleyin
+gui_bird_ad_lack_fruit_coin_text=veya AD’yi hemen izlemek için izleyin
+gui_bird_ad_lack_fruit_coin_btn_text=AD izle
+gui_bird_ad_lack_egg_ticket_text=veya AD’yi hemen izlemek için izleyin
+gui_bird_ad_lack_egg_ticket_btn_text=AD izle
+gui_bird_ad_skip_chest_cd_text=veya AD’yi ücretsiz olarak açmak için izleyin
+gui_bird_ad_skip_chest_cd_btn_text=AD izle
+gui_bird_ad_open_vip_chest_text=Mağazada satın almak için meyve parası sandığı açma yetkisi yok mu?\\n veya AD'yi ücretsiz denemek için izleyin
+gui_bird_ad_open_vip_chest_btn_text=AD izle
+gui_bird_ad_add_bird_exp=kuş için %d exp artırmak için AD izle
