@@ -536,7 +536,7 @@ gui_blockcity_shop_coin3=6000 Champ monnaie
 gui_blockcity_shop_coin4=12000 Champ monnaie
 gui_blockcity_shop_coin5=65000 Champ monnaie
 gui_blockcity_shop_coin6=150000 Champ monnaie
-gui_blockcity_use_realm_coin_tip=Chers joueurs de Realm City,\\nAfin de vous offrir une meilleure expérience de jeu, nous avons remplacé la pièce en or du jeu par la pièce du royaume, afin que votre consommation dans la ville du royaume ne réduise pas le nombre de pièces en or de la plate-forme Blockman Go.\\nEn même temps, nous augmenterons l’accès aux pièces de royaume dans le jeu, afin que vous puissiez facilement obtenir de l’argent dans le jeu.\\nJe vous souhaite un bon jeu. 
+gui_blockcity_use_realm_coin_tip=Chers joueurs de Realm City:\\nPour une meilleure expérience de jeu,Nous avons changé la devise en devise,Ne laissez pas votre consommation réduire les pièces d'or dans la plate-forme\\nEn même temps, nous augmenterons l’accès aux pièces de royaume dans le jeu,Facile d'obtenir la monnaie du jeu.\\nJe vous souhaite un bon jeu.
 fly_msg_ad=5 min
 gui_cd_free=Regarder AD pour ouvrir
 

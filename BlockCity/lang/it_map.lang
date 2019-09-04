@@ -536,7 +536,7 @@ gui_blockcity_shop_coin3=6000 Campo valuta
 gui_blockcity_shop_coin4=12000 Campo valuta
 gui_blockcity_shop_coin5=65000 Campo valuta
 gui_blockcity_shop_coin6=150000 Campo valuta
-gui_blockcity_use_realm_coin_tip=Cari giocatori di Realm City:\\nPer offrirti un'esperienza di gioco migliore, abbiamo sostituito la moneta d'oro in-game con la moneta Realm, in modo che il tuo consumo in Realm City non riduca le monete d'oro nella piattaforma Blockman Go.\\nAllo stesso tempo, aumenteremo l'accesso alle monete del regno nel gioco, in modo da poter ottenere facilmente soldi nel gioco.\\nTi auguro un gioco felice. 
+gui_blockcity_use_realm_coin_tip=Cari giocatori di Realm City:\\nPer offrirti un'esperienza di gioco migliore,abbiamo sostituito la moneta d'oro in-game con la moneta Realm,lascia che il tuo consumo non riduca le monete d'oro nella piattaforma\\nAllo stesso tempo, aumenteremo l'accesso alle monete del regno nel gioco, È più facile ottenere la valuta del gioco.\\nTi auguro un gioco felice.
 fly_msg_ad=5 min
 gui_cd_free=Guarda AD per aprire
 
