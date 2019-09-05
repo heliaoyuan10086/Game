@@ -538,7 +538,7 @@ gui_blockcity_shop_coin5=65000 フィールドコイン
 gui_blockcity_shop_coin6=150000 フィールドコイン
 gui_blockcity_use_realm_coin_tip=親愛なるフィールドシティプレイヤー：\\nより良いゲーム体験を提供するために、ゲームの通貨を通貨に変更しました。これにより、フィールドの街で消費してもプラットフォーム内の金貨が減らないようになっています。\\n同時に、ゲーム内のドメイン通貨へのアクセスを増やして、ゲーム内でゲーム通貨を簡単に取得できるようにします。\\n幸せなゲームをお祈りします。 」
 fly_msg_ad=5 min
-gui_cd_free=ADが開くのを見る
+gui_cd_free=広告を見る
 
 language_end:system
 

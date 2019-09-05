@@ -538,7 +538,7 @@ gui_blockcity_shop_coin5=65000 Campo Moeda
 gui_blockcity_shop_coin6=150000 Campo Moeda
 gui_blockcity_use_realm_coin_tip=Queridos jogadores da Realm City:\\nPara uma melhor experiência de jogo,substituímos a moeda de ouro do jogo pela Realm Coin,Deixe seu consumo não reduzir as moedas de ouro na plataforma\\nAo mesmo tempo, aumentaremos o acesso ao Realm Coins no jogo, para que você possa ganhar dinheiro facilmente no jogo.\\nDesejo-lhe um bom jogo.
 fly_msg_ad=5 min
-gui_cd_free=Assista ao AD para abrir
+gui_cd_free=Assistir \\na anúncios
 
 language_end:system
 

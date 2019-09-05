@@ -538,7 +538,7 @@ gui_blockcity_shop_coin5=65000 поле валюта
 gui_blockcity_shop_coin6=150000 поле валюта
 gui_blockcity_use_realm_coin_tip=Дорогие игроки Realm City:\\nДля лучшего игрового опыта, мы заменили в игре Gold Coin на Realm Coin,Пусть ваше потребление не уменьшит золотые монеты на платформе\\nВ то же время мы расширим доступ к монетам Царства в игре, Легко получить игровые монеты.\\nЖелаю вам счастливой игры.
 fly_msg_ad=5 min
-gui_cd_free=смотреть AD, чтобы открыть
+gui_cd_free=Смотреть\\n рекламу
 
 language_end:system
 

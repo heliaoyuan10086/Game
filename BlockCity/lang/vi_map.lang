@@ -538,7 +538,7 @@ gui_blockcity_shop_coin5=65000 Tiền tệ trường
 gui_blockcity_shop_coin6=150000 Tiền tệ trường
 gui_blockcity_use_realm_coin_tip=Kính gửi người chơi thành phố Realm:\\nĐể có trải nghiệm chơi game tốt hơn,chúng tôi đã thay thế Gold Coin trong trò chơi bằng Realm Coin,Hãy để mức tiêu thụ của bạn không làm giảm các đồng tiền vàng trong nền tảng.\\nĐồng thời, chúng tôi sẽ tăng quyền truy cập vào Realm Coins trong trò chơi,Dễ dàng nhận được tiền xu trò chơi.\\nChúc bạn chơi game vui vẻ.
 fly_msg_ad=5 min
-gui_cd_free=xem AD để mở
+gui_cd_free=Xem quảng\\n cáo
 
 language_end:system
 
