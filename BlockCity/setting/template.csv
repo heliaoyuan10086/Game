@@ -21,7 +21,7 @@
 	2521	drawing_name_21	123	landscape_32_03	1	1	5	Landscape_03_1x1x5-0.schematic	blueprint.mesh
 	2520	drawing_name_20	123	landscape_32_02	3	3	5	Landscape_02_3x3x5-0.schematic	blueprint.mesh
 	2525	drawing_name_25	123	landscape_32_07	2	2	8	Landscape_07_2x2x8-0.schematic	blueprint.mesh
-	2524	drawing_name_24	123	landscape_32_06	3	3	4	Landscape_06_3x3x4-0.schematic	blueprint.mesh
+	2524	drawing_name_24	123	landscape_32_06	3	3	3	Landscape_06_3x3x4-0.schematic	blueprint.mesh
 	2528	drawing_name_28	123	landscape_32_10	5	5	7	Landscape_10_5x5x7-0.schematic	blueprint.mesh
 	2527	drawing_name_27	123	landscape_32_09	5	5	6	Landscape_09_5x5x6-0.schematic	blueprint.mesh
 	2522	drawing_name_22	123	landscape_32_04	5	5	2	Landscape_04_5x5x2-1.schematic	blueprint.mesh
