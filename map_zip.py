@@ -11,7 +11,7 @@ def to_lf(path, isLF, encoding = 'utf-8'):
     """
     newline = '\n' if isLF else '\r\n'
     tp = 'Unix(LF)' if isLF else 'Windows(CRLF)'
-    with open(path, newline=None, encoding=encoding) as infile:
+    with open(path, newline=None, encoding='utf-8-sig') as infile:
         str = infile.readlines()
         with open(path, 'w', newline=newline, encoding=encoding) as outfile:
             outfile.writelines(str)
