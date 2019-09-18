@@ -11,7 +11,7 @@ def to_lf(path, isLF, encoding = 'utf-8'):
     """
     newline = '\n' if isLF else '\r\n'
     tp = 'Unix(LF)' if isLF else 'Windows(CRLF)'
-    with open(path, newline=None, encoding=encoding) as infile:
+    with open(path, newline=None, encoding='utf-8-sig') as infile:
         str = infile.readlines()
         with open(path, 'w', newline=newline, encoding=encoding) as outfile:
             outfile.writelines(str)
@@ -22,7 +22,7 @@ def change_encode(dirName):
     isLF = True  # True 转为Unix(LF)  False 转为Windows(CRLF)
     for dir, dirs, files in os.walk(rootPath):
         for fs in files:
-            if fs.find(".yml") >= 0 :
+            if fs.find(".yml") >= 0 or fs.find(".lang") >= 0 :
                 path = os.path.join(dir, fs)
                 to_lf(path, isLF)
 
