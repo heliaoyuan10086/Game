@@ -1,0 +1,17 @@
+{
+	"gtype": "g2020",
+	"dataDir": "./../../../App/Game",
+	"/dataDir": "game_release",
+	"/gtype": "sample",
+	"/dataDir": "game",
+	"debugTrigger": false,
+	"/serverIp": "192.168.0.30",
+	"serverIp": "127.0.0.1",
+	"/monitorAddr": "",
+	"gameDataServiceAddr": "http://dev.mods.sandboxol.cn:8910",
+	"blockymodsUrl": "http://dev.mods.sandboxol.cn",
+	"secret": "pq0194mxoqfh48L362G6R09T737E273X",
+	"debug": true,
+	"gm": true,
+	"/testServer":true
+}
