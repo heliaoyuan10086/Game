@@ -20,15 +20,8 @@
   "minPlayers": 1,
   "vars": {
     "global": [
-        
     ],
     "entity": [
-        {
-            "key": "acceptCounts", 
-            "value": 0,
-            "type": "Int", 
-            "save": false
-        } 
    ]
   }
 }
