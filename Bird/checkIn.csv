@@ -1,9 +1,0 @@
-签到天数	奖励id1	类型(0代表果币，抽蛋票，食物，1采集器，2存储灌，3装饰， 4翅膀)	奖励数量1	奖励1图标	奖励1多语言	奖励id2	类型(0代表果币，抽蛋票，食物，1采集器，2存储灌，3装饰， 4翅膀)	奖励数量2	奖励2图标	奖励2多语言
-day	rewardId1	type1	num1	icon1	name1	rewardId2	type2	num2	icon2	name2
-1	9000001	0	1000	set:bird_icon.json image:xinshoulibao_01	teamname_405	9000001	0	2000	set:bird_icon.json image:xinshoulibao_01	teamname_405
-2	1041001	0	20	set:bird_icon.json image:storeitem_04	fruitcoin_1041001	1041001	0	30	set:bird_icon.json image:storeitem_04	fruitcoin_1041001
-3	9000002	0	10	set:bird_icon.json image:xinshoulibao_02	teamname_401	9000002	0	20	set:bird_icon.json image:xinshoulibao_02	teamname_401
-4	9000001	0	5000	set:bird_icon.json image:xinshoulibao_01	teamname_405	9000001	0	10000	set:bird_icon.json image:xinshoulibao_01	teamname_405
-5	1041009	0	10	set:bird_icon.json image:storeitem_09	fruitcoin_1041009	1041009	0	20	set:bird_icon.json image:storeitem_09	fruitcoin_1041009
-6	9000002	0	30	set:bird_icon.json image:xinshoulibao_02	teamname_401	1041010	0	30	set:bird_icon.json image:storeitem_07	fruitcoin_1041010
-7	4004	4	1	set:bird_icon.json image:wing_02	item.wings_03.name	9000002	0	50	set:bird_icon.json image:xinshoulibao_02	teamname_401

@@ -1,9 +1,0 @@
-	Id	Icon	Name	Content
-中文备注	Id	图标	标题	内容
-采集	1	set:help_icon.json image:help_01	helptitle.text_01	help.text_01
-转换	2	set:help_icon.json image:help_02	helptitle.text_02	help.text_02
-喂食	3	set:help_icon.json image:help_03	helptitle.text_03	help.text_03
-战斗	4	set:help_icon.json image:help_04	helptitle.text_04	help.text_04
-翅膀	5	set:help_icon.json image:help_05	helptitle.text_05	help.text_05
-区域门	6	set:help_icon.json image:help_06	helptitle.text_06	help.text_06
-大炮	7	set:help_icon.json image:help_07	helptitle.text_07	help.text_07

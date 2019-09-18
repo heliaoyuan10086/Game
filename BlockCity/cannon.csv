@@ -1,6 +1,0 @@
-模型Id	模型名称	body	bodyId	初始位置x	初始位置y	初始位置z	落地点位置x	落地点位置y	落地点位置z	(y1-y的高度) + 增量的高度	UI显示的文字（点击前）	UI显示的文字（点击后）	UI显示的图片（点击前）	UI显示的图片（点击后）
-id	actor	body	bodyId	x	y	z	x1	y1	z1	addHeight	tipNor	tipPre	imageNor	imagePre
-1	g1041_cannon.actor	body	4	-648.5	34	-300.5	-699.5	34	-254.5	30	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@
-2	g1041_cannon.actor	body	2	-770.5	34	-300.5	-719.5	34	-254.5	30	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@
-3	g1041_cannon.actor	body	1	-770.5	34	-159.5	-766.5	34	-305.5	30	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@
-4	g1041_cannon.actor	body	3	-648.5	34	-159.5	-652.5	34	-305.5	30	gui_blockcity_open_cannon	gui_blockcity_open_cannon	@@@	@@@

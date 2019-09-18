@@ -1,8 +1,0 @@
-等级	标签页	标签页图标	标签页名字	商品名称	货品类型	货品子ID	货币数量	货币类型(1魔方，2金币，3绿钞）	售卖价格	联机平台价格（0即可）	默认-1
-level	type	icon	name	desc	itemId	itemMeta	itemNum	coinId	blockmodsPrice	blockmanPrice	limit
-1	0	set:items_gui.json image:diamond	gui_blockcity_shop_tab	gui_blockcity_shop_coin1	10000	0	100	1	1	0	-1
-2	0	set:items_gui.json image:diamond	gui_blockcity_shop_tab	gui_blockcity_shop_coin2	10000	0	1100	1	10	0	-1
-3	0	set:items_gui.json image:diamond	gui_blockcity_shop_tab	gui_blockcity_shop_coin3	10000	0	6000	1	50	0	-1
-4	0	set:items_gui.json image:diamond	gui_blockcity_shop_tab	gui_blockcity_shop_coin4	10000	0	12000	1	100	0	-1
-5	0	set:items_gui.json image:diamond	gui_blockcity_shop_tab	gui_blockcity_shop_coin5	10000	0	65000	1	500	0	-1
-6	0	set:items_gui.json image:diamond	gui_blockcity_shop_tab	gui_blockcity_shop_coin6	10000	0	150000	1	1000	0	-1
