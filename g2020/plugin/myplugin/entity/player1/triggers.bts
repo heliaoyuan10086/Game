@@ -1,36 +1,25 @@
 ENTITY_ENTER
 {
-    $obj1.getRewardCount = 1
-    $level = $obj1.getRewardCount
-    $arraySize = ArraySize(array = @CDReward)
-
-    If($level > $arraySize)
-    {
-        $level = $arraySize
-    }
-
-    $rewardArray = ArrayGet(array = @CDReward, index = $level)
-    $cdTime = ArrayGet(array = $rewardArray, index = 1)
-    $money = ArrayGet(array = $rewardArray, index = 2)
-
-    StartTimer(rep = false, time = $cdTime, object = $obj1, event = "ADD_MONEY")
+    $obj1.getRewardCount = 0
+    CallTrigger(event = "ADD_MONEY", object = $obj1)
 }
 
 ADD_MONEY
 {
-    $level = $obj1.getRewardCount
+    $obj1.getRewardCount = $obj1.getRewardCount + 1
+    $count = $obj1.getRewardCount
     $arraySize = ArraySize(array = @CDReward)
-
-    If($level > $arraySize)
+    If($count > $arraySize)
     {
-        $level = $arraySize
+        $count = $arraySize
     }
-    $rewardArray = ArrayGet(array = @CDReward, index = $level)
+    $rewardArray = ArrayGet(array = @CDReward, index = $count)
     $cdTime = ArrayGet(array = $rewardArray, index = 1)
     $money = ArrayGet(array = $rewardArray, index = 2)
 
-    AddCurrency(count = $money, coinName = "green_currency", entity = $obj1)
+    If($count > 1)
+    {
+        AddCurrency(count = $money, coinName = "green_currency", entity = $obj1)
+    }
     StartTimer(rep = false, time = $cdTime, object = $obj1, event = "ADD_MONEY")
-
-    $obj1.getRewardCount = $obj1.getRewardCount + 1
 }
