@@ -1,7 +1,3 @@
 {
-  "actorName": "boy.actor",
-  "saveVars": {
-    "rewardCounts" : 1,
-    "rewardDay" : "0" 
-  }
+  "actorName": "boy.actor"
 }

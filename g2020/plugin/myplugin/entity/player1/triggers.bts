@@ -1,11 +1,14 @@
 ENTITY_ENTER
 {
+    $obj1.isReadyReward = false
     CallTrigger(event = "ADD_MONEY", object = $obj1)
 }
 
 ADD_MONEY
 {
+    
     $today = Concat(p1 = GetYear(time = GetTime()), p2 = GetDayOfYear(time = GetTime()))
+
     If($today ~= $obj1.rewardDay)
     {
         $obj1.rewardCounts = 1
@@ -22,10 +25,11 @@ ADD_MONEY
     $cdTime = ArrayGet(array = $rewardArray, index = 1)
     $money = ArrayGet(array = $rewardArray, index = 2)
 
-    If($count > 1)
+    If($count > 1 and $obj1.isReadyReward)
     {
         AddCurrency(count = $money, coinName = "green_currency", entity = $obj1)
     }
     StartTimer(rep = false, time = $cdTime, object = $obj1, event = "ADD_MONEY")
     $obj1.rewardCounts = $obj1.rewardCounts + 1
+    $obj1.isReadyReward = true
 }

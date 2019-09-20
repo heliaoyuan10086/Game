@@ -32,6 +32,8 @@
     "global": [
     ],
     "entity": [
+      {"key": "rewardCounts", "value": 1, "save": true},
+      {"key": "rewardDay", "value": "0", "save": true}
    ]
   }
 }
