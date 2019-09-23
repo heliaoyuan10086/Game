@@ -55,3 +55,11 @@ flyingAdReward: 300
 
 #玩家第一次进入游戏免费赠送的绿钞
 freeR_Currency: 3000
+
+#赛车时，玩家A与B的起跑位置和比赛车辆
+RaceInitInfo:
+    raceVehicleType: 2
+    StartLine:
+        posAndYaw: [-453, 36, -296, 270]
+        posAndYaw: [-453, 36, -286, 270]
+
