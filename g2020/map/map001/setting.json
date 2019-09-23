@@ -1,5 +1,22 @@
 {
   "canAttack": true,
   "canBreak": true,
-  "placeTestBlock": "myplugin/stone"
+  "placeTestBlock": "myplugin/stone",
+  "region":{
+        "home_area_1":{
+            "regionCfg":"myplugin/bgm",
+            "box":{
+                "min":{
+                    "x":1640,
+                    "y":13,
+                    "z":-574
+                },
+                "max":{
+                    "x":1660,
+                    "y":30,
+                    "z":-560
+                }
+            }
+        }
+	}
 }

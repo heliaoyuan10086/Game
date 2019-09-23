@@ -1,0 +1,11 @@
+{
+    "needSave": false,
+	"unassailable": 5,
+    "undamageable": 5,
+	"sound":{
+		"volume": 10,
+        "loop": true,
+		"selfOnly": true,
+        "sound": "gamebgm.mp3"
+	}
+}

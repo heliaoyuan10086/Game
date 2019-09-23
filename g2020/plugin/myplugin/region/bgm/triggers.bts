@@ -1,0 +1,5 @@
+REGION_ENTER {
+
+	Test("111111111")
+	AddEntityBuff(cfg = "myplugin/win_buff", entity = $obj1)
+}
