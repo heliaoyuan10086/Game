@@ -6,7 +6,7 @@ ENTITY_ENTER
 
 ADD_MONEY
 {  
-    $today = Concat(p1 = GetYear(time = GetTime()), p2 = GetDayOfYear(time = GetTime()))
+    $today = GetYearDayStr(time = GetTime())
 
     If($today ~= $obj1.rewardDay)
     {
