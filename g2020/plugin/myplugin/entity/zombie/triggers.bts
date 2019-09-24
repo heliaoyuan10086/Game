@@ -1,0 +1,4 @@
+ENTITY_CLICK (debug = false){
+	$store = GetConfigVar(key = "openStore", obj = $obj1)
+	ShowStore(player = $obj2, store = $store)
+}

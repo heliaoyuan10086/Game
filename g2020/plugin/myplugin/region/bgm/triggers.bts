@@ -1,5 +1,9 @@
 REGION_ENTER {
+    $tip = GetRegionConfig(key = "tip", region = $region)
+	ShowRegionTip(player = $obj1, cfg = $tip, isShow = true)
+}
 
-	Test("111111111")
-	AddEntityBuff(cfg = "myplugin/win_buff", entity = $obj1)
+REGION_LEAVE {
+	$tip = GetRegionConfig(key = "tip", region = $region)
+    ShowRegionTip(player = $obj1, cfg = $tip, isShow = false)
 }

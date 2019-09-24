@@ -1,0 +1,10 @@
+{
+    "actorName": "g2007_lvmaoguai.actor",
+    "clickDistance": 5,
+    "canClick": true,
+    "hpBarColor": 0,
+    "openStore" : {
+        "storeId" : 1,
+        "itemIndex" : 1
+    }
+}
