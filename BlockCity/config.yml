@@ -62,4 +62,7 @@ RaceInitInfo:
     StartLine:
         posAndYaw: [-453, 36, -296, 270]
         posAndYaw: [-453, 36, -286, 270]
+    EndLine:
+    #pos=[x1, y1, z1, x2, y2, z2]
+        pos: [-264, 33, -205, -234, 40, -190]
 
