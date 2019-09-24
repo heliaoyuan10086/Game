@@ -3,8 +3,8 @@
   "canBreak":true,
   "placeTestBlock":"myplugin/stone",
   "region":{
-    "home_area_1":{
-      "regionCfg":"myplugin/bgm",
+    "store1":{
+      "regionCfg":"myplugin/store1",
       "box":{
         "min":{
           "x":1640,

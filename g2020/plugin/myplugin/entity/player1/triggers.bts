@@ -1,7 +1,10 @@
 ENTITY_ENTER
 {
-    $obj1.isReadyReward = false
-    CallTrigger(event = "ADD_MONEY", object = $obj1)
+    If(IsPlayer(entity = $obj1))
+    {
+        $obj1.isReadyReward = false
+        CallTrigger(event = "ADD_MONEY", object = $obj1)
+    }
 }
 
 ADD_MONEY

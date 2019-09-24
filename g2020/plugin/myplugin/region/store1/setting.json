@@ -9,5 +9,6 @@
             "storeId" : 1,
             "itemIndex" : 1
         }
-    }
+    },
+    "base":"base_store"
 }
