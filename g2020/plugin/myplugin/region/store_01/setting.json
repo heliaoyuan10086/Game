@@ -1,4 +1,5 @@
 {
+    "base":"store_base",
     "tip" : {
         "icon" : "set:region_tip.json image:click",
         "tipNor" : "set:region_tip.json image:tip_nor",
@@ -9,6 +10,5 @@
             "storeId" : 1,
             "itemIndex" : 1
         }
-    },
-    "base":"base_store"
+    }
 }

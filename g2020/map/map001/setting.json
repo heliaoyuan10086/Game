@@ -3,8 +3,8 @@
   "canBreak":true,
   "placeTestBlock":"myplugin/stone",
   "region":{
-    "store1":{
-      "regionCfg":"myplugin/store1",
+    "store_01":{
+      "regionCfg":"myplugin/store_01",
       "box":{
         "min":{
           "x":1640,
@@ -21,7 +21,7 @@
   },
   "entity":[
     {
-      "cfg":"myplugin/zombie",
+      "cfg":"myplugin/store_item_wing_01",
       "pitch":0,
       "pos":{
         "x":1666,

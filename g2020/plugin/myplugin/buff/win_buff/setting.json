@@ -1,8 +1,0 @@
-{
-	"sound": {
-		"sound": "win.mp3",
-		"loop": false,
-		"volume": 1,
-		"selfOnly": 1
-	}
-}
