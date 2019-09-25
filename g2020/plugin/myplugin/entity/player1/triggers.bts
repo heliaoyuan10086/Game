@@ -33,5 +33,6 @@ ADD_MONEY
         $obj1.rewardCounts = $obj1.rewardCounts + 1
     }
     StartTimer(rep = false, time = $cdTime, object = $obj1, event = "ADD_MONEY")
+    ShowRewardCD(player = $obj1, time = $cdTime)
     $obj1.isReadyReward = true
 }
