@@ -543,6 +543,8 @@ fly_msg_ad=5分钟
 gui_cd_free=观看广告
 gui_offline=离线
 gui_language=语言:%s
+gui_portal_title=传送门
+gui_portal_transfer_fail=传送失败，传送目的地尚未开放！
 gui_broadcast_race_vehicle_msg=%s ha sconfitto %s nella competizione agonistica
 
 language_end:system
