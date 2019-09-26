@@ -58,11 +58,26 @@ freeR_Currency: 3000
 
 #赛车时，玩家A与B的起跑位置和比赛车辆
 RaceInitInfo:
-    raceVehicleType: 2
+    forwardDis: 20
+    raceVehicleType: 7
     StartLine:
-        posAndYaw: [-453, 36, -296, 270]
-        posAndYaw: [-453, 36, -286, 270]
+        -
+            posAndYaw: [-453, 36, -298, 270]
+        -
+            posAndYaw: [-453, 36, -290, 270]
+        -
+            posAndYaw: [-453, 36, -294, 270]
+        -
+            posAndYaw: [-453, 36, -286, 270]
+        -
+            posAndYaw: [-457, 36, -296, 270]
+        -
+            posAndYaw: [-457, 36, -288, 270]
+        -
+            posAndYaw: [-457, 36, -292, 270]
+        -
+            posAndYaw: [-457, 36, -284, 270]
     EndLine:
     #pos=[x1, y1, z1, x2, y2, z2, 冲线朝向(0, 90, 180, 270)]
-        pos: [-264, 33, -205, -234, 40, -190, 270]
+        pos: [-264, 33, -205, -234, 40, -190, 90]
 
