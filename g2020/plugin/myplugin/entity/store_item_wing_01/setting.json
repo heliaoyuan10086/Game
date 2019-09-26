@@ -4,8 +4,8 @@
     "clickDistance": 5,
     "canClick": true,
     "hpBarColor": 0,
-    "openStore" : {
-        "storeId" : 1,
-        "itemIndex" : 1
+    "openStore": {
+        "storeId": 1,
+        "itemIndex": 1
     }
 }

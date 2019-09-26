@@ -1,34 +1,34 @@
 {
-  "canAttack":true,
-  "canBreak":true,
-  "placeTestBlock":"myplugin/stone",
-  "region":{
-    "store_01":{
-      "regionCfg":"myplugin/store_01",
-      "box":{
-        "min":{
-          "x":1640,
-          "y":13,
-          "z":-574
-        },
-        "max":{
-          "x":1660,
-          "y":30,
-          "z":-560
+    "canAttack": true,
+    "canBreak": true,
+    "placeTestBlock": "myplugin/stone",
+    "region": {
+        "store_01": {
+            "regionCfg": "myplugin/store_01",
+            "box": {
+                "min": {
+                    "x": 1640,
+                    "y": 13,
+                    "z": -574
+                },
+                "max": {
+                    "x": 1660,
+                    "y": 30,
+                    "z": -560
+                }
+            }
         }
-      }
-    }
-  },
-  "entity":[
-    {
-      "cfg":"myplugin/store_item_wing_01",
-      "pitch":0,
-      "pos":{
-        "x":1666,
-        "y":13,
-        "z":-560
-      },
-      "ry":0
-    }
-  ]
+    },
+    "entity": [
+        {
+            "cfg": "myplugin/store_item_wing_01",
+            "pitch": 0,
+            "pos": {
+                "x": 1666,
+                "y": 13,
+                "z": -560
+            },
+            "ry": 0
+        }
+    ]
 }
