@@ -543,6 +543,7 @@ fly_msg_ad=5分钟
 gui_cd_free=观看广告
 gui_offline=离线
 gui_language=语言:%s
+gui_broadcast_race_vehicle_msg=%s ha sconfitto %s nella competizione agonistica
 
 language_end:system
 
