@@ -546,7 +546,12 @@ gui_language=语言:%s
 gui_portal_title=传送门
 gui_portal_transfer_fail=传送失败，传送目的地尚未开放！
 gui_broadcast_race_vehicle_msg=%s ha sconfitto %s nella competizione agonistica
-gui_blockcity_disagree_race=对方拒绝赛车竞赛
+gui_blockcity_disagree_race=%s拒绝赛车竞赛
+gui_blockcity_notFreeLines=没有空闲跑道
+gui_blockcity_targetWaitAns=邀请失败\\n对方正在等待竞赛
+gui_blockcity_waitTargetAns=邀请失败\\n等待%s回复
+gui_blockcity_ansInvitor=邀请失败\\n请先回复%s
+gui_
 
 language_end:system
 
