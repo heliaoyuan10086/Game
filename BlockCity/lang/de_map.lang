@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 Feld münze
 gui_blockcity_use_realm_coin_tip=Liebe Realm City Spieler:\\nUm Ihnen ein besseres Spielerlebnis,Wir haben die Währung auf FeldMünze geändert,Lassen Sie Ihren Verbrauch die Goldmünzen auf der Plattform nicht reduzieren\\nGleichzeitig erhöhen wir den Zugang zu den Reichsmünzen im Spiel, so dass Sie leicht Geld im Spiel bekommen können.\\nWünsche dir ein frohes Spiel.
 fly_msg_ad=5 min
 gui_cd_free=Anzeigen \\nansehen
+gui_broadcast_race_vehicle_msg=%s besiegte %s im Rennwettbewerb
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 

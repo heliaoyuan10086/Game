@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 สนาม เงินตรา
 gui_blockcity_use_realm_coin_tip=ถึงผู้เล่น Realm City:\\nเพื่อให้คุณได้รับประสบการณ์การเล่นเกมที่ดียิ่งขึ้นเราได้เปลี่ยน Gold Coin ในเกมเป็น Realm Coin เพื่อให้การบริโภคของคุณใน Realm City ไม่ลดเหรียญทองในแพลตฟอร์ม Blockman Go\\nในเวลาเดียวกันเราจะเพิ่มการเข้าถึง Realm Coins ในเกมเพื่อให้คุณสามารถรับเงินในเกมได้อย่างง่ายดาย\\nขอให้คุณมีความสุขในเกม
 fly_msg_ad=5 min
 gui_cd_free=ดูโฆษณา
+gui_broadcast_race_vehicle_msg=%s เอาชนะ %s ในการแข่งขัน
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 

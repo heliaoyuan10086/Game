@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 필드 코인
 gui_blockcity_use_realm_coin_tip=Realm City 플레이어 여러분 :\\n더 나은 게임 경험을 제공하기 위해 게임 내 골드 코인을 Realm 코인으로 교체하여 Realm City에서의 소비로 Blockman Go 플랫폼의 골드 코인을 줄이지 않습니다.\\n동시에 게임에서 Realm Coin에 대한 액세스를 늘려서 게임에서 쉽게 돈을 벌 수 있습니다.\\n당신에게 행복한 게임을 기원합니다.
 fly_msg_ad=5 min
 gui_cd_free=광고보기
+gui_broadcast_race_vehicle_msg=%s은 (는) 레이싱 대회에서 %s를 물리 쳤습니다.
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 

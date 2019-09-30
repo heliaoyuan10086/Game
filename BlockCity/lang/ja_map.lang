@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 フィールドコイン
 gui_blockcity_use_realm_coin_tip=親愛なるフィールドシティプレイヤー：\\nより良いゲーム体験を提供するために、ゲームの通貨を通貨に変更しました。これにより、フィールドの街で消費してもプラットフォーム内の金貨が減らないようになっています。\\n同時に、ゲーム内のドメイン通貨へのアクセスを増やして、ゲーム内でゲーム通貨を簡単に取得できるようにします。\\n幸せなゲームをお祈りします。 」
 fly_msg_ad=5 min
 gui_cd_free=広告を見る
+gui_broadcast_race_vehicle_msg=%sはレーシングコンテストで%sを破りました
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 

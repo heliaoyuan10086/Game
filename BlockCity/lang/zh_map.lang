@@ -433,8 +433,6 @@ gui_blockcity_ratify=授权
 gui_blockcity_unratify=取消授权
 gui_blockcity_remove_out=移出领地
 gui_blockcity_invite_user=%s 邀请您去他家参观
-gui_blockcity_race=赛车
-gui_blockcity_invite_user_race=%s 邀请您赛车
 gui_blockcity_invite_sure=同意
 gui_blockcity_invite_cancel=取消
 gui_blockcity_open_tiger_lottery=抽奖
@@ -541,17 +539,16 @@ gui_blockcity_shop_coin6=150000领域币
 gui_blockcity_use_realm_coin_tip=尊敬的领域之城玩家：\\n为了给您更好的游戏体验，我们已把游戏内的货币更换为领域币，让您在领域之城内的消费不会减少平台内的金币。\\n同时我们会增加游戏内的领域币获取途径，让您可以在游戏中轻松获得游戏币。\\n祝您游戏愉快。
 fly_msg_ad=5分钟
 gui_cd_free=观看广告
+gui_broadcast_race_vehicle_msg=%s在赛车比赛中战胜了%s
 gui_offline=离线
-gui_language=语言:%s
+gui_language=语言: %s
 gui_portal_title=传送门
 gui_portal_transfer_fail=传送失败，传送目的地尚未开放！
-gui_broadcast_race_vehicle_msg=%s ha sconfitto %s nella competizione agonistica
-gui_blockcity_disagree_race=%s拒绝赛车竞赛
+gui_blockcity_disagree_race=%s拒绝赛车比赛
 gui_blockcity_notFreeLines=没有空闲跑道
-gui_blockcity_targetWaitAns=邀请失败\\n对方正在等待竞赛
-gui_blockcity_waitTargetAns=邀请失败\\n等待%s回复
-gui_blockcity_ansInvitor=邀请失败\\n请先回复%s
-gui_
+gui_blockcity_targetWaitAns=邀请失败\\n对方已收到其他玩家比赛邀请
+gui_blockcity_waitTargetAns=邀请失败\\n请先等待对方回复你的比赛邀请
+gui_blockcity_ansInvitor=邀请失败\\n你有未接受的比赛邀请
 
 language_end:system
 

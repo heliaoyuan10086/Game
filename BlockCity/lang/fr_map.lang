@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 Champ monnaie
 gui_blockcity_use_realm_coin_tip=Chers joueurs de Realm City:\\nPour une meilleure expérience de jeu,Nous avons changé la devise en devise,Ne laissez pas votre consommation réduire les pièces d'or dans la plate-forme\\nEn même temps, nous augmenterons l’accès aux pièces de royaume dans le jeu,Facile d'obtenir la monnaie du jeu.\\nJe vous souhaite un bon jeu.
 fly_msg_ad=5 min
 gui_cd_free=Regarder \\nles annonces
+gui_broadcast_race_vehicle_msg=%s a vaincu %s en compétition
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 

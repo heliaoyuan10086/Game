@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 Tiền tệ trường
 gui_blockcity_use_realm_coin_tip=Kính gửi người chơi thành phố Realm:\\nĐể có trải nghiệm chơi game tốt hơn,chúng tôi đã thay thế Gold Coin trong trò chơi bằng Realm Coin,Hãy để mức tiêu thụ của bạn không làm giảm các đồng tiền vàng trong nền tảng.\\nĐồng thời, chúng tôi sẽ tăng quyền truy cập vào Realm Coins trong trò chơi,Dễ dàng nhận được tiền xu trò chơi.\\nChúc bạn chơi game vui vẻ.
 fly_msg_ad=5 min
 gui_cd_free=Xem quảng\\n cáo
+gui_broadcast_race_vehicle_msg=%s đã đánh bại %s trong cuộc thi đua
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 

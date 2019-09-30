@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 поле валюта
 gui_blockcity_use_realm_coin_tip=Дорогие игроки Realm City:\\nДля лучшего игрового опыта, мы заменили в игре Gold Coin на Realm Coin,Пусть ваше потребление не уменьшит золотые монеты на платформе\\nВ то же время мы расширим доступ к монетам Царства в игре, Легко получить игровые монеты.\\nЖелаю вам счастливой игры.
 fly_msg_ad=5 min
 gui_cd_free=Смотреть\\n рекламу
+gui_broadcast_race_vehicle_msg=%s победил %s в гонках
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 

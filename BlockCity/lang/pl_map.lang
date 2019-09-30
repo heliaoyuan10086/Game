@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 Field waluta
 gui_blockcity_use_realm_coin_tip=Drodzy Gracze Miasta Królestwa:\\nAby zapewnić lepszą rozgrywkę, wymieniliśmy złotą monetę w grze na Realm Coin, aby twoje zużycie w Realm City nie zmniejszyło złotych monet na platformie Blockman Go.\\nJednocześnie zwiększymy dostęp do Monet Królestwa w grze, abyś mógł łatwo zdobyć pieniądze w grze.\\nŻyczę szczęśliwej gry.
 fly_msg_ad=5 min
 gui_cd_free=Oglądaj\\n reklamy
+gui_broadcast_race_vehicle_msg=%s pokonał %s w zawodach wyścigowych
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 

@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 Bidang Koin
 gui_blockcity_use_realm_coin_tip=Para Pemain Realm City Yang Terhormat:\\nUntuk pengalaman bermain yang lebih baik,kami telah mengganti Koin Emas dalam game dengan Realm Coin,Biarkan konsumsi Anda tidak mengurangi koin emas di platform.\\nPada saat yang sama, kami akan meningkatkan akses ke Koin Realm dalam game,Untuk pengalaman bermain yang lebih baik.\\nSemoga Anda senang game.
 fly_msg_ad=5 min
 gui_cd_free=Tonton\\n iklan
+gui_broadcast_race_vehicle_msg=%s mengalahkan %s di kompetisi balap
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 

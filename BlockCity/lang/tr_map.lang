@@ -539,6 +539,16 @@ gui_blockcity_shop_coin6=150000 Tarla para
 gui_blockcity_use_realm_coin_tip=Sevgili Bölge Şehir Oyuncuları:\\nSize daha iyi bir oyun deneyimi sunmak için oyun içi Altın Madeni Parayı Realm Coin ile değiştirdik, böylece Realm City'deki tüketiminiz Blockman Go platformundaki Gold Coin'leri azaltmayacak.\\nAynı zamanda, oyunda kolayca para kazanabilmeniz için oyundaki krallık paralarına erişimi de artıracağız.\\nSize mutlu bir oyun diliyorum.
 fly_msg_ad=5 min
 gui_cd_free=Reklamları\\n izle
+gui_broadcast_race_vehicle_msg=%s yarışta %s'yi mağlup etti
+gui_offline=Offline
+gui_language=Language: %s
+gui_portal_title=Portal
+gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
+gui_blockcity_disagree_race=%s refused racing competition
+gui_blockcity_notFreeLines=No idle runway
+gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
+gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
+gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
 
 language_end:system
 
