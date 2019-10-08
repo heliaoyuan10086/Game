@@ -540,15 +540,19 @@ gui_blockcity_use_realm_coin_tip=Realm City 플레이어 여러분 :\\n더 나�
 fly_msg_ad=5 min
 gui_cd_free=광고보기
 gui_broadcast_race_vehicle_msg=%s은 (는) 레이싱 대회에서 %s를 물리 쳤습니다.
-gui_offline=Offline
-gui_language=Language: %s
-gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_offline=오프라인
+gui_language=언어: %s
+gui_portal_title=포털
+gui_portal_transfer_fail=전송이 실패하고 전송 목적지가 아직 열리지 않았습니다!
+gui_blockcity_disagree_race=%s 레이스 거부
+gui_blockcity_notFreeLines=유휴 활주로 없음
+gui_blockcity_targetWaitAns=초대 실패\\n상대방이 다른 플레이어 초대를 받았습니다
+gui_blockcity_waitTargetAns=초대 실패\\n상대방이 초대에 응답 할 때까지 기다리십시오.
+gui_blockcity_ansInvitor=초대 실패\\n허용되지 않는 게임 초대장이 있습니다
+portal_1=신전
+portal_2=레이스 트랙
+portal_3=스카이 아일
+gui_blockcity_race레이싱 배틀
 
 language_end:system
 

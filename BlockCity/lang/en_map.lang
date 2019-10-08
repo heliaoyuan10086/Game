@@ -549,6 +549,10 @@ gui_blockcity_notFreeLines=No idle runway
 gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
 gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
 gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+portal_1=Temple
+portal_2=Race track
+portal_3=Sky isle
+gui_blockcity_raceRacing battle
 
 language_end:system
 

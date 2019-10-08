@@ -540,15 +540,19 @@ gui_blockcity_use_realm_coin_tip=ถึงผู้เล่น Realm City:\\n�
 fly_msg_ad=5 min
 gui_cd_free=ดูโฆษณา
 gui_broadcast_race_vehicle_msg=%s เอาชนะ %s ในการแข่งขัน
-gui_offline=Offline
-gui_language=Language: %s
-gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_offline=ออฟไลน์
+gui_language=ภาษา: %s
+gui_portal_title=พอร์ทัล
+gui_portal_transfer_fail=การโอนล้มเหลวและปลายทางการถ่ายโอนยังไม่ได้เปิด!
+gui_blockcity_disagree_race=%s ปฏิเสธที่จะแข่ง
+gui_blockcity_notFreeLines=ไม่มีรันเวย์ว่าง
+gui_blockcity_targetWaitAns=การเชิญล้มเหลว\\nอีกฝ่ายได้รับการเชิญผู้เล่นอื่น
+gui_blockcity_waitTargetAns=การเชิญล้มเหลว\\nโปรดรอให้อีกฝ่ายตอบกลับคำเชิญของคุณ
+gui_blockcity_ansInvitor=การเชิญล้มเหลว\\nคุณมีคำเชิญที่ไม่สามารถยอมรับได้ในเกม
+portal_1=วัด
+portal_2=ติดตามการแข่งขัน
+portal_3=เกาะสวรรค์
+gui_blockcity_raceการต่อสู้การแข่งรถ
 
 language_end:system
 

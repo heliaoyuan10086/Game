@@ -541,14 +541,18 @@ fly_msg_ad=5 min
 gui_cd_free=Смотреть\\n рекламу
 gui_broadcast_race_vehicle_msg=%s победил %s в гонках
 gui_offline=Offline
-gui_language=Language: %s
-gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_language=язык: %s
+gui_portal_title=портал
+gui_portal_transfer_fail=Передача не удалась и место назначения еще не было открыто!
+gui_blockcity_disagree_race=%s Отказаться от гонки
+gui_blockcity_notFreeLines=Нет холостых ВПП
+gui_blockcity_targetWaitAns=Приглашение не прошло\\nДругая сторона получила приглашение другого игрока
+gui_blockcity_waitTargetAns=Приглашение не прошло\\nПожалуйста, подождите, пока другая сторона ответит на ваше приглашение
+gui_blockcity_ansInvitor=Приглашение не прошло\\nУ вас неприемлемое приглашение в игру
+portal_1=Храм
+portal_2=Гоночная трасса
+portal_3=Небесный остров
+gui_blockcity_raceГоночная битва
 
 language_end:system
 

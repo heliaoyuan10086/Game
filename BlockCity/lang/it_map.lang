@@ -541,14 +541,18 @@ fly_msg_ad=5 min
 gui_cd_free=Guarda gli \\nannunci
 gui_broadcast_race_vehicle_msg=%s ha sconfitto %s nella competizione agonistica
 gui_offline=Offline
-gui_language=Language: %s
-gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_language=Lingua: %s
+gui_portal_title=Portale
+gui_portal_transfer_fail=La trasmissione non riesce, la destinazione del trasferimento non è ancora aperto!
+gui_blockcity_disagree_race=%s rifiutato da corsa
+gui_blockcity_notFreeLines=Nessuna pista inattiva
+gui_blockcity_targetWaitAns=Invito non riuscito\\nL'altra parte ha ricevuto un altro invito del giocatore
+gui_blockcity_waitTargetAns=Invito non riuscito\\nAttendere che l'altra parte risponda all'invito
+gui_blockcity_ansInvitor=Invito non riuscito\\nHai un invito inaccettabile al gioco
+portal_1=Tempio
+portal_2=Pista da corsa
+portal_3=Isola del cielo
+gui_blockcity_raceBattaglia di corse
 
 language_end:system
 

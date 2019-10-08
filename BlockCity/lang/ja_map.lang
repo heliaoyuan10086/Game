@@ -540,15 +540,19 @@ gui_blockcity_use_realm_coin_tip=親愛なるフィールドシティプレイ�
 fly_msg_ad=5 min
 gui_cd_free=広告を見る
 gui_broadcast_race_vehicle_msg=%sはレーシングコンテストで%sを破りました
-gui_offline=Offline
-gui_language=Language: %s
-gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_offline=オフライン
+gui_language=言語: %s
+gui_portal_title=ポータル
+gui_portal_transfer_fail=転送が失敗し、転送先がまだ開かれていません！
+gui_blockcity_disagree_race=%s レースを拒否
+gui_blockcity_notFreeLines=アイドル滑走路なし
+gui_blockcity_targetWaitAns=招待に失敗しました。\\n相手が別のプレーヤーの招待を受け取りました
+gui_blockcity_waitTargetAns=招待に失敗しました。\\n相手が招待に返信するまでお待ちください
+gui_blockcity_ansInvitor=招待に失敗しました。\\nゲームへの受け入れられない招待があります
+portal_1=寺院
+portal_2=レーストラック
+portal_3=スカイアイル
+gui_blockcity_raceレーシングバトル
 
 language_end:system
 

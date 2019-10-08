@@ -540,15 +540,19 @@ gui_blockcity_use_realm_coin_tip=Chers joueurs de Realm City:\\nPour une meilleu
 fly_msg_ad=5 min
 gui_cd_free=Regarder \\nles annonces
 gui_broadcast_race_vehicle_msg=%s a vaincu %s en compétition
-gui_offline=Offline
-gui_language=Language: %s
-gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_offline=Hors ligne
+gui_language=Langue: %s
+gui_portal_title=Portail
+gui_portal_transfer_fail=Le transfert a échoué et la destination du transfert n'a pas encore été ouverte!
+gui_blockcity_disagree_race=%s Refuser de courir
+gui_blockcity_notFreeLines=Pas de piste en attente
+gui_blockcity_targetWaitAns=Invitation échouée\\nL’autre partie a reçu une autre invitation de joueur
+gui_blockcity_waitTargetAns=Invitation échouée\\nVeuillez attendre que l'autre partie réponde à votre invitation.
+gui_blockcity_ansInvitor=Invitation échouée\\nVous avez une invitation inacceptable au jeu
+portal_1=Temple
+portal_2=Piste de course
+portal_3=Sky Isle
+gui_blockcity_raceBataille de course
 
 language_end:system
 

@@ -541,14 +541,18 @@ fly_msg_ad=5 min
 gui_cd_free=Anzeigen \\nansehen
 gui_broadcast_race_vehicle_msg=%s besiegte %s im Rennwettbewerb
 gui_offline=Offline
-gui_language=Language: %s
+gui_language=Sprache: %s
 gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_portal_transfer_fail=Übertragung fehlschlägt, wird das Transferziel noch nicht öffnen!
+gui_blockcity_disagree_race=%s Verweigere das Rennen
+gui_blockcity_notFreeLines=Keine Piste im Leerlauf
+gui_blockcity_targetWaitAns=Einladung fehlgeschlagen\\nDie andere Partei hat eine andere Spielereinladung erhalten
+gui_blockcity_waitTargetAns=Einladung fehlgeschlagen\\nBitte warten Sie, bis der andere Teilnehmer auf Ihre Einladung reagiert
+gui_blockcity_ansInvitor=Einladung fehlgeschlagen\\nSie haben eine inakzeptable Einladung zum Spiel
+portal_1=Tempel
+portal_2=Rennstrecke
+portal_3=Himmelsinsel
+gui_blockcity_raceRennkampf
 
 language_end:system
 

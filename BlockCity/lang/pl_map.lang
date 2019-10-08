@@ -541,14 +541,18 @@ fly_msg_ad=5 min
 gui_cd_free=Oglądaj\\n reklamy
 gui_broadcast_race_vehicle_msg=%s pokonał %s w zawodach wyścigowych
 gui_offline=Offline
-gui_language=Language: %s
+gui_language=Język: %s
 gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_portal_transfer_fail=Transfer nie powiódł się, a miejsce docelowe transferu nie zostało jeszcze otwarte!
+gui_blockcity_disagree_race=%s Odmów wyścigu
+gui_blockcity_notFreeLines=Bez jałowego pasa startowego
+gui_blockcity_targetWaitAns=Zaproszenie nie powiodło się\\nDruga strona otrzymała zaproszenie innego gracza
+gui_blockcity_waitTargetAns=Zaproszenie nie powiodło się\\nPoczekaj, aż druga strona odpowie na Twoje zaproszenie
+gui_blockcity_ansInvitor=Zaproszenie nie powiodło się\\nMasz niedopuszczalne zaproszenie do gry
+portal_1=Świątynia
+portal_2=Tor wyścigowy
+portal_3=Wyspa Sky
+gui_blockcity_raceWyścigowa bitwa
 
 language_end:system
 

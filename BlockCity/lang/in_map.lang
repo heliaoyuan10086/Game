@@ -541,14 +541,18 @@ fly_msg_ad=5 min
 gui_cd_free=Tonton\\n iklan
 gui_broadcast_race_vehicle_msg=%s mengalahkan %s di kompetisi balap
 gui_offline=Offline
-gui_language=Language: %s
+gui_language=Bahasa: %s
 gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_portal_transfer_fail=Transfer gagal dan tujuan transfer belum dibuka!
+gui_blockcity_disagree_race=%s Menolak untuk berlomba
+gui_blockcity_notFreeLines=Tidak ada landasan pacu idle
+gui_blockcity_targetWaitAns=Undangan gagal\\nPihak lain telah menerima undangan pemain lain
+gui_blockcity_waitTargetAns=Undangan gagal\\nHarap tunggu pihak lain membalas undangan Anda
+gui_blockcity_ansInvitor=Undangan gagal\\nAnda memiliki undangan yang tidak dapat diterima ke permainan
+portal_1=Kuil
+portal_2=Trek balap
+portal_3=Pulau langit
+gui_blockcity_racePertempuran balap
 
 language_end:system
 

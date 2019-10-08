@@ -540,15 +540,19 @@ gui_blockcity_use_realm_coin_tip=Kính gửi người chơi thành phố Realm:\
 fly_msg_ad=5 min
 gui_cd_free=Xem quảng\\n cáo
 gui_broadcast_race_vehicle_msg=%s đã đánh bại %s trong cuộc thi đua
-gui_offline=Offline
-gui_language=Language: %s
-gui_portal_title=Portal
-gui_portal_transfer_fail=The transfer failed and the transfer destination has not been opened yet!
-gui_blockcity_disagree_race=%s refused racing competition
-gui_blockcity_notFreeLines=No idle runway
-gui_blockcity_targetWaitAns=Invitation failed\\nthe player has received someone's racing challenge
-gui_blockcity_waitTargetAns=Invitation failed\\nplease wait for the player to reply to your challenge
-gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing competition
+gui_offline=Ngoại tuyến
+gui_language=Ngôn ngữ: %s
+gui_portal_title=Cổng thông tin
+gui_portal_transfer_fail=Việc chuyển tiền thất bại và điểm đến chuyển chưa được mở!
+gui_blockcity_disagree_race=%s Từ chối đua
+gui_blockcity_notFreeLines=Không có đường băng nhàn rỗi
+gui_blockcity_targetWaitAns=Lời mời thất bại\\nBên kia đã nhận được lời mời của người chơi khác
+gui_blockcity_waitTargetAns=Lời mời thất bại\\nVui lòng đợi bên kia trả lời lời mời của bạn
+gui_blockcity_ansInvitor=Lời mời thất bại\\nBạn có một lời mời không thể chấp nhận được cho trò chơi
+portal_1=ngôi đền
+portal_2=Đường đua
+portal_3=Cù lao bầu trời
+gui_blockcity_raceCuộc đua xe
 
 language_end:system
 

@@ -549,6 +549,10 @@ gui_blockcity_notFreeLines=没有空闲跑道
 gui_blockcity_targetWaitAns=邀请失败\\n对方已收到其他玩家比赛邀请
 gui_blockcity_waitTargetAns=邀请失败\\n请先等待对方回复你的比赛邀请
 gui_blockcity_ansInvitor=邀请失败\\n你有未接受的比赛邀请
+portal_1=神庙
+portal_2=赛车场
+portal_3=浮空岛
+gui_blockcity_race赛车挑战
 
 language_end:system
 
