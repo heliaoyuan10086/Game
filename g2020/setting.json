@@ -33,7 +33,16 @@
         }
     ],
     "vars": {
-        "global": [],
+        "global": [
+            {
+                "key": "CDReward",
+                "value":[
+                    [200, 100],
+                    [400, 200],
+                    [600, 300]
+                ]
+            }
+        ],
         "entity": [
             {
                 "key": "rewardCounts",
@@ -44,6 +53,11 @@
                 "key": "rewardDay",
                 "value": "0",
                 "save": true
+            },
+            {
+                "key": "index",
+                "value": 0,
+                "save": false
             }
         ]
     }
