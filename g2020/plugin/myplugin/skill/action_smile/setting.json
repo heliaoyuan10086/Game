@@ -1,0 +1,17 @@
+{
+    "icon":"show_ship.png",
+    "iconArea":{
+        "VAlign":"RIGHT",
+        "VA":145,
+        "HAlign":"BOTTOM",
+        "HA":220,
+        "width":70,
+        "height":70
+    },
+    "type":"Base",
+    "isClick":false,
+    "castActionTime":100000,
+    "castAction2":"selectable_action_1",
+    "castAction":"double_babytrolley",
+    "cdTime":4
+}

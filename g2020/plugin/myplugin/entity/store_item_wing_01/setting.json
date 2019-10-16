@@ -1,4 +1,5 @@
 {
+    "canTouch": true,
     "base": "store_item_base",
     "actorName": "g2007_lvmaoguai.actor",
     "clickDistance": 5,
@@ -7,5 +8,22 @@
     "openStore": {
         "storeId": 1,
         "itemIndex": 1
-    }
+    },
+    "ridePos": [
+        {
+            "yaw": 180,
+            "pos": {
+                "y": 0,
+                "z": 0.5,
+                "x": 0
+            },
+            "out": {
+                "y": 0,
+                "z": 0,
+                "x": 0.5
+            },
+            "ctrl": true,
+            "view": true
+        }
+    ]
 }

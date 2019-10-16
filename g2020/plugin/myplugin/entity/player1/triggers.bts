@@ -4,7 +4,11 @@ ENTITY_ENTER
     {
         $obj1.isReadyReward = false
         CallTrigger(event = "ADD_MONEY", object = $obj1)
+
+        AddEntityBuff(cfg = "myplugin/canequip", entity = $obj1)
     }
+}
+
 }
 
 ADD_MONEY

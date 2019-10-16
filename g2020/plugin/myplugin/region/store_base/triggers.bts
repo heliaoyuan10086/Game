@@ -1,9 +1,17 @@
 REGION_ENTER {
-    $tip = GetRegionConfig(key = "tip", region = $region)
-	ShowRegionTip(player = $obj1, cfg = $tip, isShow = true)
+    Sequence {
+        IsPlayer(entity = $obj1)
+        $player = $obj1
+        $tip = GetRegionConfig(key = "tip", region = $region)
+        ShowRegionTip(player = $player, cfg = $tip, isShow = true)
+    }
 }
 
 REGION_LEAVE {
-	$tip = GetRegionConfig(key = "tip", region = $region)
-    ShowRegionTip(player = $obj1, cfg = $tip, isShow = false)
+    Sequence {
+		IsPlayer(entity = $obj1)
+		$player = $obj1
+		$tip = GetRegionConfig(key = "tip", region = $region)
+        ShowRegionTip(player = $player, cfg = $tip, isShow = false)
+	}
 }

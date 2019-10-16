@@ -1,3 +1,5 @@
 {
-    "actorName": "boy.actor"
+    "canClick": true,
+    "actorName": "boy.actor",
+    "canMove": true
 }
