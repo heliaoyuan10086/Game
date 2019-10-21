@@ -41,3 +41,16 @@ ADD_MONEY
     ShowRewardCD(player = $obj1, time = $cdTime)
     $obj1.isReadyReward = true
 }
+
+CHANGE_PLAYER_SCALE
+{
+    $obj1.scale = $scale
+    If($scale == 1)
+    {
+        SetScale(scale = {x = 1, y = 1, z = 1}, entity = $obj1)
+    }
+    Else
+    {
+        SetScale(scale = {x = 0.6, y = 0.6, z = 0.6}, entity = $obj1)
+    }
+}
