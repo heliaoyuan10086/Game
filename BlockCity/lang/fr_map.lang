@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Invitation échouée\\nVous avez une invitation inaccep
 portal_1=Temple
 portal_2=Piste de course
 portal_3=Sky Isle
-gui_blockcity_raceBataille de course
+gui_blockcity_race=Bataille de course
+gui_blockcity_invite_user_race=% s vous a envoyé un défi de course
 
 language_end:system
 

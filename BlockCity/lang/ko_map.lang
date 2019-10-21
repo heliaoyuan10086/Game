@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=초대 실패\\n허용되지 않는 게임 초대장이
 portal_1=신전
 portal_2=레이스 트랙
 portal_3=스카이 아일
-gui_blockcity_race레이싱 배틀
+gui_blockcity_race=레이싱 배틀
+gui_blockcity_invite_user_race=% s 님이 경주 도전을 보냈습니다
 
 language_end:system
 

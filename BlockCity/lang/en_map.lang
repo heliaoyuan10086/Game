@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Invitation failed\\nyou have an unaccepted racing compe
 portal_1=Temple
 portal_2=Race track
 portal_3=Sky isle
-gui_blockcity_raceRacing battle
+gui_blockcity_race=Racing battle
+gui_blockcity_invite_user_race=%s sent you a racing challenge
 
 language_end:system
 

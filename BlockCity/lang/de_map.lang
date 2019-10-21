@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Einladung fehlgeschlagen\\nSie haben eine inakzeptable 
 portal_1=Tempel
 portal_2=Rennstrecke
 portal_3=Himmelsinsel
-gui_blockcity_raceRennkampf
+gui_blockcity_race=Rennkampf
+gui_blockcity_invite_user_race=% s hat Ihnen eine Rennherausforderung gesendet
 
 language_end:system
 

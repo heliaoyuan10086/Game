@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Zaproszenie nie powiodło się\\nMasz niedopuszczalne z
 portal_1=Świątynia
 portal_2=Tor wyścigowy
 portal_3=Wyspa Sky
-gui_blockcity_raceWyścigowa bitwa
+gui_blockcity_race=Wyścigowa bitwa
+gui_blockcity_invite_user_race=% s wysłał ci wyzwanie wyścigowe
 
 language_end:system
 

@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Davetiye başarısız oldu\\nOyuna kabul edilemez bir d
 portal_1=tapınak
 portal_2=Yarış pisti
 portal_3=Gökyüzü ada
-gui_blockcity_raceYarış
+gui_blockcity_race=Yarış
+gui_blockcity_invite_user_race=% s size bir yarış mücadelesi gönderdi
 
 language_end:system
 

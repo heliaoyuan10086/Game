@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Invito non riuscito\\nHai un invito inaccettabile al gi
 portal_1=Tempio
 portal_2=Pista da corsa
 portal_3=Isola del cielo
-gui_blockcity_raceBattaglia di corse
+gui_blockcity_race=Battaglia di corse
+gui_blockcity_invite_user_race=% s ti ha inviato una sfida di corse
 
 language_end:system
 

@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Lời mời thất bại\\nBạn có một lời mời 
 portal_1=ngôi đền
 portal_2=Đường đua
 portal_3=Cù lao bầu trời
-gui_blockcity_raceCuộc đua xe
+gui_blockcity_race=Cuộc đua xe
+gui_blockcity_invite_user_race=% s đã gửi cho bạn một thử thách đua xe
 
 language_end:system
 

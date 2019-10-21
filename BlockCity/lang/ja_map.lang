@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=招待に失敗しました。\\nゲームへの受け�
 portal_1=寺院
 portal_2=レーストラック
 portal_3=スカイアイル
-gui_blockcity_raceレーシングバトル
+gui_blockcity_race=レーシングバトル
+gui_blockcity_invite_user_race=％s はあなたにレースチャレンジを送りました
 
 language_end:system
 

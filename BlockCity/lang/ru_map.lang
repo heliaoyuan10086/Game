@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Приглашение не прошло\\nУ вас н
 portal_1=Храм
 portal_2=Гоночная трасса
 portal_3=Небесный остров
-gui_blockcity_raceГоночная битва
+gui_blockcity_race=Гоночная битва
+gui_blockcity_invite_user_race=% s отправил вам гоночный вызов
 
 language_end:system
 

@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Undangan gagal\\nAnda memiliki undangan yang tidak dapa
 portal_1=Kuil
 portal_2=Trek balap
 portal_3=Pulau langit
-gui_blockcity_racePertempuran balap
+gui_blockcity_race=Pertempuran balap
+gui_blockcity_invite_user_race=% s mengirimi Anda tantangan balap
 
 language_end:system
 

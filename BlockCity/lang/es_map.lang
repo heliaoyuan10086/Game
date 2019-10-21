@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Invitación fallida\\nTienes una invitación inaceptabl
 portal_1=templo
 portal_2=Pista de carreras
 portal_3=Isla del cielo
-gui_blockcity_raceBatalla de carreras
+gui_blockcity_race=Batalla de carreras
+gui_blockcity_invite_user_race=% s te envió un desafío de carrera
 
 language_end:system
 

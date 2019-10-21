@@ -552,7 +552,8 @@ gui_blockcity_ansInvitor=Falha no convite\\nVocê tem um convite inaceitável pa
 portal_1=têmpora
 portal_2=Pista de corrida
 portal_3=Ilha do céu
-gui_blockcity_raceBatalha de corrida
+gui_blockcity_race=Batalha de corrida
+gui_blockcity_invite_user_race=% s enviou a você um desafio de corrida
 
 language_end:system
 
