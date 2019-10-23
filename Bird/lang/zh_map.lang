@@ -1470,7 +1470,7 @@ tastlang_id_66005=▢FFFFFFFF铂金扭蛋机▢FFFFFFFF
 tastlang_id_66006=▢FFFFFFFF史诗扭蛋机▢FFFFFFFF
 tastlang_id_66007=▢FFFFFFFF钻石扭蛋机▢FFFFFFFF
 tastlang_id_66008=▢FFFFFFFF传说扭蛋机▢FFFFFFFF
-tastlang_id_66009=▢FFFFFFFF魔方扭蛋机▢FFFFFFFF
+tastlang_id_66009=▢FFFFFFFF金魔方扭蛋机▢FFFFFFFF
 
 
 chesttips1=还没有果币宝箱的权限，是否前往商店购买？
@@ -1537,3 +1537,4 @@ gui_bird_ad_skip_chest_cd_btn_text=观看广告
 gui_bird_ad_open_vip_chest_text=还没有果币宝箱的权限，是否前往商店购买？\\n或观看广告免费体验
 gui_bird_ad_open_vip_chest_btn_text=观看广告
 gui_bird_ad_add_bird_exp=观看广告免费为小鸟增加%d点经验
+

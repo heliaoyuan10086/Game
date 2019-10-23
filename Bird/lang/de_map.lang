@@ -1463,7 +1463,7 @@ tastlang_id_66005=Platin-Eiermaschine
 tastlang_id_66006=Epische Eiermaschine	
 tastlang_id_66007=Diamant-Eiermaschine	
 tastlang_id_66008=Legendäre Eiermaschine	
-tastlang_id_66009=Cube-Eiermaschine	
+tastlang_id_66009=Gcube-Eiermaschine	
 			
 			
 chesttips1=Keiner Zugang zum Öffnen der Ticketstruhe, kauf im Laden?	
@@ -1526,7 +1526,7 @@ gui_bird_mini_tip_open=Sprich mit %s
 gui_bird_mini_tip_convert=Konvertieren
 gui_bird_mini_tip_stop_convert=Stop-Umwandlung
 gui_bird_mini_tip_open_lottery=Jetzt verlosen
-gui_bird_tip_use_cube_open_chest=Truhe mit Bcubes öffnen?
+gui_bird_tip_use_cube_open_chest=Truhe mit Gcubes öffnen?
 gui_bird_next_refresh_chest=Nächstes\\n%s
 gui_bird_gain_title=Artikel empfangen
 gui_bird_tip_delete_bird=Vogel löschen【%s】?
@@ -1597,3 +1597,4 @@ gui_bird_ad_skip_chest_cd_btn_text=AD ansehen
 gui_bird_ad_open_vip_chest_text=Keine Berechtigung zum Öffnen der Obstkassette, Kauf im Laden?\\n oder schauen Sie sich AD an, um es kostenlos zu versuchen
 gui_bird_ad_open_vip_chest_btn_text=AD ansehen
 gui_bird_ad_add_bird_exp=Achte auf AD, um die Belichtung für deinen Vogel um %d zu erhöhen
+

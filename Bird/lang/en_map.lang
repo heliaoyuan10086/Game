@@ -1284,7 +1284,7 @@ teamname_705=Bubble
 teamname_706=Pink Clouds
 teamname_707=Blue Clouds
 teamname_708=Power of Money
-teamname_709=Magic Cube
+teamname_709=Magic Gcube
 teamname_710=Wall Streeter
 teamname_711=Metal Rock
 teamname_712=Octopus Ball
@@ -1358,7 +1358,7 @@ discribe_705=GlugGlug
 discribe_706=Pink mood
 discribe_707=Blue mood
 discribe_708=My super power is rich.
-discribe_709=Magic creates the cube and the cube creates the world.
+discribe_709=Magic creates the Gcube and the cube creates the world.
 discribe_710=Greed is a virtue.
 discribe_711=Let the light ball turn, RockandRoll!
 discribe_712=Octopus, spray!
@@ -1463,7 +1463,7 @@ tastlang_id_66005=Platinum Egg Machine
 tastlang_id_66006=Epic Egg Machine
 tastlang_id_66007=Diamond Egg Machine
 tastlang_id_66008=Legend Egg Machine
-tastlang_id_66009=Cube Egg Machine
+tastlang_id_66009=Gcube Egg Machine
 
 
 chesttips1=No authority to open the ticket chest, purchase in the store?
@@ -1530,3 +1530,4 @@ gui_bird_ad_skip_chest_cd_btn_text=watch AD
 gui_bird_ad_open_vip_chest_text=No authority to open the fruit coin chest, purchase in the store?\\n or watch AD to try for free
 gui_bird_ad_open_vip_chest_btn_text=watch AD
 gui_bird_ad_add_bird_exp=watch AD to increase %d exp for your bird
+

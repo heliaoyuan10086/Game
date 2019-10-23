@@ -1525,7 +1525,7 @@ gui_bird_mini_tip_open=Bate-papo com %s
 gui_bird_mini_tip_convert=Alterar
 gui_bird_mini_tip_stop_convert=Parar conversão
 gui_bird_mini_tip_open_lottery=Desenhe agora
-gui_bird_tip_use_cube_open_chest=Box aberto com bcubes?
+gui_bird_tip_use_cube_open_chest=Box aberto com Gcubes?
 gui_bird_next_refresh_chest=Próximo um \\n %s
 gui_bird_gain_title=Receber item
 gui_bird_tip_delete_bird=Tem certeza de que deseja excluir o novo 【%s】?
@@ -1596,3 +1596,4 @@ gui_bird_ad_skip_chest_cd_btn_text=Assistir AD
 gui_bird_ad_open_vip_chest_text=Nenhuma autoridade para abrir o baú de moedas de frutas, comprar na loja?\\n ou assista ao AD para experimentar gratuitamente
 gui_bird_ad_open_vip_chest_btn_text=Assistir AD
 gui_bird_ad_add_bird_exp=assista AD para aumentar %d exp para seu pássaro
+

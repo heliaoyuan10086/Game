@@ -1526,7 +1526,7 @@ gui_bird_mini_tip_open=Nói chuyện với%s
 gui_bird_mini_tip_convert=Đổi		
 gui_bird_mini_tip_stop_convert=Ngừng chuyển đổi		
 gui_bird_mini_tip_open_lottery=Vẽ ngay		
-gui_bird_tip_use_cube_open_chest=Mở ngực với Bcubes?		
+gui_bird_tip_use_cube_open_chest=Mở ngực với Gcubes?		
 gui_bird_next_refresh_chest=Tiếp theo\\n%s		
 gui_bird_gain_title=Nhận hàng		
 gui_bird_tip_delete_bird=Xóa chim 【%s】?		
@@ -1597,3 +1597,4 @@ gui_bird_ad_skip_chest_cd_btn_text=Xem AD
 gui_bird_ad_open_vip_chest_text=Không có thẩm quyền để mở rương trái cây, mua trong cửa hàng?\\n hoặc xem AD để dùng thử miễn phí
 gui_bird_ad_open_vip_chest_btn_text=Xem AD
 gui_bird_ad_add_bird_exp=xem AD để tăng %d điểm kinh nghiệm cho chú chim của bạn
+

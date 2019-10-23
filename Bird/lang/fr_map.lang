@@ -1291,7 +1291,7 @@ teamname_705=Bulle
 teamname_706=Nuage rose
 teamname_707=Nuage bleu
 teamname_708=Pouvoir de l'argent
-teamname_709=Cube magique
+teamname_709=Gcube magique
 teamname_710=Wall Street Tycoon
 teamname_711=Métal rock
 teamname_712=Boule de pieuvre
@@ -1470,7 +1470,7 @@ tastlang_id_66005=Machine à oeufs en platine
 tastlang_id_66006=Machine à oeufs épique
 tastlang_id_66007=Machine à oeufs diamant
 tastlang_id_66008=Machine à oeufs Legend
-tastlang_id_66009=Machine à oeufs en cube
+tastlang_id_66009=Machine à oeufs en Gcube
 	
 	
 chesttips1=Pas le droit d'ouvrir le coffre, acheter dans le magasin?
@@ -1537,3 +1537,4 @@ gui_bird_ad_skip_chest_cd_btn_text=Regarder AD
 gui_bird_ad_open_vip_chest_text=Pas le droit d'ouvrir le coffre à fruits, acheter dans le magasin?\\n ou regardez AD pour essayer gratuitement
 gui_bird_ad_open_vip_chest_btn_text=Regarder AD
 gui_bird_ad_add_bird_exp=regarder AD pour augmenter %d exp pour votre oiseau
+

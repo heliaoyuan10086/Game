@@ -1537,7 +1537,7 @@ gui_bird_mini_tip_open=Поговорите с %s
 gui_bird_mini_tip_convert=Перерабатывать
 gui_bird_mini_tip_stop_convert=Прекратить конвертацию
 gui_bird_mini_tip_open_lottery=Рисовать сейчас
-gui_bird_tip_use_cube_open_chest=Открыть коробка с Bcubes?
+gui_bird_tip_use_cube_open_chest=Открыть коробка с Gcubes?
 gui_bird_next_refresh_chest=Следующий \\n%s
 gui_bird_gain_title=Получить товар
 gui_bird_tip_delete_bird=Удалить птицу 【%s】?
@@ -1608,3 +1608,4 @@ gui_bird_ad_skip_chest_cd_btn_text=Смотреть AD
 gui_bird_ad_open_vip_chest_text=Нет полномочий открыть сундук с фруктовыми монетами, купить в магазине?\\n или смотреть AD, чтобы попробовать бесплатно
 gui_bird_ad_open_vip_chest_btn_text=Смотреть AD
 gui_bird_ad_add_bird_exp=смотреть объявление, чтобы увеличить %d опыта для вашей птицы
+

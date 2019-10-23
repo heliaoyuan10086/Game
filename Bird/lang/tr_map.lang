@@ -1526,7 +1526,7 @@ gui_bird_mini_tip_open=ile konuş %s
 gui_bird_mini_tip_convert=Dönüştürmek	
 gui_bird_mini_tip_stop_convert=Dönüştürmeyi Durdur	
 gui_bird_mini_tip_open_lottery=Şimdi çiz	
-gui_bird_tip_use_cube_open_chest=Bcubes ile açık göğüs?	
+gui_bird_tip_use_cube_open_chest=Gcubes ile açık göğüs?	
 gui_bird_next_refresh_chest=Sonraki Bir \\n%s	
 gui_bird_gain_title=Öğe Al	
 gui_bird_tip_delete_bird=Kuş silme 【%s】?	
@@ -1597,3 +1597,4 @@ gui_bird_ad_skip_chest_cd_btn_text=AD izle
 gui_bird_ad_open_vip_chest_text=Mağazada satın almak için meyve parası sandığı açma yetkisi yok mu?\\n veya AD'yi ücretsiz denemek için izleyin
 gui_bird_ad_open_vip_chest_btn_text=AD izle
 gui_bird_ad_add_bird_exp=kuş için %d exp artırmak için AD izle
+

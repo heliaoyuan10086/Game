@@ -1530,3 +1530,4 @@ gui_bird_ad_skip_chest_cd_btn_text=ADを見る
 gui_bird_ad_open_vip_chest_text=フルーツコインチェストを開く権限はありません。ストアで購入しますか？\\n または無料で試してADを見る
 gui_bird_ad_open_vip_chest_btn_text=ADを見る
 gui_bird_ad_add_bird_exp=あなたの鳥の%d経験値を増やすためにADを見てください
+

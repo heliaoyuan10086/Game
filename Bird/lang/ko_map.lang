@@ -1811,7 +1811,7 @@ gui_bird_mini_tip_open=%s 님과 대화하기
 gui_bird_mini_tip_convert=변하게 하다
 gui_bird_mini_tip_stop_convert=변환 중지
 gui_bird_mini_tip_open_lottery=지금 그리기
-gui_bird_tip_use_cube_open_chest=Bcubes가있는 열린 상자?
+gui_bird_tip_use_cube_open_chest=Gcubes가있는 열린 상자?
 gui_bird_next_refresh_chest=다음 한 \\n %s
 gui_bird_gain_title=항목 수신
 gui_bird_tip_delete_bird=새 【%s】를 삭제 하시겠습니까?
@@ -1882,3 +1882,4 @@ gui_bird_ad_skip_chest_cd_btn_text=광고 시청
 gui_bird_ad_open_vip_chest_text=과일 동전 상자를 열 권한이 없습니까?\\n 또는 광고를 무료로 사용해보십시오
 gui_bird_ad_open_vip_chest_btn_text=광고 시청
 gui_bird_ad_add_bird_exp=당신의 새를위한 %d Exp를 증가시키기 위해 AD를보십시오
+
